@@ -1,59 +1,38 @@
 name: Deploy Quartz site to GitHub Pages
-
+ 
 on:
   push:
     branches:
       - v4
-  repository_dispatch:
-    types: [build]
-  workflow_dispatch:
-
+ 
 permissions:
   contents: read
   pages: write
   id-token: write
-
+ 
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
+ 
 jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}
           fetch-depth: 0 # Fetch all history for git info
-          submodules: "recursive"
-      - name: install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: latest
-      - name: Convert package-lock.json to package-lock.yaml
-        run: pnpm import
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v3
         with:
           node-version: 18.14
-          cache: "pnpm"
-      - name: Fetch submodules
-        continue-on-error: true
-        run: |
-          git submodule update --init --recursive --checkout -f --remote -- "content"
-          git config --global user.name "GitHub Action"
-          git config --global user.email "noreply@github.com"
-          git add pnpm-lock.yaml
-          git commit -am "chore (update): fetch submodule and add pnpm-lock.yaml"
-          git push
       - name: Install Dependencies
-        run: pnpm install --no-frozen-lockfile
+        run: npm ci
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
           path: public
-
+ 
   deploy:
     needs: build
     environment:
@@ -63,4 +42,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v2
