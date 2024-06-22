@@ -1,0 +1,6 @@
+{
+	"i18n-ally.localesPaths": [
+		"quartz/i18n",
+		"quartz/i18n/locales"
+	]
+}

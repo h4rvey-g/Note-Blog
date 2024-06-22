@@ -1,0 +1,214 @@
+@use "../../styles/variables.scss" as *;
+
+button#explorer {
+  all: unset;
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+
+  & h1 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+.folder-outer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s ease-in-out;
+}
+
+.folder-outer.open {
+  grid-template-rows: 1fr;
+}
+
+.folder-outer > ul {
+  overflow: hidden;
+}
+
+#explorer-content {
+  list-style: none;
+  overflow: hidden;
+  max-height: none;
+  :not(.explorer-burger-menu) & {
+    transition: max-height 0.35s ease;
+    margin-top: 0.5rem;
+  }
+
+  &.collapsed > .overflow::after {
+    opacity: 0;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0.08rem 10px;
+    padding: 0;
+    transition:
+      max-height 0.35s ease,
+      transform 0.35s ease,
+      opacity 0.2s ease;
+    & li > a {
+      color: var(--dark);
+      opacity: 0.75;
+      pointer-events: all;
+    }
+  }
+}
+
+svg {
+  pointer-events: all;
+
+  & > polyline {
+    pointer-events: none;
+  }
+}
+
+.folder-container {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  user-select: none;
+
+  & a.folder-title[data-isroot="true"] {
+    font-size: 1.1rem;
+  }
+
+  & div > a {
+    color: var(--secondary);
+    font-family: var(--headerFont);
+    font-weight: $semiBoldWeight;
+    line-height: 1.5rem;
+    display: inline-block;
+    &.folder-title {
+      font-size: 0.9rem;
+    }
+  }
+
+  & div > a:hover {
+    color: var(--tertiary);
+  }
+
+  & div > button {
+    color: var(--dark);
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    align-items: center;
+    font-family: var(--headerFont);
+
+    & span {
+      font-size: 0.95rem;
+      display: inline-block;
+      color: var(--secondary);
+      font-weight: $semiBoldWeight;
+      margin: 0;
+      line-height: 1.5rem;
+      pointer-events: none;
+    }
+  }
+}
+
+.folder-icon {
+  margin-right: 5px;
+  color: var(--secondary);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  backface-visibility: visible;
+  &[data-hasicon="true"] {
+    opacity: 0;
+    left: -0.2rem;
+    position: relative;
+    width: 1em;
+    z-index: 99;
+  }
+  &[data-hasicon="true"][data-isroot="true"] {
+    left: 1.3rem;
+  }
+}
+
+li:has(> .folder-outer:not(.open)) > .folder-container > svg {
+  transform: rotate(-90deg);
+}
+
+.folder-icon:hover {
+  color: var(--tertiary);
+}
+
+.no-background::after {
+  background: none !important;
+}
+
+#explorer-end {
+  // needs height so IntersectionObserver gets triggered
+  height: 4px;
+  // remove default margin from li
+  margin: 0;
+}
+
+#explorer-content ul li > a[data-hasicon="true"],
+.folder-container div > a[data-hasicon="true"] {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+#explorer-content ul li > a[data-hasicon="true"]:has(.file-title-icon) {
+  position: relative;
+  left: 0.1rem;
+}
+
+.folder-title-icon > svg {
+  margin-right: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  backface-visibility: visible;
+  width: 1em;
+  height: 1em;
+  vertical-align: -2px;
+  color: var(--secondary);
+}
+
+.file-title-icon > svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 5px;
+  vertical-align: -2px;
+}
+
+// .folder-title-icon {
+//   margin-left: -1.5rem;
+// }
+
+.folder-container {
+  &[data-haschildren="true"] {
+    .folder-title[data-hasicon="true"]:not([data-isroot="true"]) {
+      margin-left: -1.2rem;
+    }
+    &:has(.folder-title[data-hasicon="false"][data-isroot="false"]) {
+      margin-left: 0.3rem;
+    }
+  }
+  &[data-haschildren="false"] {
+    margin-left: 0.3rem;
+  }
+}
