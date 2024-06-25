@@ -6,20 +6,19 @@ on:
 
 jobs:
   optimize-images:
-    permissions:
-      contents: write
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: optimize
         uses: calibreapp/image-actions@main
         with:
-          githubToken: ${{ secrets.GH_PAT }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           ignorePaths: "content/img/avatar_index.gif,quartz/static/**"
           compressOnly: true
       - name: "Commit & push"
         uses: actions-js/push@master
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
           message: "[CI] Optimize images"
