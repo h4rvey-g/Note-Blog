@@ -6,7 +6,7 @@ aliases:
   - FMD
 share: true
 ---
-Fibromuscular dysplasia (FMD), a disease that primarily affects young to middle-aged women, is characterized by the proliferation of connective tissue and [[Skeletal muscle fibers|muscle fibers]] within the arterial vessel walls.
+Fibromuscular dysplasia (FMD), a disease that primarily affects <span style="background:rgba(240, 200, 0, 0.2)">young to middle-aged women</span>, is characterized by the proliferation of connective tissue and [[Skeletal muscle fibers|muscle fibers]] within the arterial vessel walls.
 # Epidemiology
 ---
 
@@ -22,16 +22,16 @@ Fibromuscular dysplasia (FMD) is an idiopathic, non-inflammatory, non-atheroscle
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stenosis</span>
 	- Formation of saccular aneurysms → aneurysmal rupture
 	- Arterial dissection  → arterial occlusion
-- <span style="background:rgba(240, 200, 0, 0.2)">Renal artery stenosis</span> → ↓ renal perfusion → compensatory activation of the renin–angiotensin–aldosterone system → <span style="background:rgba(240, 200, 0, 0.2)">secondary hypertension</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Renal artery stenosis|Renal artery stenosis]]</span> → ↓ renal perfusion → compensatory activation of the renin–angiotensin–aldosterone system → <span style="background:rgba(240, 200, 0, 0.2)">secondary hypertension</span>
 - Disease localization
 	- <span style="background:rgba(240, 200, 0, 0.2)">Renal artery</span> (renal FMD; ∼ 75–80% of cases)
-		- Usually <span style="background:rgba(240, 200, 0, 0.2)">bilateral</span> renal artery stenosis
+		- Usually <span style="background:rgba(240, 200, 0, 0.2)">bilateral</span> [[renal artery stenosis|renal artery stenosis]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Carotid and vertebral artery involvement</span> (extracranial cerebrovascular FMD; ∼ 65–75% of cases and often bilateral)
 
 # Clinical features
 ---
 - Renal FMD
-	- Clinical features of renal artery stenosis
+	- Clinical features of [[renal artery stenosis|renal artery stenosis]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Secondary hypertension </span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Abdominal bruit</span>
 		- Symptoms of [[chronic kidney disease|chronic kidney disease]]
