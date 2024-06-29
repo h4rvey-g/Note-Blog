@@ -22,7 +22,8 @@ Allergic contact dermatitis is an example of a <span style="background:rgba(240,
 
 # Clinical features
 ---
-- Intensely pruritic erythematous papules
+![[L10778.png|L10778.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Intensely pruritic erythematous papules</span>
 - Vesicles with serous oozing in more severe cases 
 
 >[!tip] 
