@@ -27,6 +27,14 @@ share: true
 
 ---
 # Clinical features
+| Histologic type       | Diagnosis                       | Key features                                                                                                                         |
+| --------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Epithelial**        | **Serous cystadenocarcinoma**   | Most common ovarian cancer<br>Often bilateral<br>Histology: psammoma bodies                                                          |
+|                       | **Mucinous cystadenocarcinoma** | Pseudomyxoma peritonei<br>Mucin-producing epithelial cells                                                                           |
+| **Germ cell**         | **Dysgerminoma**                | Adolescents<br>↑ β-hCG, ↑ LDH<br>Histology: "fried-egg" cells                                                                        |
+|                       | **Endodermal sinus (yolk sac)** | ↑ AFP<br>Aggressive<br>Schiller-Duval bodies resembling glomeruli                                                                    |
+| **Stroma (sex cord)** | **Granulosa cell tumor**        | ↑ Estrogen (e.g., endometrial hyperplasia, postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
+|                       | **Sertoli-Leydig cell tumor**   | <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgens (e.g., hirsutism, clitoromegaly)</span>                                  |
 
 
 ---
