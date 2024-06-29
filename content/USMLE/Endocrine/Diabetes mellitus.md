@@ -184,10 +184,12 @@ share: true
 >[!Mnemonic] 
 >- <font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1 agonist![[Pasted image 20231209141619.png|Pasted image 20231209141619.png]] 
 >- Liptin makes you <font color="#ffc000">pee (PP4)</font> more times
-- SGLT-2 inhibitors
-	- ![[Pasted image 20231209142321.png|Pasted image 20231209142321.png]]
-- α-glucosidase inhibitors
-	- ![[Pasted image 20231209142546.png|Pasted image 20231209142546.png]]
+- SGLT-2 inhibitors![[Pasted image 20231209142321.png|Pasted image 20231209142321.png]]
+	- Contraindications
+		- <span style="background:rgba(240, 200, 0, 0.2)">Chronic kidney disease: If GFR decreases, drug efficacy decreases and adverse effects increase. </span>
+			- Because SGLT-2 inhibitors rely on adequate renal glucose filtration to exert their antihyperglycemic effect, they become less effective or ineffective as renal function declines (eg, when estimated glomerular filtration rate (eGFR) falls <30-45 mL/min/1.73 m2).  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">checking serum creatinine (used to calculate eGFR) is recommended prior to medication initiation.</span>
+		- Recurrent urinary tract infections (e.g., in patients with anatomical or functional anomalies of the urinary tract)
+- α-glucosidase inhibitors![[Pasted image 20231209142546.png|Pasted image 20231209142546.png]]
 - Pioglitazone
 	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ <span style="background:rgba(240, 200, 0, 0.2)">transcription of genes involved in glucose and lipid metabolism</span> → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
 	- Clinical characteristics

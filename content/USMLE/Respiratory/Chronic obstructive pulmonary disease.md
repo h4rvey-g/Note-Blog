@@ -20,7 +20,7 @@ It results from significant exposure to noxious stimuli, increased oxidative str
 	- CD4+ T lymphocytes and [[eosinophils|eosinophils]] mediate inflammation in individuals with bronchial asthma.
 - Promotion of goblet cell proliferation and hypertrophy, mucus hypersecretion, and impaired ciliary function → chronic productive cough
 	- Reid index is the ratio of the thickness of the submucosal mucus-secreting glands to the thickness between the epithelium and cartilage in the bronchial tree.
-	- Reid index > 0.5 is characteristic of chronic bronchitis. [13]
+	- Reid index > 0.5 is characteristic of chronic bronchitis.
 - Smooth muscle hyperplasia of the small airways and pulmonary vasculature (mainly due to hypoxic vasoconstriction) → [[pulmonary hypertension|pulmonary hypertension]] → [[Pulmonary hypertension|cor pulmonale]]
 - ![[Pasted image 20230802155407.png|Pasted image 20230802155407.png]]
 > This photomicrograph shows a bronchus with increased numbers of chronic inflammatory cells in the submucosa. Chronic bronchitis does not have characteristic pathologic findings, but is defined clinically as a persistent productive cough for at least three consecutive months in at least two consecutive years. Most patients are smokers. Often, there are features of emphysema as well. Since chronic bronchitis and emphysema often overlap, the term 'chronic obstructive pulmonary disease' (COPD) can be applied.

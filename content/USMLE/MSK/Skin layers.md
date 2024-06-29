@@ -29,3 +29,15 @@ share: true
 	- Stem cells of the epidermis (their daughter cells migrate upwards and differentiate into other cells)
 	- Melanocytes and Merkel cells are also located in this layer.
 	- The stratum basale is regenerative (basal keratinocytes proliferate to fill skin defects).
+# Dermatopathology
+---
+
+| Histopathologic finding | Characteristics                                                                              | Examples of associated conditions                                             |
+| ----------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Acantholysis**        | Separation of epidermal cells due to dissolution of intercellular bridges (e.g., desmosomes) | Pemphigus vulgaris                                                            |
+| **Acanthosis**          | Epidermal hyperplasia of the stratum spinosum                                                | [[Acanthosis nigricans|Acanthosis nigricans]], [[Psoriasis|Psoriasis]]                                       |
+| **Hypergranulosis**     | Thickening of the stratum granulosum                                                         | [[Lichen planus|Lichen planus]]                                                             |
+| **Hyperkeratosis**      | Thickening of the stratum corneum                                                            | [[Psoriasis|Psoriasis]], Calluses                                                       |
+| **Parakeratosis**       | Retention of nuclei in the stratum corneum                                                   | [[Psoriasis|Psoriasis]], [[Precancerous skin lesions\|Actinic keratosis]]               |
+| **Spongiosis**          | Intraepidermal and intercellular edema                                                       | Eczematous dermatitis, [[Atopic dermatitis|Atopic dermatitis]], [[Allergic contact dermatitis|Allergic contact dermatitis]] |
+| **Dyskeratosis**        | Premature keratinization of the stratum granulosum                                           | Squamous cell carcinoma                                                       |

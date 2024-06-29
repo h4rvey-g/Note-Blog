@@ -8,6 +8,23 @@ share: true
 ---
 # Second messengers
 ![[Pasted image 20240407094441.png|Pasted image 20240407094441.png]]
+## cAMP (cyclic adenosine monophosphate)  and protein kinase A
+- Regulation of adenylyl cyclase: depends on the type of G protein of the G protein-coupled receptor
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gs proteins: activate adenylyl cyclase → ↑ cAMP</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gi proteins: inhibit adenylyl cyclase → ↓ cAMP</span>
+- Effects
+	- cAMP activates protein kinase A (PKA).
+	- Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">PKA controls the activity (activation or inactivation) of numerous enzymes via phosphorylation of serine and threonine residues.</span>
+	- Example: glycogen metabolism to ↑ blood glucose concentration
+		- Hypoglycemia → ↑ glucagon or adrenaline → GPCR activation → ↑ cAMP → activation of PKA, which causes:
+			- Phosphorylation of glycogen phosphorylase → activation → increased mobilization of glucose from glycogen
+			- Phosphorylation of glycogen synthase → inhibition→ decreased glycogen formation
+- Degradation
+	- cAMP is degraded by phosphodiesterase to adenosine monophosphate (AMP).
+- Examples of ligand hormones
+	- Hypothalamic hormones: GHRH, CRH, vasopressin (V2 receptor)
+	- Pituitary hormones: TSH, ACTH, FSH, LH, MSH
+	- Other hormones: PTH, calcitonin, glucagon, histamine (H2 receptor), hCG
 ## cGMP (cyclic guanosine monophosphate)
 - Synthesis: cGMP is synthesized from GTP by the guanylate cyclase. There are two subforms of guanylate cyclase:
 	- Soluble guanylate cyclase: activated by <span style="background:rgba(240, 200, 0, 0.2)">nitric oxide</span>
@@ -20,7 +37,7 @@ share: true
 	- cGMP-dependent ion channels in the photoreceptor cells of the retina → preserve the unstimulated state → dark signal
 - <span style="background:rgba(240, 200, 0, 0.2)">Degradation: by phosphodiesterase</span> to GMP
 	- <span style="background:rgba(240, 200, 0, 0.2)">So [[Phosphodiesterase inhibitors|PDE inhibitors]] work as vasodilators, used in the treatment of [[pulmonary hypertension|pulmonary hypertension]] (PDE-4 inhibitor roflumilast) and erectile dysfunction (PDE-5 inhibitor sildenafil).</span>
-### IP3 and DAG
+## IP3 and DAG
 - Synthesis![[Pasted image 20240404172938.png|Pasted image 20240404172938.png]]
 	1. Activation of a Gq protein-coupled receptor
 	2. <span style="background:rgba(240, 200, 0, 0.2)">Activation of phospholipase C</span> (an enzyme that cleaves phospholipids) 
@@ -32,5 +49,5 @@ share: true
 - Mechanism of action: regulates the activity of various enzymes via phosphorylation of serine and threonine residues, e.g., regulatory proteins that influence cell growth (actin [[cytoskeleton|cytoskeleton]]) or differentiation (EGFR)
 - Examples of the effect of PKC: cell growth and proliferation
 - Examples of ligands: vasopressin (V1 receptor), oxytocin, GnRH, TRH, angiotensin, gastrin, histamine (H1 receptor)
-### Ca2+ as a second messengers
+## Ca2+ as a second messengers
 - Effect of Ca2+, especially as a complex with calmodulin: One molecule of calmodulin binds up to four Ca2+ ions → conformational change → regulation of calmodulin-dependent kinases/phosphatases, e.g., CaM kinase III (protein synthesis)

@@ -12,7 +12,12 @@ share: true
 
 # Etiology
 ---
-
+## Mycobacterium tuberculosis 
+- Virulence factors and resistances
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cord factor: arranges M. tuberculosis in a serpentine cord → ↑ TNF-α release and activation of macrophages → granuloma formation</span>
+	- Surface glycolipids: (sulfatides) inhibit phagolysosomal fusion
+	- Infiltration of nonactivated macrophages → escape of humoral immune response 
+	- Multi-drug resistance: mutation in KatG (catalase-peroxidase) → INH conversion to its active metabolite → INH resistance
 
 # Pathophysiology
 ---

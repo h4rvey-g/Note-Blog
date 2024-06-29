@@ -21,7 +21,7 @@ share: true
 # Clinical features
 ---
 - Precursor and early lesions
-	- Precursor lesions (actinic keratosis) and in situ lesions (Bowen disease) typically manifest as a <span style="background:rgba(240, 200, 0, 0.2)">enlarging, rounded nodule with rough (keratinized) surface ± ulceration, crusting and bleeding
+	- Precursor lesions ([[Precancerous skin lesions|actinic keratosis]]) and in situ lesions (Bowen disease) typically manifest as a <span style="background:rgba(240, 200, 0, 0.2)">enlarging, rounded nodule with rough (keratinized) surface ± ulceration, crusting and bleeding
 	- Commonly on sun-exposed skin</span>![[Pasted image 20240412214818.png|Pasted image 20240412214818.png]]
 - Invasive cSCC
 	- Easy friability (i.e., <span style="background:rgba(240, 200, 0, 0.2)">bleeds easily</span> after minor trauma)

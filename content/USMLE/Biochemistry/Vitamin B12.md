@@ -37,7 +37,7 @@ share: true
 		- Achlorhydria
 - Malnutrition
 	- [[Anorexia nervosa|Anorexia nervosa]]
-	- <span style="background:rgba(240, 200, 0, 0.2)">Strict vegan diets: occurs only after years of a strict diet that excludes all animal products (unlike folate deficiency, which occurs within a few months of insufficient intake)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Strict [[Vegan diet|vegan diets]]: occurs only after years of a strict diet that excludes all animal products (unlike folate deficiency, which occurs within a few months of insufficient intake)</span>
 		- Found almost exclusively in animal products (except yeast extract)
 - Increased demand: e.g., during [[pregnancy|pregnancy]], breastfeeding, fish tapeworm (Diphyllobothrium latum) infection, and leukemia
 - Drugs: metformin
@@ -56,7 +56,7 @@ share: true
 ## Pernicious anemia
 - A type of vitamin B12 deficiency caused by <span style="background:rgba(240, 200, 0, 0.2)">autoantibodies against [[intrinsic factor|intrinsic factor]] and/or gastric parietal cells</span> (type II hypersensitivity reaction)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antiparietal cell antibodies: target gastric parietal cells</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Causes ↓ acid production and atrophic gastritis</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Causes ↓ acid production and [[atrophic gastritis|atrophic gastritis]]</span>
 			- In turn <span style="background:rgba(240, 200, 0, 0.2)">increases gastrin level</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">↓ [[Intrinsic factor|Intrinsic factor]] production → ↓ vitamin B12 absorption in terminal ileum</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-IF antibodies</span>: bind [[intrinsic factor|intrinsic factor]] and block the vitamin B12 binding site

@@ -33,7 +33,7 @@ share: true
 ---
 # Clinical features
 - Musculoskeletal
-	- Fine tremor of the outstretched fingers 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fine tremor of the outstretched fingers</span>
 	- Hyperthyroid myopathy: a condition of muscle weakness, pain, and atrophy associated with hyperthyroidism (e.g., from [[Graves disease|Graves disease]], thyroiditis)
 		- Predominantly affects individuals > 40 years of age
 		- Can develop acutely or several weeks to months after the onset of hyperthyroidism.

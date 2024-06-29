@@ -11,6 +11,15 @@ share: true
 ---
 # Etiology
 ## Watery diarrhea
+### Viral
+
+|                      | Norovirus (Norwalk) virus                                                                 | Rotaviruses                                                                                                                                    | Adenovirus                                             | Astrovirus                          |
+| -------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
+| **Genome/structure** | Positive ss RNA, non-enveloped, **Star of David**                                         | ds RNA (11 segments), non-enveloped, **Wheel-like**                                                                                            | ds DNA, non-enveloped, type 40/41, **fibers (penton)** | Positive ss RNA, non-enveloped      |
+| **High risk**        | <span style="background:rgba(240, 200, 0, 0.2)">Group settings, e.g., cruise ships</span> | <span style="background:rgba(240, 200, 0, 0.2)">Infants</span>                                                                                 | Infants, older children, adults                        | Infants, elderly, immunocompromised |
+| **Seasonality**      | <span style="background:rgba(240, 200, 0, 0.2)">Occurs year round</span>                  | <span style="background:rgba(240, 200, 0, 0.2)">November-April peak</span>                                                                     | Late fall and winter peak                              | Winter peak                         |
+| **Vaccine**          | No                                                                                        | <span style="background:rgba(240, 200, 0, 0.2)">Yes</span><br>Prevalence in developed countries has decreased dramatically due to vaccination. | No                                                     | No                                  |
+
 ## Bloody diarrhea
 - Campylobacter jejuni
 	- <span style="background:rgba(240, 200, 0, 0.2)">Poultry, unpasteurized milk (natural gut flora in birds)</span>

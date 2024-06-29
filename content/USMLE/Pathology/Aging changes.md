@@ -11,6 +11,10 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Lung compliance increases ("loose, baggy lungs") due to loss of elastin content.  This process resembles mild emphysema and leads to dynamic expiratory airflow obstruction, premature airway closure, and progressive hyperinflation.</span>
 - Chest wall compliance decreases ("stiff rib cage") due to degenerative changes (ossification, arthritis) of the sternocostal and costovertebral joints and kyphosis of the thoracic spine.
 - Total respiratory system compliance, the combination of lung parenchymal and chest wall compliance, is decreased because the stiffness of the chest wall dominates over the increased laxity of the lung.
+# Skin
+---
+- Senile purpura: recurrent, irregularly shaped, dark purple macules 
+	- Progressive loss of connective tissue, subcutaneous fat, and blood vessel elasticity → <span style="background:rgba(240, 200, 0, 0.2)">extravasation of blood into the dermis</span>
 # Beers criteria
 ---
 Common medications to avoid in older adults
