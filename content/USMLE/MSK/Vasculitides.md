@@ -19,7 +19,7 @@ See [[Giant cell arteritis|Giant cell arteritis]]
 # Medium-vessel vasculitis
 ![[Pasted image 20231010160358.png|Pasted image 20231010160358.png]]
 See [[Polyarteritis nodosa|Polyarteritis nodosa]]
-Also add [[Thromboangiitis obliterans|Thromboangiitis obliterans]]
+Also add [[Thromboangiitis obliterans|Thromboangiitis obliterans]] ![[Thromboangiitis obliterans#Clinical features|Thromboangiitis obliterans > Clinical features]]
 
 ---
 # Small-vessel vasculitis
