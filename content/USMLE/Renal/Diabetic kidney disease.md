@@ -33,11 +33,12 @@ major cause of ESRD
 ---
 # Clinical features
 - Patients are usually asymptomatic in the early stages; some may report <span style="background:rgba(240, 200, 0, 0.2)">foamy urine</span>.
-- In the later stages, clinical features of chronic kidney disease (e.g., hypertension, volume overload) may be present.
+- In the later stages, clinical features of [[chronic kidney disease|chronic kidney disease]] (e.g., hypertension, volume overload) may be present.
 
 ---
 # Diagnostics
-- <span style="background:rgba(240, 200, 0, 0.2)">eGFR can increase in early stage (hyperfiltration), but eventually decline in CKD stage.![[L15115.jpg|L15115.jpg]]</span>![[Pasted image 20240322221442.png|Pasted image 20240322221442.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">eGFR can increase in early stage (hyperfiltration), but eventually decline in [[Chronic kidney disease|CKD]] stage.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Rapidly progressive albuminuria</span>![[L15115.jpg|L15115.jpg]]![[Pasted image 20240322221442.png|Pasted image 20240322221442.png]]
 
 ---
 # Treatment
