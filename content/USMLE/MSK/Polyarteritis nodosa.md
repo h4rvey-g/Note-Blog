@@ -19,6 +19,7 @@ share: true
 # Etiology
 - A third of patients have underlying viral <span style="background:rgba(240, 200, 0, 0.2)">[[hepatitis B|hepatitis B]] or [[hepatitis C|hepatitis C]].</span>
 	- In these individuals, PAN is likely triggered by the <span style="background:rgba(240, 200, 0, 0.2)">deposition of immune complexes (viral antigen bound by host antibody) in the arterial wall.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Transmural inflammation of the arterial wall with fibrinoid necrosis</span>
 
 ---
 # Pathophysiology
