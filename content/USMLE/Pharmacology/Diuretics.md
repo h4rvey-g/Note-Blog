@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-03-22 21:46
 modified: 2024-03-22 21:46
-aliases: []
+aliases:
+  - diuretic
 share: true
 ---
 ![[Pasted image 20240322215128.png|Pasted image 20240322215128.png]]
@@ -19,6 +20,7 @@ Acetazolamide
 # Thiazide diuretics
 ---
 ## Mechanism of action
+![[L14230.jpg|L14230.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of Na<sup>+</sup>-Cl<sup>-</sup> cotransporters  in the early distal convoluted tubule</span>  → ↑ excretion of Na<sup>+</sup> (saluresis) and Cl<sup>-</sup> → ↓ diluting capacity of nephron and ↑ excretion of potassium (kaliuresis) and ↓ excretion of calcium  → diuresis
 - <span style="background:rgba(240, 200, 0, 0.2)">Increased reabsorption of Ca<sup>2+</sup></span>
 	- Decreased intracellular sodium levels <span style="background:rgba(240, 200, 0, 0.2)">increase the activity of the basolateral Na<sup>+</sup>/Ca<sup>2+</sup> exchanger in the cells of the distal convoluted tubule. Sodium is transported into, and calcium out of, the cell, resulting in decreased intracellular calcium concentration that leads to increased reabsorption from the lumen via luminal Ca<sup>2+</sup> channels.</span> Calcium reabsorption may also be increased because of increased uptake of sodium and calcium in the proximal tubule as a result of sodium depletion.
