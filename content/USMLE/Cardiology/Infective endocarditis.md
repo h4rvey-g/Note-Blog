@@ -36,6 +36,10 @@ share: true
 - Clinical consequences
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bacterial vegetation → bacterial thromboemboli → vessel occlusion → infarctions</span>
 	- Emboli can lead to metastatic infections of other organs.
+# Classifications
+---
+![[Pasted image 20240629090443.png|Pasted image 20240629090443.png]]
+Coagulase-negative staphylococci (CoNS): Staphylococcus epidermidis, Staphylococcus saprophyticus
 # Clinical features
 ---
 ## Cardiac manifestations 
