@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-11-03 10:54
 modified: 2023-11-03 10:54
-aliases: Untitled
+aliases:
+  - Retinol
 share: true
 ---
 # Functions
