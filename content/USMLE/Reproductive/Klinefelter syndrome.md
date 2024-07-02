@@ -27,6 +27,8 @@ share: true
 - Eunuchoid growth pattern: tall, slim stature with long extremities (Growth plate closure is delayed )
 - Gynecomastia
 - <span style="background:rgba(240, 200, 0, 0.2)">Testicular atrophy</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Possible developmental delay</span>
+	- Neurocognitive dysfunction (impaired executive function and memory, <span style="background:rgba(240, 200, 0, 0.2)">decreased intelligence</span>) 
 - Associated disorders
 	- [[Mitral valve prolapse|Mitral valve prolapse]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of breast and testicular cancer</span>
