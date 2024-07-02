@@ -15,9 +15,9 @@ share: true
 
 ---
 # Pathophysiology
-- Homer Wright rosettes: Halo-like clusters of neuroblast cells surrounding a central pale area containing neuropil (associated with tumors of neuronal origin such as neuroblastoma, medulloblastoma, primitive neuroectodermal tumors, and pineoblastoma)![[Pasted image 20231006151208.png|Pasted image 20231006151208.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Homer Wright rosettes</span>: Halo-like clusters of neuroblast cells surrounding a central pale area containing neuropil (associated with tumors of neuronal origin such as neuroblastoma, [[medulloblastoma|medulloblastoma]], primitive neuroectodermal tumors, and pineoblastoma)![[L89425.jpg|L89425.jpg]]
 - Bombesin and NSE positive
-	- > A tumor marker for neuroblastoma, small cell carcinoma of the lung, [[pancreatic cancer|pancreatic cancer]], and gastric cancer.
+	- > A tumor marker for neuroblastoma, small cell carcinoma of the lung, [[pancreatic cancer|pancreatic cancer]], and [[gastric cancer|gastric cancer]].
 
 ---
 # Clinical features
@@ -28,8 +28,8 @@ share: true
 ## Localized symptoms
 ![[Pasted image 20231006152543.png|Pasted image 20231006152543.png]]
 ## [[Paraneoplastic syndromes|Paraneoplastic syndromes]]
-- Chronic diarrhea → electrolyte imbalances 
-- Opsoclonus-myoclonus-ataxia: a paraneoplastic syndrome of unclear etiology characterized by rapid and multi-directional eye movements, rhythmic jerks of the limbs, and ataxia (dancing eyes dancing feet syndrome) 
+- Chronic [[diarrhea|diarrhea]] → electrolyte imbalances 
+- Opsoclonus-myoclonus-ataxia: a [[Paraneoplastic syndromes|paraneoplastic syndrome]] of unclear etiology characterized by rapid and multi-directional eye movements, rhythmic jerks of the limbs, and ataxia (dancing eyes dancing feet syndrome) 
 - Possibly hypertension, tachycardia, palpitations, sweating, flushing  (hypertension is more commonly seen in pheochromocytoma)
 
 ---
@@ -43,6 +43,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
