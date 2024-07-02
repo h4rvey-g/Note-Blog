@@ -38,7 +38,7 @@ share: true
 	- Asymptomatic elevation of transaminases 
 	- [[Cytochrome P450|Cytochrome P450]] inhibition: leading to interactions with numerous drugs, including antiretroviral agents, cardiovascular agents, and antibiotics
 	- Less common
-		- Drug-induced lupus
+		- [[Drug-induced lupus erythematosus|Drug-induced lupus]]
 		- [[Vitamin B6|Vitamin B6]] deficiency: [[sideroblastic anemia|sideroblastic anemia]], peripheral neuropathy 
 		- CNS toxicity: precipitation of benzodiazepine-refractory seizures with high doses of isoniazid, psychosis, ataxia 
 		- Others: anion gap metabolic acidosis, pellagra, optic neuritis
