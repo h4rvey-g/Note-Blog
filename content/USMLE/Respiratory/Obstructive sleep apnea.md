@@ -34,6 +34,10 @@ share: true
 
 ---
 # Treatment
-
+## Upper airway modification
+- Description: surgical dilatation of the upper airway or neurostimulation of upper airway muscles
+- Procedures 
+	- Uvulopalatopharyngoplasty: resection of the uvula and redundant retrolingual, soft palate, and tonsillar tissue 
+	- Other procedures include <span style="background:rgba(240, 200, 0, 0.2)">hypoglossal nerve stimulation</span>, radiofrequency ablation of tongue and/or soft palate tissue, and palatal implants.
 
 ---

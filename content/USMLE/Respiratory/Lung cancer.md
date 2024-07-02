@@ -3,7 +3,7 @@ title: Lung cancer
 author: Harvey Guo
 created: 2023-07-21 17:38
 modified: 2023-07-21 17:38
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Etiology
@@ -48,6 +48,21 @@ share: true
 		- Synaptophysin
 		- Neuron-specific enolase
 	- ![[Pasted image 20230802155248.png|Pasted image 20230802155248.png]]
+## Variants of lung cancer
+### Pancoast tumor
+- <span style="background:rgba(240, 200, 0, 0.2)">An apical lung carcinoma</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Located in the superior sulcus of the lung (superior sulcus tumor) </span>
+- Predominantly NSCLC 
+- May lead to the development of Pancoast syndrome
+	- Cervical sympathetic ganglion (stellate ganglion): <span style="background:rgba(240, 200, 0, 0.2)">Horner syndrome (ipsilateral miosis, ptosis, and anhidrosis) </span>
+	- Brachial plexus
+		- <span style="background:rgba(240, 200, 0, 0.2)">Localized pain in the axilla and shoulder</span> (plexus neuralgia)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Upper limb motor and sensory deficits (e.g., hand muscle weakness and atrophy)</span>
+	- Recurrent laryngeal nerve: hoarseness
+	- Brachiocephalic vein
+		- <span style="background:rgba(240, 200, 0, 0.2)">Unilateral edema of the arm</span>
+		- Facial swelling
+	- Phrenic nerve: paralysis of the hemidiaphragm (visible as elevated hemidiaphragm on chest x-ray)
 
 ---
 # Pathophysiology

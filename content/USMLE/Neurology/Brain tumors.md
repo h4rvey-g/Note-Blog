@@ -13,7 +13,7 @@ share: true
 >Most tumors are glial origin, except for medulloblastoma (neural origin).
 # Adult tumors
 ## Glioblastoma multiforme
-![[Pasted image 20240114153607.png|Pasted image 20240114153607.png]]
+![[Pasted image 20240114153607.png|Pasted image 20240114153607.png]]![[L63123.png|L63123.png]]
 ## Oligodendroglioma
 >[!Mnemonic] "O" is like an egg
 >![[Pasted image 20240614143325.png|Pasted image 20240614143325.png]]
@@ -26,11 +26,13 @@ share: true
 ![[Pasted image 20240114154725.png|Pasted image 20240114154725.png]]
 # Childhood tumors
 ## Pilocytic astrocytoma
+![[highresdefault_L90414.png|highresdefault_L90414.png]]
 Eosinophilic fibers with corkscrew appearance (<font color="#ffc000">Rosenthal fibers</font>)
 >[!Mnemonic] 
 >ast<font color="#ffc000">ROSE</font>cytoma
 
 ## [[Medulloblastoma|Medulloblastoma]]
+![[Pasted image 20240702113101.png|Pasted image 20240702113101.png]]![[L90418.png|L90418.png]]
 - highly malignant tumor
 - Biopsy: anaplastic small round <span style="background:rgba(240, 200, 0, 0.2)">blue cells</span> that surround a central neuropil (<span style="background:rgba(240, 200, 0, 0.2)">Homer-Wright rosettes</span>)
 >[!Mnemonic] 
@@ -38,6 +40,7 @@ Eosinophilic fibers with corkscrew appearance (<font color="#ffc000">Rosenthal f
 >- Also remember the "Homer Wright" as <font color="#ffc000">"home right"</font>, because the tumor is so malignant that there is nothing doctors can do except for sending patients right to home without hesitation.
 
 ## Ependymoma
+![[L90411.png|L90411.png]]
 - Biopsy
 	- Perivascular pseudorosettes 
 	- Rod-shaped bodies (blepharoplasts) near the nucleus

@@ -52,7 +52,7 @@ share: true
 - Kidneys: <span style="background:rgba(240, 200, 0, 0.2)">nephritis with proteinuria (see “[[Diffuse proliferative glomerulonephritis|Lupus nephritis]]”)</span>
 	- Mesangial and/or subendothelial deposition of immune complexes (e.g., anti-dsDNA antibodies, anti-Sm antibodies) → expansion and thickening of mesangium, capillary walls, and/or glomerular basement membrane
 - Heart
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pericarditis, myocarditis, endocarditis (Libman-Sacks endocarditis)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pericarditis, [[myocarditis|myocarditis]], endocarditis (Libman-Sacks endocarditis)</span>
 	- Aortic valve lesions
 	- [[Coronary artery disease|Coronary artery disease]] 
 # Diagnostics

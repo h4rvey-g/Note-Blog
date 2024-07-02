@@ -79,13 +79,13 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
     - Sine wave pattern: a sinusoidal pattern with absent [P waves](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec) and a wide [QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) that merges with the [T wave](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758); a marker of impending V-Fib and [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d) 
     - [Cardiac arrhythmias](https://next.amboss.com/us/article/7S04af#Ze688ba61de47d1456aee769e72c55a4c) (e.g., [V-tach](https://next.amboss.com/us/article/ES08Yf#Z3ccca87cced54f1e90d29e6b24c625b3), [V-fib](https://next.amboss.com/us/article/vS0AYf#Z72e4dad96c0862961705fabcdf294de3)), [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d)
 	![[Pasted image 20230618214752.png|700]]
-# Hypokalemia
-- Mild to moderate hypokalemia
+# [[Hypokalemia|Hypokalemia]]
+- Mild to moderate [[hypokalemia|hypokalemia]]
 	- T-wave flattening  or inversion
 	- ST depression 
 	- Prolonged PR interval
-- Moderate to severe hypokalemia
-	- Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  
+- Moderate to severe [[hypokalemia|hypokalemia]]
+	- Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in [[hypokalemia|hypokalemia]] or bradycardia  
 	- T and U wave fusion
 	- QT prolongation  [13]
 - Dysrhythmias
@@ -103,10 +103,10 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 >To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
 
 >[!tip] 
->Hypokalemia, hypocalcemia and hypomagnesemia all appear to prolong the QT interval, but they do so for different reasons: 
->- Hypokalemia prolongs the QU interval which can be mistaken for the QT interval
+>[[Hypokalemia|Hypokalemia]], hypocalcemia and [[hypomagnesemia|hypomagnesemia]] all appear to prolong the QT interval, but they do so for different reasons: 
+>- [[Hypokalemia|Hypokalemia]] prolongs the QU interval which can be mistaken for the QT interval
 >- Hypocalcemia prolongs the ST segment (resulting in a long QT with a normal T wave)
->- Hypomagnesemia prolongs the T wave (resulting in a long QT with a long T wave)
+>- [[Hypomagnesemia|Hypomagnesemia]] prolongs the T wave (resulting in a long QT with a long T wave)
 # [[Atrioventricular block|Atrioventricular block]]
 # Bundle Branch Block
 mnemonic: William Marrow
@@ -114,7 +114,7 @@ mnemonic: William Marrow
 In left bundle branch block
 - The R wave in the lateral leads may be either “M-shaped”, notched, monophasic, or an RS complex![[Pasted image 20230803202721.png|Pasted image 20230803202721.png]]
 In right bundle branch block, the right precordial leads will show <mark style="background: #FFF3A34A;">ST-segment depression and T-wave inversion</mark>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
-# Mitral stenosis
+# [[Mitral valve stenosis|Mitral stenosis]]
 Characteristic findings include:
 - Left atrial enlargement/P mitrale (widened and biphasic P wave)
 - [[Atrial flutter|Atrial flutter]]  
@@ -129,7 +129,7 @@ AIVR, also known as Accelerated Ventricular Rhythm, results when the <span style
 - Three or more ventricular complexes; QRS duration > 120ms
 - Fusion and capture beats
 ## Pathophysiology
-- Proposed mechanism is <span style="background:rgba(240, 200, 0, 0.2)">enhanced automaticity of ventricular pacemaker</span>, although triggered activity may play a role, particularly in ischemia and digoxin toxicity
+- Proposed mechanism is <span style="background:rgba(240, 200, 0, 0.2)">enhanced automaticity of ventricular pacemaker</span>, although triggered activity may play a role, particularly in ischemia and [[Cardiac glycosides|digoxin]] toxicity
 - <span style="background:rgba(240, 200, 0, 0.2)">AIVR is classically seen in the reperfusion phase of an acute STEMI, e.g. post thrombolysis</span>
 - Usually a well-tolerated, benign, self-limiting arrhythmia
 # STEMI
@@ -156,8 +156,8 @@ Time: < 0.12s = 3 small block
 Voltage: <0.25mV = 2.5 small block
 <mark style="background: #FFF3A34A;">The P wave in V1 is **often biphasic**.</mark> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
 Thus, 
-- **P mitrale (widened and biphasic P wave): Mitral stenosis, causing left atrium hypertrophy**
-- **Peaked P wave: Pulmonary hypertension, causing right atrium hypertrophy**
+- **P mitrale (widened and biphasic P wave): [[Mitral valve stenosis|Mitral stenosis]], causing left atrium hypertrophy**
+- **Peaked P wave: [[Pulmonary hypertension|Pulmonary hypertension]], causing right atrium hypertrophy**
 ![[Pasted image 20230620211202.png|Pasted image 20230620211202.png]]
 In [[Supraventricular tachycardia|AVNRT]], The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
 ![[127701f042d46e7958a823fce6249be.jpg|127701f042d46e7958a823fce6249be.jpg]]
@@ -167,9 +167,9 @@ Time: 0.05-0.15s = 1-3 small block
 Elevation: ≥ 0.1 mV in a limb lead or ≥ 0.2 mV in a precordial lead. 
 Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all other leads.
 - Downsloping ST depression or horizontal ST depression: Subendocardial myocardial ischemia, i.e., **NSTEMI**
-- Sagging type ST-segment depression: digoxin
+- Sagging type ST-segment depression: [[Cardiac glycosides|digoxin]]
 - Secondary repolarization abnormalities: Ventricular hypertrophy, LBBB
-- Nonspecific ST-segment depression: Hypokalemia
+- Nonspecific ST-segment depression: [[Hypokalemia|Hypokalemia]]
 ## T wave
 ### Pathophysiology of abnormalities
 - Ventricular repolarization vector directed away from the electrode of the ECG lead
@@ -180,26 +180,26 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 	- Hyperkalemia
 	- High vagal tone
 	- Early stages of a STEMI
-	- Prinzmetal angina
+	- Prinzmetal [[Coronary artery disease|angina]]
 - T wave inversion (inverted T wave)
 	- May be a normal finding in:
 		- Leads III, aVR, or <span style="background:rgba(240, 200, 0, 0.2)">V1</span>
 		- Children
-	- <mark style="background: #FFF3A34A;">Coronary artery disease (myocardial ischemia)</mark>
+	- <mark style="background: #FFF3A34A;">[[Coronary artery disease|Coronary artery disease]] (myocardial ischemia)</mark>
 	- Bundle branch blocks
 	- [[Pulmonary embolism|Pulmonary embolism]]  
 	- <mark style="background: #FFF3A34A;">Perimyocarditis </mark>
 	- <mark style="background: #FFF3A34A;">Ventricular hypertrophy</mark>
-	- Digoxin
+	- [[Cardiac glycosides|Digoxin]]
 	- [[Intracranial hemorrhage|Intracranial hemorrhage]]  
 	- Persistent juvenile T-wave pattern
 	- Wellens syndrome
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
-- The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
+- The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">[[Cardiac glycosides|digoxin]] therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
 	- Digoxin: The inhibition of the sodium/potassium atpase <span style="background:rgba(240, 200, 0, 0.2)">decreases the amount of intracellular potassium, which causes an increase in potassium influx during repolarization, shortening the qt interval</span>
 	- Digoxin increases parasympathetic tone, <span style="background:rgba(240, 200, 0, 0.2)">lengthening the pr interval</span>
-- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
+- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation [[antihistamines|antihistamines]], some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
 ## Rates
 - [[Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block

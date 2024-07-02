@@ -127,6 +127,12 @@ share: true
 
 >[!tip] 
 >Glargine is a long-acting insulin analogue that forms insoluble complexes.  This leads to the formation of microprecipitates at the injection site that then slowly dissolve and are released into the circulation throughout the day.
+- Regulation![[L18230.jpg|L18230.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Insulin release is primarily stimulated by the parasympathetic nervous system. </span>
+	- Parasympathetic stimulation of muscarinic M3 receptors promotes insulin secretion and is induced by the smell and/or sight of food.  
+	- In contrast, sympathetic stimulation is more complex, since both alpha-2 and beta-2 adrenergic receptors are present on pancreatic beta cells and exert opposite effects.  
+		- Stimulation of beta-2 receptors promotes insulin secretion while stimulation of alpha-2 receptors inhibits insulin release.  <span style="background:rgba(240, 200, 0, 0.2)">However, the alpha-2-mediated inhibitory effect is predominant, causing sympathetic stimulation to lead to overall inhibition of insulin secretion.</span>
+		- Alpha-2 inhibits NA reuptake
 - Adverse effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
 		- Due to physiologic factors (increased glucose uptake and lipid synthesis) and behavioral factors (less dietary adherence and eating snacks when [[hypoglycemia|hypoglycemia]])

@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-08-14 13:31
 modified: 2023-08-14 13:31
-aliases: DILE
+aliases:
+  - DILE
+  - Drug-induced lupus
 share: true
 ---
 - Epidemiology

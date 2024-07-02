@@ -97,7 +97,7 @@ share: true
 - Mechanism of action
 	- Inhibition of uric acid reabsorption along renal proximal convoluted tubules  → increased renal elimination
 - Side effects
-	- [[Nephrolithiasis# Uric acid stones|Nephrolithiasis >  Uric acid stones]]
+	- [[Nephrolithiasis#Uric acid stones|Nephrolithiasis > Uric acid stones]]
 	- Hypersensitivity reactions (sulfa allergy due to being a sulfonamide derivative)
 
 ---
