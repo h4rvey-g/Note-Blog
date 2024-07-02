@@ -27,6 +27,7 @@ share: true
 
 ---
 # Diagnostics
+![[L90418.png|L90418.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Synaptophysin ⊕</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">A neuron marker</span> found in synaptic vesicles in the central nervous system and neuroendocrine cells. Used as a biomarker for tumors of neuroendocrine origin.
 
