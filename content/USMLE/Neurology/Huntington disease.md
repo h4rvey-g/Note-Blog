@@ -58,8 +58,19 @@ share: true
 # Diagnostics
 - Genetic testing (e.g. polymerase chain reaction)
 - <font color="#ffc000">CT/MRI: atrophy of the striatum, most pronounced in the caudate nucleus with consequent enlargement of ventricles (ex vacuo ventriculomegaly)</font>
-
+# Differential diagnostics
 ---
+## Ballismus
+- Epidemiology & etiology
+	- Rare disorder typically affecting elderly diabetic patients
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hemorrhagic or ischemic stroke</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Nonketotic hyperglycemia</span>
+	- Brain metastases
+	- Infectious (e.g., HIV)
+- Signs & symptoms
+	- <span style="background:rgba(240, 200, 0, 0.2)">Involuntary, proximal, violent, and large-amplitude movements of one or both extremities (e.g., kicking, wild flailing) </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Typically unilateral (hemiballismus), due to contralateral lesion (e.g., lacunar stroke) of the subthalamic nucleus</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the subthalamic nucleus</span> can decrease excitation of the globus pallidus internus, thereby <span style="background:rgba(240, 200, 0, 0.2)">reducing inhibition of the thalamus</span>.![[L9325.jpg|L9325.jpg]]
 # Treatment
 
 
