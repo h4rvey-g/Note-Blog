@@ -39,7 +39,10 @@ share: true
 	- Dexrazoxane: iron chelating agent
 # Antimetabolites (S phase)
 ![[Pasted image 20230909215738.png|Pasted image 20230909215738.png]]
-See [[De novo pyrimidine and purine synthesis|De novo pyrimidine and purine synthesis]]
+- See [[De novo pyrimidine and purine synthesis|De novo pyrimidine and purine synthesis]]
+- Azathioprine is the prodrug of 6-MP
+	- <span style="background:rgba(240, 200, 0, 0.2)">Azathioprine and 6-MP are purine analogs, so they are metabolized to inactivate forms by xanthine oxidase like purines</span>![[L23656.jpg|L23656.jpg]]![[L59300.jpg|L59300.jpg]]
+	- See [[Gout#Treatment|Gout > Treatment]], [[Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]]
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png|Pasted image 20230909221400.png]]
 # Antitumor antibiotics
@@ -55,7 +58,7 @@ See [[De novo pyrimidine and purine synthesis|De novo pyrimidine and purine synt
 - <span style="background:rgba(240, 200, 0, 0.2)">Palbociclib</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of cyclin-dependent kinase 4 and 6 → inhibition of cancer cell growth and induction of apoptosis</span>
 - Indications
-	- Metastatic breast cancer
+	- Metastatic [[breast cancer|breast cancer]]
 	- Myelosuppression
 - Side effects
 	- Pulmonary toxicity (e.g., pneumonitis)
