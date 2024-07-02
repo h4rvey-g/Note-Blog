@@ -12,7 +12,8 @@ Seborrheic keratosis is the most common benign skin tumor in adults > 30 years o
 
 # Etiology
 ---
-<span style="background:rgba(240, 200, 0, 0.2)">Underlying malignancy (e.g., gastric adenocarcinoma) can cause paraneoplastic seborrheic keratoses (Leser-Trélat sign).</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Associated with activating mutations of the fibroblast growth factor receptor 3.  </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">SK itself is benign, but rapid onset of numerous SKs (Leser-Trélat sign) is often associated with an internal malignancy (eg, gastric adenocarcinoma), possibly due to overproduction of insulin-like growth factor 1 and other cytokines.</span>
 
 # Pathophysiology
 ---
