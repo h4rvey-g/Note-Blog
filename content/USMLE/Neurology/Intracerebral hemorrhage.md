@@ -18,14 +18,14 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cerebral amyloid angiopathy: most common cause of spontaneous ICH in individuals > 60 years of age</span>
 		- Typically causes <span style="background:rgba(240, 200, 0, 0.2)">lobar hemorrhage</span>
 	- Arteriovenous malformations: most common cause of spontaneous intracerebral hemorrhage in children
-	- Vasculitis (e.g., giant cell arteritis)
-	- Neoplasms (e.g., meningioma) 
-	- Ischemic stroke (due to reperfusion injury)
+	- [[Vasculitides|Vasculitis]] (e.g., [[giant cell arteritis|giant cell arteritis]])
+	- Neoplasms (e.g., [[meningioma|meningioma]]) 
+	- [[Ischemic stroke|Ischemic stroke]] (due to reperfusion injury)
 
 ---
 # Pathophysiology
 - Nontraumatic mechanisms of hemorrhage
-	- Chronic arterial hypertension → lipohyalinosis of <span style="background:rgba(240, 200, 0, 0.2)">lenticulostriate vessels (which supply the basal ganglia)</span> and/or formation and rupture of <span style="background:rgba(240, 200, 0, 0.2)">Charcot-Bouchard microaneurysms</span> → lacunar strokes (ischemia) of the basal ganglia
+	- Chronic arterial hypertension → lipohyalinosis of <span style="background:rgba(240, 200, 0, 0.2)">lenticulostriate vessels (which supply the basal ganglia)</span> and/or formation and rupture of <span style="background:rgba(240, 200, 0, 0.2)">Charcot-Bouchard microaneurysms</span> → <span style="background:rgba(240, 200, 0, 0.2)">lacunar strokes</span> (ischemia) of the basal ganglia
 		- <span style="background:rgba(240, 200, 0, 0.2)">Putamen most commonly affected, which is supplied by lenticulostriate arteries</span>![[Pasted image 20240309151748.png|Pasted image 20240309151748.png]]![[Pasted image 20231224102741.png|Pasted image 20231224102741.png]]
 		- Other locations: thalamus (second most common) and infratentorial parts of the brain (e.g., pons, cerebellum)
 	- Cerebral amyloid angiopathy: deposition of β-amyloid peptides in vessel walls → focal damage with formation of microaneurysms → rupture → recurrent lobar intracerebral hemorrhage
