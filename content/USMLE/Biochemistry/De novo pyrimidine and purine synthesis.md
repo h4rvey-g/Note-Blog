@@ -10,4 +10,5 @@ share: true
 # Pyrimidine synthesis
 ![[Pasted image 20230912144319.png|Pasted image 20230912144319.png]]
 ![[Pasted image 20230910173723.png|Pasted image 20230910173723.png]]
-![[L28055.png|L28055.png]]
+![[L28055.png|L28055.png]]![[L25906.png|L25906.png]]
+<span style="background:rgba(240, 200, 0, 0.2)">Para-aminobenzoic acid (PABA) is a folic acid precursor in prokaryotes.</span>  <span style="background:rgba(240, 200, 0, 0.2)">Sulfonamide</span> antibiotics are chemical analogues of PABA that inhibit the enzyme dihydropteroate synthetase, preventing bacterial conversion of PABA to folic acid.  <span style="background:rgba(240, 200, 0, 0.2)">Humans lack the ability to convert PABA to folic acid and require dietary folate.</span>
