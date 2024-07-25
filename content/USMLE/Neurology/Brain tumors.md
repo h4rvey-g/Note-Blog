@@ -49,7 +49,8 @@ Eosinophilic fibers with corkscrew appearance (<font color="#ffc000">Rosenthal f
 >"Momma's pending gift is pseudo roses" (to make up for being a crap kid)...
 
 ## Craniopharyngioma
-- a benign dysontogenetic tumor arising from a remnant of the Rathke pouch (ectodermal derivative)
+- a benign dysontogenetic tumor arising from a remnant of the <span style="background:rgba(240, 200, 0, 0.2)">Rathke pouch</span> (ectodermal derivative)
+	- Rathke pouch eventually develops into the anterior pituitary.![[L25960.jpg|L25960.jpg]]
 - Biopsy: cholesterol crystals found in a motor oil-like fluid on gross examination
 >[!Mnemonic] 
 >For Craniopharyngioma what i came up with was <font color="#ffc000">"remnants of WRATH"</font> and i imagine a story like thats a gang or a motorcylcist group whose logo is a <font color="#ffc000">cranium</font>.
