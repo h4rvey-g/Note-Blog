@@ -32,3 +32,5 @@ See [[Granulomatosis with polyangiitis|Granulomatosis with polyangiitis]]
 
 >[!Mnemonic] Microscopic polyangiitis
 >![[Pasted image 20230920170844.png|Pasted image 20230920170844.png]]
+## Non-ANCA-associated small-vessel vasculitis
+[[IgA vasculitis|IgA vasculitis]], also known as Henoch-Schönlein purpura
