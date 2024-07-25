@@ -11,6 +11,21 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Lung compliance increases ("loose, baggy lungs") due to loss of elastin content.  This process resembles mild emphysema and leads to dynamic expiratory airflow obstruction, premature airway closure, and progressive hyperinflation.</span>
 - Chest wall compliance decreases ("stiff rib cage") due to degenerative changes (ossification, arthritis) of the sternocostal and costovertebral joints and kyphosis of the thoracic spine.
 - Total respiratory system compliance, the combination of lung parenchymal and chest wall compliance, is decreased because the stiffness of the chest wall dominates over the increased laxity of the lung.
+# Cardiovascular system
+---
+- Aortic stiffening
+	- Elastin replacement with collagen
+	- ↑ Pulse pressure (isolated systolic HTN)
+- Mild concentric LVH
+	- Response to cardiomyocyte dropout & ↑ afterload
+	- Resting EF, SV & cardiac output maintained
+	- ↓ Maximal cardiac output
+- Conduction cell degeneration
+	- Slightly ↓ resting heart rate
+	- ↓ Maximal heart rate
+- <span style="background:rgba(240, 200, 0, 0.2)">Reduced baroreceptor sensitivity & adrenergic responsiveness</span>
+	- ↑ Orthostasis
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Heart rate & contractility response</span>
 # Skin
 ---
 - Senile purpura: recurrent, irregularly shaped, dark purple macules 
