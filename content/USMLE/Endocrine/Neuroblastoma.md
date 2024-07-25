@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-06 15:11
 modified: 2023-10-06 15:11
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Epidemiology
