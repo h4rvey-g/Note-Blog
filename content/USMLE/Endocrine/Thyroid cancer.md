@@ -7,7 +7,7 @@ share: true
 ---
 # Etiology
 - Genetic factors
-	- Medullary carcinoma: associated with MEN2 (RET gene mutations) or familial medullary carcinoma
+	- Medullary carcinoma: associated with [[Multiple endocrine neoplasias|MEN2]] (RET gene mutations) or familial medullary carcinoma
 	- <span style="background:rgba(240, 200, 0, 0.2)">Papillary carcinoma: associated with RET/PTC rearrangements and BRAF mutations</span>
 	- Follicular carcinoma: associated with PAX8-PPAR-γ rearrangement and RAS mutation
 	- Undifferentiated/anaplastic carcinoma: associated with TP53 mutation
@@ -48,4 +48,4 @@ share: true
 - Pathology![[highresdefault_L1488.jpg|highresdefault_L1488.jpg]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Ovoid cells of C cell origin and therefore without follicle development</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Amyloid in the stroma (stains with Congo red)</span>
-		- These amyloid deposits are derived from calcitonin secreted by the neoplastic C cells
+		- These amyloid deposits are derived from [[calcitonin|calcitonin]] secreted by the neoplastic C cells
