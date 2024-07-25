@@ -60,6 +60,8 @@ https://youtu.be/BmYCAp4dRuA
 >Obstructive: <font color="#ff0000">O</font>bscures the ratio
 >Restrictive: <font color="#ff0000">R</font>aises the ratio (or at least <font color="#ff0000">R</font>emains constant)
 
+![[L80596.png|L80596.png]]
+
 ---
 # Treatment
 
