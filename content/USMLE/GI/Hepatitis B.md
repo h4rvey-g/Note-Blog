@@ -55,7 +55,7 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 # Diagnostics
 >[!tip] 
 >- HBsAg: infection or not
->- Anti-HBc: acute (IgM) or chronic (IgG)
+>- Anti-HBc: acute (IgM) or chronic (IgG); current & history infection vs immunized
 >- Anti-HBs: window or recovery
 - Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)![[Pasted image 20231213111859.png|Pasted image 20231213111859.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Recovery: conversion from HBsAg (+) to Anti-Hbs (+) in chronic infection, also HBV DNA needs to be undetectable</span>
