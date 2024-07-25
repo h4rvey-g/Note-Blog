@@ -12,7 +12,7 @@ share: true
 # Etiology
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune metaplastic atrophic gastritis (AMAG)</span>
-	- Associated with major histocompatibility haplotypes HLA-B8 and HLA-DR3
+	- Associated with major histocompatibility haplotypes HLA-B8 and [[HLA system|HLA-DR3]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Environmental metaplastic atrophic gastritis (EMAG)</span>
 	- Helicobacter pylori infection
 		- Most important risk factor for chronic gastritis, including atrophic gastritis 
