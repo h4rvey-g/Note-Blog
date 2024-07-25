@@ -11,7 +11,7 @@ share: true
 ---
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Iodine deficiency (leading cause of goiter worldwide) </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation (e.g., [[Hashimoto thyroiditis|Hashimoto thyroiditis]], [[Subacute thyroiditis|subacute granulomatous thyroiditis]])</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation (e.g., [[Hashimoto thyroiditis|Hashimoto thyroiditis]] (painless), [[Subacute thyroiditis|subacute granulomatous thyroiditis]] (painful))</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Graves disease|Graves disease]]</span>
 - Thyroid cysts (e.g., thyroglossal cyst)
 - Thyroid adenomas
