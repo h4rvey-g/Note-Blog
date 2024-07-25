@@ -41,8 +41,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-TgAbs</span>: positive in 60–80% of patients
 - Fine-needle aspiration
 	- Indications: patients with focal nodules to exclude malignancy (see “Workup of thyroid nodules”)
-	- Findings: <span style="background:rgba(240, 200, 0, 0.2)">diffuse lymphocytic infiltration (cytotoxic T lymphocytes) with germinal centers, oncocytic-metaplastic cells (Hurthle cells)</span>, and fibrotic tissue![[Pasted image 20231202105205.png|Pasted image 20231202105205.png]]![[Pasted image 20231202105218.png|Pasted image 20231202105218.png]]The thyroid tissue in the lower half of the image is inflamed, as evidenced by the lymphocytic infiltrate (numerous purple dots) and dilated, congested blood vessels (examples indicated by arrows). Prominent lymphoid follicles with a germinal center (example indicated by orange overlay) surrounded by a hypercellular parafollicular region (example indicated by green overlay) are visible in the inflamed region. Normal thyroid follicles (example indicated by blue overlay) are visible in the top half of the image but are absent in the inflamed region.
- - Differential from [[Subacute thyroiditis|Subacute thyroiditis]]![[Pasted image 20231217175249.png|Pasted image 20231217175249.png]]![[Pasted image 20231217175517.png|Pasted image 20231217175517.png]]
+	- Findings: <span style="background:rgba(240, 200, 0, 0.2)">diffuse lymphocytic infiltration (cytotoxic T lymphocytes) with germinal centers, oncocytic-metaplastic cells (Hurthle cells)</span>, and fibrotic tissue![[L63985.png|L63985.png]]
+ - Differential from [[Subacute thyroiditis|Subacute thyroiditis]]![[L66263.png|L66263.png]]![[Pasted image 20231217175517.png|Pasted image 20231217175517.png]]
 
 ---
 # Treatment
