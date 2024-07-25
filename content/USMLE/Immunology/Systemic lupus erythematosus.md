@@ -71,10 +71,14 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Smith can bond to snRNAs to form snRNPs, which can form a spliceosome.</span>
 		- Positive in < 30% of patients, but highly specific for SLE
-- Antiphospholipid antibodies: Screen all patients for [[antiphospholipid syndrome|antiphospholipid syndrome]].
+- <span style="background:rgba(240, 200, 0, 0.2)">Antiphospholipid antibodies: Screen all patients for [[antiphospholipid syndrome|antiphospholipid syndrome]].</span>
 - Laboratory markers of disease activity and/or organ damage in SLE
 	- [[Complement system|Complement]] levels: <span style="background:rgba(240, 200, 0, 0.2)">↓ C3 and/or ↓ C4 in patients with active disease, factor B levels remain normal </span>![[Pasted image 20240224215441.png|Pasted image 20240224215441.png]]
 		- Antigen-antibody complexes trigger classic pathway, which decreases C3 and C4. But factor B in alternative pathway is intact.
+
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">RPR and VDRL are usually used to test for syphilis but may also be positive in SLE.</span>
+><span style="background:rgba(240, 200, 0, 0.2)">This happens in [[antiphospholipid syndrome|antiphospholipid syndrome]] as well.</span>
 
 ## Skin biopsy
 - Lupus band test (LBT): a direct [[immunofluorescence|immunofluorescence]] staining technique used to detect immunoglobulin and [[Complement system|complement]] component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[Pasted image 20231029092317.png|Pasted image 20231029092317.png]]
@@ -83,4 +87,8 @@ share: true
 # Treatment
 
 
+## Complications
 ---
+## Cardiovascular disease 
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of thrombosis</span> in all patients with SLE (especially if secondary <span style="background:rgba(240, 200, 0, 0.2)">[[antiphospholipid syndrome|antiphospholipid syndrome]]</span> is present) 
+- ↑ Risk of myocardial infarction and stroke because of accelerated [[atherosclerosis|atherosclerosis]]
