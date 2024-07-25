@@ -13,11 +13,11 @@ share: true
 ## Differential diagnostics
 - [[Anxiety disorders|Generalized anxiety disorder]]: If symptoms of adjustment disorder last > 6 months the diagnosis is changed to [[Anxiety disorders|GAD]].
 
-|                                      | <u>Acute Distress Disorder</u>                                           | <u>Adjustment Disorder</u>                                                            | <u>PTSD</u>                                                      |
-| ------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Type of Stressor**                 | Severe                                                                   | Mild/Moderate                                                                         | Severe                                                           |
-| **Time between stress and symptoms** | Few days to maximum 4 weeks                                              | <span style="background:rgba(240, 200, 0, 0.2)">Up to 3 months</span>                 | Not fixed; sometimes years                                       |
-| **Duration of symptoms**             | <span style="background:rgba(240, 200, 0, 0.2)">Maximum one month</span> | <span style="background:rgba(240, 200, 0, 0.2)">6 months after end of stressor</span> | <span style="background:rgba(240, 200, 0, 0.2)">> 1 month</span> |
+|                                      | <u>Acute Distress Disorder</u>                                           | <u>Adjustment Disorder</u>                                                              | <u>PTSD</u>                                                      |
+| ------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Type of Stressor**                 | Severe                                                                   | Mild/Moderate                                                                           | Severe                                                           |
+| **Time between stress and symptoms** | Few days to maximum 4 weeks                                              | <span style="background:rgba(240, 200, 0, 0.2)">Up to 3 months</span>                   | Not fixed; sometimes years                                       |
+| **Duration of symptoms**             | <span style="background:rgba(240, 200, 0, 0.2)">Maximum one month</span> | <span style="background:rgba(240, 200, 0, 0.2)">≤ 6 months after end of stressor</span> | <span style="background:rgba(240, 200, 0, 0.2)">> 1 month</span> |
 
 # Treatment
 ---

@@ -12,13 +12,13 @@ share: true
 # Mesolimbic pathway
 - Controls the motivation and reward systems of the brain (e.g., pleasure, positive reinforcement)
 - Stimulation causes positive symptoms (e.g., hallucinations)
-- Primary target for [[Antipsychotics|antipsychotic]] drugs used in the treatment of [[schizophrenia|schizophrenia]] (e.g., haloperidol)
+- <span style="background:rgba(240, 200, 0, 0.2)">Primary target for [[Antipsychotics|antipsychotic]] drugs used in the treatment of [[schizophrenia|schizophrenia]] (e.g., haloperidol)</span>
 >[!Mnemonic] 
 >You need <font color="#ffc000">limb</font>s to show <font color="#ffc000">positivity</font> with a thumbs-up!![[Pasted image 20240315172703.png|Pasted image 20240315172703.png]]
 
 # Tuberoinfundibular pathway
 - [[Neurotransmitters|Dopamine]] release inhibits prolactin secretion from the anterior pituitary.
-- Inhibition causes ↓ [[Neurotransmitters|dopamine]] → ↑ prolactin → galactorrhea, sexual dysfunction, ↓ libido
+- Inhibition causes ↓ [[Neurotransmitters|dopamine]] → ↑ prolactin → galactorrhea, [[sexual dysfunction|sexual dysfunction]], ↓ libido
 - [[Antipsychotics|Antipsychotic]] drugs significantly affect this pathway.
 >[!Mnemonic] 
 ><font color="#ffc000">T</font>ubero <font color="#ffc000">I</font>nfundibular <font color="#ffc000">P</font>athway = <font color="#ffc000">T</font>his <font color="#ffc000">I</font>nhibits <font color="#ffc000">P</font>rolactin

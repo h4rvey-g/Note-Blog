@@ -45,6 +45,9 @@ share: true
 	- See [[Gout#Treatment|Gout > Treatment]], [[Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]]
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png|Pasted image 20230909221400.png]]
+>[!Mnemonic] 
+>- Eight (<font color="#ffc000">Et</font>oposide) + II = Ten (<font color="#ffc000">Ten</font>iposide)
+>- I (<font color="#ffc000">I</font>rinotecan) + I = Two (<font color="#ffc000">To</font>potecan)
 # Antitumor antibiotics
 ![[Pasted image 20230909221658.png|Pasted image 20230909221658.png]]
 >[!Mnemonic] 

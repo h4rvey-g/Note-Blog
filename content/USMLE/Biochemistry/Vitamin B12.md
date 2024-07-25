@@ -20,6 +20,7 @@ share: true
 
 ---
 # Etiology
+![[highresdefault_L24633.jpg|highresdefault_L24633.jpg]]
 - [[Malabsorption|Malabsorption]]
 	- ↓ Intrinsic factor (IF)
 		- Atrophic gastritis due to
@@ -29,7 +30,8 @@ share: true
 	- Reduced uptake of IF-vitamin B12 complex in terminal ileum due to:
 		- Alcohol use disorder
 		- [[Crohn disease|Crohn disease]], [[celiac disease|celiac disease]]
-		- Pancreatic insufficiency
+		- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic insufficiency (e.g. [[Chronic pancreatitis|Chronic pancreatitis]])</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic proteolytic enzymes are needed to release vitamin B12 from the vitamin B12–R protein complex</span> (R protein is also known as transcobalamin I or haptocorrin), a necessary step that enables vitamin B12 to bind intrinsic factor, which ultimately facilitates terminal ileal absorption.
 		- Surgical resection of the ileum
 		- Diphyllobothrium latum (tapeworm) infection
 		- Bacterial overgrowth

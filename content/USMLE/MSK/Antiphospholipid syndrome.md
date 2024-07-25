@@ -37,7 +37,8 @@ APS usually manifests with <span style="background:rgba(240, 200, 0, 0.2)">recur
 - Capillaries: <span style="background:rgba(240, 200, 0, 0.2)">splinter hemorrhages</span> 
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Pregnancy|Pregnancy]]-related: recurrent miscarriages and premature births </span>
 	- Caused by thrombosis of placental vessels and possible subsequent placental infarction
-# Diagnose
+# Diagnostics
+---
 >[!tip] 
 >Thrombosis in APS is typically unprovoked (e.g., unprovoked DVT), recurrent, and/or manifests in unusual sites (e.g., kidneys, liver, retina). It is most commonly seen in younger individuals (< 50 years of age) and in individuals with comorbid autoimmune diseases (e.g., [[Systemic lupus erythematosus|SLE]]).
 - Coagulation panel: prolonged aPTT (caused by lupus anticoagulant)
@@ -45,13 +46,17 @@ APS usually manifests with <span style="background:rgba(240, 200, 0, 0.2)">recur
 - <span style="background:rgba(240, 200, 0, 0.2)">Lupus anticoagulant (LA)</span>: antibodies against certain phospholipids in cellular membranes; detection involves a three-step procedure
 	- <span style="background:rgba(240, 200, 0, 0.2)">These antibodies inhibit coagulation and therefore prolong aPTT in vitro, but have a procoagulatory effect in vivo.</span>
 	1. Screening for phospholipid-dependent coagulation with either:
-		- Prolonged aPTT
+		- <span style="background:rgba(240, 200, 0, 0.2)">Paradoxical prolonged aPTT</span>
 		- Prolonged dilute Russell viper venom time (dRVVT)
-	2. Mixing study: The patient's plasma is mixed with normal plasma (which contains clotting factors).
+	2. Mixing study: <span style="background:rgba(240, 200, 0, 0.2)">The patient's plasma is mixed with normal plasma (which contains clotting factors).</span>
 		- aPTT or dRVVT normalize: Presence of lupus anticoagulant ruled out; prolonged aPTT may be due to a lack of clotting factors.
-		- aPTT or dRVVT remain prolonged: Lupus anticoagulant may be present.
+		- <span style="background:rgba(240, 200, 0, 0.2)">aPTT or dRVVT remain prolonged: Lupus anticoagulant may be present.</span>
 	3. Confirmation of phospholipid dependence: Phospholipid is added.
 		- aPTT or dRVVT normalize: Presence of lupus [[anticoagulants|anticoagulants]] is confirmed.
 		- aPTT or dRVVT remain prolonged: Consider a factor deficiency.
 - <span style="background:rgba(240, 200, 0, 0.2)">Anticardiolipin antibodies (IgG and IgM)</span>: antibodies against cardiolipin, a phospholipid in cellular membranes 
 - <span style="background:rgba(240, 200, 0, 0.2)">Anti-β2-glycoprotein antibodies (IgG and IgM)</span>: antibodies directed against the cardiolipin ­binding factor β2­ glycoprotein I that have prothrombotic effects
+
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">Patients with APS can test false positive for syphilis (positive VDRL or RPR) because the antigen used in syphilis tests is cardiolipin.</span>
+>This happens in [[Systemic lupus erythematosus|SLE]] as well.

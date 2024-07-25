@@ -21,7 +21,7 @@ Autoimmune thyroiditis
 
 ---
 # Clinical features
-- <span style="background:rgba(240, 200, 0, 0.2)">Painless, slowly growing and stone-hard goiter</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Painless, slowly growing and stone-hard [[goiter|goiter]]</span>
 - [[Hypothyroidism|Hypothyroidism]] in 30% of patients
 - Most patients without [[hypothyroidism|hypothyroidism]] remain euthyroid
 - Very few patients present with [[hyperthyroidism|hyperthyroidism]]

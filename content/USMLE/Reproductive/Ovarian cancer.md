@@ -15,11 +15,19 @@ share: true
 
 ---
 # Etiology
+The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0, 0.2)">repeated injury and repair to the ovarian surface, which makes surface epithelial cells susceptible to malignant transformation (ie, acquiring oncogenic mutations).</span>
 ## Risk factors
 - Hormonal factors
 	- <span style="background:rgba(240, 200, 0, 0.2)">Elevated number of ovulatory cycles: early menarche and/or late [[menopause|menopause]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Nulliparity</span>
 	- [[Endometriosis|Endometriosis]]
+## Protective factors
+- <span style="background:rgba(240, 200, 0, 0.2)">Combined oral contraceptive pills</span>
+- Multiparity
+- Breastfeeding
+- Bilateral salpingo-oophorectomy
+- Bilateral tubal ligation
+- Hysterectomy
 
 ---
 # Pathophysiology
@@ -33,7 +41,7 @@ share: true
 |                       | **Mucinous cystadenocarcinoma** | Pseudomyxoma peritonei<br>Mucin-producing epithelial cells                                                                           |
 | **Germ cell**         | **Dysgerminoma**                | Adolescents<br>↑ β-hCG, ↑ LDH<br>Histology: "fried-egg" cells                                                                        |
 |                       | **Endodermal sinus (yolk sac)** | ↑ AFP<br>Aggressive<br>Schiller-Duval bodies resembling glomeruli                                                                    |
-| **Stroma (sex cord)** | **Granulosa cell tumor**        | ↑ Estrogen (e.g., endometrial hyperplasia, postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
+| **Stroma (sex cord)** | **[[Granulosa cell tumor|Granulosa cell tumor]]**    | ↑ Estrogen (e.g., endometrial hyperplasia, postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
 |                       | **Sertoli-Leydig cell tumor**   | <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgens (e.g., hirsutism, clitoromegaly)</span>                                  |
 
 

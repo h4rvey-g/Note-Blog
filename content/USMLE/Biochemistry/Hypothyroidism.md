@@ -41,7 +41,7 @@ share: true
 
 ---
 # Diagnostics
-![[Pasted image 20231203111502.png|Pasted image 20231203111502.png]]
+![[L66263 1.png|L66263 1.png]]![[Pasted image 20231203111502.png|Pasted image 20231203111502.png]]
 
 ---
 # Treatment
