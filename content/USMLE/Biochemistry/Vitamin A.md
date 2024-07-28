@@ -11,7 +11,7 @@ share: true
 - Vision: component of rhodopsin as 11-cis-retinal
 - Gene transcription
 	- <span style="background:rgba(240, 200, 0, 0.2)">All-trans retinoic acid (ATRA)</span> binds to its nuclear receptors (retinoic acid receptors, RAR; retinoid X receptors, RXR) → receptor dimerization → binding to DNA → uncoiling of chromatin → exposure of promoter regions of genes → binding of transcription factors to promoter → <span style="background:rgba(240, 200, 0, 0.2)">initiation of transcription and cell differentiation</span>
-	- Regulation of various genes responsible for cell growth, cell differentiation, apoptosis, reproduction (e.g., spermatogenesis), and embryonic development
+	- Regulation of various genes responsible for cell growth, cell differentiation, apoptosis, reproduction (e.g., spermatogenesis), and [[Embryogenesis|embryonic development]]
 - Tissue maintenance and cell differentiation
 	- Mainly retinoic acid
 	- <span style="background:rgba(240, 200, 0, 0.2)">Promotes differentiation of epithelium into specialized tissue (e.g., pancreatic cells and goblet cells)</span>
@@ -32,4 +32,8 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Caused by squamous cell metaplasia and keratinization of the conjunctiva</span>![[Pasted image 20231103111548.png|Pasted image 20231103111548.png]]
 - Keratinizing squamous metaplasia of the bladder (pearl-like plaques on cystoscopy)
 - Xerosis cutis
-- Immunosuppression: Vitamin A deficiency increases the risk of a measles infection taking a severe course.
+- Immunosuppression: Vitamin A deficiency increases the risk of a [[measles|measles]] infection taking a severe course.
+# Vitamin A toxicity
+- Acute:  A single high dose can cause nausea, vomiting, [[vertigo|vertigo]], and blurred vision.
+- Chronic (most common):  Long-term ingestion of excessive vitamin A can lead to <span style="background:rgba(240, 200, 0, 0.2)">increased intracranial pressure (ie, benign intracranial hypertension)</span>.  Other nonspecific symptoms include increased bone resorption (eg, [[osteoporosis|osteoporosis]], fractures) as well as [[alopecia|alopecia]] and <span style="background:rgba(240, 200, 0, 0.2)">dry skin</span> and mucous membranes.  Because vitamin A is stored in the liver, hypervitaminosis A is hepatotoxic and can cause elevated aminotransferases, <span style="background:rgba(240, 200, 0, 0.2)">[[hepatomegaly|hepatomegaly]]</span>, and liver fibrosis.
+- [[Teratogenesis|Teratogenic]]:  Excessive first trimester intake can cause neural crest cell toxicity, resulting in fetal microcephaly, craniofacial defects, cardiac anomalies, and death.
