@@ -49,6 +49,7 @@ share: true
 
 ---
 # Treatment
+![[Pasted image 20240727153218.png|Pasted image 20240727153218.png]]
 ## Nonergot [[Neurotransmitters|dopamine]] receptor agonists
 - <span style="background:rgba(240, 200, 0, 0.2)">Pramipexole</span>, Ropinirole, Apomorphine
 - Consider as initial treatment in younger patients, especially those with risk factors for levodopa-induced dyskinesia.
