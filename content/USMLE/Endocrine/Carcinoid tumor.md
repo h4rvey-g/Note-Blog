@@ -70,7 +70,7 @@ share: true
 
 ---
 # Diagnostics
-- ↑ 5-hydroxyindoleacetic acid (5-HIAA) in 24-hour urine collection
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ 5-hydroxyindoleacetic acid (5-HIAA) in 24-hour urine collection</span>
 	- A degradation product of serotonin metabolism. Elevated levels in 24-hour urine are seen in carcinoid tumor.
 ## Biopsy 
 - Histology
