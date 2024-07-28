@@ -27,7 +27,7 @@ share: true
 	- ∼ 2 weeks
 	- Glomerular filtration returns to normal, which increases urine production (polyuria), while tubular reabsorption remains disturbed. 
 		- Generally, the <span style="background:rgba(240, 200, 0, 0.2)">glomeruli recover faster than the tubular system</span>
-	- Complications: loss of electrolytes and water (dehydration, hyponatremia, and hypokalemia)
+	- Complications: loss of electrolytes and water (dehydration, hyponatremia, and [[hypokalemia|hypokalemia]])
 1. Recovery phase
 
 ---
@@ -57,6 +57,11 @@ share: true
 	- ![[L67813.jpg|L67813.jpg]]
 # Diagnostics
 ![[Pasted image 20230814165601.png|Pasted image 20230814165601.png]]
+## [[Urine sediment|Urine sediment]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Prerenal: hyaline [[Urine sediment|casts]]</span> due to concentrated urine in the setting of low renal perfusion
+- <span style="background:rgba(240, 200, 0, 0.2)">Intrinsic</span>: renal tubular epithelial cells or <span style="background:rgba(240, 200, 0, 0.2)">granular, muddy brown, or pigmented [[Urine sediment|casts]]</span>
+- Postrenal: none
+
 
 ---
 # Treatment
