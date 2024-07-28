@@ -100,7 +100,7 @@ composed of columnar cells that proliferate along the framework of alveolar sept
 - keratin pearls
 - distinct cell border
 ### Large cell carcinoma
-![[Pasted image 20230724161436.png|Pasted image 20230724161436.png]]
+![[L77581.png|L77581.png]]
 - Undifferentiated
 - Large tumor cells
 ### Small cell carcinoma
