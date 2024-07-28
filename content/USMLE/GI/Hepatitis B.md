@@ -29,7 +29,7 @@ share: true
 	- Indicates chronic active hepatitis and poor prognosis
 - Fibrous septa
 - <span style="background:rgba(240, 200, 0, 0.2)">Ground glass hepatocytes (Characteristic for HBV)</span>
-	- Hepatocytes with swollen transparent cytoplasm due to hyperplasia of the endoplasmic reticulum resulting in a ground glass appearance![[Pasted image 20231017214542.png|Pasted image 20231017214542.png]]![[Pasted image 20231017214547.png|Pasted image 20231017214547.png]]
+	- Hepatocytes with swollen transparent cytoplasm due to hyperplasia of the [[endoplasmic reticulum|endoplasmic reticulum]] resulting in a ground glass appearance![[Pasted image 20231017214542.png|Pasted image 20231017214542.png]]![[Pasted image 20231017214547.png|Pasted image 20231017214547.png]]
 	- Pathognomonic for hepatitis B
 
 ---
@@ -75,3 +75,8 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 - Breastfeeding may be started immediately if there are no contraindications (e.g., cracked or bleeding nipples), regardless of whether individuals:
 	- Have HBsAg positive or unknown status
 	- Are receiving [[antiviral therapy|antiviral therapy]]
+- Infants with HBV infection
+	- Infants usually immune-tolerant (<span style="background:rgba(240, 200, 0, 0.2)">normal or mildly elevated liver enzymes, no symptoms</span>)
+		- Because HBV is not cytopathic itself and <span style="background:rgba(240, 200, 0, 0.2)">newborns lack mature cytotoxic T-cells that mediate damage infected hepatocytes</span>, the degree of hepatic tissue damage will be very limited.
+	- <span style="background:rgba(240, 200, 0, 0.2)">High risk for chronic infection</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">High viral load & HBeAg positive</span>
