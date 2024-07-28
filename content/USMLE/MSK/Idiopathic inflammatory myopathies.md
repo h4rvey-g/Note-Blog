@@ -27,7 +27,7 @@ share: true
 
 ---
 # Clinical features
-![[Pasted image 20230923164647.png|Pasted image 20230923164647.png]]
+![[Pasted image 20230923164647.png|Pasted image 20230923164647.png]]![[L10726.png|L10726.png]]![[L10630.png|L10630.png]]
 >[!tip] 
 >The clinical features of PM is similar to DM except no cutaneous features.
 
