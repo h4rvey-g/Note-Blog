@@ -6,11 +6,11 @@ aliases: []
 share: true
 ---
 # Epidemiology
-- Most common form of tremor
+- <span style="background:rgba(240, 200, 0, 0.2)">Most common form of tremor</span>
 
 ---
 # Etiology
-- positive family history
+- <span style="background:rgba(240, 200, 0, 0.2)">Positive family history</span>
 
 ---
 # Pathophysiology
@@ -26,12 +26,13 @@ share: true
 
 ---
 # Diagnostics
-
+>[!tip] 
+>Consider an essential tremor in a patient presenting with chronic bilateral hand tremors without further neurological deficits and positive family history.
 
 ---
 # Treatment
 - Drugs of choice: 
-	- [[Beta blockers|Beta blocker]]: propranolol
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Beta blockers|Beta blocker]]: propranolol</span>
 	- Barbiturates: primidone
 
 ---
