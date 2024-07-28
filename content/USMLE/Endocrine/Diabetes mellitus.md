@@ -36,7 +36,7 @@ share: true
 	- Protein metabolism: insulin inhibits proteolysis, stimulates protein synthesis, and stimulates cellular uptake of amino acids
 	- Lipid metabolism: maintains a fat depot and has an antiketogenic effect 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte regulation: stimulates intracellular potassium accumulation </span>
-		- Directly stimulates Na<sup>+</sup>sup>+</sup>/K<sup>+</sup> ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
+		- Directly stimulates Na<sup>+</sup>/K<sup>+</sup> ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
 ## Type 2 diabetes
 - Mechanisms
 	- Peripheral insulin resistance
@@ -184,7 +184,7 @@ share: true
 - Meglitinides
 	- Same with Sulfonylureas![[Pasted image 20231209135739.png|Pasted image 20231209135739.png]]
 - DPP-4 inhibitor and GLP-1 analogs
-	- ![[Pasted image 20231209140221.png|Pasted image 20231209140221.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Although Glucagon-like peptide-1 (GLP-1) and glucagon share similar structure, they perform opposite functions</span>.![[Pasted image 20231209140221.png|Pasted image 20231209140221.png]]
 	- ![[Pasted image 20231209140759.png|Pasted image 20231209140759.png]]
 
 >[!Mnemonic] 
