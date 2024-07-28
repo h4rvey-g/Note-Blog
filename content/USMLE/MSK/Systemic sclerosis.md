@@ -43,6 +43,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 ## Renal
 - <span style="background:rgba(240, 200, 0, 0.2)">Scleroderma renal crisis (SRC)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Abrupt onset, life threatening</span>
+	- SRC is caused by immune-mediated injury to <span style="background:rgba(240, 200, 0, 0.2)">small renal vessels that typically spares the glomerular capillaries</span>
 	- Clinical features of SRC
 		- <span style="background:rgba(240, 200, 0, 0.2)">Oliguric [[acute kidney injury|acute kidney injury]], proteinuria, hematuria</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension with or without symptoms of hypertensive emergency</span>
@@ -63,7 +64,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 ---
 # Diagnostics
 >[!warning] 
->Scleroderma renal crisis is a medical emergency with a high mortality rate. Promptly evaluate serum creatinine and urine protein in individuals with SSc who present with an acute rise in blood pressure and start management of SRC.
+><span style="background:rgba(240, 200, 0, 0.2)">Scleroderma renal crisis is a medical emergency</span> with a high mortality rate. Promptly evaluate serum creatinine and urine protein in individuals with SSc who present with an acute rise in blood pressure and start management of SRC.
 - Antinuclear antibodies (ANA): present in ∼ 90% of patients
 - SSc-specific autoantibodies![[Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 
