@@ -25,7 +25,7 @@ share: true
 # Pathophysiology
 - ↑ ADH secretion → receptor-mediated signaling cascade in the distal convoluted tubules and the collecting ducts of the kidneys → build-up of additional water canals (aquaporin-2) in the luminal cell membrane
 - Water is drawn out of the urine and into the hyperosmolar kidney tissue → <span style="background:rgba(240, 200, 0, 0.2)">concentration of urine and ↑ [[Urine osmolality|Urine osmolality]]</span> (becomes higher than serum osmolality)
-- <span style="background:rgba(240, 200, 0, 0.2)">Water retention → ↓ serum osmolality with transient volume expansion → ↑ ANP, ↑ BNP, and ↓ aldosterone → ↑ urinary sodium and water excretion → euvolemic hyponatremia</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Water retention → ↓ serum osmolality with transient volume expansion → ↑ ANP, ↑ BNP, and ↓ aldosterone → ↑ urinary sodium and water excretion → normal extracellular fluid volume and low plasma osmolality (euvolemic hyponatremia)</span>
 - Osmotic fluid shifts → cerebral edema and ↑ intracranial pressure (may occur in patients with extremely low Na<sup>+</sup> levels)
 
 ---

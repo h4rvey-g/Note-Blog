@@ -11,7 +11,7 @@ share: true
 # Function
 >[!Mnemonic] 
 >Active forms of <font color="#ffc000">N</font>iacin are <font color="#ffc000">N</font>AD+ and <font color="#ffc000">N</font>ADP+.
-- <span style="background:rgba(240, 200, 0, 0.2)">Cofactor for redox reactions</span> (e.g., alcohol dehydrogenase, isocitrate dehydrogenase, G6PD)
+- <span style="background:rgba(240, 200, 0, 0.2)">Cofactor for redox reactions</span> (e.g., alcohol dehydrogenase, isocitrate dehydrogenase, [[Glucose-6-phosphate dehydrogenase deficiency|G6PD]])
 # Therapeutic use
 - Dyslipidemia: Niacin lowers VLDL and increases HDL serum levels (See [[Lipid-lowering agents|Lipid-lowering agents]])
 
@@ -39,7 +39,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Circular broad collar rash on the neck (Casal necklace); affects dermatomes C3 and C4</span>![[Pasted image 20231104103708.png|Pasted image 20231104103708.png]]
 		- Hyperpigmented skin lesions in sun-exposed areas (especially on the limbs) 
 	- [[Diarrhea|Diarrhea]] and vomiting
-	- Neurologic symptoms (e.g, [[dementia|dementia]], hallucinations, anxiety, insomnia, encephalopathy)
+	- Neurologic symptoms (e.g, [[dementia|dementia]], hallucinations, anxiety, [[Insomnia disorder|insomnia]], encephalopathy)
 
 >[!Mnemonic] 
 >- 3 typical features of severe vitamin B<sub>3</sub> Deficiency: Dermatitis, [[Diarrhea|Diarrhea]], and [[Dementia|Dementia]].

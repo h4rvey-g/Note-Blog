@@ -14,5 +14,5 @@ share: true
 - Electrolytes
 	- Hyperglycemia 
 		- β2-mediated stimulation in the liver → elevated cAMP levels → increased glycogenolysis
-	- Hypokalemia (risk of life-threatening arrhythmias): β2-mediated stimulation of Na<sup>+</sup>sup>+</sup>/K<sup>+</sup>-ATPase → intracellular K<sup>+</sup> shift 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypokalemia (risk of life-threatening arrhythmias): β2-mediated stimulation of Na<sup>+</sup>/K<sup>+</sup>-ATPase → intracellular K<sup>+</sup> shift </span>
 

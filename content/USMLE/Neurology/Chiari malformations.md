@@ -13,5 +13,5 @@ Definition: <span style="background:rgba(240, 200, 0, 0.2)">caudal displacement 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Radicular pain in the shoulders and arms</span>
 	- Lower cranial nerve disorders
 	- Cerebellar symptoms (e.g., dysarthria, ataxia)
-	- Downbeat nystagmus
-- <span style="background:rgba(240, 200, 0, 0.2)">Some patients develop syringomyelia and/or hydrocephalus.</span>
+	- Downbeat [[Internuclear ophthalmoplegia|nystagmus]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Some patients develop [[syringomyelia|syringomyelia]] and/or hydrocephalus.</span>

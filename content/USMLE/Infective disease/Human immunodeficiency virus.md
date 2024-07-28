@@ -6,6 +6,8 @@ aliases:
   - HIV
   - HIV-1
   - HIV-2
+  - Human immunodeficiency virus infection
+  - HIV infection
 share: true
 ---
 # Epidemiology
@@ -22,11 +24,28 @@ share: true
 
 # Clinical features
 ---
+## Acute HIV infection
+- Also referred to as <span style="background:rgba(240, 200, 0, 0.2)">acute retroviral syndrome</span> (ARS) or described as a <span style="background:rgba(240, 200, 0, 0.2)">mononucleosis-like syndrome </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fever</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fatigue</span>
+	- Myalgia and arthralgia
+	- Headache
+	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized nontender lymphadenopathy </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized rash </span>
+	- Gastrointestinal symptoms (nausea, diarrhea, weight loss)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oropharyngeal symptoms (sore throat, ulcerations, painful swallowing)</span>
+
+>[!tip] 
+>Acute retroviral syndrome is associated with <span style="background:rgba(240, 200, 0, 0.2)">extremely high levels of viral replication</span> (~5 million copies/mL) as the cell-mediated and humoral antibody response against the virus is <span style="background:rgba(240, 200, 0, 0.2)">not yet fully activated</span>.  
+>Therefore, laboratory results during this period usually <span style="background:rgba(240, 200, 0, 0.2)">show evidence of HIV in the plasma (positive viral load and p24 antigen) with a negative serologic response (negative HIV-1/HIV-2 antibody).</span>
+>This is referred to as the "window period," as patients are infected with HIV but HIV antibody screening tests may be negative (newer screening tests incorporate testing for HIV p24 antigen and are more sensitive in early infection).
+
 ![[AIDS-defining conditions|AIDS-defining conditions]]
 
 # Diagnostics
 ---
 ## Serological assays
+![[L17426.jpg|L17426.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">HIV antibody assays (i.e., third-generation and below): Detect IgM and IgG antibodies.</span>
 	- Laboratory methods
 		- Enzyme-linked immunosorbent assays (ELISA)

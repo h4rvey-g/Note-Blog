@@ -7,7 +7,19 @@ share: true
 ---
 See also [[Lipid transport|Lipid transport]]
 ![[Pasted image 20240208105331.png|Pasted image 20240208105331.png]]
+
+| Lipid-lowering therapy                                           | LDL cholesterol                                           | HDL cholesterol                                           | Serum triglycerides                                       |
+| ---------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
+| Statins (atorvastatin, rosuvastatin, simvastatin)                | <span style="background:rgba(240, 200, 0, 0.2)">↓↓</span> | ↑                                                         | ↓                                                         |
+| Fibrates (fenofibrate, gemfibrozil)                              | ↓                                                         | ↑                                                         | <span style="background:rgba(240, 200, 0, 0.2)">↓↓</span> |
+| Bile acid sequestrants (cholestyramine, colesevelam, colestipol) | ↓                                                         | -                                                         | ↑                                                         |
+| Niacin                                                           | ↓                                                         | <span style="background:rgba(240, 200, 0, 0.2)">↑↑</span> | ↓                                                         |
+| Ezetimibe                                                        | <span style="background:rgba(240, 200, 0, 0.2)">↓</span>  | -                                                         | ↓                                                         |
+| Omega-3 fatty acids                                              | -                                                         | ↑                                                         | ↓                                                         |
+| Exercise & weight loss                                           | ↓                                                         | ↑                                                         | <span style="background:rgba(240, 200, 0, 0.2)">↓↓</span> |
+
 # Statins
+- <span style="background:rgba(240, 200, 0, 0.2)">The only first-line medication for dyslipidemia, significantly reducing the risk of mortality in patients suffering from CAD.</span>
 - Competitive inhibition of HMG-CoA reductase renders this enzyme unable to convert HMG-CoA to mevalonate (the rate-limiting step of cholesterol synthesis) → reduced intrahepatic cholesterol biosynthesis → <span style="background:rgba(240, 200, 0, 0.2)">upregulation of expression of LDL receptor gene via sterol regulatory element-binding protein (SREBP) → increased LDL recycling</span> and:
 	- <span style="background:rgba(240, 200, 0, 0.2)">↓↓ LDL cholesterol</span>
 	- ↑ HDL cholesterol

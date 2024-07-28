@@ -18,7 +18,7 @@ It results from significant exposure to noxious stimuli, increased oxidative str
 - <span style="background:rgba(240, 200, 0, 0.2)">Increased number of neutrophils, macrophages, and CD8+ T lymphocytes → release of cytokines</span> → amplification of inflammation and induction of structural changes of lung parenchyma (e.g., via stimulation of growth factor release)![[highresdefault_L29171.jpg|highresdefault_L29171.jpg]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">CD8+ T lymphocytes mediate inflammation in individuals with COPD.</span>
 	- CD4+ T lymphocytes and [[eosinophils|eosinophils]] mediate inflammation in individuals with bronchial asthma.
-- Promotion of goblet cell proliferation and hypertrophy, mucus hypersecretion, and impaired ciliary function → chronic productive cough
+- <span style="background:rgba(240, 200, 0, 0.2)">Promotion of goblet cell proliferation and hypertrophy, mucus hypersecretion, and impaired ciliary function → chronic productive cough</span>
 	- Reid index is the ratio of the thickness of the submucosal mucus-secreting glands to the thickness between the epithelium and cartilage in the bronchial tree.
 	- Reid index > 0.5 is characteristic of chronic bronchitis.
 - Smooth muscle hyperplasia of the small airways and pulmonary vasculature (mainly due to hypoxic vasoconstriction) → [[pulmonary hypertension|pulmonary hypertension]] → [[Pulmonary hypertension|cor pulmonale]]

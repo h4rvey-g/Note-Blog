@@ -13,7 +13,7 @@ share: true
 - 4 CNs divide into 12 are in the midline
 	- III, IV, VI, XII
 - 4 CNs do not divide/12 are in the lateral
-	- V, VII, IX, XI
+	- V, VII, IX, XI![[L1466.jpg|L1466.jpg]]
 - 4 <font color="#ffc000">m</font>idline columns -> <font color="#ffc000">m</font>otor
 	- <font color="#ffc000">M</font>otor nucleus
 	- <font color="#ffc000">M</font>otor pathway

@@ -77,7 +77,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 ## Additional studies
 - CSF examination
 	- <span style="background:rgba(240, 200, 0, 0.2)">Oligoclonal bands</span>
-		- Oligoclonal bands manifest <span style="background:rgba(240, 200, 0, 0.2)">due to increased production of multiple nonspecific IgG sub-fractions in the CSF, which are caused by intrathecal inflammation.</span>
+		- Oligoclonal bands manifest <span style="background:rgba(240, 200, 0, 0.2)">due to increased production of multiple nonspecific IgG sub-fractions in the CSF, which are caused by intrathecal inflammation.</span>![[L39066.jpg|L39066.jpg]]
 	- Other common findings: moderate <span style="background:rgba(240, 200, 0, 0.2)">lymphocytic pleocytosis, increased myelin basic protein</span>
 
 >[!tip] 

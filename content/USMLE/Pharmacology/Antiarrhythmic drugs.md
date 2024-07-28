@@ -25,8 +25,8 @@ Class IA is 1+2, Class IC is only 1 (strongly). However, Class IB is different f
 # Other antiarrhythmic drugs
 ---
 ## Adenosine
-- Mechanism of action: activates Gi protein → inhibition of adenylate cyclase → ↓ cAMP → deactivation of L-type Ca2+ channels and activation of K+ channels → ↓ Ca2+ and ↑ K+ efflux → <span style="background:rgba(240, 200, 0, 0.2)">hyperpolarization → transient AV node block (short-acting, ∼ 15 seconds) → acute termination of supraventricular tachycardia</span>
+- Mechanism of action: activates Gi protein → inhibition of adenylate cyclase → ↓ cAMP → deactivation of L-type Ca2+ channels and activation of K+ channels → ↓ Ca2+ and ↑ K+ efflux → <span style="background:rgba(240, 200, 0, 0.2)">hyperpolarization → transient AV node block (short-acting, ∼ 15 seconds) → acute termination of [[supraventricular tachycardia|supraventricular tachycardia]]</span>
 - Indications
-	- Diagnosis and termination of certain forms of paroxysmal supraventricular tachycardias (e.g., AVNRT and orthodromic AVRT) 
+	- Diagnosis and termination of certain forms of paroxysmal supraventricular tachycardias (e.g., [[Supraventricular tachycardia|AVNRT]] and orthodromic AVRT) 
 	- Diagnosis of underlying AFib in supraventricular tachyarrhythmias 
 

@@ -12,19 +12,19 @@ share: true
 # Etiology
 ---
 - Decreased intake
-	- Starvation, anorexia
+	- [[Metabolic fuel use|Starvation]], anorexia
 - Intracellular translocation
-	- Insulin (eg, treatment of DKA, refeeding syndrome)
+	- Insulin (eg, treatment of [[Hyperglycemic crises|DKA]], refeeding syndrome)
 	- <span style="background:rgba(240, 200, 0, 0.2)">β-adrenergic activity</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Pharmacologic (eg, albuterol, dobutamine)</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Stress-induced (eg, alcohol withdrawal, acute MI)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Stress-induced (eg, [[alcohol withdrawal|alcohol withdrawal]], acute MI)</span>
 			- Catecholamine (eg, norepinephrine, epinephrine) release. Epinephrine activates the beta-2 receptor, leading to increased activity of the sodium-potassium ATPase pump and the sodium-potassium-2-chloride cotransporter, both of which transport potassium intracellularly.
 	- Alkalosis (respiratory or metabolic)
-	- ↑ Cell reproduction (eg, acute myeloid leukemia, GM-CSF)
+	- ↑ Cell reproduction (eg, [[Acute leukemia|acute myeloid leukemia]], GM-CSF)
 - Gastrointestinal loss
-	- Diarrhea, vomiting, hyperaldosteronism
+	- Diarrhea, vomiting, [[Primary hyperaldosteronism|hyperaldosteronism]]
 - Urinary loss
-	- Hyperaldosteronism, diuretics, RTA types 1 and 2
+	- [[Primary hyperaldosteronism|Hyperaldosteronism]], diuretics, [[Renal tubular disorders|RTA]] types 1 and 2
 - Sweat loss
 	- Extreme exercise in hot climate
 

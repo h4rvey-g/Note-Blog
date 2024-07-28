@@ -18,6 +18,7 @@ share: true
 	- ↑ Pulse pressure (isolated systolic HTN)
 - Mild concentric LVH
 	- Response to cardiomyocyte dropout & ↑ afterload
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ left ventricular cavity size and sigmoid-shaped interventricular septum</span>
 	- Resting EF, SV & cardiac output maintained
 	- ↓ Maximal cardiac output
 - Conduction cell degeneration

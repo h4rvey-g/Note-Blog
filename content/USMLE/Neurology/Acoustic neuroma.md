@@ -34,10 +34,11 @@ share: true
 # Diagnostics
 
 # Pathology
+![[L66367.jpg|L66367.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Spindle cells (fibroblasts) in palisades (Antoni A tissue) alternating with myxoid hypocellular areas (Antoni B tissue)</span>![[Pasted image 20240103150456.png|Pasted image 20240103150456.png]]
 	- A characteristic finding of neuromas is the simultaneous occurrence of areas with densely packed nuclei (palisade pattern; A) and scattered or anuclear areas (B). There is also a large number of vacuolated cells (C).
 - <span style="background:rgba(240, 200, 0, 0.2)">S-100 positive</span>
-	- S-100 can be seen in [[melanoma|melanoma]], schwannoma, Langerhans cell histiocytosis
+	- S-100 can be seen in [[melanoma|melanoma]], schwannoma, [[Langerhans cell histiocytosis|Langerhans cell histiocytosis]]
 
 ---
 # Treatment

@@ -13,8 +13,8 @@ share: true
 - Inherited susceptibility: primarily autosomal dominant with reduced penetrance
 	- ∼ 50% of cases: <span style="background:rgba(240, 200, 0, 0.2)">associated with a mutation in the ryanodine receptor type 1 (RYR-1)</span>
 		- RYR1 primarily in skeletal myocytes, RYR2 primarily in cardiac myocytes, and RYR3 in various cells including neurons.
-- Triggering agents
-	- Volatile [[Inhalational anesthetics|anesthetics]] (except nitrous oxide)
+- <span style="background:rgba(240, 200, 0, 0.2)">Triggering agents</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Volatile [[Inhalational anesthetics|anesthetics]] (except nitrous oxide)</span>
 	- Succinylcholine
 
 ---
@@ -25,7 +25,15 @@ share: true
 
 ---
 # Clinical features
-
+- Early signs
+	- Tachycardia
+	- Tachypnea
+	- Cyanosis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized rigidity, masseter rigidity </span>
+- Late signs
+	- <span style="background:rgba(240, 200, 0, 0.2)">Elevated body temperature (up to 45ºC/113°F)</span>
+	- Signs of secondary organ damage
+		- <span style="background:rgba(240, 200, 0, 0.2)">Myoglobinuria, muscle pain, swelling, and weakness of the affected muscles ([[Rhabdomyolysis and crush syndrome|rhabdomyolysis]])</span>
 
 ---
 # Diagnostics
@@ -37,6 +45,6 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Immediate administration of dantrolene (ryanodine receptor antagonist)</span>
 	- Mechanism of action
 		- Ryanodine receptor antagonist
-		- Prevents release of calcium from the sarcoplasmic reticulum of striated muscle → reduced muscle rigidity and hyperthermia
+		- Prevents release of calcium from the sarcoplasmic reticulum of striated muscle → reduced muscle [[Spasticity (Clonus) vs Rigidity|rigidity]] and hyperthermia
 
 ---
