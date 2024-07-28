@@ -17,8 +17,11 @@ share: true
 ---
 - Tetanospasmin: reaches the CNS through retrograde axonal transport
 	- Toxin binds to receptors of peripheral nerves and is then transported to interneurons (Renshaw cells) in the CNS via vesicles. 
-	- Acts as protease that cleaves synaptobrevin, a SNARE protein → <span style="background:rgba(240, 200, 0, 0.2)">prevention of inhibitory neurotransmitters (i.e., [[Neurotransmitters|GABA]] and glycine) release from Renshaw cells in the spinal cord</span> → uninhibited activation of alpha motor neurons → muscle spasms, rigidity, and autonomic instability
+	- Acts as protease that cleaves synaptobrevin, <span style="background:rgba(240, 200, 0, 0.2)">a SNARE protein</span> → <span style="background:rgba(240, 200, 0, 0.2)">prevention of inhibitory neurotransmitters (i.e., [[Neurotransmitters|GABA]] and glycine) release from Renshaw cells in the spinal cord</span> → uninhibited activation of alpha motor neurons → muscle spasms, rigidity, and autonomic instability
 - Tetanolysin: causes hemolysis and has cardiotoxic effects
+
+>[!tip] Tetanus vs [[botulism|botulism]]
+>Both work on SNARE proteins![[Pasted image 20240726161637.png|Pasted image 20240726161637.png]]
 
 # Clinical features
 ---
@@ -26,7 +29,7 @@ share: true
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+
 
 # Treatment
 ---
