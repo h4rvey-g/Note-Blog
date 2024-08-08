@@ -8,9 +8,27 @@ aliases:
   - SSRIs
   - Bupropion
   - TCA
+  - Mirtazapine
 share: true
 ---
+| Type of Antidepressant                                                | Neurotransmitter(s) Increased                                                                         |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Selective Serotonin Reuptake Inhibitors (SSRIs)                       | Serotonin                                                                                             |
+| Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)                  | Serotonin, Norepinephrine                                                                             |
+| Tricyclic Antidepressants (TCAs)                                      | Serotonin, Norepinephrine                                                                             |
+| Norepinephrine-Dopamine Reuptake Inhibitors (Bupropion)               | Norepinephrine, Dopamine                                                                              |
+| Noradrenergic and Specific Serotonergic Antidepressants (Mirtazapine) | Norepinephrine, Serotonin                                                                             |
+| Monoamine Oxidase Inhibitors (MAOIs)                                  | <span style="background:rgba(240, 200, 0, 0.2)">All above: Serotonin, Norepinephrine, Dopamine</span> |
+| Serotonin Antagonist and Reuptake Inhibitors (SARIs)                  | Serotonin                                                                                             |
+| Serotonin Modulators and Stimulators (SMS)                            | Serotonin, Dopamine                                                                                   |
+
+>[!tip] 
+>- <span style="background:rgba(240, 200, 0, 0.2)">Those who don't increase serotonin don't have sexual dysfunction: bupropion, mirtazapine (increase norepi to compensate)</span>
+>- MAOIs increase all those neurotransmitters, thus it's the most powerful
+
+![[Pasted image 20240808103618.png|Pasted image 20240808103618.png]]![[Pasted image 20240807172514.png|Pasted image 20240807172514.png]]
 # Selective serotonin reuptake inhibitors (SSRI)
+---
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of [[Neurotransmitters|serotonin]] reuptake in synaptic cleft → ↑ serotonin levels</span>
 - Drugs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fluoxetine</span>
@@ -51,7 +69,31 @@ share: true
 >Think <font color="#ffc000">squirt</font> raline to remember <font color="#ffc000">diarrhea and breast milk</font>.
 ## Citalopram
 - QT prolongation![[Pasted image 20240325102934.png|Pasted image 20240325102934.png]]
+# Serotonin antagonist and reuptake inhibitors (SARIs)
+---
+- Mechanism of action 
+	- Block postsynaptic type 2 serotonin receptors (5-HT2) 
+	- Weak inhibition of serotonin reuptake → ↑ serotonin levels
+	- Antagonist of H1 and α1-adrenergic receptors
+- Drugs
+	- Trazodone
+- Indications
+	- Insomnia
+	- Major depressive disorder (high doses required)
+- Side effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Priapism</span>
+	- Sedation (due to H1 antagonism)
+	- Orthostatic hypotension
+	- Nausea
+- Drug interactions: risk of serotonin syndrome if used concomitantly with other serotonergic drugs
+- Additional information
+	- Mainly used as an adjunct to other antidepressants for treating insomnia associated with depression 
+	- Two-week washout period before starting other serotonergic drugs
+
+>[!Mnemonic] 
+>Think “tra<font color="#ffc000">Zzz</font>o<font color="#ffc000">BONE</font>” to remember the adverse effects of <font color="#ffc000">sedation (Zzz...) and priapism</font>!
 # Atypical antidepressants
+---
 ## Mirtazapine
 - Mechanism of action 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Selective α2-adrenergic antagonist → ↑ [[Neurotransmitters|serotonin]] and norepinephrine release</span>
@@ -134,7 +176,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Amitriptyline</span>
 		- Clomipramine
 		- Doxepin
-		- Imipramine
+		- <span style="background:rgba(240, 200, 0, 0.2)">Imipramine</span>
 		- Trimipramine
 - Indications
 	- [[Major depressive disorder|Major depressive disorder]] (third- or fourth-line therapy)
