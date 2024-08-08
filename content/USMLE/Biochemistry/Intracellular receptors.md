@@ -13,5 +13,5 @@ share: true
 		- [[Androgen and estrogen synthesis|Estrogen]]
 		- Progesterone
 	- Thyroxine, triiodothyronine
-	- <span style="background:rgba(240, 200, 0, 0.2)">Fat-soluble vitamins</span>
-		- Vitamin D
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fat-soluble [[Water-soluble vitamins|vitamins]]</span>
+		- [[Vitamin D|Vitamin D]]
