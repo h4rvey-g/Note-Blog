@@ -81,6 +81,14 @@ share: true
 >[!Mnemonic] 
 ><font color="#ffc000">Quiet</font>iapine
 # Adverse effects
+- First-generation antipsychotics (FGAs)
+	- High-potency (eg, haloperidol)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Extrapyramidal symptoms (acute dystonia, akathisia, parkinsonism), tardive dyskinesia</span>
+	- Low-potency (eg, chlorpromazine)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Sedation, cholinergic blockade, orthostatic hypotension</span>, weight gain
+- Second-generation antipsychotics (SGAs)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Metabolic syndrome, weight gain</span>
+	- Extrapyramidal symptoms (less common than FGAs)
 ## [[Hyperprolactinemia|Hyperprolactinemia]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common in risperidone, amisulpride</span>
 >[!Mnemonic] 
