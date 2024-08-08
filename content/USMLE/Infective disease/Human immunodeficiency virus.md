@@ -16,7 +16,10 @@ share: true
 
 # Etiology
 ---
-
+- HIV is considered tropic for a certain cell type, depending on whether it preferentially binds to CCR5 or CXCR4 for viral entry, as follows:
+	- <span style="background:rgba(240, 200, 0, 0.2)">R5 virus uses CCR5 for viral entry and is considered macrophage-tropic because CCR5 is expressed in high concentrations on both macrophages and lymphocytes.  R5 is the predominant HIV type.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">X4 virus uses CXCR4 for viral entry and is considered T lymphotropic because CXCR4 is expressed primarily on T lymphocytes but only minimally on macrophages.</span>
+- HIV trophism is determined by a gene sequence in the variable (V3) region of the env gene, which encodes for the HIV surface glycoprotein 120.  This glycoprotein mediates viral attachment to the CD4 receptor and chemokine coreceptor.
 
 # Pathophysiology
 ---
@@ -58,4 +61,4 @@ share: true
 
 # Treatment
 ---
-
+See [[HIV therapy|HIV therapy]]
