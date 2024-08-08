@@ -11,7 +11,7 @@ share: true
 	- Streptolysin O
 	- Streptococcal pyrogenic exotoxins
 		- Bridges MHC class II molecules on antigen-presenting cells and T-cell receptors on T cells outside of the normal binding sites
-		- Results in a large release of IL-1, IL-2, IFN-γ, and TNF-α
+		- Results in a large release of IL-1, IL-2, [[Interferons|IFN-γ]], and TNF-α
 - Enzymes
 	- DNase: destroys neutrophils → potentiates infection and transmission
 	- Streptokinase
@@ -25,12 +25,12 @@ share: true
 	- Pharyngitis
 	- Tonsillitis
 	- Peritonsillar abscess
-	- Otitis media
+	- [[Acute otitis media|Otitis media]]
 - Skin and soft tissues (pyogenic)
 	- Erysipelas
 	- Cellulitis
 	- Impetigo (“honey-crusted” lesions)
-	- Necrotizing fasciitis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Necrotizing fasciitis</span>
 	- Perianal streptococcal dermatitis
 - <span style="background:rgba(240, 200, 0, 0.2)">Toxin-mediated disease</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Scarlet fever|Scarlet fever]]</span>
