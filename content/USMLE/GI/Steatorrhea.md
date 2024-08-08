@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-28 10:02
 modified: 2023-10-28 10:02
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Etiology
