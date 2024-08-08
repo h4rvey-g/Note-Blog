@@ -11,6 +11,7 @@ share: true
 
 ---
 # Etiology
+![[L52716.jpg|L52716.jpg]]
 - Neurological causes
 	- [[Multiple sclerosis|Multiple sclerosis]]
 	- Spinal injury
