@@ -37,6 +37,7 @@ share: true
 	- Lipid metabolism: maintains a fat depot and has an antiketogenic effect 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte regulation: stimulates intracellular potassium accumulation </span>
 		- Directly stimulates Na<sup>+</sup>/K<sup>+</sup> ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
+- <span style="background:rgba(240, 200, 0, 0.2)">Those with long-standing diabetes (ie, >5 years) frequently also have alpha cell failure with decreased glucagon secretion and therefore have an even greater risk of rapid hypoglycemia.</span>
 ## Type 2 diabetes
 - Mechanisms
 	- Peripheral insulin resistance
