@@ -28,7 +28,13 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 
 ---
 # Pathophysiology
-
+- Tissue damage (pulmonary or extrapulmonary) → release of inflammatory mediators (e.g., interleukin-1) → inflammatory reaction → <span style="background:rgba(240, 200, 0, 0.2)">migration of neutrophils into alveoli</span> → <span style="background:rgba(240, 200, 0, 0.2)">excessive release of neutrophilic mediators (e.g., cytokines, proteases, reactive oxygen species)</span> → injury to alveolar capillaries and endothelial cells (diffuse alveolar damage, DAD)  leading to:
+	- Exudative phase: excess fluid in interstitium and on alveolar surface → <span style="background:rgba(240, 200, 0, 0.2)">pulmonary edema</span> with normal [[pulmonary capillary wedge pressure|pulmonary capillary wedge pressure]] (noncardiogenic pulmonary edema) → decreased lung compliance and respiratory distress 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hyaline membrane formation</span>: exudation of neutrophils and protein-rich fluid into the alveolar space → formation of alveolar hyaline membranes → impaired gas exchange → hypoxemia 
+		- Hypoxemia → compensation through hyperventilation → respiratory alkalosis
+		- Hypoxemia → chronic hypoxic pulmonary vasoconstriction → [[pulmonary hypertension|pulmonary hypertension]] and right-to-left pulmonary shunt (increased shunt fraction) 
+		- Damage to type I and type II pneumocytes → decrease in surfactant → alveolar collapse → intrapulmonary shunting
+	- Organizing phase (late stage): proliferation of type II pneumocytes and infiltration of fibroblasts → progressive interstitial fibrosis
 
 ---
 # Clinical features
