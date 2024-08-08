@@ -41,7 +41,7 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 |                       | **Mucinous cystadenocarcinoma** | Pseudomyxoma peritonei<br>Mucin-producing epithelial cells                                                                           |
 | **Germ cell**         | **Dysgerminoma**                | Adolescents<br>↑ β-hCG, ↑ LDH<br>Histology: "fried-egg" cells                                                                        |
 |                       | **Endodermal sinus (yolk sac)** | ↑ AFP<br>Aggressive<br>Schiller-Duval bodies resembling glomeruli                                                                    |
-| **Stroma (sex cord)** | **[[Granulosa cell tumor|Granulosa cell tumor]]**    | ↑ Estrogen (e.g., endometrial hyperplasia, postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
+| **Stroma (sex cord)** | **[[Granulosa cell tumor|Granulosa cell tumor]]**    | ↑ Estrogen (e.g., endometrial [[Cellular adaptations\|hyperplasia]], postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
 |                       | **Sertoli-Leydig cell tumor**   | <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgens (e.g., hirsutism, clitoromegaly)</span>                                  |
 
 
