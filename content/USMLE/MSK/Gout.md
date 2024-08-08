@@ -59,7 +59,9 @@ share: true
 
 ---
 # Diagnostics
-
+- Synovial fluid leukocyte count
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gout: >2,000/mm<sup>3</sup> </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Septic arthritis: > 50,000/mm<sup>3</sup></span>
 
 ---
 # Treatment
