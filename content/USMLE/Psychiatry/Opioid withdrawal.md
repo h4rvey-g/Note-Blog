@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-26 09:22
 modified: 2023-12-26 09:22
-aliases: []
+aliases:
+  - Opioids withdrawal
 share: true
 ---
 # Epidemiology
@@ -20,7 +21,7 @@ share: true
 # Clinical features
 - <span style="background:rgba(240, 200, 0, 0.2)">CNS arousal and sympathetic hyperactivity</span>
 	- Tachycardia, hypertension
-	- Anxiety, insomnia, irritability, agitation
+	- Anxiety, [[Insomnia disorder|insomnia]], irritability, agitation
 	- Mydriasis, <span style="background:rgba(240, 200, 0, 0.2)">yawning</span>, lacrimation, sneezing
 	- Hyperreflexia, muscle cramps
 - <span style="background:rgba(240, 200, 0, 0.2)">Flu-like symptoms</span>
@@ -47,7 +48,7 @@ Neonatal abstinence syndrome is caused by maternal drug use during [[pregnancy|p
 - Sympathetic hyperactivity: hypertension, tachycardia
 - CNS stimulation
 	- <span style="background:rgba(240, 200, 0, 0.2)">High pitched crying, irritability</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle tone and movement disorders (e.g., hyperreflexia, tremor, jerking)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle tone and movement disorders (e.g., hyperreflexia, [[tremor|tremor]], jerking)</span>
 	- Seizures
 	- Uncoordinated sucking reflexes
 
@@ -58,12 +59,6 @@ Neonatal abstinence syndrome is caused by maternal drug use during [[pregnancy|p
 
 ---
 # Treatment
-- Naloxone
-	- A competitive <span style="background:rgba(240, 200, 0, 0.2)">opioid receptor antagonist</span> with high binding affinity to the mu (μ) opioid receptor. 
-	- Used to <span style="background:rgba(240, 200, 0, 0.2)">reverse [[opioid overdose|opioid overdose]].</span> 
-	- It has a relatively short duration of action, which can lead to renewed effect of [[opioids|opioids]].
-- Naltrexone
-	- <span style="background:rgba(240, 200, 0, 0.2)">Maintenance therapy for patients who have completed opioid withdrawal and want to abstain from opioid use</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Acute opioid withdrawal: methadone/buprenorphine</span>
 	- Methadone 
 		- <span style="background:rgba(240, 200, 0, 0.2)">full mu-opioid receptor agonist</span>
@@ -75,6 +70,7 @@ Neonatal abstinence syndrome is caused by maternal drug use during [[pregnancy|p
 > <font color="#ffc000">Methadone</font>? The recovering heroin addict I <font color="#ffc000">met had one</font> .
 > Buprenorphine <font color="#ffc000">boop</font>s the <font color="#ffc000">morphine</font>![[Pasted image 20240316205426.png|Pasted image 20240316205426.png]]
 
-![[Pasted image 20240316203900.png|Pasted image 20240316203900.png]]
+>[!warning] 
+>Naloxone is for [[Opioid overdose|opioids overdose]]. Giving naloxone for acute opioid withdrawal or neonatal abstinence syndrome will result in more severe withdrawal symptoms and is contraindicated.
 
 ---
