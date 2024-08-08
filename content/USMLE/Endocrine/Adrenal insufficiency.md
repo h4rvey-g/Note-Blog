@@ -17,11 +17,11 @@ share: true
 	- Caused by autoimmune destruction of both adrenal cortices
 	- Associated with other autoimmune endocrinopathies
 - Infectious adrenalitis
-	- Tuberculosis: most common cause worldwide, but rare in the US
+	- [[Tuberculosis|Tuberculosis]]: most common cause worldwide, but rare in the US
 	- CMV disease in immunosuppressed states (especially AIDS)
 	- [[Histoplasmosis|Histoplasmosis]]
 - Adrenal hemorrhage 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis (Waterhouse-Friderichsen syndrome)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis ([[Waterhouse-Friderichsen syndrome|Waterhouse-Friderichsen syndrome]])</span>
 	- Disseminated intravascular coagulation (DIC)
 - Infiltration of the adrenal glands
 	- Tumors (adrenocortical tumors, lymphomas, metastatic carcinoma)
@@ -82,7 +82,7 @@ Adrenal crisis is an <span style="background:rgba(240, 200, 0, 0.2)">acute, seve
 	- Other infections
 	- Perioperative period
 - <span style="background:rgba(240, 200, 0, 0.2)">Sudden discontinuation of glucocorticoids</span> after prolonged glucocorticoid therapy 
-- Bilateral adrenal hemorrhage or infarction (e.g., Waterhouse-Friderichsen syndrome)
+- Bilateral adrenal hemorrhage or infarction (e.g., [[Waterhouse-Friderichsen syndrome|Waterhouse-Friderichsen syndrome]])
 - Pituitary apoplexy
 >[!tip] 
 >In order to prevent the development of secondary and tertiary adrenal insufficiency, prolonged steroid therapy should be tapered slowly rather than stopped abruptly.
@@ -106,9 +106,9 @@ Adrenal crisis is an <span style="background:rgba(240, 200, 0, 0.2)">acute, seve
 				- <span style="background:rgba(240, 200, 0, 0.2)">Hypoparathyroidism</span>
 				- <span style="background:rgba(240, 200, 0, 0.2)">Chronic mucocutaneous candidiasis</span>
 				- Ectodermal dystrophy of skin, nails, and dental enamel
-	- Type 2 (APS-2, Schmidt syndrome): defined by the occurrence of primary adrenal insufficiency with thyroid autoimmune disease and/or type 1 diabetes mellitus
+	- Type 2 (APS-2, Schmidt syndrome): defined by the occurrence of primary adrenal insufficiency with thyroid autoimmune disease and/or [[Diabetes mellitus|type 1 diabetes]] mellitus
 		- Main manifestation: primary adrenal insufficiency
 			- Associated endocrine deficiencies (one or more of the following may be present)
 				- Most commonly
-					- Thyroid autoimmune disease (e.g., Hashimoto thyroiditis)
-					- Type 1 diabetes mellitus
+					- Thyroid autoimmune disease (e.g., [[Hashimoto thyroiditis|Hashimoto thyroiditis]])
+					- [[Diabetes mellitus|Type 1 diabetes]] mellitus

@@ -16,7 +16,7 @@ share: true
 
 # Pathophysiology
 ---
-Failed neuronal and glial cell migration
+Failed neuronal and [[Glial cells|glial cell]] migration
 
 # Clinical features
 ---

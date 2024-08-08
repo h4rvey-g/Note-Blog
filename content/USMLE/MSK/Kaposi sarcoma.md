@@ -18,7 +18,7 @@ share: true
 
 ---
 # Pathophysiology
-
+<span style="background:rgba(240, 200, 0, 0.2)">HHV-8 infects vascular and lymphatic endothelial cells</span>, causing them to differentiate into a mixed phenotype thought to increase oncogenic potential.  The HHV-8 genome contains several viral [[oncogenes|oncogenes]] that inhibit cell cycle regulation and apoptosis, thereby <span style="background:rgba(240, 200, 0, 0.2)">promoting endothelial cell growth and tumorigenesis</span>
 
 ---
 # Clinical features
@@ -36,7 +36,7 @@ Patients typically present with multiple cutaneous or visceral elevated tumors w
 ---
 # Diagnostics
 - Biopsy and histology of cutaneous or visceral lesions (indicated in all patients)
-	- Spindle shaped cells, leukocyte infiltration, and angiogenesis![[Pasted image 20231028161734.png|Pasted image 20231028161734.png]]
+	- Dermal proliferation of spindle-shaped endothelial cells with slit-like vascular spaces, red blood cell extravasation, and inflammation.![[L85243.png|L85243.png]]
 
 ---
 # Treatment

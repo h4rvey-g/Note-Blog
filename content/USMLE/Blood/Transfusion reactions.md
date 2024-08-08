@@ -31,6 +31,8 @@ share: true
 	- Anemia
 # Massive transfusion-related complications
 ## <span style="background:rgba(240, 200, 0, 0.2)">Hypocalcemia</span>
-- Resulting from the binding of ionized calcium by citrate (an anticoagulant added to RBC, platelet, FFP, and whole blood transfusion units)
+- Resulting from the<span style="background:rgba(240, 200, 0, 0.2)"> binding of ionized calcium by citrate</span> (an anticoagulant added to RBC, platelet, FFP, and whole blood transfusion units)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Normally, following transfusion, citrate is rapidly metabolized to bicarbonate in the liver</span>; however, when large volumes of blood are transfused rapidly, the excess citrate can chelate calcium in the plasma, leading to hypocalcemia due to decreased serum ionized calcium concentration.  
+	- <span style="background:rgba(240, 200, 0, 0.2)">This is most common with very high transfusion rates (eg, >9 units/hr), but it can also be seen at lower rates in patients with underlying hepatic insufficiency (eg, alcohol-associated liver disease).</span>
 ## Hyperkalemia
 - Resulting from the lysis of RBCs in stored blood units

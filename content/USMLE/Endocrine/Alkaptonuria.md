@@ -23,9 +23,9 @@ Mutation in the HGD gene
 ![[Pasted image 20240209154024.png|Pasted image 20240209154024.png]]
 - Usually, a benign condition
 - Ochronosis: <span style="background:rgba(240, 200, 0, 0.2)">bluish-black discoloration of connective tissues</span> 
-	- Affects cartilage (e.g., ears), tendons, skin, and/or sclera
-	- Body fluids (e.g., urine, sweat) often turn black when exposed to air 
-		- The urine in an affected baby's diaper often darkens after several hours. Clothing may show brownish stains from perspiration. The late darkening is caused by the oxidation of homogentisic acid in body fluids.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Affects cartilage (e.g., ears), tendons, skin, and/or sclera</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Body fluids (e.g., urine, sweat) often turn black when exposed to air </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">The urine in an affected baby's diaper often darkens after several hours.</span> Clothing may show brownish stains from perspiration. <span style="background:rgba(240, 200, 0, 0.2)">The late darkening is caused by the oxidation of homogentisic acid in body fluids.</span>
 	- Calcifications of the following
 		- Cartilage: arthritis (ochronotic osteoarthropathy)
 			- May manifest with arthralgias due to accumulation of homogentisic acid, which attacks cartilage, in the joints
@@ -38,6 +38,6 @@ Mutation in the HGD gene
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

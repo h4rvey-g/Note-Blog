@@ -28,6 +28,7 @@ See also [[Lipid transport|Lipid transport]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Statin-associated myopathy</span>
 		- Muscle pain and weakness, <span style="background:rgba(240, 200, 0, 0.2)">especially when used alongside fibrates or niacin</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Myositis: ↑ CK</span> 
+		- Statins are metabolized by CYP3A4. <span style="background:rgba(240, 200, 0, 0.2)">This enzyme can be inhibited by macrolide antibiotics (eg, erythromycin, clarithromycin), leading to increased statin drug levels and subsequent statin myopathy.</span> See [[Cytochrome P450|Cytochrome P450]].
 		- May progress to rhabdomyolysis: rare but severe side-effect that may lead to myoglobinuria → AKI (↑ BUN and ↑ creatinine)
 		- Treatment must be discontinued if myopathy/rhabdomyolysis occurs.
 

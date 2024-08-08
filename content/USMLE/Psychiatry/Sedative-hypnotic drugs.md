@@ -33,10 +33,10 @@ share: true
 | Sedative Effect     | Strong sedative effects                                          | Moderate sedative effects                                      |
 | Duration of Action  | Short to long duration depending on the type                     | Short to intermediate duration                                 |
 | Metabolism          | Metabolized by liver enzymes                                     | Metabolized by liver enzymes                                   |
-| Indications         | Historically used as sedatives, <span style="background:rgba(240, 200, 0, 0.2)">anesthetics</span>, and anticonvulsants | Primarily used as anxiolytics, sedatives, and muscle relaxants |
+| Indications         | Historically used as sedatives, <span style="background:rgba(240, 200, 0, 0.2)">[[Inhalational anesthetics\|anesthetics]]</span>, and [[Anticonvulsant drugs\|anticonvulsants]] | Primarily used as anxiolytics, sedatives, and muscle relaxants |
 | Withdrawal          | Severe withdrawal symptoms, including seizures                   | Generally milder withdrawal symptoms                           |
 | Risk of Dependence  | High risk of physical and psychological dependence               | Lower risk of physical and psychological dependence            |
-| Examples            | Phenobarbital, Pentobarbital, Secobarbital, <span style="background:rgba(240, 200, 0, 0.2)">Primidone: essential tremor</span>                       | Diazepam, Alprazolam, Lorazepam, Clonazepam                    |
+| Examples            | Phenobarbital, Pentobarbital, Secobarbital, <span style="background:rgba(240, 200, 0, 0.2)">Primidone: [[essential tremor|essential tremor]]</span>                       | Diazepam, Alprazolam, Lorazepam, Clonazepam                    |
 
 # Nonbenzodiazepine hypnotics (Z-drugs)
 ---

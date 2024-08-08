@@ -22,6 +22,9 @@ share: true
 >[!Mnemonic] 
 >诱发三高和溃疡，伤口感染不好长，骨松眼青人发狂
 
+- ↑ Hematocrit
+	- Steroids, particularly anabolic steroids, stimulate the production of erythropoietin
+
 ---
 # Diagnostics
 ![[Pasted image 20231208103735.png|Pasted image 20231208103735.png]]
@@ -43,6 +46,6 @@ share: true
 	- Diagnostics
 		- <span style="background:rgba(240, 200, 0, 0.2)">High levels of β-MSH and ACTH</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Pituitary adenoma|Pituitary adenoma]] on MRI confirms the diagnosis.</span>
-	- Treatment: <span style="background:rgba(240, 200, 0, 0.2)">surgery (e.g., transsphenoidal resection) and/or pituitary radiation therapy (e.g., if the tumor cannot be fully resected)</span>
+	- Treatment: <span style="background:rgba(240, 200, 0, 0.2)">surgery (e.g., transsphenoidal resection) and/or pituitary [[radiation therapy|radiation therapy]] (e.g., if the tumor cannot be fully resected)</span>
 
 ---

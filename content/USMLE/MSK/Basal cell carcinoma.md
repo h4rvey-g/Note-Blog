@@ -12,7 +12,8 @@ share: true
 
 # Etiology
 ---
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Intermittent UV exposure</span> is the most significant risk factor
+	- <span style="background:rgba(240, 200, 0, 0.2)">As opposed to cumulative UV exposure, which is a recognized risk factor for [[Cutaneous squamous cell carcinoma|cSCC]].</span>
 
 # Pathophysiology
 ---

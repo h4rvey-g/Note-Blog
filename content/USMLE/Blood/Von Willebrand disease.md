@@ -8,7 +8,7 @@ aliases:
 share: true
 ---
 
-<span style="background:rgba(240, 200, 0, 0.2)">**Mixed platelet and coagulation disorders**</span>
+<span style="background:rgba(240, 200, 0, 0.2)">**Deficiency of vWF, cause mixed platelet and [[coagulation disorders|coagulation disorders]]**</span>
 # Epidemiology
 ---
 Most common congenital bleeding disorder.
@@ -27,10 +27,25 @@ Most common congenital bleeding disorder.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mediates platelet adhesion and aggregation</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Binds factor VIII (and thereby prevents its degradation)</span>
 
-Deficiency or dysfunction of vWF leads to:![[Pasted image 20240209102217.png|Pasted image 20240209102217.png]]
+<span style="background:rgba(240, 200, 0, 0.2)">Deficiency or dysfunction of vWF</span> leads to:![[Pasted image 20240209102217.png|Pasted image 20240209102217.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Dysfunctional platelet adhesion → impaired primary hemostasis</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Reduced binding of factor VIII → increased degradation → ↓ factor VIII activity → impaired intrinsic pathway of secondary hemostasis</span>
+# Clinical features
+---
+- <span style="background:rgba(240, 200, 0, 0.2)">Often asymptomatic</span>
+- Symptomatic individuals may develop the following symptoms:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mucocutaneous bleeding</span>
+		- Ecchymoses, easy bruising
+		- [[Epistaxis|Epistaxis]]
+		- Bleeding of gingiva and gums
+		- Petechiae
+		- Prolonged bleeding from minor injuries
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bleeding after surgical procedures or tooth extraction </span>
+	- GI bleeding (can be caused by [[angiodysplasia|angiodysplasia]])
+	- <span style="background:rgba(240, 200, 0, 0.2)">Menorrhagia</span> (affects up to 92% of women with vWD) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Postpartum hemorrhage|Postpartum hemorrhage]] </span>
 # Diagnostics
+---
 - ↑ Bleeding time
 - Normal or ↑ aPTT (may be prolonged as a result of factor VIII deficiency)
 - Ristocetin cofactor assay: measures the ability of von Willebrand factor (vWF) to agglutinate platelets.
@@ -41,4 +56,5 @@ Deficiency or dysfunction of vWF leads to:![[Pasted image 20240209102217.png|Pas
 - <span style="background:rgba(240, 200, 0, 0.2)">Desmopressin (DDAVP): stimulates vWF release from endothelial cells</span>
 	- Best initial treatment for mild or moderate symptoms (typically type 1 and, sometimes, type 2)
 	- Not effective for type 3 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Has a minimal effect on the V1 vasopressin receptor. Therefore won't cause vasoconstriction.</span>
 - Concentrates containing vWF and factor VIII: indicated for severe bleeding, as prophylaxis for surgical procedures and if DDAVP treatment is ineffective

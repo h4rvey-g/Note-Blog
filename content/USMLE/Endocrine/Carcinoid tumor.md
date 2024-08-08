@@ -31,7 +31,7 @@ share: true
 	- Glucagonoma
 - Bronchopulmonary system (10% of cases)
 	- Carcinoid lung tumor
-	- Small cell carcinoma
+	- <span style="background:rgba(240, 200, 0, 0.2)">Small cell carcinoma</span>
 - Thyroid: medullary carcinoma
 - Adrenal glands: pheochromocytoma
 ## Secretory products

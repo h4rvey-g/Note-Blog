@@ -9,7 +9,7 @@ share: true
 # Epidemiology
 - Age of onset: individuals > 40 years
 	- Symptoms start to show when body iron levels reach > 20 g. 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Before menopause, women lose iron via menstruation and pregnancy, which slows down iron accumulation within the body. As a result, symptom onset occurs later in women (typically postmenopausal) than in men.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Before [[menopause|menopause]], women lose iron via menstruation and pregnancy, which slows down iron accumulation within the body. As a result, symptom onset occurs later in women (typically postmenopausal) than in men.</span>
 
 ---
 # Etiology
@@ -27,13 +27,14 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 	- Abdominal pain
 	- [[Hepatomegaly|Hepatomegaly]]
 	- [[Cirrhosis|Cirrhosis]]
-	- Increased risk of hepatocellular carcinoma (common cause of death)
+	- Increased risk of [[hepatocellular carcinoma|hepatocellular carcinoma]] (common cause of death)
 - Pancreas: signs of <span style="background:rgba(240, 200, 0, 0.2)">[[diabetes mellitus|diabetes mellitus]] (polydipsia, polyuria)</span>
 - Skin: hyperpigmentation, <span style="background:rgba(240, 200, 0, 0.2)">bronze skin</span> 
 - Pituitary gland: hypogonadism, erectile dysfunction, testicular atrophy, loss of libido, [[amenorrhea|amenorrhea]]
 - Joints: <span style="background:rgba(240, 200, 0, 0.2)">arthralgia</span> (typically symmetrical arthropathy of the MCP joints II and III), chondrocalcinosis (accumulation of calcium pyrophosphate)
 - Heart
-	- Cardiomyopathy due to cardiac siderosis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Early: diastolic left ventricular dysfunction (restrictive pattern)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Later: cardiac remodeling & [[dilated cardiomyopathy|dilated cardiomyopathy]]</span>
 
 >[!tip] 
 >Classic triad of [[cirrhosis|cirrhosis]], [[diabetes mellitus|diabetes mellitus]], skin pigmentation (“bronze [[Diabetes mellitus|diabetes]]”).

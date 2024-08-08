@@ -67,6 +67,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotension and/or hypovolemic shock</span>, especially in infants
 		- <span style="background:rgba(240, 200, 0, 0.2)">Due to the trapping of blood in the spleen</span>
 	- Symptoms of anemia (e.g., pallor, fatigue)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Functional [[asplenia|asplenia]]: Increased risk of infection with encapsulated bacteria ([[Streptococcus pneumoniae|Streptococcus pneumoniae]] (most common), Neisseria [[meningitis|meningitis]], [[Haemophilus influenzae|Haemophilus influenzae]] type b</span>
 - Supportive findings 
 	- Anemia (Hb drop of ≥ 2 g/dL) with reticulocytosis
 	- Thrombocytopenia

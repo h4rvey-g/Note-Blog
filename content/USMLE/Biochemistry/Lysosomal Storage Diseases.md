@@ -12,6 +12,7 @@ aliases:
   - Hunter syndrome
 share: true
 ---
+![[L10571.png|L10571.png]]
 # Fabry disease
 ---
 ![[Pasted image 20231110170141.png|Pasted image 20231110170141.png]]Fabrite -> favourite

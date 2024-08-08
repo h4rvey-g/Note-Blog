@@ -22,7 +22,7 @@ Inflammation and progressive destruction (<span style="background:rgba(240, 200,
 # Diagnostics
 ---
 - Liver chemistries: cholestatic pattern of injury
-	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ALP, ↑ GGT, ↑ direct bilirubin</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ [[Alkaline phosphatase|ALP]], ↑ GGT, ↑ direct bilirubin</span>
 	- Mild transaminitis (or <span style="background:rgba(240, 200, 0, 0.2)">normal AST and ALT</span>)
 # Treatment
 ## General principles
@@ -33,4 +33,4 @@ Inflammation and progressive destruction (<span style="background:rgba(240, 200,
 - First-line: ursodeoxycholic acid (UDCA, ursodiol): a hydrophilic, nontoxic bile acid with immunomodulatory, anti-inflammatory, choleretic, and cytoprotective effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Slows disease progression</span> and development of complications (e.g., esophageal varices)
 	- Prolongs transplant-free and overall survival
-	- Also used in [[primary sclerosing cholangitis|primary sclerosing cholangitis]], cholestasis of pregnancy, and small cholesterol stones
+	- Also used in [[primary sclerosing cholangitis|primary sclerosing cholangitis]], cholestasis of [[pregnancy|pregnancy]], and small cholesterol stones

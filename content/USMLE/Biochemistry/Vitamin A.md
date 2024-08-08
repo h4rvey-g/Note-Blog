@@ -22,8 +22,13 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Disorders associated with fat [[malabsorption|malabsorption]]: inflammatory bowel disease (e.g., [[Crohn disease|Crohn disease]]), [[celiac disease|celiac disease]], [[cystic fibrosis|cystic fibrosis]], pancreatic insufficiency</span>
 	- Exocrine pancreatic insufficiency → lack of digestive enzymes → [[malabsorption|malabsorption]] of carbohydrates, proteins, fats, fat-soluble vitamins (A, D, E, K), and [[vitamin B12|vitamin B12]]
 ## Clinical features
+>[!tip] Triad of 
+>- Night blindness
+>- Dry eyes, Bitot spots
+>- Hyperkeratosis
+
 - Ocular manifestations
-	- Night blindness (nyctalopia)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Night blindness (nyctalopia)</span>
 	- Retinopathy
 	- Xerophthalmia
 	- Keratomalacia

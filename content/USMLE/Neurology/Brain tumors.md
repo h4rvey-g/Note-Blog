@@ -10,10 +10,10 @@ share: true
 ---
 ![[Pasted image 20240114153452.png|Pasted image 20240114153452.png]]
 >[!Tip] 
->Most tumors are glial origin, except for medulloblastoma (neural origin).
+>Most tumors are glial origin, except for [[medulloblastoma|medulloblastoma]] (neural origin).
 # Adult tumors
 ## Glioblastoma multiforme
-- A highly malignant tumor derived from glial cells (e.g., astrocytes)
+- A highly malignant tumor derived from [[glial cells|glial cells]] (e.g., astrocytes)
 - Most common malignant brain tumor![[Pasted image 20240114153607.png|Pasted image 20240114153607.png]]![[L63123.png|L63123.png]]
 - MRI would likely reveal a mass with central hemorrhagic necrosis, vasogenic edema, and possible extension to the contralateral hemisphere.![[L28216.jpg|L28216.jpg]]
 ## Oligodendroglioma

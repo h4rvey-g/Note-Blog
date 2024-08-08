@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-24 17:05
 modified: 2023-12-24 17:05
-aliases: []
+aliases:
+  - Opioids overdose
 share: true
 ---
 # Epidemiology
@@ -50,6 +51,11 @@ The classic triad consists of:
 ---
 # Treatment
 >[!tip] 
->Naloxone has short half-life (60 minutes on average; ranges from 30 to 90 minutes). Therefore, patients may develop recurrent symptoms of opioid toxicity after naloxone is metabolized, and frequent redosing may be necessary.
+>Naloxone has short half-life (60 minutes on average; ranges from 30 to 90 minutes). Therefore, patients may develop recurrent symptoms of opioid toxicity after naloxone is metabolized, and frequent redosing may be necessary.![[Pasted image 20240316203900.png|Pasted image 20240316203900.png]]
 
+
+- Naloxone
+	- A competitive <span style="background:rgba(240, 200, 0, 0.2)">opioid receptor antagonist</span> with high binding affinity to thejas a relatively short duration of action, which can lead to renewed effect of opioids.
+- Naltrexone
+	- <span style="background:rgba(240, 200, 0, 0.2)">Maintenance therapy for patients who have completed opioid withdrawal and want to abstain from opioid use</span>
 ---

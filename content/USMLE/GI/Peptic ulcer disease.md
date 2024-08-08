@@ -59,6 +59,11 @@ The <span style="background:rgba(240, 200, 0, 0.2)">two major contributing facto
 
 ---
 # Complications
+## Bleeding peptic ulcer
+- Etiology
+	- Posterior duodenal ulcers are more likely to bleed than anterior duodenal ulcers.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gastric ulcers of the lesser curvature may cause bleeding from the left gastric artery.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Duodenal ulcers of the posterior wall may cause bleeding from the gastroduodenal artery.</span>![[L44304.jpg|L44304.jpg]]
 ## Peptic ulcer perforation
 - Definition: full-thickness injury and loss of bowel wall integrity that results in leakage of gastrointestinal contents
 	- <span style="background:rgba(240, 200, 0, 0.2)">The second most common complication of PUD</span>
