@@ -11,7 +11,7 @@ share: true
 	- Common variable immunodeficiency
 - T-cell immunodeficiencies (more abnormalities)
 	- [[DiGeorge syndrome|DiGeorge syndrome]]
-	- Autosomal dominant hyper-IgE syndrome (Job syndrome)
+	- Autosomal dominant [[hyper-IgE syndrome|hyper-IgE syndrome]] (Job syndrome)
 	- IL-12 receptor deficiency
 	- Chronic mucocutaneous candidiasis
 	- IPEX syndrome
@@ -19,7 +19,7 @@ share: true
 	- [[Severe combined immunodeficiency|Severe combined immunodeficiency]]
 	- [[Wiskott-Aldrich syndrome|Wiskott-Aldrich syndrome]] (WAS)
 	- [[Hyper-IgM syndrome|Hyper-IgM syndrome]]
-	- Ataxia telangiectasia
+	- [[Ataxia-telangiectasia|Ataxia telangiectasia]]
 - Neutrophil and phagocyte disorders
 	- [[Chronic granulomatous disease|Chronic granulomatous disease]] (CGD)
 	- [[Leukocyte adhesion deficiency type 1|Leukocyte adhesion deficiency type 1]]
