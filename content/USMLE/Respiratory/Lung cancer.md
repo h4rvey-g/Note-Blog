@@ -3,7 +3,8 @@ title: Lung cancer
 author: Harvey Guo
 created: 2023-07-21 17:38
 modified: 2023-07-21 17:38
-aliases: []
+aliases:
+  - Small cell carcinoma
 share: true
 ---
 # Etiology
@@ -13,7 +14,8 @@ share: true
 # Classifications
 >[!tip] 
 >Squamous and small cell carcinomas are sentral (central) and often caused by tobacco smoking.
-## Adenocarcinoma
+## Non-small cell lung cancer (NSCLC)
+### Adenocarcinoma
 - Location: Peripheral
 - Characteristics
 	- Most common type of primary lung cancer
@@ -27,18 +29,26 @@ share: true
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 
  >“**A**denocarcinoma of **L**ung **K**inase”: Cancer (adenocarcinoma of lung) and the gene product (tyrosine kinase) are associated with ALK mutations.
-## Large cell carcinoma
+## Lung neuroendocrine tumors
+>[!tip] Histology
+>- Neuroendocrine Kulchitsky cells
+>- Rapid growth pattern
+>- <span style="background:rgba(240, 200, 0, 0.2)">Expressed [[tumor markers|tumor markers]]</span>
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Chromogranin A</span>
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Synaptophysin</span>
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Neuron-specific enolase</span>
+### Large cell carcinoma
 - Location: Peripheral
 - Characteristics
 	- <span style="background:rgba(240, 200, 0, 0.2)">Strong association with smoking</span>
 	- Poor response to chemotherapy
 	- Early metastases
 	- Poor prognosis
-## Small cell lung cancer (SCLC)
+### Small cell lung cancer (SCLC)
 - Location: Peripheral
 - Characteristics
 	- Strong association with <mark style="background: #FFF3A34A;">smoking</mark>
-## Bronchial [[carcinoid tumor|carcinoid tumor]]
+### Bronchial [[carcinoid tumor|carcinoid tumor]]
 - Location: Central or peripheral
 	- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
 - Neuroendocrine Kulchitsky cells
@@ -54,8 +64,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Located in the superior sulcus of the lung (superior sulcus tumor) </span>
 - Predominantly NSCLC 
 - May lead to the development of Pancoast syndrome
-	- Cervical sympathetic ganglion (stellate ganglion): <span style="background:rgba(240, 200, 0, 0.2)">Horner syndrome (ipsilateral miosis, ptosis, and anhidrosis) </span>
-	- Brachial plexus
+	- Cervical sympathetic ganglion (stellate ganglion): <span style="background:rgba(240, 200, 0, 0.2)">[[Horner syndrome|Horner syndrome]] (ipsilateral miosis, ptosis, and anhidrosis) </span>
+	- [[Brachial plexus|Brachial plexus]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Localized pain in the axilla and shoulder</span> (plexus neuralgia)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Upper limb motor and sensory deficits (e.g., hand muscle weakness and atrophy)</span>
 	- Recurrent laryngeal nerve: hoarseness
@@ -82,7 +92,7 @@ share: true
 - Clubbing of the fingers and toes (Hippocratic fingers) 
 - [[Idiopathic inflammatory myopathies|Dermatomyositis]] or [[Idiopathic inflammatory myopathies|polymyositis]]
 - Migratory thrombophlebitis (Trousseau syndrome)
-## SCLC <span style="background:rgba(240, 200, 0, 0.2)">(Secretion caused problems, except for PTHrP)</span>
+## SCLC <span style="background:rgba(240, 200, 0, 0.2)">(Secretion caused problems, except for [[Parathyroid hormone-related protein|PTHrP]])</span>
 - [[Cushing syndrome|Cushing syndrome]]
 - [[Syndrome of inappropriate antidiuretic hormone secretion|Syndrome of inappropriate antidiuretic hormone secretion]] ([[Syndrome of inappropriate antidiuretic hormone secretion|SIADH]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Lambert-Eaton syndrome, see [[Myasthenia gravis#Lambert-Eaton myasthenic syndrome (LEMS)|Myasthenia gravis > Lambert-Eaton myasthenic syndrome (LEMS)]]</span>
