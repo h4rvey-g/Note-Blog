@@ -6,7 +6,7 @@ aliases: []
 share: true
 ---
 
-Left part is for HIV, right part is for other virus.![[Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
+Left part is for [[Human immunodeficiency virus|HIV]], right part is for other virus.![[Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
 
 | Class                                                                                                                                       | Example(s)                                                 | Mechanism of action                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
