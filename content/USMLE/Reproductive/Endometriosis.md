@@ -52,6 +52,10 @@ share: true
 
 # Differential diagnosis
 ## Adenomyosis
+>[!tip] 
+>- <span style="background:rgba(240, 200, 0, 0.2)">Endometriosis: fixed, immobile uterus (due to pelvic adhesion)</span>
+>- <span style="background:rgba(240, 200, 0, 0.2)">Adenomyosis: enlarged, boggy, tender uterus</span>
+
 - Definition: benign disease characterized by the <span style="background:rgba(240, 200, 0, 0.2)">occurrence of endometrial tissue within the myometrium due to hyperplasia of the endometrial basal layer</span>
 - Epidemiology: peak incidence at 35–50 years
 - Clinical features
