@@ -96,11 +96,14 @@ share: true
 	- Adverse effects
 		- <span style="background:rgba(240, 200, 0, 0.2)">Nausea, vomiting</span>
 		- Dizziness
-		- Insomnia
+		- [[Insomnia disorder|Insomnia]]
 		- Cholinergic crisis
 		- <span style="background:rgba(240, 200, 0, 0.2)">Bradycardia, conduction abnormalities</span>
 - NMDA receptor antagonist: memantine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Moderate to severe AD</span>; Often used in combination with donepezil
 	- NMDA receptor antagonism → ↓ glutamate-induced calcium-mediated excitotoxicity
+
+>[!tip] 
+>Pharmacological therapies provide only modest delay in the progression of cognitive decline, with no change in disease course.
 
 ---
