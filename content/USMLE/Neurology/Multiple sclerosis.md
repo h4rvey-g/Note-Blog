@@ -22,7 +22,8 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 
 ---
 # Pathophysiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Pathophysiology of MS is characterized by autoimmune inflammation, demyelination, and axonal degeneration.</span>![[Pasted image 20231223165929.png|Pasted image 20231223165929.png]]
+![[L39372.jpg|L39372.jpg]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Pathophysiology of MS is characterized by autoimmune inflammation, demyelination, and axonal degeneration.</span>
 - Most commonly accepted theory: Activation of autoreactive T-lymphocytes  → inflammatory processes → <span style="background:rgba(240, 200, 0, 0.2)">focal demyelination</span> with partial preservation of axons (acute plaques) → <span style="background:rgba(240, 200, 0, 0.2)">loss of axons and atrophy of oligodendrocytes (chronic plaques) → gliosis</span>  → inadequate remyelination
 - B-[[lymphocyte|lymphocyte]] dysfunction: The following suggests that B-lymphocytes play a role in the pathogenesis of MS, although the exact mechanism of their involvement is unclear.
 	- Anti-CD20 agents (ocrelizumab, ofatumumab, rituximab) are effective in preventing exacerbations. 
