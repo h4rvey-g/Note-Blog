@@ -7,7 +7,7 @@ aliases:
   - GnRH agonists
 share: true
 ---
-# GnRH agonists
+# GnRH agonists (antagonist in long term)
 ## Agents
 - <span style="background:rgba(240, 200, 0, 0.2)">Buserelin</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Leuprolide</span>
