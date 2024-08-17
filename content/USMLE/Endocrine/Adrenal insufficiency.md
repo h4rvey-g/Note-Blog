@@ -4,6 +4,7 @@ created: 2023-12-08 14:16
 modified: 2023-12-08 14:16
 aliases:
   - Autoimmune polyglandular syndromes
+  - Addison disease
 share: true
 ---
 # Epidemiology
@@ -48,14 +49,23 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 - Muscle aches
 - Weakness
 - Gastrointestinal complaints (e.g., nausea, vomiting, [[diarrhea|diarrhea]])
-- Sugar cravings
-- (Orthostatic) hypotension
-	- Glucocorticoids play an important role in catecholamine‑induced vasoconstriction and myocardial contractility.
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Permissive action|Permissive action]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sugar cravings</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">(Orthostatic) hypotension</span>
+		- Glucocorticoids play an important role in catecholamine‑induced vasoconstriction and myocardial contractility.
+		- Think about 诱发三高和溃疡
 ### Lab findings
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Hypoglycemia|Hypoglycemia]] </span>
 	- Glucocorticoids inhibit peripheral glucose utilization and increase [[gluconeogenesis|gluconeogenesis]].
 - <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids inhibit ADH secretion and thereby prevent excessive water retention. With adrenal insufficiency, ADH secretion is disinhibited causing increased reabsorption of free water with subsequent dilution hyponatremia.</span>
+## Hypoaldosteronism 
+- Hypotension
+- Salt craving
+### Lab findings
+- Hyponatremia
+- Hyperkalemia
+- Normal anion gap metabolic acidosis
 ## <span style="background:rgba(240, 200, 0, 0.2)">Hypoandrogenism</span>
 - Loss of libido
 - <span style="background:rgba(240, 200, 0, 0.2)">Loss of axillary and pubic hair</span>
