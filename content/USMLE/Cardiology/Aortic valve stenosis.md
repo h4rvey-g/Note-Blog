@@ -11,8 +11,8 @@ share: true
 
 ---
 # Etiology
-- Aortic valve sclerosis: calcification and fibrosis of aortic valve leaflets
-	- Most common cause of aortic stenosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Aortic valve sclerosis: calcification and fibrosis of aortic valve leaflets</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause</span> of aortic stenosis
 	- Occurs at an increasing rate as patients age (prevalence is 35% in those aged 75–85 years) 
 	- Similar pathophysiology to [[atherosclerosis|atherosclerosis]]
 
