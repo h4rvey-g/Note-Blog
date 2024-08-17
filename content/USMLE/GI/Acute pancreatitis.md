@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-04 16:54
 modified: 2023-10-04 16:54
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Epidemiology
@@ -10,10 +10,20 @@ share: true
 
 ---
 # Etiology
+## Most common causes
 - Biliary pancreatitis (∼ 40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">[[gallstones|gallstones]]</span>) 
 	- Blockage of the common bile duct and pancreatic duct
 - <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced</span> (∼ 20% of cases)
 - Idiopathic (∼ 25% of cases)
+## Other causes
+ - Recent endoscopic retrograde cholangiopancreatography (ERCP) procedure
+ - Drugs (eg, azathioprine, sulfasalazine, furosemide, valproic acid)
+ - Infections (eg, [[mumps|mumps]], Coxsackie virus, Mycoplasma pneumoniae)
+ - <span style="background:rgba(240, 200, 0, 0.2)">Hypertriglyceridemia</span>: caused by severe hypertriglyceridemia (> 1,000 mg/dL)
+	 - Pathogenesis involves toxic fatty acids that are released from triglycerides via breakdown by pancreatic lipase. Associated with primary (e.g., type V hyperlipidemia) as well as secondary (e.g., due to medications) forms of hypertriglyceridemia.
+ - Structural abnormalities of the pancreatic duct (strictures, cancer, pancreas divisum) or of the ampullary region (choledochal cyst, stenosis of sphincter of Oddi)
+ - Surgery (particularly of the stomach and biliary tract and after cardiac surgery)
+ - [[Hypercalcemia|Hypercalcemia]]
 
 ---
 # Pathophysiology
@@ -23,7 +33,7 @@ share: true
 # Clinical features
 ## Symptoms
 - Constant, severe epigastric pain
-	- Classically radiating towards the back
+	- Classically radiating towards the back![[1821dda8c134787c9bffce71f1c1426.jpg|1821dda8c134787c9bffce71f1c1426.jpg]]
 	- Worse after meals and when supine
 	- Improves on leaning forwards
 - Nausea, vomiting
