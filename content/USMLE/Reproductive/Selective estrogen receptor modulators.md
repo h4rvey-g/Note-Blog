@@ -15,30 +15,30 @@ share: true
 ## Mechanism of action
 - Competitive <span style="background:rgba(240, 200, 0, 0.2)">antagonist on the estrogen receptors of the breast</span> → ↓ [[breast cancer|breast cancer]] cell growth
 - <span style="background:rgba(240, 200, 0, 0.2)">Agonist on estrogen receptors in the following tissues</span>:
-	- Bone tissue → inhibition of osteoclasts → ↓ risk of [[osteoporosis|osteoporosis]] and fractures
+	- Bone tissue → inhibition of [[Bone remodeling|osteoclasts]] → ↓ risk of [[osteoporosis|osteoporosis]] and fractures
 	- Endometrium → ↑ proliferation
 	- Myometrium → ↑ proliferation
 ## Indications
 - <span style="background:rgba(240, 200, 0, 0.2)">Premenopausal estrogen receptor-positive [[breast cancer|breast cancer]]</span>
 - Vaginal atrophy (related to [[menopause|menopause]])
-- [[Prostate cancer|Prostate cancer]]: prevention of gynecomastia
+- [[Prostate cancer|Prostate cancer]]: prevention of [[gynecomastia|gynecomastia]]
 ## Side effects
 - Hot flashes
-- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of endometrial cancer</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of [[endometrial cancer|endometrial cancer]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of [[Uterine leiomyoma#Uterine leiomyosarcoma (uterine sarcoma)|Uterine leiomyoma > Uterine leiomyosarcoma (uterine sarcoma)]]</span>
 - ↑ Risk of thromboembolic events (e.g., [[pulmonary embolism|pulmonary embolism]], DVT)
 # Raloxifene
 ---
 ## Mechanism of action
 - Competitive antagonist on estrogen receptors in the following tissues:
-	- Breast → ↓ breast cancer cell growth
+	- Breast → ↓ [[breast cancer|breast cancer]] cell growth
 	- Endometrium and myometrium → ↓ proliferation<span style="background:rgba(240, 200, 0, 0.2)"> (in contrast to tamoxifen)</span>
 - Agonist on estrogen receptor in bone tissue → inhibition of [[Bone remodeling|osteoclasts]]
 ## Indications
 - <span style="background:rgba(240, 200, 0, 0.2)">Prophylaxis of [[breast cancer|breast cancer]] in high-risk patients</span>
 - [[Osteoporosis|Osteoporosis]] in older patients (if bisphosphonates are contraindicated)
 ## Side effects
-- <span style="background:rgba(240, 200, 0, 0.2)">↓ Risk of endometrial cancer and uterine sarcoma</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↓ Risk of [[endometrial cancer|endometrial cancer]] and uterine sarcoma</span>
 # Clomiphene
 ---
 ## Mechanism of action
