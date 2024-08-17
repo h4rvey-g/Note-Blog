@@ -33,7 +33,7 @@ share: true
 - Genetic or chromosomal factors
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Down syndrome|Down syndrome]]: Risk of ALL is, like that of AML, 10–20 times higher in patients with [[Down syndrome|Down syndrome]] compared to the general population.</span>
 	- [[Neurocutaneous disorders|Neurofibromatosis]] type 1
-	- Ataxia telangiectasia
+	- [[Ataxia-telangiectasia|Ataxia telangiectasia]]
 
 ---
 # Pathophysiology
@@ -51,6 +51,17 @@ share: true
 >Some subtypes (<span style="background:rgba(240, 200, 0, 0.2)">especially M3, or APL</span>) exhibit Auer rods 
 >- Pink-red, rod-shaped granular cytoplasmic inclusion bodies in malignant immature myeloblasts or promyelocytes![[Pasted image 20240209151353.png|Pasted image 20240209151353.png]]
 >- Myeloperoxidase (MPO) positive
+## Immunophenotype
+- Immunohistochemistry
+	- ALL
+		- MPO negative
+		- <span style="background:rgba(240, 200, 0, 0.2)">Terminal deoxynucleotidyl transferase (TdT) positive</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">TdT</span> is a DNA polymerase involved in V(D)J recombination, which generates antigen receptor diversity during <span style="background:rgba(240, 200, 0, 0.2)">early lymphoid maturation</span>.
+		- Periodic acid-Schiff (PAS): often positive
+	- AML
+		- <span style="background:rgba(240, 200, 0, 0.2)">MPO positive</span>
+		- TdT negative
+		- PAS negative
 ## Genetic studies
 - <span style="background:rgba(240, 200, 0, 0.2)">APL: t(15;17) translocation, producing PML-RARA</span>
 - 
