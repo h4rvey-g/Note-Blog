@@ -37,7 +37,7 @@ Approx. 50% of patients remain asymptomatic. Symptoms occur approximately 1–6 
 - Urinalysis with microscopy: nephritic sediment
 - C3 [[Complement system|complement]], C4 [[Complement system|complement]] levels: <span style="background:rgba(240, 200, 0, 0.2)">classically shows ↓ C3 [[Complement system|complement]] with normal C4 [[Complement system|complement]]</span>
 >[!tip] 
->If both C3 and C4 [[Complement system|complement]] levels are decreased, consider other causes of glomerulonephritis with low serum [[Complement system|complement]] levels and possible nonrenal causes of low complement levels (e.g., liver failure, nonrenal protein-losing conditions).
+>If both C3 and C4 [[Complement system|complement]] levels are decreased, consider other causes of glomerulonephritis with low serum [[Complement system|complement]] levels and possible nonrenal causes of low [[Complement system|complement]] levels (e.g., liver failure, nonrenal protein-losing conditions).
 
 ## Evidence of preceding GAS infection
 - <span style="background:rgba(240, 200, 0, 0.2)">Antistreptococcal antibody titers</span>
@@ -45,7 +45,8 @@ Approx. 50% of patients remain asymptomatic. Symptoms occur approximately 1–6 
 - Isolation of group A beta-hemolytic streptococci
 	- Pharyngitis: rapid strep test, throat culture
 	- Skin lesions: wound cultures
-
+# Microscopy
+- LM: hypercellular glomeruli![[L71880.png|L71880.png]]
 # Treatment
 ---
 
