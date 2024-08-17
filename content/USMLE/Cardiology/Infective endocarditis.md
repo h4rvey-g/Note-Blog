@@ -19,7 +19,7 @@ share: true
 
 ## Risk factors for infective endocarditis
 - Cardiac conditions
-	- <span style="background:rgba(240, 200, 0, 0.2)">Acquired valvular disease (e.g., [[rheumatic heart disease|rheumatic heart disease]], [[Aortic valve stenosis|aortic stenosis]], degenerative valvular disease)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Acquired valvular disease (e.g., [[Mitral valve prolapse|Mitral valve prolapse]] (most common), [[rheumatic heart disease|rheumatic heart disease]], [[Aortic valve stenosis|aortic stenosis]], degenerative valvular disease)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Prosthetic heart valves</span>
 	- Congenital heart defects (e.g., [[Ventricular septal defect|VSD]], bicuspid aortic valve)
 - Noncardiac risk factors
