@@ -21,6 +21,7 @@ share: true
 # Clinical features
 >[!Mnemonic] 
 >诱发三高和溃疡，伤口感染不好长，骨松眼青人发狂
+><span style="background:rgba(240, 200, 0, 0.2)">三高 is related to [[Permissive action|Permissive action]] of corticosteroids</span>
 
 - ↑ Hematocrit
 	- Steroids, particularly anabolic steroids, stimulate the production of erythropoietin
