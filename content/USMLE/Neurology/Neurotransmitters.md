@@ -62,7 +62,7 @@ share: true
 	- Decreased levels
 		- Depression
 - Serotonin (<span style="background:rgba(240, 200, 0, 0.2)">aka 5-HT</span>)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Satiety, Tranquilty, Peace</span>![[Pasted image 20240315213453.png|Pasted image 20240315213453.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Satiety, Tranquilty, Peace</span>![[Pasted image 20240315213453.png|Pasted image 20240315213453.png]]![[Pasted image 20240808103618.png|Pasted image 20240808103618.png]]
 	- Increased levels
 		- [[Serotonin syndrome|Serotonin syndrome]]
 	- Decreased levels
