@@ -8,6 +8,7 @@ aliases:
   - Intracranial tumor
 share: true
 ---
+![[foo.webp|foo.webp]]
 ![[Pasted image 20240114153452.png|Pasted image 20240114153452.png]]
 >[!Tip] 
 >Most tumors are glial origin, except for [[medulloblastoma|medulloblastoma]] (neural origin).
