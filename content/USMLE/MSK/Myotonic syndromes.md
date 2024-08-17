@@ -14,7 +14,7 @@ share: true
 - Skeletal muscle weakness (due to muscle atrophy)
 - Myalgia
 - Arrhythmia 
-- Cataracts
+- [[Cataract|Cataracts]]
 - Testicular atrophy or features of ovarian insufficiency (i.e., infertility)
 - Frontal balding
 - Cognitive and behavioral impairment
