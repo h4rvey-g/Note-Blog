@@ -6,7 +6,14 @@ aliases: Untitled
 share: true
 ---
 ![[Pasted image 20230907163219.png|Pasted image 20230907163219.png]]
-- GlycoDRYRATE 
-	- Glyco: Represents glycopyrrolate.
-	- DRY: Represents its ability to reduce excessive salivation (sialorrhea).
-	- Rate: Emphasizes the therapeutic effect on heart rate control.
+- Glycopyrrolate
+	- Effects: ↓ GI and respiratory secretions
+	- Indications
+		- <span style="background:rgba(240, 200, 0, 0.2)">Peptic ulcer disease</span>
+		- Drooling
+		- Preoperative IV use to decrease respiratory secretions
+
+>[!Mnemonic] GlycoDRYRATE
+>- Glyco: Represents glycopyrrolate.
+>- <font color="#ffc000">DRY</font>: Represents its ability to reduce excessive salivation (sialorrhea).
+>- <font color="#ffc000">Rate</font>: Emphasizes the therapeutic effect on heart rate control.
