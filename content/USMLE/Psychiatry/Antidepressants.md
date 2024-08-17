@@ -69,12 +69,30 @@ share: true
 >Think <font color="#ffc000">squirt</font> raline to remember <font color="#ffc000">diarrhea and breast milk</font>.
 ## Citalopram
 - QT prolongation![[Pasted image 20240325102934.png|Pasted image 20240325102934.png]]
+# Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+---
+- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → <span style="background:rgba(240, 200, 0, 0.2)">↑ serotonin and norepinephrine levels </span>
+- Drugs
+	- <span style="background:rgba(240, 200, 0, 0.2)">Venlafaxine</span>
+	- Duloxetine
+	- Desvenlafaxine
+	- Levomilnacipran
+	- Milnacipran
+- Indications
+	- Major depressive disorder (second-line therapy)
+	- Generalized anxiety disorder
+	- Neuropathic pain (e.g. diabetic neuropathy)
+	- Duloxetine and milnacipran specifically: fibromyalgia
+	- Stress incontinence in women: duloxetine 
+	- Venlafaxine specifically: social anxiety disorder, OCD, panic disorder, and PTSD
+- Side effects
+	- Similar profile to SSRIs
 # Serotonin antagonist and reuptake inhibitors (SARIs)
 ---
 - Mechanism of action 
 	- Block postsynaptic type 2 serotonin receptors (5-HT2) 
 	- Weak inhibition of serotonin reuptake → ↑ serotonin levels
-	- Antagonist of H1 and α1-adrenergic receptors
+	- Antagonist of H1 (histamine) and α1-adrenergic receptors
 - Drugs
 	- Trazodone
 - Indications
@@ -82,6 +100,7 @@ share: true
 	- Major depressive disorder (high doses required)
 - Side effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Priapism</span>
+		- Blocking alpha-1 adrenergic receptors
 	- Sedation (due to H1 antagonism)
 	- Orthostatic hypotension
 	- Nausea
