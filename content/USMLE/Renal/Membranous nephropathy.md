@@ -15,7 +15,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Infections ([[Hepatitis B|HBV]], HCV, [[malaria|malaria]]</span>, syphilis)
 	- Autoimmune diseases (e.g., <span style="background:rgba(240, 200, 0, 0.2)">[[Systemic lupus erythematosus|SLE]]</span>)
 	- Tumors (e.g., [[lung cancer|lung cancer]], [[prostate cancer|prostate cancer]])
-	- Medications (e.g., NSAIDs, <span style="background:rgba(240, 200, 0, 0.2)">penicillamine</span>, gold)
+	- Medications (e.g., [[Non-opioid analgesics|NSAIDs]], <span style="background:rgba(240, 200, 0, 0.2)">penicillamine</span>, gold)
 
 ---
 # Pathophysiology
@@ -27,7 +27,7 @@ Anti-phospholipase A2 receptor antibodies (anti-PLA2R antibodies) bind to PLA2R 
 
 ---
 # Diagnostics
-
+There is diffuse thickening of the glomerular basement membrane and capillaries.![[Pasted image 20240810205356.png|Pasted image 20240810205356.png]]![[Pasted image 20240810205416.png|Pasted image 20240810205416.png]]
 
 ---
 # Treatment

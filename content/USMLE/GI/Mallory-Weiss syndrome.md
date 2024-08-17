@@ -14,9 +14,9 @@ share: true
 - Precipitating factors
 	- Severe vomiting
 - Predisposing conditions
-	- Alcohol use disorder
+	- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol use disorder</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Bulimia nervosa|Bulimia nervosa]]</span>
-	- Hiatal hernia (higher pressure gradient)
+	- [[Hiatal hernia|Hiatal hernia]] (higher pressure gradient)
 	- [[Gastroesophageal reflux disease|Gastroesophageal reflux disease]] (GERD)
 
 ---
@@ -26,7 +26,7 @@ share: true
 ---
 # Clinical features
 - May be asymptomatic
-- Epigastric or back pain
+- Epigastric or [[back pain|back pain]]
 - Hematemesis
 	- typically follows a period of severe, bloodless vomiting
 - Possible shock

@@ -28,13 +28,15 @@ share: true
 
 ---
 # Diagnostics
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">Lymphoma arises from mature lymphocytes</span> and often forms tumors in the <span style="background:rgba(240, 200, 0, 0.2)">lymphatic system</span>, <span style="background:rgba(240, 200, 0, 0.2)">leukemia typically originates from immature progenitor cells</span> in the bone marrow and is characterized by abnormal cells <span style="background:rgba(240, 200, 0, 0.2)">circulating in the blood</span>.
 ## Chromosomal translocations
 
 | Malignancy                   | Pathogenesis                                                                                                                                                                                                         |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Acute promyelocytic leukemia | t(15;17) involving PML & RARA → PML-RARα oncoprotein → myeloid differentiation inhibited<br>RARα: nuclear receptor involved in myeloid differentiation<br>PML: fusion forms receptor with dominant negative activity |
 | Burkitt lymphoma             | t(8;14) involving MYC & IGH → MYC overexpression → cell growth<br>MYC: transcription factor regulating cell growth<br>IGH: immunoglobulin heavy chain (high expression in B cells)                                   |
-| Chronic myeloid leukemia     | t(9;22) involving ABL1 & BCR → BCR-ABL1 oncoprotein → cell proliferation<br>ABL1: nonreceptor tyrosine kinase<br>BCR: fusion leads to activation                                                                     |
+| [[Chronic myeloid leukemia|Chronic myeloid leukemia]]     | t(9;22) involving ABL1 & BCR → BCR-ABL1 oncoprotein → cell proliferation<br>ABL1: nonreceptor tyrosine kinase<br>BCR: fusion leads to activation                                                                     |
 | Follicular lymphoma          | t(14;18) involving IGH & BCL2 → BCL2 overexpression → apoptosis evasion<br>BCL2: antiapoptotic protein                                                                                                               |
 | Mantle cell lymphoma         | t(11;14) involving CCND1 & IGH → cyclin D1 overexpression → cell cycle progression<br>Cyclin D1: regulates cell cycle progression                                                                                    |
 

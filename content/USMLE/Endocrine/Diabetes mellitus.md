@@ -89,6 +89,8 @@ share: true
 
 >[!tip] 
 >Strict glycemic control is crucial in preventing microvascular disease.
+## Other complications
+- <span style="background:rgba(240, 200, 0, 0.2)">Osmotic damage: occurs in tissues with high aldolase reductase activity and low/absent sorbitol dehydrogenase activity (e.g., eyes, peripheral nerves)</span> → <span style="background:rgba(240, 200, 0, 0.2)">diabetic cataracts</span>, neuropathy![[L59313.jpg|L59313.jpg]]
 
 ---
 # Diagnostics

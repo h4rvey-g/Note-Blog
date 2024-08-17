@@ -10,6 +10,16 @@ share: true
 >[!tip] [[Tetanus|Tetanus]] vs botulism
 >Both work on SNARE proteins![[Pasted image 20240726161637.png|Pasted image 20240726161637.png]]
 
+# Clinical features
+---
+- Neurological symptoms
+	- Descending paralysis
+		- Peripheral flaccid muscle paralysis that descends caudally (typically begins in frequently used muscles)
+		- Pupils: accommodation paralysis, mydriasis, diplopia
+		- Pharynx: dysarthria, dysphagia
+	- Infantile hypotonia (see “Infant botulism” below)
+- Gastrointestinal symptoms
+	- Gastrointestinal discomfort, nausea, and vomiting, later followed by constipation
 # Infant botulism
 - <span style="background:rgba(240, 200, 0, 0.2)">Etiology: ingestion of spores</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Spores may be present in honey, juice, and contaminated soil.</span>

@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-12 11:34
 modified: 2023-10-12 11:34
-aliases: Untitled
+aliases: []
 share: true
 ---
 See also [[Lipid transport|Lipid transport]]
@@ -40,7 +40,7 @@ See also [[Lipid transport|Lipid transport]]
 >Ezetim<span style="background:rgba(240, 200, 0, 0.2)">IB</span>e -- Intestinal brush border
 # Fibrates
 - Agents: bezafibrate, fenofibrate, and gemfibrozil
-- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the peroxisome proliferator-activated receptor alpha (PPAR–α)</span> → ↑ lipoprotein lipase activity → <span style="background:rgba(240, 200, 0, 0.2)">more rapid degradation of LDL and triglycerides and induction of HDL synthesis</span> → ↓ LDL, ↑ HDL, <span style="background:rgba(240, 200, 0, 0.2)">↓↓↓ triglyceride</span>
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the peroxisome proliferator-activated receptor alpha (PPAR–α)</span> → ↑ lipoprotein lipase activity → <span style="background:rgba(240, 200, 0, 0.2)">more rapid degradation of  TGs circulating in chylomicrons and VLDLs into fatty acids and glycerine, which can be taken up by cells; and induction of HDL synthesis</span> → ↓ LDL, ↑ HDL, <span style="background:rgba(240, 200, 0, 0.2)">↓↓↓ triglyceride</span>
 - Adverse effects
 	- Dyspepsia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Myopathy, especially in combination with statins</span> 

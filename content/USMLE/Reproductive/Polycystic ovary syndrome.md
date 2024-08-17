@@ -27,13 +27,14 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">↑ LH secretion disrupts the LH/FSH balance → impaired follicle maturation → unruptured follicles and anovulation/oligoovulation</span> <span style="background:rgba(240, 200, 0, 0.2)">→ cyst formation</span> and infertility![[Pasted image 20231208172457.png|Pasted image 20231208172457.png]]
 		- ↑ Androgen precursor release and ↑ estrogen production in adipose tissue
 	- Inhibition of SHBG in the liver → ↑ free androgens and estrogens
+		- SHBG production in the liver is suppressed by androgen and insulin and stimulated by estrogen and [[hyperthyroidism|hyperthyroidism]].
 		- <span style="background:rgba(240, 200, 0, 0.2)">↑ Unopposed estrogen (lack of progesterone) during anovulatory cycles → endometrial hyperplasia → ↑ risk of endometrial carcinoma</span>
 
 ---
 # Clinical features
 Onset of symptoms typically <span style="background:rgba(240, 200, 0, 0.2)">occurs during adolescence</span>.
 - <span style="background:rgba(240, 200, 0, 0.2)">Menstrual irregularities</span>
-	- Primary or secondary amenorrhea
+	- Primary or secondary [[amenorrhea|amenorrhea]]
 	- Oligomenorrhea
 	- Menorrhagia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Infertility or difficulties conceiving</span>

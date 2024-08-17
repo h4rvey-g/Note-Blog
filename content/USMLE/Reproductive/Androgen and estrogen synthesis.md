@@ -26,7 +26,7 @@ share: true
 - Definition: synthetic derivatives of testosterone
 - Anabolic steroids are sometimes misused as performance-enhancing drugs by athletes.
 - Side effects
-	- Gynecomastia
+	- [[Gynecomastia|Gynecomastia]]
 	- Decreased testicular size
 	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased sperm count, azoospermia</span>
 		- Negative feedback that inhibits GnRH, which reduces FSH, causing less stimulus of spermatogenesis

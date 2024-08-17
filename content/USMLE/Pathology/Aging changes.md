@@ -14,7 +14,7 @@ share: true
 # Cardiovascular system
 ---
 - Aortic stiffening
-	- Elastin replacement with collagen
+	- Elastin replacement with [[collagen|collagen]]
 	- ↑ Pulse pressure (isolated systolic HTN)
 - Mild concentric LVH
 	- Response to cardiomyocyte dropout & ↑ afterload
@@ -31,6 +31,10 @@ share: true
 ---
 - Senile purpura: recurrent, irregularly shaped, dark purple macules 
 	- Progressive loss of connective tissue, subcutaneous fat, and blood vessel elasticity → <span style="background:rgba(240, 200, 0, 0.2)">extravasation of blood into the dermis</span>
+# Nervous system
+---
+- Presbyopia
+	- Pathophysiology: age-related <span style="background:rgba(240, 200, 0, 0.2)">decrease in lens elasticity, strength of ciliary muscle, and lens curvature</span> → decreased lens accommodation (focusing on an object up close)
 # Beers criteria
 ---
 Common medications to avoid in older adults

@@ -28,7 +28,7 @@ share: true
 
 ---
 # Pathophysiology
-
+![[Pasted image 20240808103618.png|Pasted image 20240808103618.png]]
 
 ---
 # Clinical features

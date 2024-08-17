@@ -49,7 +49,7 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 - <span style="background:rgba(240, 200, 0, 0.2)">Serum total [[Alkaline phosphatase|ALP]]: often significantly increased</span>; first-line test to assess disease severity
 	- Due to increased osteoblast activity
 - <span style="background:rgba(240, 200, 0, 0.2)">Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal</span>
-	- Normal homeostasis is usually maintained despite the bone remodeling involved in PDB.
+	- Normal homeostasis is usually maintained despite the [[bone remodeling|bone remodeling]] involved in PDB.
 - Bone biopsy
 	- <span style="background:rgba(240, 200, 0, 0.2)">Typically shows a chaotic, mosaic-like pattern of irregularly juxtaposed lamellar and woven bone</span>![[Pasted image 20231020214727.png|Pasted image 20231020214727.png]]
 
