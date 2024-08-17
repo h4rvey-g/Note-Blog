@@ -8,7 +8,7 @@ share: true
 ---
 # Epidemiology
 - Incidence 
-	- Second most common gynecological cancer (after endometrial cancer)
+	- Second most common gynecological cancer (after [[endometrial cancer|endometrial cancer]])
 	- <span style="background:rgba(240, 200, 0, 0.2)">Incidence increases with age</span>
 - Age
 	- Peak incidence: 55–64 years of age
@@ -24,7 +24,7 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 ## Protective factors
 - <span style="background:rgba(240, 200, 0, 0.2)">Combined oral contraceptive pills</span>
 - Multiparity
-- Breastfeeding
+- [[Infant nutrition and breastfeeding|Breastfeeding]]
 - Bilateral salpingo-oophorectomy
 - Bilateral tubal ligation
 - Hysterectomy
@@ -35,6 +35,12 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 
 ---
 # Clinical features
+>[!tip] 
+>- Surface epithelial-stroma: composed of cells that support the normal ovarian structure for ovulation (eg, serous, mucinous epithelial cells).
+>- Sex cord-stroma: composed of cells that support and surround the oocyte.  <span style="background:rgba(240, 200, 0, 0.2)">These cells secrete sex hormones including estrogen (granulosa cells) and testosterone (Sertoli-Leydig cells).</span>
+>- Germ cell: composed of cells that can develop into an embryo or placenta.  These tumors are <span style="background:rgba(240, 200, 0, 0.2)">composed of varying amounts of germ layers</span> (ie, endoderm, mesoderm, ectoderm), yolk sac, or placenta (eg, chorion).  <span style="background:rgba(240, 200, 0, 0.2)">They often have associated hormonal activity (eg, increased hCG, [[alpha fetoprotein|alpha fetoprotein]]).</span>
+
+
 | Histologic type       | Diagnosis                       | Key features                                                                                                                         |
 | --------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Epithelial**        | **Serous cystadenocarcinoma**   | Most common ovarian cancer<br>Often bilateral<br>Histology: psammoma bodies                                                          |
@@ -43,6 +49,12 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 |                       | **Endodermal sinus (yolk sac)** | ↑ AFP<br>Aggressive<br>Schiller-Duval bodies resembling glomeruli                                                                    |
 | **Stroma (sex cord)** | **[[Granulosa cell tumor|Granulosa cell tumor]]**    | ↑ Estrogen (e.g., endometrial [[Cellular adaptations\|hyperplasia]], postmenopausal bleeding)<br>↑ Inhibin<br>Histology: Call-Exner bodies, coffee-bean nuclei |
 |                       | **Sertoli-Leydig cell tumor**   | <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgens (e.g., hirsutism, clitoromegaly)</span>                                  |
+
+## Ovarian germ cell tumors
+- Subtypes are determined by structural differentiation
+	- Extraembryonic differentiation: yolk sac tumor
+	- Somatic differentiation: teratoma
+	- No differentiation: dysgerminoma
 
 
 ---
