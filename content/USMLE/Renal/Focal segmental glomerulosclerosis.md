@@ -14,7 +14,7 @@ share: true
 - [[Human immunodeficiency virus|HIV]] infection
 - [[Sickle cell disease|Sickle cell disease]]
 - Massive obesity
-- Interferon treatment
+- [[Interferons|Interferon]] treatment
 - Congenital malformations (e.g., Charcot-Marie-Tooth syndrome)
 
 ---
@@ -27,7 +27,7 @@ Focal segmental glomerulosclerosis: <span style="background:rgba(240, 200, 0, 0.
 
 ---
 # Diagnostics
-- <span style="background:rgba(240, 200, 0, 0.2)">LM: segmental sclerosis and hyalinosis</span>![[Pasted image 20230823154612.png|Pasted image 20230823154612.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">LM: segmental sclerosis and hyalinosis</span>![[L9210.png|L9210.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">EM: effacement of podocyte foot processes</span> (similar to [[minimal change disease|minimal change disease]])
 
 ---
