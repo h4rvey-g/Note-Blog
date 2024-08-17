@@ -34,7 +34,7 @@ share: true
 - Secretory-like (<span style="background:rgba(240, 200, 0, 0.2)">persists at night & while [[Metabolic fuel use|fasting]]</span>)
 - Laboratory evaluation typically unremarkable
 ### Genitourinary autonomic neuropathy
-- Sexual dysfunction (e.g., erectile dysfunction)
+- [[Sexual dysfunction|Sexual dysfunction]] (e.g., erectile dysfunction)
 - Neurogenic bladder, e.g.:
 	- Urinary retention
 	- Incomplete bladder emptying
