@@ -46,7 +46,7 @@ Fibromuscular dysplasia (FMD) is an idiopathic, non-inflammatory, non-atheroscle
 - Best initial tests for renal FMD: <span style="background:rgba(240, 200, 0, 0.2)">duplex ultrasonography and/or CT angiography</span> 
 	- Common finding: <span style="background:rgba(240, 200, 0, 0.2)">“string of beads” sign</span>![[Pasted image 20240401113410.png|Pasted image 20240401113410.png]]
 - Differential diagnostics
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[Atherosclerosis|Atherosclerosis]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Atherosclerosis|Atherosclerosis]] ([[Renal artery stenosis|Renal artery stenosis]])</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Patients with [[atherosclerosis|atherosclerosis]] are usually older, male, and have risk factors such as obesity and/or cigarette smoking.</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">On angiography, [[atherosclerosis|atherosclerosis]] affects the proximal 1/3 of arteries, while FMD affects distal 2/3 of the artery.</span>![[Pasted image 20240401113633.png|Pasted image 20240401113633.png]]
 
