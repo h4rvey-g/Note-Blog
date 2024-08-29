@@ -27,11 +27,18 @@ share: true
 
 >[!Mnemonic] 
 >Vare<font color="#ffc000">nic</font>line helps to quit <font color="#ffc000">nic</font>otine.
-## [[MDMA|MDMA]]
+## Amphetamines
+- Substances 
+	- Alpha-methylphenethylamine (“speed”)
+	- Methamphetamine (“meth,” “crank”)
+	- 3,4-[[MDMA|Methylenedioxymethamphetamine]] (“[[MDMA|MDMA]],” “ecstasy,” “molly”)
+	- Cathinone (“bath salts”)
+- Mechanism of action: ↑ release and ↓ reuptake of presynaptic monoamine neurotransmitters (e.g., adrenaline, norepinephrine, serotonin, and dopamine)
+	- Central effect: CNS sympathetic stimulation and hallucinogenic effects
 ## Cocaine
 - Famously was the "Coca" in Coca-Cola
 >[!tip] 
->Withdrawal from stimulants will not cause morbidity or morality. However, withdrawal from depressants like benzodiazepines or alcohol will. 
+>Withdrawal from stimulants will not cause morbidity or morality. However, withdrawal from depressants like [[Sedative-hypnotic drugs|benzodiazepines]] or alcohol will. 
 >Common withdrawal symptoms:
 >- <span style="background:rgba(240, 200, 0, 0.2)">Increased appetite, hypersomnia, fatigue</span>, intense psychomotor retardation, severe depression ("crash")
 # Depressants
