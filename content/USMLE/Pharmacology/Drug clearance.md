@@ -7,23 +7,15 @@ aliases:
 share: true
 ---
 # <span style="background:rgba(240, 200, 0, 0.2)">Renal elimination: mostly hydrophilic drugs</span>
-- Main renal elimination mechanisms include
-	- Glomerular filtration 
-	- Tubular secretion 
+- Main renal elimination mechanisms in                                                  lar secretion 
 	- Tubular reabsorption 
-- <span style="background:rgba(240, 200, 0, 0.2)">Ionized substances cannot cross renal tubular membranes and are cleared quickly.</span>
-	- Weak acidic drugs (e.g., phenobarbital, methotrexate, aspirin) are trapped in a basic environment
-		- Overdoses with these drugs can be treated via alkalinization of urine (sodium bicarbonate)
-		- RCOOH (lipid soluble) ⇄ RCOO– + H+ (trapped form)
+- <span style="background:rgb| --------------------------------------------------------------------------------- | ---------------------------------------------------------------- |obarbital, methotrexate, aspirin) are trappe                                         verdoses with these drugs can be treated via alkalinization of urine ( Glutamate [E] → NMDA recepCa<sup>2+</sup> Ca2+ & Na<supH<sup>+</sup></sup> influx )
 	- Weak basic drugs (e.g., tricyclic antidepressants, amphetamines) are trapped in an acidic environment
-		- Overdoses with these drugs can be treated via acidification of urine (ammonium chloride)
-		- RNH<sub>3</sub>+ (trapped form) ⇄ RNH2 + H+ (lipid soluble)
-		- The elimination of tricyclic antidepressants, which are basic, can be increased by acidification of urine, but toxicity is generally treated with sodium bicarbonate. 
+		- Overd                                     be treated via acidification of urine (ammonium chloride)
+		- RNH<sub>3</sub>+ (trapped form) ⇄ RNH2 + H+ (lipid                                         of tricyclic antidepressants, which are basic, can be increased by acidification of urine, but toxicity is generally                                     bonate. 
 - Neutral substances can be reabsorbed.
 # Biliary elimination 
-- <span style="background:rgba(240, 200, 0, 0.2)">Lipophilic</span> and hydrophilic substances 
-- Lipophilic substances that have undergone biliary elimination may be reabsorbed from the gut and then secreted again in bile (enterohepatic circulation) 
-# Pulmonary elimination: primarily in inhaled anesthetic drugs
-# Changes in advanced age
-- <span style="background:rgba(240, 200, 0, 0.2)">↓ Tubular secretion and ↓ GFR → ↑ concentrations of drugs that are eliminated renally</span>
-- Consequently, lower therapeutic doses should be considered in elderly individuals.
+- <span style="backgroun                                                         d hydrophilic substances 
+- Lipophilic substances that have undergone biliary elimination may be                                                         in in bile (enterohepatic circulation) 
+# Pulmonary elimination: primarily in inhaledH<sup>+</sup>nesthetic drugs
+# Ch                                              ="background:rgba(240, 200, 0, 0.2)">↓ Tubular secretion and ↓ GFR → ↑ concentrations of drugs                                                           ly, lower therapeutic doses should be considered in elderly individuals.
