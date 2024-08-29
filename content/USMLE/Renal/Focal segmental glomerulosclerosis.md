@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-08-23 15:40
 modified: 2023-08-23 15:40
-aliases: FSGC
+aliases:
+  - FSGC
+  - Focal segmental glomerular sclerosis
 share: true
 ---
 # Epidemiology
