@@ -35,7 +35,7 @@ Serum sickness is a classic example of a <span style="background:rgba(240, 200, 
 ---
 # Diagnostics
 - Histologic examination of affected tissues typically shows <span style="background:rgba(240, 200, 0, 0.2)">small vessel [[Vasculitides|vasculitis]] with fibrinoid necrosis and intense neutrophil infiltration</span>.  
-- Deposition of IgG and/or IgM complement-fixing antibodies results in localized complement consumption and hypocomplementemia (decreased serum C3 levels).
+- Deposition of IgG and/or IgM [[Complement system|complement]]-fixing antibodies results in localized [[Complement system|complement]] consumption and hypocomplementemia (decreased serum C3 levels).
 # Differential Diagnostics
 ## Serum sickness-like reaction
 - Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">much more common than actual serum sickness</span>
