@@ -7,5 +7,5 @@ share: true
 ---
 Fusion of the left and right inferior renal poles
 - Normal ascent interrupted as fused kidney gets caught on the inferior mesenteric artery (IMA).![[Pasted image 20230814153201.png|Pasted image 20230814153201.png]]
-- Usually asymptomatic
-- Increased risk of renal stones, [[ureteropelvic junction obstruction|ureteropelvic junction obstruction]], hydronephrosis, [[Urinary tract infections|UTIs]], and renal cancer
+- <span style="background:rgba(240, 200, 0, 0.2)">Kidney function in itself is not impaired</span>
+- But the abnormal anatomy increases risk of renal stones, [[ureteropelvic junction obstruction|ureteropelvic junction obstruction]], hydronephrosis, [[Urinary tract infections|UTIs]], and renal cancer
