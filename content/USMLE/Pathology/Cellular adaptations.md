@@ -12,3 +12,4 @@ aliases:
 share: true
 ---
 ![[Pasted image 20231213102922.png|Pasted image 20231213102922.png]]
+![[Pasted image 20240827103209.png|Pasted image 20240827103209.png]]
