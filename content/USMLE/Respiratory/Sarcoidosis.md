@@ -25,7 +25,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)</span>![[Pasted image 20230807213802.png|Pasted image 20230807213802.png]]
 
 >[!tip] 
->Compared with TB, which has caseating granulomas.
+>Compared with [[Tuberculosis|TB]], which has caseating granulomas.
 >![[Pasted image 20230803213835.png|Pasted image 20230803213835.png]]
 
 - <span style="background:rgba(240, 200, 0, 0.2)">Fibrosis</span>: Epithelioid cells secrete cytokines to recruit fibroblasts, leading to fibrosis → damage of organs and tissue
@@ -47,6 +47,9 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
 
 Butterfly rash as seen in [[systemic lupus erythematosus|systemic lupus erythematosus]]
+## Neurosarcoidosis
+- Cranial nerve palsy (unilateral or bilateral <span style="background:rgba(240, 200, 0, 0.2)">facial nerve palsy is the most common</span>)
+- [[Diabetes insipidus|Diabetes insipidus]]
 ## Symptoms of [[hypercalcemia|hypercalcemia]]![[Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
 
 ---
@@ -59,7 +62,7 @@ Butterfly rash as seen in [[systemic lupus erythematosus|systemic lupus erythema
 	- Preferred initial test for all patients with suspected sarcoidosis
 	- Classic findings: bilateral hilar lymphadenopathy with or without pulmonary infiltrates (i.e., reticular and/or ground glass opacities)![[Pasted image 20230803213638.png|Pasted image 20230803213638.png]]![[Pasted image 20240109153322.png|Pasted image 20240109153322.png]]
 ## Biopsy
-- Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, tuberculosis, [[Crohn disease|Crohn disease]], berylliosis)![[Pasted image 20231103144254.png|Pasted image 20231103144254.png]]
+- Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, [[tuberculosis|tuberculosis]], [[Crohn disease|Crohn disease]], berylliosis)![[Pasted image 20231103144254.png|Pasted image 20231103144254.png]]
 ## Additional studies
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchoalveolar lavage (BAL):↑ CD4:CD8 ratio</span>
 
