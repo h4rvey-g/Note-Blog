@@ -29,7 +29,7 @@ share: true
 ## Microscopic findings
 - <span style="background:rgba(240, 200, 0, 0.2)">Mesenchymal origin (arachnoid cap cells)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Whorls of meningothelial cells (onion peel arrangement)</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Psammoma bodies</span>![[Pasted image 20231224160212.png|Pasted image 20231224160212.png]]Two of these whorls have a deeply basophilic acellular core, known as a psammoma body, which indicates dystrophic calcification.
+- <span style="background:rgba(240, 200, 0, 0.2)">Psammoma bodies</span>![[Pasted image 20231224160212.png|Pasted image 20231224160212.png]]![[L2092.jpg|L2092.jpg]]Two of these whorls have a deeply basophilic acellular core, known as a psammoma body, which indicates dystrophic calcification.
 
 ---
 # Treatment

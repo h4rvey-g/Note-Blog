@@ -6,6 +6,17 @@ modified: <% tp.file.last_modified_date() %>
 aliases: <% tp.file.title %>
 share: true
 ---
+# Etiology
+---
+- Most common: Deep vein thrombosis 
+- Causes of nonthrombotic embolism
+	- Fat embolism
+	- Air embolism
+	- [[Amniotic fluid embolism|Amniotic fluid embolism]]
+	- Bacterial embolism
+		- Patients with intravenous drug use are at increased risk of developing <span style="background:rgba(240, 200, 0, 0.2)">tricuspid valve endocarditis, giving rise to septic pulmonary emboli</span>
+	- Others: pulmonary tumor embolism, pulmonary cement embolism
+
 # Pathophysiology
 ---
 ![[L26143.jpg|L26143.jpg]]
@@ -25,6 +36,6 @@ Other ECG findings in PE: sinus bradycardia (< 60/min); uncommon)
 ---
 ## Reperfusion therapy
 - Indications
-	- Massive PE (hemodynamic instability and/or right heart failure) with a low bleeding risk
+	- Massive PE (hemodynamic instability and/or right [[heart failure|heart failure]]) with a low bleeding risk
 - <span style="background:rgba(240, 200, 0, 0.2)">Recombinant tissue plasminogen activator (tPA), e.g., alteplase (preferred)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Endothelial-derived TPA is limited primarily to the bronchial circulation, and spontaneous recanalization of the pulmonary artery is a slow process.</span>

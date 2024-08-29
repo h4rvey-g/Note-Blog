@@ -13,7 +13,7 @@ share: true
 Acetazolamide
 ## Mechanism of action
 - Inhibition of carbonic anhydrase  in the following organs:
-	- Kidney (in the proximal convoluted tubule): → ↑ H+ reabsorption and inhibition of Na+/H+ exchange → ↑ NaHCO3 diuresis and ↑ HCO3- elimination  → compensatory hyperventilation; disinhibition of central chemoreceptors → ↑ oxygenation 
+	- Kidney (in the proximal convoluted tubule): → ↑ H<sup>+</sup> reabsorption and inhibition of Na<sup>+</sup>/H<sup>+</sup> exchange → ↑ NaHCO3 diuresis and ↑ HCO<sub>3</sub><sup>-</sup> elimination  → compensatory hyperventilation; disinhibition of central chemoreceptors → ↑ oxygenation 
 	- Eyes: ↓ production of aqueous humor
 	- Brain: ↓ CSF production
 	- <span style="background:rgba(240, 200, 0, 0.2)">Acid-base effects: alkalinizes urine and acidifies blood</span>
@@ -31,32 +31,37 @@ Acetazolamide
 	- Diminishing concentration gradient between the (usually hypertonic) renal medulla and the cortex → concentration of urine is no longer possible → increased diuresis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased reabsorption of Ca<sup>2+</sup> and Mg2+</span>
 		- Normally, Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup>cotransporter can cause positive potential in lumen because of K<sup>+</sup> channel, which drives calcium out of lumen![[Pasted image 20240322220231.png|Pasted image 20240322220231.png]]
-- Increased PGE release (can be inhibited by NSAIDs)
+- Increased PGE release (can be inhibited by [[Non-opioid analgesics|NSAIDs]])
 	- Dilation of renal afferent arterioles → diuresis
 	- General venodilation (rapid venous pooling) → ↓ cardiac preload
+# Potassium-sparing diuretics
+---
+## Agents
+- Aldosterone receptor antagonists: spironolactone, eplerenone
+- <span style="background:rgba(240, 200, 0, 0.2)">Epithelial sodium channel blockers: triamterene, amiloride</span>
 # Adverse effects
 ---
 ## Loop diuretics
-- Hypokalemia
+- [[Hypokalemia|Hypokalemia]]
 - [[Hypomagnesemia|Hypomagnesemia]]
 - Hypocalcemia
 - Ototoxicity
 ## Thiazide diuretics
-- Hypokalemia
+- [[Hypokalemia|Hypokalemia]]
 - Hyponatremia
 - [[Gout|Hyperuricemia]]
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Hypercalcemia|Hypercalcemia]]</span>
 ## Potassium sparing diuretics
-- All: hyperkalemia
-- Spironolactone: gynecomastia, antiandrogen effects
+- All: [[hyperkalemia|hyperkalemia]]
+- Spironolactone: [[gynecomastia|gynecomastia]], antiandrogen effects
 ## Carbonic anhydrase inhibitors
 - [[Hyperammonemia|Hyperammonemia]] with paresthesias 
 - Proximal [[Renal tubular disorders|renal tubular acidosis]] → hyperchloremic, nonanion gap metabolic acidosis
-- <span style="background:rgba(240, 200, 0, 0.2)">Hypokalemia</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypokalemia|Hypokalemia]]</span>
 	- Caused by increased sodium delivery to the distal nephron and its reabsorption there in exchange for potassium.
 - Sulfonamide hypersensitivity
 - Calcium phosphate stone formation (alkaline urine promotes precipitation)
-	- Because paracellular calcium (Ca2+) reabsorption is coupled to Na+ reabsorption in the proximal tubule, <span style="background:rgba(240, 200, 0, 0.2)">urinary Ca2+ excretion is slightly increased (total serum Ca2+ is slightly reduced).</span>
+	- Because paracellular calcium (Ca<sup>2+</sup>) reabsorption is coupled to Na<sup>+</sup> reabsorption in the proximal tubule, <span style="background:rgba(240, 200, 0, 0.2)">urinary Ca<sup>2+</sup> excretion is slightly increased (total serum Ca<sup>2+</sup> is slightly reduced).</span>
 ## Osmotic diuretics
 - Hypernatremia
 - <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary edema</span>

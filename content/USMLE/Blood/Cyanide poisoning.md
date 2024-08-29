@@ -13,7 +13,7 @@ share: true
 	- Sodium nitroprusside releases cyanide ions.
 - Industrial: metal industry, manufacture of nitrogen-containing materials and products (plastics and wool), electroplating
 ## Pathophysiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Cyanide blocks the electron transport chain by binding to cytochrome complex IV → ↓ oxidative phosphorylation → anaerobic metabolism, ↑ lactic acid, hypoxia</span>
+- Binds to the <span style="background:rgba(240, 200, 0, 0.2)">ferric ions</span> in <span style="background:rgba(240, 200, 0, 0.2)">cytochrome oxidase IV</span> within the mitochondria → <span style="background:rgba(240, 200, 0, 0.2)">Blocks the electron transport chain → ↓ oxidative phosphorylation → anaerobic metabolism, ↑ lactic acid, hypoxia</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Oxygen dissociation curve|Oxygen dissociation curve]] is usually normal (opposed to carbon monoxide poisoning)</span>
 # Differential diagnostics
 ## Cyanide poisoning vs CO poisoning

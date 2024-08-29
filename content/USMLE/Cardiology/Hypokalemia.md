@@ -30,7 +30,7 @@ share: true
 
 # Pathophysiology
 ---
-
+- ↑ Extracellular K+concentration → resting membrane potential becomes less negative than -90 mV → <span style="background:rgba(240, 200, 0, 0.2)">↑ excitability</span>
 
 # Clinical features
 ---
@@ -42,4 +42,4 @@ share: true
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+

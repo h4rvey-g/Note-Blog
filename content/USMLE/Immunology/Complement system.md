@@ -11,6 +11,9 @@ share: true
 ---
 ![[Pasted image 20240318194037.png|Pasted image 20240318194037.png]]
 - Effect
+	- Membrane attack complex (MAC)
+		- Formed by C5b–C9
+		- Lysis of bacteria (especially gram‑negative bacteria) by perforation of the cell wall
 	- <span style="background:rgba(240, 200, 0, 0.2)">Opsonization</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Increases the susceptibility of target particles (e.g., bacteria) to phagocytosis</span>![[Pasted image 20240224220021.png|Pasted image 20240224220021.png]]
 		- Attachment of opsonins (e.g., [[immunoglobulins|immunoglobulins]]) causes structural changes that facilitate interaction with immune cells.
@@ -18,9 +21,6 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">C3b is also involved in eliminating immune complexes.</span>
 			- Deficiency of C3b will increase risk of [[Systemic lupus erythematosus|SLE]]
 			- C3 is decreased in [[Poststreptococcal glomerulonephritis|PSGN]], [[Diffuse proliferative glomerulonephritis|DPGN]]
-	- Membrane attack complex (MAC)
-		- Formed by C5b–C9
-		- Lysis of bacteria (especially gram‑negative bacteria) by perforation of the cell wall
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anaphylaxis: activation of mast cells and granulocytes via C3a/C4a/C5a</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chemotaxis: attraction of neutrophils via C5a</span>
 

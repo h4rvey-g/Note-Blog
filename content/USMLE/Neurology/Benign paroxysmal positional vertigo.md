@@ -23,10 +23,10 @@ Although incompletely understood, BPPV is thought to occur <span style="backgrou
 
 ---
 # Clinical features
-- Episodic vertigo (spinning sensation)
+- Episodic [[vertigo|vertigo]] (spinning sensation)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sudden (“paroxysmal”) and recurrent episodes</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Lasts several seconds (typically ≤ 1 minute)</span>
-	- Triggered by certain head movements (positional vertigo) after a latency of a few seconds.
+	- Triggered by certain head movements (positional [[vertigo|vertigo]]) after a latency of a few seconds.
 	- Associated with:
 		- [[Internuclear ophthalmoplegia|Nystagmus]] 
 - <span style="background:rgba(240, 200, 0, 0.2)">Triggers: Quick rotation of the head relative to gravity is the main trigger of BPPV</span>

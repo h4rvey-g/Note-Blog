@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-01-24 14:22
 modified: 2024-01-24 14:22
-aliases: []
+aliases:
+  - Migraines
 share: true
 ---
 # Epidemiology
@@ -32,11 +33,11 @@ share: true
 # Treatment
 ## Abortive therapy for migraines
 - <span style="background:rgba(240, 200, 0, 0.2)">Treat nausea and vomiting, if present.</span> 
-	- Accompanying vomiting makes absorption of oral medications (e.g., oral NSAIDs) unreliable.
+	- Accompanying vomiting makes absorption of oral medications (e.g., oral [[Non-opioid analgesics|NSAIDs]]) unreliable.
 	- IV fluids
-	- Parenteral antiemetics: e.g., metoclopramide, prochlorperazine
+	- Parenteral [[antiemetics|antiemetics]]: e.g., metoclopramide, prochlorperazine
 ### Mild to moderate headache
-- First-line treatment consists of NSAIDs, [[Non-opioid analgesics|acetaminophen]], acetylsalicylic acid, or combinations including caffeine.
+- First-line treatment consists of [[Non-opioid analgesics|NSAIDs]], [[Non-opioid analgesics|acetaminophen]], acetylsalicylic acid, or combinations including caffeine.
 ### Moderate to severe headache
 - Parenteral antidopaminergics
 	- Metoclopramide
@@ -47,11 +48,14 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">5-HT1B/1D receptor agonists</span> that cause:
 			- <span style="background:rgba(240, 200, 0, 0.2)">Vasoconstriction of (dilated) cranial and basilar arteries</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of trigeminal nerve nociception</span>
-			- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of vasoactive peptide secretion</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of vasoactive peptide secretion</span>![[L10333.jpg|L10333.jpg]]
 		- Adverse effects
 			- Vasospasm of coronary vessels → coronary ischemia (rare)
 			- Paresthesia and sensation of cold in the extremities
 			- [[Serotonin syndrome|Serotonin syndrome]] (if taken with other 5-HT agonists)
+
+>[!warning] 
+>Avoid [[opioids|opioids]] as first-line treatment for acute migraines, because they increase the risk of chronic migraine, carry a risk of dependence, and worsen nausea and vomiting.
 ## Prophylactic therapy of migraine
 - Lifestyle modifications
 	- Exercise in moderation
@@ -60,8 +64,8 @@ share: true
 	- Follow a regular sleeping schedule
 - General prophylaxis
 	- First-line
-		- <span style="background:rgba(240, 200, 0, 0.2)">Anticonvulsants (e.g., topiramate, divalproex)</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Beta blockers</span> (e.g., propranolol, metoprolol (off-label), timolol)
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Anticonvulsant drugs|Anticonvulsants]] (e.g., topiramate, divalproex)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Beta blockers|Beta blockers]]</span> (e.g., propranolol, metoprolol (off-label), timolol)
 	- Second-line
 		- Tricyclic antidepressant: amitriptyline
-		- NSAIDs
+		- [[Non-opioid analgesics|NSAIDs]]

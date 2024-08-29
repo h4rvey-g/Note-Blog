@@ -31,4 +31,4 @@ Altered consciousness, cognition, perception, judgment, affect, and/or behavior.
 - Routine laboratory studies that support the diagnosis include:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Elevated osmolar gap</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">The difference between the measured serum osmolarity and the calculated serum osmolarity.</span> Normally, the calculated serum osmolarity is primarily determined by circulating levels of sodium salts (chloride and bicarbonate), glucose, and urea. <span style="background:rgba(240, 200, 0, 0.2)">An increased serum osmolar gap occurs when other solutes (e.g., ethanol, methanol, propylene glycol) are present</span> in high enough concentrations to increase the measured osmolarity by more than 10 mOsmol/L.
-	- <span style="background:rgba(240, 200, 0, 0.2)">Anion gap metabolic acidosis</span> (e.g., ↓ pH, ↓ HCO3-)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anion gap metabolic acidosis</span> (e.g., ↓ pH, ↓ HCO<sub>3</sub><sup>-</sup>)

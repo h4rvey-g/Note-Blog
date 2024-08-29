@@ -12,8 +12,10 @@ share: true
 # Extra (gallop) heart sounds
 ![[Pasted image 20240406101219.png|Pasted image 20240406101219.png]]
 >[!tip] 
->S3: volume-overloaded
->S4: pressure-overloaded![[Pasted image 20240407102415.png|Pasted image 20240407102415.png]]
+>- S3: volume-overloaded
+>	- Three <font color="#ffc000">tree</font> → tree is <font color="#ffc000">big and large</font> → ventricle is large
+>- S4: pressure-overloaded
+>	- Four <font color="#ffc000">door</font> → door is <font color="#ffc000">hard</font> → ventricle is stiff![[Pasted image 20240407102415.png|Pasted image 20240407102415.png]]
 ## S3
 - Features
 	- Heard just after S2 <span style="background:rgba(240, 200, 0, 0.2)">(after opening of mitral valve)</span>

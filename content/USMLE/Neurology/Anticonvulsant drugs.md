@@ -7,6 +7,7 @@ aliases:
   - Antiepileptic drugs
   - Antiepileptics
   - Valproate
+  - Valproic Acid
 share: true
 ---
 ![[Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
@@ -18,22 +19,22 @@ share: true
 - Second-line treatment for generalized tonic-clonic seizures
 >[!Mnemonic] 
 >CBZ = <font color="#ffc000">C</font>ranial nerve pain, <font color="#ffc000">B</font>ipolar disorder, and sei<font color="#ffc000">Z</font>ures
-## Valproate
+## Valproate (Valproic Acid)
 ### Indication
 - <span style="background:rgba(240, 200, 0, 0.2)">First-line long-term treatment for tonic-clonic generalized seizures</span>
 - Partial (focal) seizures
 - Absence epilepsy
 - Treatment of established status epilepticus 
 - Myoclonic seizures
-- Migraine prophylaxis
+- [[Migraine|Migraine]] prophylaxis
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Bipolar disorder|Bipolar disorder]]</span>
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Used as both as an anticonvulsant and a mood stabilizer.</span>
 ### Mechanism of action
 - Inhibits GABA transaminase → ↑ GABA → ↓ neuronal excitability
-- Inactivates Na+ channels and Ca2+ channels
+- Inactivates Na<sup>+</sup> channels and Ca<sup>2+</sup> channels
 ### Adverse effects
-- Tremor
+- [[Tremor|Tremor]]
 - [[Alopecia|Alopecia]]
 - Teratogenicity
 ## Phenytoin
@@ -67,6 +68,6 @@ share: true
 	- Postherpetic neuralgia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral (poly)neuropathy</span>
 ### Mechanism of action
-- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of presynaptic</span> P/Q-type <span style="background:rgba(240, 200, 0, 0.2)">Ca2+ channels</span> via action on the α2δ-subunit → ↓ Ca2+ intracellular flow → <span style="background:rgba(240, 200, 0, 0.2)">↓ glutamate release</span>
-# Pregnancy and breastfeeding
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of presynaptic</span> P/Q-type <span style="background:rgba(240, 200, 0, 0.2)">Ca<sup>2+</sup> channels</span> via action on the α2δ-subunit → ↓ Ca<sup>2+</sup> intracellular flow → <span style="background:rgba(240, 200, 0, 0.2)">↓ glutamate release</span>
+# Pregnancy and [[Infant nutrition and breastfeeding|breastfeeding]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Classic anticonvulsants (especially carbamazepine and sodium valproate!) should be avoided if possible → [[Teratogenesis|teratogenic]] effects</span>

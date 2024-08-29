@@ -28,7 +28,7 @@ Basically a milder form of bipolar disorder
 # Clinical features
 >[!Mnemonic] 
 >- <font color="#ffc000">DIGFAST</font> for features of mania: Distractibility, Irresponsibility, Grandiosity, Flight of ideas, Activity increase, Sleep deficit, and Talkativeness.
->- <font color="#ffc000">SAGECAPS</font> for features of depression: Sleep (insomnia or hypersomnia), Interest loss (<font color="#ffc000">A</font>nhedonia), Guilt (low self-esteem), Energy (low energy or fatigue), Concentration (poor concentration or difficulty making decisions), Appetite (decreased appetite or overeating), Psychomotor agitation or retardation, and Suicidal ideation.
+>- <font color="#ffc000">SAGECAPS</font> for features of depression: Sleep ([[Insomnia disorder|insomnia]] or hypersomnia), Interest loss (<font color="#ffc000">A</font>nhedonia), Guilt (low self-esteem), Energy (low energy or fatigue), Concentration (poor concentration or difficulty making decisions), Appetite (decreased appetite or overeating), Psychomotor agitation or retardation, and Suicidal ideation.
 >	- Imagined a very sad wizard in a fancy hat.
 
 ---
@@ -42,11 +42,11 @@ Basically a milder form of bipolar disorder
 - Commonly used agents
 	- <span style="background:rgba(240, 200, 0, 0.2)">Lithium (preferred)</span>: Individualize the dose according to clinical response and serum levels.
 		- Adverse effects
-			- Diabetes insipidus
-			- <span style="background:rgba(240, 200, 0, 0.2)">Hypothyroidism</span>
-			- Tremor
-			- Ebstein anomaly (teratogenic)
-	- Valproic acid, <span style="background:rgba(240, 200, 0, 0.2)">lamotrigine</span>
+			- [[Diabetes insipidus|Diabetes insipidus]]
+			- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypothyroidism|Hypothyroidism]]</span>
+			- [[Tremor|Tremor]]
+			- Ebstein anomaly ([[Teratogenesis|teratogenic]])
+	- <span style="background:rgba(240, 200, 0, 0.2)">Valproic acid, lamotrigine</span>
 - Refractory or severe bipolar episodes
 	- Combination therapy with a mood stabilizer (e.g., lithium or valproic acid)
 	- PLUS atypical [[antipsychotics|antipsychotics]] (e.g., quetiapine, olanzapine, aripiprazole)

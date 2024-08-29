@@ -14,7 +14,7 @@ share: true
 
 ---
 # Pathophysiology
- Chromosomal nondisjunction → <span style="background:rgba(240, 200, 0, 0.2)">chromosome X</span> monosomy/mosaicism → <span style="background:rgba(240, 200, 0, 0.2)">impaired ovarian development → malfunctioning streak gonads with connective tissue instead of normal germ cells → estrogen and progesterone deficiencies</span>
+ Chromosomal nondisjunction → <span style="background:rgba(240, 200, 0, 0.2)">chromosome X</span> monosomy/mosaicism → <span style="background:rgba(240, 200, 0, 0.2)">impaired ovarian development → malfunctioning streak gonads with connective tissue instead of normal germ cells → [[Androgen and estrogen synthesis|estrogen]] and progesterone deficiencies</span>
 - Karyotype
 	- Meiotic nondisjunction (most often in paternal gametes) → complete sex chromosomal monosomy (<span style="background:rgba(240, 200, 0, 0.2)">45,XO</span>; no Barr body)
 		- Barr body: The inactive X chromosome present in all female somatic cells. Appears as a small, dark-staining spot at the periphery of the nucleus. Consists of tightly-packed, transcriptionally-inactive, heterochromatin.
@@ -28,7 +28,7 @@ share: true
 		- a congenital lymphatic cyst (macrocystic lymphangioma) in the posterior triangle of the neck caused by malformation and <span style="background:rgba(240, 200, 0, 0.2)">obstruction of the fetal lymphatic system</span>
 		- Present at birth as a <span style="background:rgba(240, 200, 0, 0.2)">soft, compressible, painless, posterior triangle neck mass </span>
 		- Can cause dysphagia or airway compromise
-	- Lymphedema of the hands and feet in the neonatal period
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Nonpitting edema|Lymphedema]] of the hands and feet in the neonatal period</span>
 - Musculoskeletal findings
 	- <span style="background:rgba(240, 200, 0, 0.2)">Short stature</span>: due to the presence of only one copy of the SHOX (short stature homeobox) gene, normally located on the X chromosome 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Scoliosis are common</span>
@@ -38,13 +38,18 @@ share: true
 	- Short fourth metacarpals/metatarsals, nail dysplasia
 	- High arched palate
 	- Low-set posterior hairline
-	- Osteoporosis and pathologic fractures 
+	- [[Osteoporosis|Osteoporosis]] and pathologic fractures 
 - Cardiovascular abnormalities
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bicuspid aortic valve: increased risk of premature aortic stenosis and/or insufficiency </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bicuspid aortic valve: increased risk of premature [[Aortic valve stenosis|aortic stenosis]] and/or insufficiency </span>
 		- As a result of valve calcification.
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Coarctation of the aorta|Coarctation of the aorta]]</span> with brachial-femoral delay
-	- Aortic dissection and rupture 
+	- [[Aortic dissection|Aortic dissection]] and rupture 
 	- Hypertension (even in children) 
+- Other disorders 
+	- Gonadoblastoma (especially in patients with 45,XO/46,XY mosaicism)
+	- Malformations of the kidney and ureters (especially <span style="background:rgba(240, 200, 0, 0.2)">[[horseshoe kidney|horseshoe kidney]]</span>)
+	- [[Hashimoto thyroiditis|Hashimoto thyroiditis]]
+	- Type 2 [[diabetes mellitus|diabetes mellitus]]
 
 >[!Tip]
 >Most patients with Turner syndrome have normal intelligence.

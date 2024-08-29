@@ -10,12 +10,12 @@ share: true
 
 ---
 # Pathophysiology
-- Isolated proximal RTA: The proximal convoluted tubule cells are unable to reabsorb HCO3-.
-- <span style="background:rgba(240, 200, 0, 0.2)">Fanconi syndrome</span>: Impaired reabsorption of HCO3- <span style="background:rgba(240, 200, 0, 0.2)">and other compounds (e.g., potassium, glucose, phosphate, and amino acid reabsorption)</span> in the PCT
+- Isolated proximal [[Renal tubular disorders|RTA]]: The proximal convoluted tubule cells are unable to reabsorb HCO<sub>3</sub><sup>-</sup>.
+- <span style="background:rgba(240, 200, 0, 0.2)">Fanconi syndrome</span>: Impaired reabsorption of HCO<sub>3</sub><sup>-</sup> <span style="background:rgba(240, 200, 0, 0.2)">and other compounds (e.g., potassium, glucose, phosphate, and amino acid reabsorption)</span> in the PCT
 
 ---
 # Clinical features
-- Vitamin D-resistant hypophosphatemic rickets/osteomalacia (caused by phosphaturia and hypophosphatemia; individuals with Fanconi syndrome typically have more severe symptoms)
+- [[Vitamin D|Vitamin D]]-resistant hypophosphatemic rickets/osteomalacia (caused by phosphaturia and hypophosphatemia; individuals with Fanconi syndrome typically have more severe symptoms)
 - Short stature
 - <span style="background:rgba(240, 200, 0, 0.2)">Polyuria</span> → polydipsia, dehydration
 >[!tip] 

@@ -5,6 +5,7 @@ modified: 2024-05-14 11:05
 aliases:
   - TORCH infections
   - TORCHES infections
+  - Congenital rubella syndrome
 share: true
 ---
 # Congenital [[rubella|rubella]] infection

@@ -22,4 +22,4 @@ share: true
 	- ↓ 2,3-BPG (e.g., due to mutations in the BPGM gene on chromosome 7) 
 	- ↑ CO
 	- ↑ Methemoglobin
-	- ↑ Fetal hemoglobin (HbF)
+	- ↑ Fetal [[Hemoglobin variants|hemoglobin]] (HbF)

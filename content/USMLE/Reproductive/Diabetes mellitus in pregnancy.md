@@ -18,7 +18,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Insulin therapy if glycemic control is insufficient with dietary modifications </span>
 		- [[Metabolic fuel use|Fasting]] blood glucose level > 95 mg/dL or one-hour postprandial blood glucose level > 140 mg/dL or 2-hour postprandial blood glucose level > 120 mg/dL
 	- Metformin and glyburide in patients who are unwilling or unable to use insulin
-- Regular ultrasound to evaluate fetal development
+- Regular ultrasound to evaluate [[Embryogenesis|fetal development]]
 - Consider inducing delivery at week 39–40, if glycemic control is poor or if complications occur
 # Complications
 ## Diabetic embryopathy
@@ -43,10 +43,10 @@ share: true
 		- maternal hyperglycemia → fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">beta cell hypertrophy and hyperfunctioning → fetal and neonatal hyperinsulinemia → transient [[hypoglycemia|hypoglycemia]] after birth (when maternal glucose supply stops)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal polycythemia</span>
 		- maternal hyperglycemia → chronic fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">↑ metabolic effects and oxygen demand → fetal hypoxemia → ↑ erythropoietin concentrations→ ↑ erythrocyte count</span>
-	- Neonatal hypocalcemia and neonatal hypomagnesemia: maternal hyperglycemia → abnormal maternal calcium-phosphorus metabolism → ↑ maternal urinary Mg excretion → maternal hypomagnesemia → fetal hypomagnesemia → impaired PTH synthesis in the fetus → fetal hypocalcemia and hypomagnesemia
+	- Neonatal hypocalcemia and neonatal [[hypomagnesemia|hypomagnesemia]]: maternal hyperglycemia → abnormal maternal calcium-phosphorus metabolism → ↑ maternal urinary Mg excretion → maternal [[hypomagnesemia|hypomagnesemia]] → fetal [[hypomagnesemia|hypomagnesemia]] → impaired PTH synthesis in the fetus → fetal hypocalcemia and [[hypomagnesemia|hypomagnesemia]]
 - Respiratory defects
 	- [[Acute respiratory distress syndrome|Acute respiratory distress syndrome]]
-- Cardiovascular defects: transient hypertrophic cardiomyopathy
+- Cardiovascular defects: transient [[hypertrophic cardiomyopathy|hypertrophic cardiomyopathy]]
 	- Definition: thickening of one or both of the ventricular walls and the interventricular septum
-	- Clinical features: often asymptomatic in infants but may manifest with symptoms of heart failure (e.g., tachypnea, poor feeding, irritability)
+	- Clinical features: often asymptomatic in infants but may manifest with symptoms of [[heart failure|heart failure]] (e.g., tachypnea, poor feeding, irritability)
 	- Pathophysiology: maternal hyperglycemia → fetal hyperglycemia → fetal hyperinsulinemia → ↑ fat and glycogen in fetal myocardial cells → thickening of ventricular walls and the intraventricular septum in utero → ↓ ventricular size → left ventricular outflow obstruction and systolic and diastolic cardiac dysfunction

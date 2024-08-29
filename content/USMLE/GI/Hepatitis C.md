@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-10-29 14:25
 modified: 2023-10-29 14:25
-aliases: Untitled
+aliases:
+  - HCV
 share: true
 ---
 # Epidemiology
@@ -16,11 +17,15 @@ share: true
 	- Blood [[transfusion|transfusion]]
 	- Dialysis
 - Organ transplantation
-- Sexual: rare (in contrast to [[Hepatitis B|HBV]] and HIV)
+- Sexual: rare (in contrast to [[Hepatitis B|HBV]] and [[Human immunodeficiency virus|HIV]])
 
 ---
 # Pathophysiology
-
+## Pathogen
+- The risk of chronic infection is multifactorial and depends on the host's ability to clear the pathogen through activation of multiple innate immunity pathways against the viral envelope. 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Flawed proofreading capability of RNA-dependent RNA polymerase (no 3′– 5′ exonuclease activity) introduces mutations into genes encoding viral glycoprotein envelope and enabling novel antigen production.</span>
+	- Rapid replication rate produces many antigenically unique viral envelopes.
+	- Infection persists because the production rate of new mutant virions exceeds the production rate of host antibodies.
 
 ---
 # Clinical features
@@ -33,7 +38,7 @@ share: true
 - Extrahepatic features of HCV (common) 
 	- Hematological
 		- Mixed cryoglobulinemia
-		- Lymphoma (especially B-cell non-Hodgkin lymphoma)
+		- Lymphoma (especially B-cell [[Non-Hodgkin lymphomas|non-Hodgkin lymphoma]])
 		- [[Immune thrombocytopenia|ITP]]
 		- [[Autoimmune hemolytic anemia|Autoimmune hemolytic anemia]]
 		- Monoclonal gammopathies
@@ -46,7 +51,7 @@ share: true
 	- Endocrine
 		- [[Diabetes mellitus|Diabetes mellitus]]
 		- Autoimmune thyroiditis (may lead to [[hypothyroidism|hypothyroidism]])
-	- Vascular: leukocytoclastic vasculitis
+	- Vascular: leukocytoclastic [[Vasculitides|vasculitis]]
 
 ---
 # Diagnostics
@@ -54,14 +59,14 @@ share: true
 
 ---
 # Treatment
-## Antiviral therapy
+## [[Antiviral therapy|Antiviral therapy]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Direct-acting antivirals (DAAs)</span>
 	- Antivirals target and inhibit HCV-encoded proteins that are essential for the HCV replication cycle.
 	- Example regimens
 		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
 		- Sofosbuvir PLUS velpatasvir (all 6 genotypes)
 		- Ledipasvir PLUS sofosbuvir (genotypes 1, 4, 5, and 6)
-- Interferon PLUS ribavirin
+- [[Interferons|Interferon]] PLUS ribavirin
 	- Was the preferred treatment before the development of DAAs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with severe adverse effects</span> (e.g., arthralgias, thrombocytopenia, leukopenia, depression, anemia) and teratogenicity
 	- Contraindicated in patients with decompensated [[cirrhosis|cirrhosis]] (high risk of worsening [[cirrhosis|cirrhosis]] decompensation)
@@ -71,9 +76,9 @@ share: true
 			- Competitive inhibition of IMP dehydrogenase → <span style="background:rgba(240, 200, 0, 0.2)">prevention of guanine nucleosides synthesis</span>
 		- Adverse effects
 			- <span style="background:rgba(240, 200, 0, 0.2)">Hemolytic anemia</span>
-			- Highly teratogenic
+			- Highly [[Teratogenesis|teratogenic]]
 
 >[!tip] 
->DAAs have superior efficacy and safety profiles compared with interferon or ribavirin-based regimens and are thus preferred.
+>DAAs have superior efficacy and safety profiles compared with [[Interferons|interferon]] or ribavirin-based regimens and are thus preferred.
 
 ---

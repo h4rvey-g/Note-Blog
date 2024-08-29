@@ -5,6 +5,7 @@ modified: 2023-12-07 11:22
 aliases:
   - Meniere syndrome
   - endolymphatic hydrops
+  - Ménière disease
 share: true
 ---
 # Epidemiology

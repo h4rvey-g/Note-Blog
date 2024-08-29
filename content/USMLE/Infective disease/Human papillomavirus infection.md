@@ -19,7 +19,8 @@ share: true
 - HPV types 1, 2, and 4: cause skin warts, such as <span style="background:rgba(240, 200, 0, 0.2)">common warts (verruca vulgaris) and plantar warts (myrmecias)</span>
 # Pathology
 ---
-- Epidermal hyperplasia and <span style="background:rgba(240, 200, 0, 0.2)">hyperkeratosis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">HPV infect [[Skin layers|stratum basale]], where epithelial cells are replicating</span>
+- Epidermal [[Cellular adaptations|hyperplasia]] and <span style="background:rgba(240, 200, 0, 0.2)">hyperkeratosis</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Koilocytes</span> 
 	- Pathognomonic of an infection with HPV
 	- Dysplastic squamous cells characterized by well-defined, clear, balloon-like, <span style="background:rgba(240, 200, 0, 0.2)">perinuclear halo</span> and hyperchromasia![[L84976.png|L84976.png]]

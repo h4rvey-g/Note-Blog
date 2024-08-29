@@ -4,6 +4,7 @@ created: 2024-03-15 15:31
 modified: 2024-03-15 15:31
 aliases:
   - Benzodiazepines
+  - Benzodiazepine
 share: true
 ---
 ![[Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
@@ -45,7 +46,7 @@ share: true
 	- Brand name: <span style="background:rgba(240, 200, 0, 0.2)">Stilnox</span>
 - Zaleplon (pyrazolopyrimidine): half-life ∼ 1 hour
 - Eszopiclone: half-life ∼ 6 hours
-## Mechanism of action 
+## Mechanism of action
 - <span style="background:rgba(240, 200, 0, 0.2)">Similar to benzodiazepines</span>
-- Selectivity for GABAA receptors with α1 subunits (corresponding to the BZ1 subtype)
+- Selectivity for GABA<sub>A</sub> receptors with α1 subunits (corresponding to the BZ1 subtype)
 - Short-acting due to fast metabolization by liver enzymes

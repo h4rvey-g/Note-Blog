@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-10-08 08:52
 modified: 2023-10-08 08:52
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Epidemiology
@@ -12,7 +12,7 @@ share: true
 
 ---
 # Etiology
-- Traditionally: Haemophilus influenzae type b (Hib)
+- Traditionally: [[Haemophilus influenzae|Haemophilus influenzae]] type b (Hib)
 - Most cases now involve:
 	- [[Streptococcus pyogenes|Streptococcus pyogenes]]
 	- [[Streptococcus pneumoniae|Streptococcus pneumoniae]]

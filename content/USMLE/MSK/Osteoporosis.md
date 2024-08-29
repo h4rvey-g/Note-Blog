@@ -37,10 +37,19 @@ share: true
 
 ---
 # Treatment
+## Bisphosphonates
+- Alendronate, Risedronate, Ibandronate, Zoledronic acid
+- Indications: <span style="background:rgba(240, 200, 0, 0.2)">preferred initial treatment in all patients</span>
+- See [[Paget disease#Bisphosphonates|Paget disease > Bisphosphonates]] for details
 ## Nonbisphosphonates
+### Denosumab
+- Mechanism of action
+	- Monoclonal antibody a<span style="background:rgba(240, 200, 0, 0.2)">gainst the receptor activator of nuclear factor-κB ligand (RANKL)</span>
+	- Targets RANKL by mimicking osteoprotegerin → interference in osteoclast maturation → <span style="background:rgba(240, 200, 0, 0.2)">↓ osteoclast activity</span>
 ### PTH and [[Parathyroid hormone-related protein|PTH-related protein]] analogues
 - Teriparatide, Abaloparatide
 - Recombinant human parathyroid hormone that increases osteoblastic activity → increased bone growth
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pulsatile PTH secretion has an anabolic effect on bone metabolism, stimulating osteoblast proliferation, decreasing osteoblast apoptosis, and inducing increased formation of new bone.</span>  Recombinant PTH analogues (eg, teriparatide) are used to treat severe osteoporosis; these analogues promote [[bone remodeling|bone remodeling]] by inducing increased resorption of old bone while stimulating a corresponding increase in new bone production, resulting in a net increase in total bone mass (ie, positive bone balance).
+	- Also increases gastrointestinal calcium absorption & renal tubular calcium reabsorption
 
 ---

@@ -34,6 +34,7 @@ share: true
 	- ACE inhibitors and ARBs can induce or worsen renal insufficiency, particularly in patients with severe bilateral renal artery stenosis or high-grade unilateral stenosis.
 - <span style="background:rgba(240, 200, 0, 0.2)">Unexplained renal atrophy or asymmetry of > 1.5 cm between the kidneys</span>
 - Unexplained acute pulmonary edema
+- <span style="background:rgba(240, 200, 0, 0.2)">DDx: [[Fibromuscular dysplasia|Fibromuscular dysplasia]]</span>
 
 # Treatment
 ---

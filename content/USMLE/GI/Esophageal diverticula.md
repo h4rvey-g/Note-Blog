@@ -8,7 +8,7 @@ share: true
 ---
 # Epidemiology
 - Peak incidence: older male individuals (70-80 y)
-- Zenker diverticulum is the most common type.
+- <span style="background:rgba(240, 200, 0, 0.2)">Zenker diverticulum is the most common type.</span>
 
 ---
 # Etiology
@@ -16,12 +16,12 @@ share: true
 
 ---
 # Pathophysiology
-- Inadequate relaxation of the esophageal sphincter (e.g., caused by achalasia or spastic motility) and increased intraluminal pressure → outpouching of the esophageal wall → pulsion diverticulum
+- Inadequate relaxation of the esophageal sphincter (e.g., caused by [[achalasia|achalasia]] or spastic motility) and increased intraluminal pressure → outpouching of the esophageal wall → pulsion diverticulum
 	- Usually a false diverticulum
 	- Common sites
-		- Upper esophageal sphincter (UES) → pharyngoesophageal pulsion diverticulum (e.g., <span style="background:rgba(240, 200, 0, 0.2)">Zenker diverticulum</span>)
+		- Upper esophageal sphincter (UES) → pharyngoesophageal pulsion diverticulum (e.g., <span style="background:rgba(240, 200, 0, 0.2)">Zenker diverticulum</span>, between the thyropharyngeal and <span style="background:rgba(240, 200, 0, 0.2)">cricopharyngeal</span>)![[C12-FF1-7.gif|C12-FF1-7.gif]]
 		- Lower esophageal sphincter (LES) → epiphrenic pulsion diverticulum
-- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation of the mediastinum with scarring and retraction</span> (e.g., secondary to tuberculosis or fungal infection) → traction diverticulum 
+- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation of the mediastinum with scarring and retraction</span> (e.g., secondary to [[tuberculosis|tuberculosis]] or fungal infection) → traction diverticulum 
 	- Usually true diverticulum
 	- Common site: the middle esophagus
 
@@ -35,12 +35,12 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Regurgitation of undigested food</span>
 	- Halitosis 
 		- Originating from food or medicine retained within the diverticulum
-	- Aspiration pneumonia
+	- Aspiration [[pneumonia|pneumonia]]
 	- Dysphonia
 	- Coughing after ingesting food
 	- Retrosternal pressure sensation and pain
 	- Weight loss 
-	- Neck mass (only with large upper esophageal diverticula)
+	- Neck mass (only with large upper esophageal [[Diverticulosis|diverticula]])
 
 ---
 # Diagnostics

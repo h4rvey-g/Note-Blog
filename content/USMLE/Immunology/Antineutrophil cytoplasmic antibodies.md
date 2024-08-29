@@ -10,6 +10,7 @@ aliases:
   - p-ANCA
 share: true
 ---
+![[Pasted image 20231029162243.png|Pasted image 20231029162243.png]]
 - Description: ANCAs comprise antibodies against specific cytoplasmic antigens
 - <span style="background:rgba(240, 200, 0, 0.2)">c-ANCA (Proteinase-3 antibody)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Granulomatosis with polyangiitis|Granulomatosis with polyangiitis]]: ∼ 90% of patients are ANCA positive (mostly c-ANCA).</span>

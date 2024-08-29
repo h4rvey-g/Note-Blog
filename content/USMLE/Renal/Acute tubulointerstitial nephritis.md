@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-08-18 15:32
 modified: 2023-08-18 15:32
-aliases: ATIN
+aliases:
+  - ATIN
+  - "Acute interstitial\rnephritis"
 share: true
 ---
 # Definition
@@ -12,10 +14,10 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 # Etiology
 <span style="background:rgba(240, 200, 0, 0.2)">Medications (most common)</span>
 - Antibiotics: β-lactams, sulfonamides, rifampin, fluoroquinolones
-- NSAIDs
+- [[Non-opioid analgesics|NSAIDs]]
 - [[Proton pump inhibitors|Proton pump inhibitors]] and H2 blockers
 - Loop diuretics and [[thiazides|thiazides]]
-- [[Anticonvulsant drugs|Anticonvulsants]]: phenytoin, valproate, carbamazepine, phenobarbital
+- [[Anticonvulsant drugs|Anticonvulsants]]: phenytoin, [[Anticonvulsant drugs|valproate]], carbamazepine, phenobarbital
 - Other: allopurinol
 
 ---

@@ -19,7 +19,8 @@ share: true
 ---
 # Pathophysiology
 ### Common underlying pathophysiology
-Asthma is an inflammatory disease driven by T-helper type 2 cells (Th2-cell) that manifests in individuals with a genetic predisposition. It consists of the following three pathophysiologic processes:
+![[L41542.jpg|L41542.jpg]]
+Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)">driven by T-helper type 2 cells (Th2-cell)</span> that manifests in individuals with a genetic predisposition. It consists of the following three pathophysiologic processes:
 1. Bronchial hyperresponsiveness
 2. Bronchial inflammation
 	- Symptoms are primarily caused by <span style="background:rgba(240, 200, 0, 0.2)">inflammation of the terminal bronchioles, which are lined with smooth muscle but lack the cartilage found in larger airways.</span>
@@ -83,7 +84,7 @@ Asthma is an inflammatory disease driven by T-helper type 2 cells (Th2-cell) 
 	- Select cases of severe asthma
 ### IL-5 antibodies
 -  mepolizumab, reslizumab,benralizumab
-- Block the effects of IL-5 on eosinophils → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
+- <span style="background:rgba(240, 200, 0, 0.2)">Block the effects of IL-5 on eosinophils</span> → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
 - Uses
 	- Refractory severe eosinophilic asthma
 

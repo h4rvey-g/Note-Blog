@@ -33,8 +33,8 @@ The <span style="background:rgba(240, 200, 0, 0.2)">two major contributing facto
 		- Bacterial colonization and attachment to epithelial cells → <span style="background:rgba(240, 200, 0, 0.2)">release of cytotoxins (e.g., cagA toxin) → disruption of the mucosal barrier and damage to underlying cells</span>
 	- Duodenal ulcers
 		- <span style="background:rgba(240, 200, 0, 0.2)">H. pylori colonizes the gastric antrum</span>, see [[Stomach histology|Stomach histology]]
-		- <span style="background:rgba(240, 200, 0, 0.2)">H. pylori inhibits somatostatin secretion → ↑ gastrin secretion</span> → ↑ H+ secretion → <span style="background:rgba(240, 200, 0, 0.2)">excess H+ delivery to the duodenum</span> 
-		- Direct spread of H. pylori to the duodenum → inhibition of duodenal HCO3- secretion→ acidification and insufficient neutralization of duodenal contents
+		- <span style="background:rgba(240, 200, 0, 0.2)">H. pylori inhibits somatostatin secretion → ↑ gastrin secretion</span> → ↑ H<sup>+</sup> secretion → <span style="background:rgba(240, 200, 0, 0.2)">excess H<sup>+</sup> delivery to the duodenum</span> 
+		- Direct spread of H. pylori to the duodenum → inhibition of duodenal HCO<sub>3</sub><sup>-</sup> secretion→ acidification and insufficient neutralization of duodenal contents
 
 ---
 # Clinical features

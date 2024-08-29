@@ -8,7 +8,7 @@ aliases:
 share: true
 ---
 - Cells involved
-	- <span style="background:rgba(240, 200, 0, 0.2)">Osteoclasts: degrade bone tissue by secreting collagenase and H+</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Osteoclasts: degrade bone tissue by secreting collagenase and H<sup>+</sup></span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Osteoblasts</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Build bone tissue by secreting type I [[collagen|collagen]]</span>
 		- Activity assessed by an increase in bone [[Alkaline phosphatase|ALP]], osteocalcin, and type I procollagen propeptides
@@ -50,4 +50,4 @@ share: true
 		- Stimulates closure of the epiphyseal plate in puberty
 		- [[Androgen and estrogen synthesis|Estrogen]] deficiency (e.g., postmenopausal or after bilateral oophorectomy) leads to increased bone resorption, which can result in [[osteoporosis|osteoporosis]].
 	- Thyroid hormone
-		- In <span style="background:rgba(240, 200, 0, 0.2)">long-standing hyperthyroidism</span>, <span style="background:rgba(240, 200, 0, 0.2)">[[osteoporosis|osteoporosis]]</span> due to the direct effect of T3 on osteoclastic bone resorption, fractures (in the elderly)
+		- In <span style="background:rgba(240, 200, 0, 0.2)">long-standing [[hyperthyroidism|hyperthyroidism]]</span>, <span style="background:rgba(240, 200, 0, 0.2)">[[osteoporosis|osteoporosis]]</span> due to the direct effect of T3 on osteoclastic bone resorption, fractures (in the elderly)

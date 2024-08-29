@@ -22,14 +22,14 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">CNS arousal and sympathetic hyperactivity</span>
 	- Tachycardia, hypertension
 	- Anxiety, [[Insomnia disorder|insomnia]], irritability, agitation
-	- Mydriasis, <span style="background:rgba(240, 200, 0, 0.2)">yawning</span>, lacrimation, sneezing
+	- Mydriasis, <span style="background:rgba(240, 200, 0, 0.2)">yawning, lacrimation</span>, sneezing
 	- Hyperreflexia, muscle cramps
 - <span style="background:rgba(240, 200, 0, 0.2)">Flu-like symptoms</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rhinorrhea, diaphoresis, piloerection, thermoregulation disturbances (e.g., chills)</span>
 	- Myalgia, arthralgia
 - Gastrointestinal symptoms
 	- Nausea, vomiting, [[diarrhea|diarrhea]]
-	- Abdominal pain
+	- Abdominal pain, <span style="background:rgba(240, 200, 0, 0.2)">hyperactive bowel sounds</span>
 
 >[!Mnemonic] 
 >Opioid yawning![[Pasted image 20240107153212.png|Pasted image 20240107153212.png]]

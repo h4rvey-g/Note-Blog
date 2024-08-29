@@ -6,6 +6,7 @@ aliases:
   - Acute renal failure
   - AKI
   - Acute tubular necrosis
+  - ATN
 share: true
 ---
 # Etiology

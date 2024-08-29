@@ -43,18 +43,17 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Prevention of vasospasm and delayed cerebral ischemia</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Administer oral nimodipine</span>
 		- Only administer nimodipine orally or via enteral tube; Parenteral administration is associated with significant adverse effects (e.g., severe hypotension and cardiac arrest).
-	- Treatment of hydrocephalus: may include an external ventricular drain (EVD), lumbar drainage, or permanent ventriculoperitoneal shunt
+	- Treatment of [[hydrocephalus|hydrocephalus]]: may include an external ventricular drain (EVD), lumbar drainage, or permanent ventriculoperitoneal shunt
 
 >[!warning] 
->Generally avoid nitrates for blood pressure control in brain injury, as they may elevate ICP. Consider alternative agents (e.g., titratable nicardipine or labetalol).
+>Generally avoid [[nitrates|nitrates]] for blood pressure control in brain injury, as they may elevate ICP. Consider alternative agents (e.g., titratable nicardipine or labetalol).
 ## Complications
 ### Vasospasm
 - Occurs in approx. 30% of patients with SAH
 - Pathophysiology
-	- Impaired CSF reabsorption from the arachnoid villi → nonobstructive (communicating) hydrocephalus → ↑ intracranial pressure → ↓ cerebral perfusion pressure → ischemia
+	- Impaired CSF reabsorption from the arachnoid villi → nonobstructive (communicating) [[hydrocephalus|hydrocephalus]] → ↑ intracranial pressure → ↓ cerebral perfusion pressure → ischemia
 	- Release of clotting factors and vasoactive substances → diffuse vasospasm of cerebral vessels  → ischemia
 - <span style="background:rgba(240, 200, 0, 0.2)">Can lead to [[ischemic stroke|ischemic stroke]]</span>
 - Most common in patients with nontraumatic SAH due to a ruptured aneurysm
 - Usually occurs between <span style="background:rgba(240, 200, 0, 0.2)">3–10 days after SAH</span>
 - Oral <span style="background:rgba(240, 200, 0, 0.2)">nimodipine</span> should be given after subarachnoid hemorrhage to prevent vasospasm
-# [[Intracranial hemorrhage|Intracranial hemorrhage]]

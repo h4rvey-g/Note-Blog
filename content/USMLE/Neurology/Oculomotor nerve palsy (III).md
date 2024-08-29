@@ -64,7 +64,7 @@ The basilar segment is the only region where the oculomotor nerve is not accompa
 	- Lesions of the autonomic (parasympathetic) portion result in <span style="background:rgba(240, 200, 0, 0.2)">loss of the pupillary reflex.</span>
 
 >[!tip] 
->Impaired pupillary reaction with relative sparing of motor function is typically seen in compressive lesions. Prominent motor dysfunction with sparing of the pupil is typically seen in ischemic lesions. However, pupillary findings cannot reliably distinguish between the etiologies of oculomotor palsy.
+><span style="background:rgba(240, 200, 0, 0.2)">Impaired pupillary reaction with relative sparing of motor function is typically seen in compressive lesions. Prominent motor dysfunction with sparing of the pupil is typically seen in ischemic lesions.</span> See [[Diabetic neuropathy#Diabetic CN III mononeuropathy|Diabetic neuropathy > Diabetic CN III mononeuropathy]]![[L18206.jpg|L18206.jpg]]
 
 ---
 # Treatment

@@ -12,7 +12,7 @@ share: true
 # Etiology
 ---
 - Sleeping in the prone position
-- <span style="background:rgba(240, 200, 0, 0.2)">Exposure to nicotine during pregnancy and after birth (including [[Secondhand smoke|secondhand smoking]])</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Exposure to nicotine during [[pregnancy|pregnancy]] and after birth (including [[Secondhand smoke|secondhand smoking]])</span>
 - Young maternal age (especially < 20 years)
 
 # Pathophysiology

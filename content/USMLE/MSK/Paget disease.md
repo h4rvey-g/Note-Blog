@@ -41,11 +41,13 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 	- <span style="background:rgba(240, 200, 0, 0.2)">Skull enlargement (increasing hat size) </span>
 	- Cranial nerve deficits
 	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired hearing</span>: due to ankylosis of the ossicles  and narrowing of the internal auditory meatus
+- <span style="background:rgba(240, 200, 0, 0.2)">Vertebral involvement</span>: [[Cauda equina syndrome|Cauda equina syndrome]], nerve root compression, [[spinal stenosis|spinal stenosis]]
 
 ![[Pasted image 20231020212143.png|Pasted image 20231020212143.png]]
 
 ---
 # Diagnostics
+- Radiographs typically reveal lytic or mixed lytic-sclerotic lesions, <span style="background:rgba(240, 200, 0, 0.2)">thickening of cortical and trabecular bone</span>, and bony deformities.
 - <span style="background:rgba(240, 200, 0, 0.2)">Serum total [[Alkaline phosphatase|ALP]]: often significantly increased</span>; first-line test to assess disease severity
 	- Due to increased osteoblast activity
 - <span style="background:rgba(240, 200, 0, 0.2)">Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal</span>

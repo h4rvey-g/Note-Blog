@@ -35,7 +35,7 @@ share: true
 
 ---
 # Diagnostics
-- Fasting serum gastrin (FSG) and gastric pH (initial studies)
+- [[Metabolic fuel use|Fasting]] serum gastrin (FSG) and gastric pH (initial studies)
 - <span style="background:rgba(240, 200, 0, 0.2)">Secretin stimulation test</span>
 	- Mechanism 
 		- <span style="background:rgba(240, 200, 0, 0.2)">In healthy individuals, an infusion of secretin inhibits gastrin secretion.</span>

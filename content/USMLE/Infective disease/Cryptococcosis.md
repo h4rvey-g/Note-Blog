@@ -28,7 +28,7 @@ share: true
 
 ---
 # Diagnostics
-- <span style="background:rgba(240, 200, 0, 0.2)">Latex agglutination test</span>: positive for cryptococcal polysaccharide capsular antigen
+- <span style="background:rgba(240, 200, 0, 0.2)">Latex agglutination test</span>: positive for cryptococcal polysaccharide capsular antigen![[Pasted image 20240821144843.png|Pasted image 20240821144843.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">High specificity and sensitivity</span>
 	- Specimen: Blood or CSF
 - CSF analysis

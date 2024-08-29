@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-08-23 16:25
 modified: 2023-08-23 16:25
-aliases: PSGN
+aliases:
+  - PSGN
+  - poststreptococcal GN
 share: true
 ---
 ![[Pasted image 20231210144437.png|Pasted image 20231210144437.png]]
@@ -18,7 +20,7 @@ share: true
 
 ---
 # Pathophysiology
-Infection with nephritogenic strains of group A beta-hemolytic streptococci → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes</span> containing the streptococcal antigen deposit within the <span style="background:rgba(240, 200, 0, 0.2)">glomerular basement membrane ([[Type III hypersensitivity reactions|Type III hypersensitivity reaction]])</span> → <span style="background:rgba(240, 200, 0, 0.2)">[[Complement system|complement]] activation</span> (↑ consumption of [[Complement system|complement]] factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[nephritic syndrome|nephritic syndrome]]
+Infection with nephritogenic strains of group A beta-hemolytic streptococci → streptococcal antigen deposit within the glomerular basement membrane → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes formation ([[Type III hypersensitivity reactions|Type III hypersensitivity reaction]])</span> → <span style="background:rgba(240, 200, 0, 0.2)">[[Complement system|complement]] activation</span> (↑ consumption of [[Complement system|complement]] factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[nephritic syndrome|nephritic syndrome]]
 
 ---
 # Clinical features

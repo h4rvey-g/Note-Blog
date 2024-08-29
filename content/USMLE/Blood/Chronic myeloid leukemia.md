@@ -23,8 +23,14 @@ share: true
 >Philadelphia chromosome is in <span style="background:rgba(240, 200, 0, 0.2)">> 90% of CML</span> patients.
 # Clinical features
 ---
-
-
+## Blast crisis
+- The blast crisis is the <span style="background:rgba(240, 200, 0, 0.2)">terminal stage of CML.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms resemble those of [[acute leukemia|acute leukemia]].</span>
+- Rapid progression of bone marrow failure → [[pancytopenia|pancytopenia]], bone pain
+- Severe malaise
+- Subtypes :
+	- Myeloid blast crisis → [[Acute leukemia|AML]] (⅔ of cases)
+	- Lymphoid blast crisis → [[Acute leukemia|ALL]] (⅓ of cases)
 # Diagnostics
 ---
 

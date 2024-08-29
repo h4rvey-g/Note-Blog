@@ -52,7 +52,7 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 - Renal manifestations
 	- <span style="background:rgba(240, 200, 0, 0.2)">Protruding abdomen (nontender abdominal mass)</span> due to bilateral renal enlargement and/or [[hepatomegaly|hepatomegaly]]
 	- Chronic renal failure: frequently hematuria, proteinuria, and oliguria
-	- Severe in-utero renal impairment → oliguria in utero → maternal [[oligohydramnios|oligohydramnios]] → [[Potter sequence|Potter sequence]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Severe in-utero renal impairment → oliguria in utero → maternal [[oligohydramnios|oligohydramnios]] → [[Potter sequence|Potter sequence]]</span>
  - Extrarenal manifestation
 	- Hypertension
 		- Possibly related to the activation of RAAS and enhanced sodium retention.

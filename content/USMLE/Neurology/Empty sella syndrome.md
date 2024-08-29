@@ -8,7 +8,7 @@ share: true
 - Description
 	- Considered a radiologic finding rather than a clinical condition
 	- A small and flat pituitary gland within the sella turcica on MRI (empty sella)
-- Epidemiology: occurs most often in obese women with hypertension
+- Epidemiology: occurs most often in <span style="background:rgba(240, 200, 0, 0.2)">obese women with hypertension</span>
 - Etiology
 	- Primary form: idiopathic
 	- Secondary form: associated with idiopathic intracranial hypertension

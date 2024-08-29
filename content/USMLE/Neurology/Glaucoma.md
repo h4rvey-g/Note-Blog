@@ -36,6 +36,11 @@ share: true
 - PLUS a systemic carbonic anhydrase inhibitor
 	- Acetazolamide 
 
+>[!tip] Cholinomimetic drugs include
+>- Cholinergic Receptor Agonists: Can directly stimulate cholinergic receptors.
+>- Anti-Cholinesterase Drugs: Inhibit the hydrolysis of acetylcholine (ACh), increasing the concentration of ACh in the synaptic cleft.
+>- Acetylcholine Release Promoters: Increase the release of ACh from nerve terminals.
+
 # Open-angle glaucoma
 ---
 ## Diagnostics

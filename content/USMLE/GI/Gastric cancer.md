@@ -24,6 +24,28 @@ share: true
 # Diagnostics
 ---
 
+# Pathology
+---
+## Gastric adenocarcinoma
+- Accounts for ∼ 95% of cases 
+- Most commonly located on the <span style="background:rgba(240, 200, 0, 0.2)">lesser curvature</span>
+### Lauren classification of gastric adenocarcinoma
+- <span style="background:rgba(240, 200, 0, 0.2)">Intestinal type</span> gastric carcinoma 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Typically localized </span>
+	- Polypoid, glandular formation![[L76015.png|L76015.png]]
+	- Similar to an ulcerative lesion with clear raised margins
+	- Commonly located on the lesser curvature
+	- <span style="background:rgba(240, 200, 0, 0.2)">Must be differentiated from peptic gastric ulcers by biopsy</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse type</span> gastric carcinoma 
+	- <span style="background:rgba(240, 200, 0, 0.2)">No clear border </span>
+	- Spreads earlier in the course of disease
+	- Infiltrative growth
+	- Diffuse spread in the gastric wall 
+	- Linitis plastica: gastric wall thickening and leather bottle appearance
+	- <span style="background:rgba(240, 200, 0, 0.2)">Composed of signet ring cells: round cells filled with mucin, with a flat nucleus in the cell periphery </span>![[highresdefault_L66770.jpg|highresdefault_L66770.jpg]]
+	- Associated with E-cadherin mutation
+		- E-cadherin is a family of calcium-dependent glycoproteins that facilitate cell-to-cell adhesion at adherens junctions. Link to the actin [[cytoskeleton|cytoskeleton]] via catenin and vinculin.
+		- Due to its role in cell adhesion and differentiation, E-cadherin protects against tumor formation. Low expression is associated with poorer prognosis (e.g., increased depth of invasion or severe lymph node involvement).
 
 # Treatment
 ---
@@ -45,7 +67,7 @@ share: true
 - Pathophysiology: dysfunctional pyloric sphincter → rapid emptying of <span style="background:rgba(240, 200, 0, 0.2)">glucose-containing chyme into the small intestine → quick reabsorption of glucose → hyperglycemia → excessive release of insulin → [[hypoglycemia|hypoglycemia]] and release of catecholamines</span>
 - Clinical features
 	- Occur <span style="background:rgba(240, 200, 0, 0.2)">hours after meal ingestion</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Include signs of [[hypoglycemia|hypoglycemia]] (e.g., hunger, tremor, lightheadedness)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Include signs of [[hypoglycemia|hypoglycemia]] (e.g., hunger, [[tremor|tremor]], lightheadedness)</span>
 	- GI discomfort
 - Management
 	- Dietary modifications

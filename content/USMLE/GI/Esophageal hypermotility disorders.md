@@ -6,7 +6,7 @@ aliases:
   - Diffuse esophageal spasms
 share: true
 ---
-- Esophageal motility disorders include disorders of hypomotility (e.g., achalasia) and hypermotility (e.g., diffuse esophageal spasm).
+- Esophageal motility disorders include disorders of hypomotility (e.g., [[achalasia|achalasia]]) and hypermotility (e.g., diffuse esophageal spasm).
 - Distal esophageal spasm (DES; corkscrew esophagus): premature and uncoordinated nonpropagative esophageal peristalsis in at least 20% of swallows
 # Epidemiology
 ---
@@ -31,10 +31,10 @@ share: true
 - Procedure: measures the amplitude, length, and duration of the peristaltic waves via a nasogastric tube fitted with numerous pressure sensors 
 - Findings![[L27471.jpg|L27471.jpg]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Normal condition:</span> To initiate swallowing, the contents of the oral cavity are collected on the tongue and propelled into the pharynx, <span style="background:rgba(240, 200, 0, 0.2)">where contraction of the pharyngeal muscles pushes the material into the esophagus</span>.  The cricopharyngeus muscle contracts behind the food bolus, initiating a peristaltic wave to propel the bolus downward.  When the food bolus reaches the lower esophagus, the <span style="background:rgba(240, 200, 0, 0.2)">lower esophageal sphincter (LES) relaxes to allow the material to enter the stomach.</span>
-	- [[Systemic sclerosis|Systemic sclerosis]] (scleroderma) can affect the esophagus, leading to <span style="background:rgba(240, 200, 0, 0.2)">impaired motility, incompetence of the LES, and [[gastroesophageal reflux disease|gastroesophageal reflux disease]].  Manometry will show decreased peristalsis with decreased tone at the LES.</span>
-	- Achalasia: 
+	- [[Systemic sclerosis|Systemic sclerosis]] ([[Systemic sclerosis|scleroderma]]) can affect the esophagus, leading to <span style="background:rgba(240, 200, 0, 0.2)">impaired motility, incompetence of the LES, and [[gastroesophageal reflux disease|gastroesophageal reflux disease]].  Manometry will show decreased peristalsis with decreased tone at the LES.</span>
+	- [[Achalasia|Achalasia]]: 
 		- A motility disorder caused by reduced numbers of inhibitory ganglion cells in the esophageal wall, which creates an imbalance favoring excitatory ganglion cells.  
-		- This patient's esophageal manometry shows typical findings in achalasia, including <span style="background:rgba(240, 200, 0, 0.2)">normal contraction of the upper esophageal sphincter, decreased amplitude of peristalsis in the mid esophagus, and increased tone and incomplete relaxation at the LES</span>
+		- This patient's esophageal manometry shows typical findings in [[achalasia|achalasia]], including <span style="background:rgba(240, 200, 0, 0.2)">normal contraction of the upper esophageal sphincter, decreased amplitude of peristalsis in the mid esophagus, and increased tone and incomplete relaxation at the LES</span>
 	- Diffuse esophageal spasm presents with severe, retrosternal chest pain. It is characterized by <span style="background:rgba(240, 200, 0, 0.2)">uncoordinated contractions of the esophageal body</span>.  Esophageal manometry shows <span style="background:rgba(240, 200, 0, 0.2)">intermittent peristalsis and multiple simultaneous contractions on tracings from the mid and lower esophagus.</span>
 	- Esophageal stricture presents with progressive solid food dysphagia.  <span style="background:rgba(240, 200, 0, 0.2)">It is diagnosed with contrast imaging (eg, barium swallow) rather than manometry.</span>  However, most patients will have a long history of gastroesophageal reflux with decreased tone at the LES.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Distal esophageal spasm: premature contractions in at least 20% of swallows </span>
