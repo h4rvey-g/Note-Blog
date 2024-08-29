@@ -25,7 +25,7 @@ PTH-mediated or non-PTH-mediated causes
 >- [[Adrenal insufficiency|Adrenal insufficiency]]
 >- Neoplasm ([[multiple myeloma|multiple myeloma]], breast, lung)
 >- [[Gastrinoma|Zollinger-Ellison syndrome]]
->- Excessive vitamin D
+>- Excessive [[vitamin D|vitamin D]]
 >- Excessive [[vitamin A|vitamin A]]
 >- [[Sarcoidosis|Sarcoidosis]] & granulomatous diseases
 # Clinical features
