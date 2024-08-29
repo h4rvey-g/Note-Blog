@@ -18,6 +18,11 @@ share: true
 
 ---
 # Pathophysiology
+- Certain interstitial tissue proteins (e.g. intracellular filament protein vimentin, filaggrin, type II collagen) <span style="background:rgba(240, 200, 0, 0.2)">undergo a posttranslational modification</span> that involves the conversion of arginine to citrulline (citrullination). 
+- <span style="background:rgba(240, 200, 0, 0.2)">Citrullinated proteins are recognized as foreign by the antigen-presenting cells that present them to CD4+ T cells.</span>
+- Activation of CD4+ T cells leads to the following sequences of events: 
+	- <span style="background:rgba(240, 200, 0, 0.2)">IL-4 production</span> → B-cell proliferation and differentiation → production of <span style="background:rgba(240, 200, 0, 0.2)">anticitrullinated peptide antibodies</span> → type II hypersensitivity reaction and type III hypersensitivity reaction
+	- Migration of CD4+ T cells to synovial joints → secretion of cytokines <span style="background:rgba(240, 200, 0, 0.2)">(IFN-γ, IL-17)</span> → recruitment of macrophages → secretion of cytokines (<span style="background:rgba(240, 200, 0, 0.2)">TNF-α, IL-1</span>, IL-6) → inflammation and proliferation
 - Bouts of inflammation, angiogenesis, and proliferation → <span style="background:rgba(240, 200, 0, 0.2)">proliferative granulation tissue with mononuclear inflammatory cells → pannus and synovial hypertrophy → invasion, progressive destruction, and deterioration of cartilage and bone</span>
 - Antibodies against Fc portion of IgG (rheumatoid factor, RF) are produced to aid in removing autoantibodies and immune complexes.
 	- RF excess triggers formation of new immune complexes and [[Type III hypersensitivity reactions|type III HSR]]
