@@ -44,7 +44,7 @@ See also [[Lipid transport|Lipid transport]]
 - Adverse effects
 	- Dyspepsia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Myopathy, especially in combination with statins</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[Cholelithiasis|Cholelithiasis]]: fibrates inhibit cholesterol 7α hydroxylase → decreased bile acid synthesis → supersaturation of bile with cholesterol (↑ cholesterol:bile acid ratio)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Cholelithiasis|Cholelithiasis]]: fibrates inhibit cholesterol 7α hydroxylase → decreased bile acid synthesis → supersaturation of bile with cholesterol (↑ cholesterol:bile acid ratio)</span>![[L26303.jpg|L26303.jpg]]
 	- ↑ LFTs (reversible)
  
 ![[Pasted image 20231012134711.png|Pasted image 20231012134711.png]]
