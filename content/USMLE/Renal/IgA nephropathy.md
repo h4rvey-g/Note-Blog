@@ -6,12 +6,12 @@ aliases: Berger disease
 share: true
 ---
 # Etiology
-- IgA nephropathy is the <span style="background:rgba(240, 200, 0, 0.2)">most common primary glomerulonephritis in adults.</span>
+- IgA nephropathy is the <span style="background:rgba(240, 200, 0, 0.2)">most common primary [[Nephritic syndrome|glomerulonephritis]] in adults.</span>
 - Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old</span>
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and [[complement system|complement system]] activation → glomerulonephritis (<span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>)
+<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and [[complement system|complement system]] activation → [[Nephritic syndrome|glomerulonephritis]] (<span style="background:rgba(240, 200, 0, 0.2)">[[Type III hypersensitivity reactions|type III hypersensitivity reaction]]</span>)
 
 ---
 # Clinical features
@@ -35,7 +35,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Because IgA has weak [[Complement system|complement]]-fixing activity. IgA is mainly in mucosa, where excessive inflammation needs to be avoided.</span>
 
  >[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[membranoproliferative glomerulonephritis|membranoproliferative glomerulonephritis]], and lupus nephritis.</span>
+><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[membranoproliferative glomerulonephritis|membranoproliferative glomerulonephritis]], and [[Diffuse proliferative glomerulonephritis|lupus nephritis]].</span>
 - Renal biopsy
 	- Light microscopy: mesangial proliferation![[Pasted image 20230818161650.png|Pasted image 20230818161650.png]]
 	- Immunofluorescent microscopy: mesangial IgA deposits
