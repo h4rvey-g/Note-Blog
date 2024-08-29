@@ -29,7 +29,7 @@ share: true
 # Pathology
 ![[Pasted image 20240303110920.png|Pasted image 20240303110920.png]]
 - Transmural inflammation: all mucosal layers of the intestinal wall are involved 
-	- Noncaseating granulomas![[Pasted image 20231026112626.png|Pasted image 20231026112626.png]]![[Pasted image 20231026112648.png|Pasted image 20231026112648.png]]
+	- Noncaseating granulomas![[L1282.jpg|L1282.jpg]]![[Pasted image 20231026112648.png|Pasted image 20231026112648.png]]
 
 ---
 # Clinical features
