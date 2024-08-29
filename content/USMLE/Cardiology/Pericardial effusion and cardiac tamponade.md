@@ -40,6 +40,8 @@ share: true
 ## ECG
 - Low voltage complexes and electrical alternans in larger effusions
 	- Electrical alternans: consecutive QRS complexes that alternate in height due to the swinging motion of the heart when surrounded by large amounts of pericardial fluid![[Pasted image 20230813220122.png|Pasted image 20230813220122.png]]
+>[!tip] 
+>Don't confuse this with pulse alternans (beat-to-beat variation in pulse amplitude (ie, systolic blood pressure)), which is most commonly seen in patients with severe LV systolic dysfunction (possibly related to the effect of the Frank-Starling mechanism on the failing ventricle)
 
 
 # Treatment
