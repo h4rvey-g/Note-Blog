@@ -23,13 +23,13 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Promotes the expression of MHC class I molecules, aiding in the recognition of virus-infected cells and activation of NK cells and cytotoxic T cells</span>
 	- Inhibits megakaryocyte stem cell differentiation and proliferation
 - **Therapeutic Use:**
-	- Chronic hepatitis B
-	- Acute and chronic hepatitis C
-	- Kaposi sarcoma
-	- Adjuvant therapy for malignant melanoma
-	- Renal cell carcinoma
+	- Chronic [[hepatitis B|hepatitis B]]
+	- Acute and chronic [[hepatitis C|hepatitis C]]
+	- [[Kaposi sarcoma|Kaposi sarcoma]]
+	- Adjuvant therapy for malignant [[melanoma|melanoma]]
+	- [[Renal cell carcinoma|Renal cell carcinoma]]
 	- Condyloma acuminatum
-	- Hairy cell leukemia
+	- [[Hairy cell leukemia|Hairy cell leukemia]]
 	- Essential thrombocythemia
 - **Side Effects:**
 	- Flu-like symptoms (fever, chills)
@@ -41,7 +41,7 @@ share: true
 	- Itchy skin
 ### Interferon Beta (IFN-β)
 - **Therapeutic Use:**
-	- Multiple sclerosis
+	- [[Multiple sclerosis|Multiple sclerosis]]
 
 ## Type II Interferons
 
@@ -49,10 +49,10 @@ share: true
 - **Mainly Secreted By:**
 	- Th1 and NK cells (when stimulated by IL-12 from macrophages or antigen contact)
 - **Function:**
-	- Activates macrophages to increase phagocytosis (positive reinforcement) and NK cells to eliminate virus-infected target cells
+	- <span style="background:rgba(240, 200, 0, 0.2)">Activates macrophages to increase phagocytosis </span>(positive reinforcement) and NK cells to eliminate virus-infected target cells
 	- Synergistic effect with tumor necrosis factor in stimulating macrophages to form granulomas, crucial against mycobacterial infections
 	- Suppresses a Th2 response (negative feedback)
 	- Promotes the expression of MHC class II molecules and antigen presentation in every cell
 	- Stimulates antigen class switching to IgG3 
 - **Therapeutic Use:**
-	- Chronic granulomatous diseases (e.g., leprosy, leishmaniasis, toxoplasmosis)
+	- Chronic granulomatous diseases (e.g., [[leprosy|leprosy]], [[leishmaniasis|leishmaniasis]], toxoplasmosis)
