@@ -8,6 +8,7 @@ aliases:
 share: true
 ---
 # hCG physiology
+- hCG is produced during pregnancy, primarily by the placental <span style="background:rgba(240, 200, 0, 0.2)">syncytiotrophoblast</span>.
 - The role of hCG is to:  
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stimulate progesterone secretion by the corpus luteum during the first 3–6 weeks of gestation to maintain pregnancy</span>  
 		- Prior to pregnancy, LH stimulates corpus luteal progesterone secretion.  
