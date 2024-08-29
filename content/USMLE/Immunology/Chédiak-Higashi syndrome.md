@@ -15,7 +15,7 @@ share: true
 - Diagnosis
 	- Peripheral smear shows <span style="background:rgba(240, 200, 0, 0.2)">giant cytoplasmic granules</span> in granulocytes and platelets![[L53760.png|L53760.png]]
 	- Mild coagulation abnormalities
-	- Pancytopenia (especially neutropenia)
+	- [[Pancytopenia|Pancytopenia]] (especially neutropenia)
 
 >[!Mnemonic] 
 >Chédiak-Higashi sounds like a <span style="background:rgba(240, 200, 0, 0.2)">mountain</span>, where <span style="background:rgba(240, 200, 0, 0.2)">traffic are defected</span>.
