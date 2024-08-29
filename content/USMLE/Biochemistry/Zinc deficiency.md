@@ -10,7 +10,7 @@ share: true
 	- Forms bonds between cysteine and histidine
 	- Forms zinc finger transcription factors
 - Aids in maintenance and stability of the nuclear membrane
-- Essential part of many enzymes (> 100), including DNA polymerase, carbonic anhydrase, ACE, [[alkaline phosphatase|alkaline phosphatase]], metallothionein, superoxide dismutase, and collagenases
+- Essential part of many enzymes (> 100), including DNA polymerase, carbonic anhydrase, ACE, [[alkaline phosphatase|alkaline phosphatase]], metallothionein, superoxide dismutase, and <span style="background:rgba(240, 200, 0, 0.2)">collagenases</span>
 # Zinc deficiency
 - Causes
 	- <span style="background:rgba(240, 200, 0, 0.2)">Inadequate dietary intake</span>
@@ -20,7 +20,8 @@ share: true
 	- Chronic liver disease (esp. liver cirrhosis)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bowel resection</span>
 - Clinical features
-	- Impaired wound healing
+	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired wound healing</span>
+		- Inability to replace type III collagen with type I collagen
 	- Dysgeusia
 		- On the upper surface of the tongue, there are taste receptor cells known as "taste buds". These cells regenerate frequently but the activity reduces when zinc is deficient, which causes dysgeusia.
 	- Anosmia
