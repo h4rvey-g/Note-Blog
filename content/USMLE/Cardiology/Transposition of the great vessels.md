@@ -15,8 +15,8 @@ share: true
 
 # Pathophysiology
 ---
-- Failed spiraling of the aorticopulmonary septum → RV emptying into the aorta and LV into the pulmonary artery → complete isolation of the pulmonary and systemic circuits → ↓ oxygenated blood entering the systemic circulation
-- <span style="background:rgba(240, 200, 0, 0.2)">Fatal, unless mixing occurs via an intracardiac shunt (e.g., PFO, VSD, ASD) or via an extracardiac connection (e.g., PDA)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Failed spiraling</span> of the aorticopulmonary septum → RV emptying into the aorta and LV into the pulmonary artery → complete isolation of the pulmonary and systemic circuits → ↓ oxygenated blood entering the systemic circulation
+- <span style="background:rgba(240, 200, 0, 0.2)">Fatal, unless mixing occurs via an intracardiac shunt (e.g., PFO, [[Ventricular septal defect|VSD]], [[Atrial septal defect|ASD]]) or via an extracardiac connection (e.g., PDA)</span>
 
 # Clinical features
 ---
