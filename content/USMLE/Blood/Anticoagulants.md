@@ -42,6 +42,19 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Administer IV [[vitamin K|vitamin K]] PLUS 4-factor prothrombin complex concentrate (PCC)</span>
 	- If PCC is unavailable, give fresh frozen plasma (FFP)
 - Monitor INR every 6 hours until warfarin has been fully reversed (INR ≤ 1.1)
+# Warfarin interactions
+---
+Warfarin is metabolized by [[cytochrome P450|cytochrome P450]] (CYP) enzymes.
+- <span style="background:rgba(240, 200, 0, 0.2)">Decrease of anticoagulant effect</span>
+	- Rifampicin, carbamazepine, St. John's wort, ginger, licorice: <span style="background:rgba(240, 200, 0, 0.2)">induce metabolic breakdown of warfarin via induction of [[cytochrome P450|cytochrome P450]]</span>
+	- Foods rich in [[vitamin K|vitamin K]] (e.g., kale, spinach): counter effect of warfarin
+	- Gastric acid inhibition ([[Proton pump inhibitors|PPI]] use), cholestyramine treatment: impaired uptake of warfarin
+- Increase of anticoagulant effect
+	- Several [[antidepressants|antidepressants]] and antibiotics, [[Proton pump inhibitors|PPIs]], amiodarone, grapefruit: impair metabolic breakdown via inhibition of [[cytochrome P450|cytochrome P450]]
+	- [[Non-opioid analgesics|Acetaminophen]]: metabolite of [[Non-opioid analgesics|acetaminophen]] interrupts [[vitamin K|vitamin K]] cycle via inhibition of [[vitamin K|vitamin K]]-dependent carboxylase
+	- Sulfonamides, sulfonylureas: competitively block or displace warfarin at plasma protein binding sites
+	- <span style="background:rgba(240, 200, 0, 0.2)">Damage to gut flora (e.g., antibiotic therapy): impaired bacterial [[vitamin K|vitamin K]] synthesis</span>
+
 ## Bridging anticoagulation
 - Bridging anticoagulation: the administration of heparin for the duration of the transient hypercoagulable state caused by warfarin therapy. Heparin prevents coagulation by activating antithrombin.
 	- Reduces risk of venous thromboembolism and skin necrosis
