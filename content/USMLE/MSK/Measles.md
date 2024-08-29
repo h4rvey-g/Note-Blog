@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-04-16 20:59
 modified: 2024-04-16 20:59
-aliases: []
+aliases:
+  - Rubeola
 share: true
 ---
 # Epidemiology
