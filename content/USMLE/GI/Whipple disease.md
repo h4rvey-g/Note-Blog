@@ -15,7 +15,7 @@ share: true
 
 ---
 # Pathophysiology
-
+Somehow related to autoimmune process
 
 ---
 # Clinical features
