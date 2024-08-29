@@ -13,17 +13,17 @@ share: true
 ---
 ![[Pasted image 20240101144723.png|Pasted image 20240101144723.png]]
 
-| Neurotransmitter & Receptor Pair                 | Functions in the CNS                                             |
-| ------------------------------------------------ | ---------------------------------------------------------------- |
-| **Ionotropic: Ligand-gated ion channels**        | **Transmembrane proteins that allow ions to cross the membrane** |
-| Glutamate [E] → NMDA receptor: Ca2+ & Na+ influx | Long-term potentiation of learning & memory                      |
-| GABA [I] → GABAA receptor: Cl− & HCO3− influx    | Sedation, anxiolytic & anticonvulsive                            |
-| Glycine [I] → Glycine receptor: Cl− influx       | Inhibit spinal interneurons (prevents spasticity)                |
-| **Metabotropic: G protein-coupled receptors**    | **Act through second messengers (eg, cAMP, PKA)**                |
-| Dopamine → D1-5 receptors                        | Modulate attention, movement & reward                            |
-| Serotonin → 5-HT receptors                       | Modulate mood, nausea & trigeminovascular nociception (migraine) |
-| Norepinephrine → α & β adrenoceptors             | Promotes vigilance, attention & emotional memory                 |
-| Histamine → H3 receptors                         | Promotes wakefulness                                             |
+| Neurotransmitter & Receptor Pair                            | Functions in the CNS                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Ionotropic: Ligand-gated ion channels**                   | **Transmembrane proteins that allow ions to cross the membrane** |
+| Glutamate [E] → NMDA receptor: Ca<sup>2+</sup> & Na<sup>+</sup> influx | Long-term potentiation of learning & memory                      |
+| GABA [I] → GABAA receptor: Cl− & HCO3− influx               | Sedation, anxiolytic & anticonvulsive                            |
+| Glycine [I] → Glycine receptor: Cl− influx                  | Inhibit spinal interneurons (prevents spasticity)                |
+| **Metabotropic: G protein-coupled receptors**               | **Act through second messengers (eg, cAMP, PKA)**                |
+| Dopamine → D1-5 receptors                                   | Modulate attention, movement & reward                            |
+| Serotonin → 5-HT receptors                                  | Modulate mood, nausea & trigeminovascular nociception (migraine) |
+| Norepinephrine → α & β adrenoceptors                        | Promotes vigilance, attention & emotional memory                 |
+| Histamine → H3 receptors                                    | Promotes wakefulness                                             |
 
 
 - Acetylcholine
