@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-08-13 16:58
 modified: 2023-08-13 16:58
-aliases: Untitled
+aliases:
+  - anti-GBM disease
 share: true
 ---
 # Etiology
