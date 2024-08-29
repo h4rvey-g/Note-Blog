@@ -5,6 +5,7 @@ modified: 2023-12-21 22:02
 aliases:
   - Carcinoid
   - Carcinoid syndrome
+  - Carcinoid tumors
 share: true
 ---
 # Epidemiology
