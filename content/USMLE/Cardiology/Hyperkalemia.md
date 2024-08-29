@@ -11,7 +11,7 @@ share: true
 
 # Etiology
 ---
-- Potassium excess: due to altered K+ metabolism or intake
+- Potassium excess: due to altered K<sup>+</sup> metabolism or intake
 	- Reduced excretion: acute and chronic kidney disease 
 	- Endocrine causes: hypocortisolism, hypoaldosteronism 
 	- Drugs: potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers, NSAIDs, and <span style="background:rgba(240, 200, 0, 0.2)">trimethoprim-sulfamethoxazole</span> 
@@ -20,7 +20,7 @@ share: true
 	- Type IV renal tubular acidosis
 	- Increased intake
 		- High potassium diet, e.g., fresh fruits, dried fruits and legumes, vegetables, nuts, seeds, bran products, milk, and dairy products
-		- K+ containing IV fluids
+		- K<sup>+</sup> containing IV fluids
 - Extracellular shift
 - Extracellular release
 
