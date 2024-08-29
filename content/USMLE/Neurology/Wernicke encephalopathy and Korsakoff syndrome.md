@@ -17,7 +17,7 @@ share: true
 ---
 # Pathophysiology
 - [[Vitamin B1|Thiamine]] deficiency → decreased cerebral glucose metabolism and mitochondrial dysfunction → <span style="background:rgba(240, 200, 0, 0.2)">depleted ATP and increased free radicals → injury of neuronal elements</span> (e.g., myelin sheaths, blood-brain-barrier, decreased [[neurotransmitters|neurotransmitters]], etc.) → impaired axonal conduction → symptoms of Wernicke encephalopathy and Korsakoff syndrome
-- In patients with Korsakoff syndrome: long term [[Vitamin B1|thiamine]] deficiency → permanent damage to components of the limbic system (e.g., mammillary bodies, anterior thalamic nuclei) → atrophy of these components → memory loss, apathy, and disrupted emotional processing
+- In patients with Korsakoff syndrome: long term [[Vitamin B1|thiamine]] deficiency → permanent damage to components of the limbic system (e.g., <span style="background:rgba(240, 200, 0, 0.2)">mammillary bodies, anterior thalamic nuclei</span>) → atrophy of these components → memory loss, apathy, and disrupted emotional processing
 
 ---
 # Clinical features
