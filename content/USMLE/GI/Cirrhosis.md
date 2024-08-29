@@ -40,3 +40,10 @@ share: true
 
 
 ---
+# Complications
+---
+## Portal hypertension
+- Portal vein collateral circulation 
+	- Portal vein → Left gastric vein → Esophageal venous plexus → Azygos vein → Superior vena cava
+	- Portal vein → Inferior mesenteric vein → Rectal venous plexus → Internal iliac vein → Inferior vena cava
+	- Portal vein → Paraumbilical vein → Periumbilical venous network → Abdominal wall vein → Superior and inferior vena cava
