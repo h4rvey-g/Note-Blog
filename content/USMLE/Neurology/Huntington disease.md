@@ -63,10 +63,10 @@ share: true
 ## Ballismus
 - Epidemiology & etiology
 	- Rare disorder typically affecting elderly diabetic patients
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hemorrhagic or ischemic stroke</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hemorrhagic or [[ischemic stroke|ischemic stroke]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Nonketotic hyperglycemia</span>
 	- Brain metastases
-	- Infectious (e.g., HIV)
+	- Infectious (e.g., [[Human immunodeficiency virus|HIV]])
 - Signs & symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Involuntary, proximal, violent, and large-amplitude movements of one or both extremities (e.g., kicking, wild flailing) </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Typically unilateral (hemiballismus), due to contralateral lesion (e.g., lacunar stroke) of the subthalamic nucleus</span>
