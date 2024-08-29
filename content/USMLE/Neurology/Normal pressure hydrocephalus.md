@@ -6,7 +6,7 @@ aliases: []
 share: true
 ---
 # Definition
-- <span style="background:rgba(240, 200, 0, 0.2)">A form of chronic communicating hydrocephalus that primarily affects adults > 60 years of age</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">A form of chronic communicating [[hydrocephalus|hydrocephalus]] that primarily affects adults > 60 years of age</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Characterized by a distinct clinical triad ([[gait|gait]] apraxia, [[dementia|dementia]], and [[urinary incontinence|urinary incontinence]]) and normal or only mildly elevated ICP</span>
 
 ---
