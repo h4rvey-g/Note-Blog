@@ -13,7 +13,7 @@ The patient is asked to stand with both feet together, raise the arms, and close
 # Interpretation
 - Positive Romberg
 	- The patient's coordination is impaired when the eyes are closed and the patient starts swaying or swaying increases
-	- Indicates sensory ataxia 
+	- Indicates [[Gait|sensory ataxia]] 
 		- <span style="background:rgba(240, 200, 0, 0.2)">To remain standing, patients require two of the following: proprioception, vision, and vestibular function.</span>
 		- A patient with <span style="background:rgba(240, 200, 0, 0.2)">absent proprioception (dorsal column damage)</span> will lose balance upon closing their eyes because they are left with only vestibular function.
 	- An increased tendency to fall sideways after closing the eyes can also indicate a vestibular disorder. In the case of a unilateral vestibular disorder, the patient usually falls towards the side of the lesion. 
