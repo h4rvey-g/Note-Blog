@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-08-13 17:28
 modified: 2023-08-13 17:28
-aliases: Untitled
+aliases:
+  - glomerulonephritis
 share: true
 ---
 # Etiology
