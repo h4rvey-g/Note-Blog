@@ -33,7 +33,7 @@ share: true
 ---
 # Clinical features
 - Musculoskeletal
-	- <span style="background:rgba(240, 200, 0, 0.2)">Fine tremor of the outstretched fingers</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fine [[tremor|tremor]] of the outstretched fingers</span>
 	- Hyperthyroid myopathy: a condition of muscle weakness, pain, and atrophy associated with hyperthyroidism (e.g., from [[Graves disease|Graves disease]], thyroiditis)
 		- Predominantly affects individuals > 40 years of age
 		- Can develop acutely or several weeks to months after the onset of hyperthyroidism.
@@ -44,7 +44,7 @@ share: true
 - Endocrinological
 	- <span style="background:rgba(240, 200, 0, 0.2)">Female: oligo/amenorrhoea, anovulatory infertility, dysfunctional uterine bleeding </span>
 		- Serum sex hormone-binding globulin (SHBG) levels are high in hyperthyroidism → low serum free (unbound) estradiol concentrations
-	- <span style="background:rgba(240, 200, 0, 0.2)">Male: gynecomastia, decreased libido, infertility, erectile dysfunction </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Male: [[gynecomastia|gynecomastia]], decreased libido, infertility, erectile dysfunction </span>
 
 ---
 # Diagnostics
