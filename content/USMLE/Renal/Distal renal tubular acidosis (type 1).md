@@ -13,11 +13,11 @@ share: true
 - Autoimmune diseases
 - Chronic obstructive uropathy (e.g., congenital anomalies)
 - Sickle cell nephropathy
-- Drugs: ifosfamide, <span style="background:rgba(240, 200, 0, 0.2)">[[Antifungals|amphotericin B]]</span>, lithium, <span style="background:rgba(240, 200, 0, 0.2)">NSAIDs (analgesic nephropathy)</span>
+- Drugs: ifosfamide, <span style="background:rgba(240, 200, 0, 0.2)">[[Antifungals|amphotericin B]]</span>, lithium, <span style="background:rgba(240, 200, 0, 0.2)">[[Non-opioid analgesics|NSAIDs]] (analgesic nephropathy)</span>
 
 ---
 # Pathophysiology
-The α-intercalated cells of the distal tubule are unable to secrete H<sup>+</sup> (apical) → ↓ intracellular production of HCO<sup>3-</sup>  → ↓ HCO<sup>3-</sup>/Cl<sup>-</sup> exchanger activity (basolateral) → decreased concentration of HCO<sup>3-</sup> in the blood → metabolic acidosis
+The α-intercalated cells of the distal tubule are unable to secrete H<sup>+</sup> (apical) → ↓ intracellular production of HCO<sub>3</sub><sup>-</sup>  → ↓ HCO<sub>3</sub><sup>-</sup>/Cl<sup>-</sup> exchanger activity (basolateral) → decreased concentration of HCO<sub>3</sub><sup>-</sup> in the blood → metabolic acidosis
 
 ---
 # Clinical features
