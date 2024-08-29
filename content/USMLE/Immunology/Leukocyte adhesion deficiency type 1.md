@@ -11,7 +11,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Absence of the β2-integrin leukocyte adhesion surface molecule LFA-1 (CD18) prevents leukocytes from migrating to tissues during infection or inflammation.</span>
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Recurrent nonsuppurative bacterial infections</span> (e.g., skin and mucosal infections) with minimal inflammation due to dysfunctional neutrophils
-	- Impaired wound healing 
+	- Impaired [[wound healing|wound healing]] 
 	- Omphalitis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Delayed separation of the umbilical cord (> 30 days postpartum)</span>
 		- The normal separation of the umbilical cord is a process that involves inflammation and subsequent healing. 
