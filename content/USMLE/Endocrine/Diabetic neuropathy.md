@@ -15,7 +15,10 @@ share: true
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">Chronic hyperglycemia causes glycation of axon proteins</span> and subsequent development of progressive sensomotor neuropathy; typically affects multiple peripheral nerves.
+- Caused by <span style="background:rgba(240, 200, 0, 0.2)">nerve ischemia</span> and metabolic damage (e.g. oxidative stress, inflammation)![[Pasted image 20240827091953.png|Pasted image 20240827091953.png]]
+- Symptoms vary depending on the type of nerve fibers involved:
+	- Small-fiber injury is characterized by predominance of positive symptoms (eg, pain, paresthesias, allodynia).
+	- <span style="background:rgba(240, 200, 0, 0.2)">Large-fiber involvement is characterized by predominance of negative symptoms (eg, numbness, loss of proprioception and vibration sense, [[Gait|sensory ataxia]] (eg, positive [[Romberg test|Romberg]] sign), diminished ankle reflexes).</span>
 
 ---
 # Clinical features
@@ -26,8 +29,13 @@ share: true
 	- Tingling
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dysesthesia (e.g., burning feet syndrome with symptoms that worsen at night)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Motor weakness: e.g., ataxia</span>, balance issues
+	- Motor findings are late manifestations of the condition.
 - Neurological examination may show loss or reduction of:
 	- Vibration sense (using a tuning fork)
+### Diabetic CN III mononeuropathy
+- <span style="background:rgba(240, 200, 0, 0.2)">Diabetic [[Oculomotor nerve palsy (III)|CN III]] mononeuropathy classically presents with acute onset diplopia.  </span>
+- On examination, the affected eye assumes a <span style="background:rgba(240, 200, 0, 0.2)">"down and out" position</span> due to the unopposed pull by the superior oblique (CN IV) and lateral rectus (CN VI) muscles because all other extraocular muscles (inferior oblique and superior, inferior, and medial recti) are supplied by [[Oculomotor nerve palsy (III)|CN III]].  Ptosis also occurs due to paralysis of the levator palpebrae.
+- Diabetic mononeuropathy is caused by ischemic nerve damage, <span style="background:rgba(240, 200, 0, 0.2)">which predominantly involves the core of the [[Oculomotor nerve palsy (III)|CN III]] with relative sparing of the peripheral part.</span>  The somatic component of [[Oculomotor nerve palsy (III)|CN III]] that innervates the extraocular muscles is located centrally, but the autonomic component responsible for pupillary constriction and accommodation is located in the peripheral aspect of the nerve.  <span style="background:rgba(240, 200, 0, 0.2)">Therefore, pupillary size and reactivity is normal in diabetic [[Oculomotor nerve palsy (III)|CN III]] mononeuropathy.</span>![[L18206.jpg|L18206.jpg]]
 ## Diabetic autonomic neuropathy
 ### Gastrointestinal autonomic neuropathy
 - <span style="background:rgba(240, 200, 0, 0.2)">Painless, watery diarrhea</span>
