@@ -21,7 +21,15 @@ share: true
 
 # Pathophysiology
 ---
-
+## Primary tuberculosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Ghon focus: a granuloma typically located in the middle/lower lung lobes.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Ghon complex: formed by the Ghon focus, regional lymph node, and the linking lymphatic vessels</span>
+- The organisms can remain dormant in a walled-off Ghon complex for many years before reactivating.
+- Alternatively, the lesion may <span style="background:rgba(240, 200, 0, 0.2)">heal</span>, forming a benign, calcified <span style="background:rgba(240, 200, 0, 0.2)">Ranke complex</span> that is <span style="background:rgba(240, 200, 0, 0.2)">not associated with reactivation tuberculosis.</span>
+## Secondary tuberculosis
+- In < 10% of individuals with primary TB, the host immune response fails to control the infection, leading to active primary TB and progressive disease.
+- In > 90% of individuals, the host immune response can control the infection, resulting in latent TB infection. Weakening of host immune response can allow reactivation of disease (or, less commonly, reinfection) and further disease progression.
+![[L18501.jpg|L18501.jpg]]
 
 # Clinical features
 ---
