@@ -17,12 +17,15 @@ share: true
 
 ---
 # Etiology
+![[L64151.jpg|L64151.jpg]]
 - A third of patients have underlying viral <span style="background:rgba(240, 200, 0, 0.2)">[[hepatitis B|hepatitis B]] or [[hepatitis C|hepatitis C]].</span>
 	- In these individuals, PAN is likely triggered by the <span style="background:rgba(240, 200, 0, 0.2)">deposition of immune complexes (viral antigen bound by host antibody) in the arterial wall.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Transmural inflammation of the arterial wall with fibrinoid necrosis</span>
 
 ---
 # Pathophysiology
+---
+# Clinical features
 - Nonspecific symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fever, weight loss, malaise</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle and joint pain</span>
@@ -41,9 +44,6 @@ share: true
 
 >[!tip] 
 >PAN should be considered in adults < 65 years of age presenting with stroke or myocardial infarction.
-
----
-# Clinical features
 
 
 ---
