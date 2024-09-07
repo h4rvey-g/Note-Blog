@@ -8,7 +8,7 @@ share: true
 ---
 # Functions
 Coenzyme for various carboxylase enzyme complexes, which all add a 1-carbon group
-- <span style="background:rgba(240, 200, 0, 0.2)">Fatty acid synthesis: acetyl-CoA carboxylase</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Fatty acid synthesis|Fatty acid synthesis]]: acetyl-CoA carboxylase</span>
 	- Acetyl-CoA (2C) → malonyl-CoA (3C)
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Gluconeogenesis|Gluconeogenesis]]: pyruvate carboxylase</span>
 	- Pyruvate (3C) → oxaloacetate (4C)
@@ -26,7 +26,7 @@ Coenzyme for various carboxylase enzyme complexes, which all add a 1-carbon grou
 # Etiology
 - Malnutrition
 - Prolonged use of antibiotics (destruction of intestinal flora)
-- Excessive consumption of raw egg white: contains avidin → binds biotin in the intestinal lumen → inhibition of biotin resorption
+- <span style="background:rgba(240, 200, 0, 0.2)">Excessive consumption of raw egg white: contains avidin → binds biotin in the intestinal lumen → inhibition of biotin resorption</span>
 	- Like most proteins, avidin is heat-sensitive and loses this characteristic when cooked.
 
 ---
