@@ -10,7 +10,7 @@ share: true
 
 ---
 # Pathophysiology
-
+![[L48965.jpg|L48965.jpg]]
 
 ---
 # Clinical features
