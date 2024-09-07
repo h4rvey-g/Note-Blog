@@ -16,7 +16,7 @@ The condition is caused by sensory or motor dysfunction.
 
 ---
 # Pathophysiology
-
+Inflammatory conditions (e.g., UTI) or neurogenic disorders → sphincter dysfunction, detrusor overactivity, or overactive bladder  → <span style="background:rgba(240, 200, 0, 0.2)">autonomous contractions of the detrusor muscle</span> and premature initiation of a normal micturition reflex
 
 ---
 # Clinical features
