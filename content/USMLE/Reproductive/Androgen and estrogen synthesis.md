@@ -64,6 +64,19 @@ There are <span style="background:rgba(240, 200, 0, 0.2)">three types of estroge
 	- Estradiol and estrone: 100-fold increase
 	- <span style="background:rgba(240, 200, 0, 0.2)">Estriol: 1000-fold increase (it is secreted by the placenta as unconjugated estriol and a marker of fetal health)</span>
 		- Fetal DHEA enters the maternal serum and is converted by the placenta to unconjugated estriol, which is then rapidly conjugated by the liver to a water-soluble form that can be excreted in urine.
+## Estrogen effects
+- Bones: ↑ bone formation by inhibiting bone resorption (induces osteoclast apoptosis)
+- Blood vessels: protective effect against atherosclerosis
+- Blood clotting: ↑ risk of thrombosis
+- Kidneys: ↑ water and sodium retention (may contribute to edema)
+- Protein synthesis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Slightly ↑ (anabolic effect)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Transport proteins (e.g., SHBG, TBG)</span>
+		- An increase in estrogen activity, as seen in pregnancy or postmenopausal estrogen replacement therapy, <span style="background:rgba(240, 200, 0, 0.2)">increases the level of thyroxine-binding globulin, causing a corresponding reduction in free T4 and T3 levels.</span>  In patients with a normal hypothalamic-pituitary-thyroid axis, this reduction will result in a <span style="background:rgba(240, 200, 0, 0.2)">transient increase in TSH, leading to increased thyroid hormone production until the additional TBG becomes saturated with thyroid hormone and free T4 and T3 levels are restored (ie, patients remain euthyroid).</span>  Therefore, an increase in the TBG level leads to an increase in total T4 and T3 (bound plus free fractions).![[L39742.jpg|L39742.jpg]]
+- Adipose tissue: female distribution of adipose tissue
+- Liver
+	- ↓ Bilirubin excretion
+	- ↑ HDL and ↓ LDL
 # Related drugs
 ---
 ## Aromatase inhibitors
