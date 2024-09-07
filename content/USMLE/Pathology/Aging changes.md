@@ -14,7 +14,7 @@ share: true
 # Cardiovascular system
 ---
 - Aortic stiffening
-	- Elastin replacement with [[collagen|collagen]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Elastin replacement with [[collagen|collagen]]</span>
 	- ↑ Pulse pressure (isolated systolic HTN)
 - Mild concentric LVH
 	- Response to cardiomyocyte dropout & ↑ afterload
@@ -27,6 +27,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Reduced baroreceptor sensitivity & adrenergic responsiveness</span>
 	- ↑ Orthostasis
 	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Heart rate & contractility response</span>
+- Formation of <span style="background:rgba(240, 200, 0, 0.2)">lipofuscin deposits</span> within cells. See [[Cellular adaptations|Cellular adaptations]]
 # Skin
 ---
 - Senile purpura: recurrent, irregularly shaped, dark purple macules 

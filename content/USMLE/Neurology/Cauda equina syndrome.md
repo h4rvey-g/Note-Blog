@@ -7,6 +7,7 @@ share: true
 ---
 # Etiology
 ---
+- In an adult, the spinal cord terminates in a tapering fashion as the conus medullaris (T12-S4) at the L1-L2 vertebral level.  The collection of spinal nerves below this point (eg, L3-S4) exit inferiorly through their respective intervertebral foramina and are referred to as the cauda equina (ie, horse's tail).![[highresdefault_L29896.jpg|highresdefault_L29896.jpg]]
 - Damage to or compression of the <span style="background:rgba(240, 200, 0, 0.2)">cauda equina (nerve fibers L3–S5) located below L2 </span>
 - Common causes include <span style="background:rgba(240, 200, 0, 0.2)">large posteromedial disk herniation, trauma, and tumors.</span>
 # Functions

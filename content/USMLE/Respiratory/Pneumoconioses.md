@@ -43,6 +43,7 @@ share: true
 - Etiology
 	- Inhalation of crystalline silica, most commonly as dust
 	- High-risk occupations for the development of silicosis include sandblasting, mining, and working in foundries
+
 >[!Mnemonic] 
 >To remember the high-risk occupations for the development of silicosis, think “I found (foundries) sand (sandblasting) on my (mining) window sill (silicosis)!”
 

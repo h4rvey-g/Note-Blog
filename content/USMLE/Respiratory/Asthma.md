@@ -73,7 +73,7 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 - Long-term maintenance treatment
 ## Mast cell stabilizers (chromones)
 - <span style="background:rgba(240, 200, 0, 0.2)">Cromolyn</span>
-- Prevent release of inflammatory mediators from mast cells
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibit mast cell degranulation and prevent release of preformed chemical mediators.</span>
 - Uses
 	- Preventive treatment prior to exercise
 ## Biologics

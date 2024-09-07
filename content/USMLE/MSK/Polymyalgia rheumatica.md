@@ -7,7 +7,7 @@ share: true
 ---
 # Epidemiology
 - Sex: ♀ > ♂ (3:1) 
-- Age of onset: >70 years (rarely seen in patients < 50 years) 
+- Age of onset: <span style="background:rgba(240, 200, 0, 0.2)">>70 years</span> (rarely seen in patients < 50 years) 
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Women of advanced age are particularly prone to the disease.</span>
 

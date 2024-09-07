@@ -15,7 +15,7 @@ share: true
 - Neurological causes
 	- [[Multiple sclerosis|Multiple sclerosis]]
 	- Spinal injury
-	- Normal-pressure hydrocephalus
+	- [[Normal pressure hydrocephalus|Normal pressure hydrocephalus]]
 - Genitourinary causes
 	- Trauma to the pelvic floor 
 	- Intrinsic sphincter deficiency
@@ -24,29 +24,30 @@ share: true
 	- Bladder outlet obstruction
 	- Pelvic floor weakness
 - Transient causes of urinary incontinence
-	- Drugs (e.g., diuretics)
+	- Drugs (e.g., [[diuretics|diuretics]])
 	- [[Urinary tract infections|Urinary tract infections]]
-	- Postmenopausal atrophic urethritis
-	- Psychiatric causes (especially depression, delirium/confused state)
+	- Postmenopausal atrophic [[urethritis|urethritis]]
+	- Psychiatric causes (especially depression, [[delirium|delirium]]/confused state)
 	- Excessive urinary output (in conditions like hyperglycemia, [[hypercalcemia|hypercalcemia]], CHF)
 	- Stool impaction
 - General risk factors
 	- Recurrent [[urinary tract infections|urinary tract infections]]
 
  >[!Mnemonic] 
->To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, [[hypercalcemia|hypercalcemia]], CHF), Restricted mobility, Stool impaction.
+>To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic [[urethritis|urethritis]]/[[Vulvovaginitis|vaginitis]], Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, [[hypercalcemia|hypercalcemia]], CHF), Restricted mobility, Stool impaction.
 
 ---
 # Classifications
 ## Overflow incontinence
 ### Mechanism
 - Impaired (weak) detrusor contractility
-- Bladder outlet obstruction (e.g., [[Benign prostatic hyperplasia|BPH]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Bladder outlet obstruction (e.g., [[Benign prostatic hyperplasia|BPH]])</span>
 - Both mechanisms can lead to incomplete bladder emptying → bladder overfilling → <mark style="background: #FFF3A34A;">chronically distended bladder with ↑ bladder pressure → dribbling of urine (leak) when intravesical pressure > outlet resistance</mark>
 ### Clinical features
 - Frequent, involuntary intermittent/continuous dribbling of urine in the absence of an urge to urinate
-- Occurs only when the bladder is full
-- Postvoid residual urine volume *(seen on ultrasound or with catherization)*
+- Occurs only when the bladder is <span style="background:rgba(240, 200, 0, 0.2)">full</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Postvoid residual urine volume *(seen on ultrasound or with catherization)*</span>
+	- Assess for urinary retention via bladder scan (≥200 mL) or straight catheterization yielding ≥200 mL urine output.
 ### Treatment
 - [[Intermittent catheterization|Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated [[Urinary tract infections|UTIs]] and is favored by most patients; indwelling catheters may be considered if necessary.

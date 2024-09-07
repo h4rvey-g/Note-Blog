@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2024-04-14 11:15
 modified: 2024-04-14 11:15
-aliases: []
+aliases:
+  - IGF-1
+  - insulin-like growth factor 1
 share: true
 ---
 # Epidemiology
@@ -49,4 +51,9 @@ share: true
 
 # Treatment
 ---
-
+- Surgery
+	- <span style="background:rgba(240, 200, 0, 0.2)">Transsphenoidal adenomectomy (preferred method)</span>
+- Medication
+	- <span style="background:rgba(240, 200, 0, 0.2)">Somatostatin analogs (e.g., octreotide</span>, lanreotide) 
+	- [[Neurotransmitters|Dopamine]] agonists (e.g., cabergoline): reduce tumor size and GH secretion 
+	- GH receptor antagonists (e.g., pegvisomant)

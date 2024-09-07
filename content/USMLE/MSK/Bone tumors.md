@@ -5,9 +5,10 @@ modified: 2023-10-18 16:30
 aliases: []
 share: true
 ---
+![[Pasted image 20240905014159.png|Pasted image 20240905014159.png]]
 # Benign bone tumors
 ## Predominantly osseous tumors
-![[Pasted image 20231018163323.png|Pasted image 20231018163323.png]]
+
 - Osteoid osteoma![[Pasted image 20240220094047.png|Pasted image 20240220094047.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pain is due to high levels of prostaglandins E2 produced by small tumor cells, thus it's responsive to [[Non-opioid analgesics|NSAIDs]].</span>
 - Osteoblastoma![[Pasted image 20240220094213.png|Pasted image 20240220094213.png]]
@@ -20,7 +21,7 @@ share: true
 ![[Pasted image 20231018163419.png|Pasted image 20231018163419.png]]
 # Malignant bone tumors
 All with "sarcoma"
-![[Pasted image 20231018163111.png|Pasted image 20231018163111.png]]
+
 - [[Ewing sarcoma|Ewing sarcoma]]
 - Osteosarcoma![[highresdefault_L70265.png|highresdefault_L70265.png]]
 - Chondrosarcoma![[Pasted image 20240220100634.png|Pasted image 20240220100634.png]]![[L85436.png|L85436.png]]

@@ -30,6 +30,7 @@ share: true
 
 ---
 # Pathophysiology
+![[L23656.jpg|L23656.jpg]]
 - Gout
 	- An inflammatory crystal arthropathy that is caused by the precipitation and <span style="background:rgba(240, 200, 0, 0.2)">deposition of uric acid crystals in synovial fluid and tissues.</span>
 	- It is typically associated with hyperuricemia, but can also occur if uric acid levels are normal.

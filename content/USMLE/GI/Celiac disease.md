@@ -16,8 +16,7 @@ share: true
 ---
 # Pathophysiology
 - Symptoms manifest when a genetically predisposed individual develops an immunological response to gliadin, an alcohol-soluble fraction of gluten.
-- Consumption of food containing gluten → tissue transglutaminase is released  → modifies gliadin from gluten proteins → pathogenic T cells react to and are activated by modified gliadin → mediate chronic intestinal inflammation → epithelial damage resulting in villous atrophy, crypt hyperplasia, and loss of brush border → impaired resorption of nutrients in the small intestine (especially in the distal duodenum and proximal jejunum) → [[malabsorption|malabsorption]] symptoms
-![[Pasted image 20231028095408.png|Pasted image 20231028095408.png]]
+- Consumption of food containing gluten → tissue transglutaminase is released  → modifies gliadin from gluten proteins → pathogenic T cells react to and are activated by modified gliadin → mediate chronic intestinal inflammation → epithelial damage resulting in villous atrophy, crypt hyperplasia, and loss of brush border → impaired resorption of nutrients in the small intestine (especially in the distal duodenum and proximal jejunum) → [[malabsorption|malabsorption]] symptoms![[Pasted image 20231028095408.png|Pasted image 20231028095408.png]]
 
 ---
 # Clinical features

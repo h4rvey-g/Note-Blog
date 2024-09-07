@@ -25,7 +25,7 @@ share: true
 ---
 # Pathophysiology
 - Nontraumatic mechanisms of hemorrhage
-	- Chronic arterial hypertension → lipohyalinosis of <span style="background:rgba(240, 200, 0, 0.2)">lenticulostriate vessels (which supply the basal ganglia)</span> and/or formation and rupture of <span style="background:rgba(240, 200, 0, 0.2)">Charcot-Bouchard microaneurysms</span> → <span style="background:rgba(240, 200, 0, 0.2)">lacunar strokes</span> (ischemia) of the basal ganglia
+	- Chronic arterial hypertension → lipohyalinosis of <span style="background:rgba(240, 200, 0, 0.2)">lenticulostriate vessels (which supply the basal ganglia)</span> and/or formation and rupture of <span style="background:rgba(240, 200, 0, 0.2)">Charcot-Bouchard microaneurysms</span> → <span style="background:rgba(240, 200, 0, 0.2)">lacunar strokes</span> (ischemia) of the basal ganglia. <span style="background:rgba(240, 200, 0, 0.2)">See also [[Ischemic stroke#Lacunar infarction|Ischemic stroke > Lacunar infarction]]</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Putamen most commonly affected, which is supplied by lenticulostriate arteries</span>![[Pasted image 20240309151748.png|Pasted image 20240309151748.png]]![[Pasted image 20231224102741.png|Pasted image 20231224102741.png]]
 		- Other locations: thalamus (second most common) and infratentorial parts of the brain (e.g., pons, cerebellum)
 	- Cerebral amyloid angiopathy: deposition of β-amyloid peptides in vessel walls → focal damage with formation of microaneurysms → rupture → recurrent lobar intracerebral hemorrhage

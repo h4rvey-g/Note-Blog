@@ -33,6 +33,16 @@ share: true
 
 ---
 # Complications
+| Complication                  | Time course                 | Clinical findings                                                                 |
+|-------------------------------|-----------------------------|-----------------------------------------------------------------------------------|
+| Papillary muscle rupture/dysfunction* | Acute or within 3-5 days   | Severe pulmonary edema, respiratory distress<br>New early systolic murmur (acute MR)<br>Hypotension/cardiogenic shock  |
+| Interventricular septum rupture | Acute or within 3-5 days   | Chest pain<br>New holosystolic murmur<br>Hypotension/cardiogenic shock<br>Step up in O2 level from RA to RV |
+| Free wall rupture**            | Within 5 days or up to 2 weeks | Chest pain<br>Distant heart sounds<br>Shock, rapid progression to cardiac arrest   |
+| Left ventricular aneurysm**    | Up to several months        | Heart failure<br>Angina, ventricular arrhythmias                                  |
+*Usually due to right coronary artery occlusion.
+
+**Usually due to left anterior descending artery occlusion
+
 ## 0–24 hours post-infarction
 - Arrhythmias: a common cause of death in MI patients in the first 24 hours 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sinus bradycardia is the most common arrhythmia, especially in inferior wall myocardial infarction</span>

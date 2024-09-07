@@ -9,7 +9,7 @@ share: true
 ---
 # Hormonal contraception
 ## Mechanism of action for hormonal contraceptives
-- Estrogen: suppresses release of GnRH from the hypothalamus → ↓ release of pituitary gonadotropins (FSH, LH)
+- [[Androgen and estrogen synthesis|Estrogen]]: suppresses release of GnRH from the hypothalamus → ↓ release of pituitary gonadotropins (FSH, LH)
 	- Decreased FSH → prevents ovarian folliculogenesis 
 	- Decreased LH → inhibition of ovulation 
 - Progestin: synthetic progesterone → 

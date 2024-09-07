@@ -12,7 +12,7 @@ share: true
 # Etiology
 ---
 Erythema multiforme is a [[type IV hypersensitivity reaction|type IV hypersensitivity reaction]] which can be triggered by the following.
-- Infections (most common): <span style="background:rgba(240, 200, 0, 0.2)">herpes simplex virus (HSV) (50% of cases), Mycoplasma pneumoniae</span>, and fungal infections 
+- Infections (most common): <span style="background:rgba(240, 200, 0, 0.2)">herpes simplex virus ([[Herpesviruses|HSV]]) (50% of cases), Mycoplasma pneumoniae</span>, and fungal infections 
 - Drugs: e.g., barbiturates, phenytoin, [[Non-opioid analgesics|NSAIDs]], beta-lactam antibiotics (e.g., penicillins), and sulfonamides
 
 # Pathophysiology

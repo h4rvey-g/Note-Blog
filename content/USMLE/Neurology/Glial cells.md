@@ -13,4 +13,5 @@ share: true
 | Microglia          | Primitive yolk sac macrophages | Small elongated nuclei<br>Many short branching processes                                     | Phagocytosis                                                    |
 
 
-
+>[!Mnemonic] 
+>Glial cells guard the axons of the nerve cells as <font color="#ffc000">COPS</font>: <font color="#ffc000">C</font>NS axons are myelinated by <font color="#ffc000">O</font>ligodendrocytes; <font color="#ffc000">P</font>NS axons are insulated by <font color="#ffc000">S</font>chwann cells.

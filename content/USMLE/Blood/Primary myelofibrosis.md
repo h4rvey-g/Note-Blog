@@ -15,7 +15,7 @@ Peak incidence is between <span style="background:rgba(240, 200, 0, 0.2)">50 and
 
 ---
 # Pathophysiology
-Genetic mutations → hyperplasia of atypical megakaryocytes → ↑ TGF-β → ↑ fibroblast activity → bone marrow obliteration due to fibrosis → displacement of hematopoietic stem cells → extramedullary hematopoiesis
+Genetic mutations → <span style="background:rgba(240, 200, 0, 0.2)">hyperplasia of atypical megakaryocytes</span> → ↑ TGF-β → ↑ fibroblast activity → bone marrow obliteration due to fibrosis → displacement of hematopoietic stem cells → extramedullary hematopoiesis
 
 ---
 # Clinical features
