@@ -45,6 +45,20 @@ share: true
 - Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">macula densa (of the juxtaglomerular apparatus) senses alterations in the NaCl concentration in the DCT </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotonic urine (↓ intraluminal Cl<sup>-</sup> concentration) → vasodilation of afferent arterioles → ↑ GFR → ↑ Cl<sup>-</sup> intraluminal concentration → ↑ RBF</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertonic urine (↑ intraluminal Cl<sup>-</sup> concentration) → adenosine secretion  → vasoconstriction of afferent arterioles → ↓ capillary pressure → ↓ GFR → ↓ intraluminal Cl<sup>-</sup> concentration → ↓ RBF</span>
+## Juxtaglomerular complex
+![[L4947.jpg|L4947.jpg]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Juxtaglomerular cells</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Modified smooth muscle cells located in the afferent arterioles</span>
+	- Function: <span style="background:rgba(240, 200, 0, 0.2)">renin synthesis </span>
+- Macula densa 
+	- Composed of tall cuboidal cells located at the distal end of the thick ascending loop of Henle
+	- <span style="background:rgba(240, 200, 0, 0.2)">Monitors the NaCl concentration</span> within the lumen of the DCT
+		- Hypoosmolar urine  triggers the release of renin → vasoconstriction of the efferent arteriole → increase in GFR
+		- Hyperosmolar urine  triggers the release of adenosine → vasoconstriction of the afferent arteriole → decrease in GFR 
+- Extraglomerular mesangial cells 
+	- Play a role in <span style="background:rgba(240, 200, 0, 0.2)">autoregulation of blood flow</span> to the kidney (exact functioning is not entirely understood)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Form a network of cells, connecting the sensory cells of the macula densa with juxtaglomerular effector cells</span> 
+	- May also signal to contractile glomerular mesangial cells and, thereby, directly affect vasoconstriction 
 # Measurement of renal function
 ---
 ## Filtration fraction
