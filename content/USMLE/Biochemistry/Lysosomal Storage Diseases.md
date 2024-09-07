@@ -34,13 +34,29 @@ share: true
 ---
 ![[Pasted image 20231111093232.png|Pasted image 20231111093232.png]]World -> Galaxy -> Gala
 
+# Hunter syndrome & Hurler syndrome
 ---
 ![[Pasted image 20231111095604.png|Pasted image 20231111095604.png]]
-1. X -> X link recessive
-2. The gun touches the hunter's **derm** -> Heparan sulfate, dermatan sulfate.
-3. Hunter doesn't have corneal cloudy -> or he couldn't see targets
-4. Hunters are aggressive
+>[!Mnemonic] 
+>1. X -> X link recessive
+>2. The gun touches the hunter's **derm** -> Heparan sulfate, dermatan sulfate.
+>3. Hunter doesn't have corneal cloudy -> or he couldn't see targets
+>4. Hunters are aggressive
 
+- Hurler syndrome
+	- Severe developmental delay & intellectual disability
+	- <span style="background:rgba(240, 200, 0, 0.2)">Coarse facial features</span> (eg, frontal bossing, broad nose, flat midface)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Corneal clouding</span>
+	- Hepatosplenomegaly
+	- Death at age <10 (cardiac complications)
+- Hunter syndrome
+	- Milder features than Hurler:
+		- (+) Aggressive behavior
+		- (−) Corneal clouding
+	- Death in adolescence/early adulthood
+
+
+# Metachromatic leukodystrophy
 ---
 ![[Pasted image 20231111101822.png|Pasted image 20231111101822.png]]
 1. Metapod can't walk, can't say, can demyelinate to butterfly
