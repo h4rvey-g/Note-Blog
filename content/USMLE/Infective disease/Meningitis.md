@@ -20,7 +20,13 @@ share: true
 
 ---
 # Pathophysiology
-
+## Pathways of infection
+- Most pathogens that cause meningitis <span style="background:rgba(240, 200, 0, 0.2)">colonize the nasopharynx or the upper airways before entering the CNS</span> via:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hematogenous dissemination</span>
+		- About 5–10% of the US adult population are colonized with Neisseria meningitidis.<span style="background:rgba(240, 200, 0, 0.2)"> The bacteria attach to the nasopharyngeal mucosa</span>, where they can persist for long periods of time. Hematogenous dissemination may then occur subsequent to mucosal infiltration facilitated by infection with another pathogen capable of infiltrating the mucosa, e.g., adenovirus.![[L42361.jpg|L42361.jpg]]
+	- Contiguous spread of infections in nose, eyes, and ears
+	- Retrograde transport along or within peripheral or cranial nerves
+	- Direct infection (e.g., due to trauma or head surgery)
 
 ---
 # Clinical features
