@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-11-08 21:38
 modified: 2023-11-08 21:38
-aliases: Untitled
+aliases:
+  - Cori cycle
+  - Cahill cycle
 share: true
 ---
 # Rate limiting enzyme
@@ -16,3 +18,6 @@ share: true
 3. Glutamate is further metabolized by the enzyme glutamate dehydrogenase, which liberates free ammonia and regenerates α-ketoglutarate.  
 4. Ammonia then enters the urea cycle to form urea, the primary disposal form of nitrogen in humans.  
 5. Urea subsequently enters the blood and is excreted in the urine.
+
+>[!tip] Cori cycle & Cahill cycle
+><span style="background:rgba(240, 200, 0, 0.2)">Lactate/alanine is transported to the liver, where it is converted into glucose. It is then transported back to the muscles for energy production.</span>
