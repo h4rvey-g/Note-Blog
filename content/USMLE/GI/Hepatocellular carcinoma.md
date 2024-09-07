@@ -40,6 +40,23 @@ share: true
 - Prognosis
 	- Poor (∼ 6 months)
 	- Often metastatic at time of diagnosis, high recurrence rate
+## Benign liver tumors
+### Hepatocellular adenoma
+- Epidemiology
+	- Uncommon, benign liver tumor
+	- Young women
+	- Associated with estrogen exposure (eg, OCPs) & anabolic steroid use
+- Clinical
+	- Often asymptomatic
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abdominal pain (due to hepatomegaly, bleeding, or necrosis)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Life-threatening intraabdominal bleeding (due to tumor rupture)</span>
+- Pathology![[L79271.png|L79271.png]]
+	- Solitary, well-circumscribed, unencapsulated liver mass
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sheets or plates of benign hepatocytes</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Prominent arteries</span> without portal tracts or interlobular bile ducts
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hemorrhage & necrosis</span>
+### Focal nodular hyperplasia
+![[L70901.png|L70901.png]]
 
 # Treatment
 ---
