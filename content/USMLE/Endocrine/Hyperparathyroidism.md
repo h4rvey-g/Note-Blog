@@ -15,6 +15,14 @@ share: true
 ![[Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
 
 ---
+## Diagnostics
+---
+X-ray
+- Decreased bone mineral density
+- <span style="background:rgba(240, 200, 0, 0.2)">Cortical thinning</span>: especially prominent in the phalanges of the hand; manifests as acroosteolysis (a subperiosteal pattern of bone resorption)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike the typical [[osteoporosis|osteoporosis]] of aging, which predominantly affects trabecular bone</span>
+- Salt and pepper skull: granular decalcification manifesting as diffusely distributed lytic foci on imaging of the calvarium 
+- Features of osteitis fibrosa cystica
 ## Complications
 ### Osteitis fibrosa cystica (OFC)
 - A rare skeletal disorder seen in advanced hyperparathyroidism characterized by <span style="background:rgba(240, 200, 0, 0.2)">replacement of calcified bone with fibrous tissue</span>
