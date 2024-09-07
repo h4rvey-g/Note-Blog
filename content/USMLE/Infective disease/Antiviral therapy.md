@@ -14,9 +14,16 @@ Left part is for [[Human immunodeficiency virus|HIV]], right part is for other v
 - ![[Pasted image 20231222091013.png|Pasted image 20231222091013.png]]
 # Acyclovir, famciclovir, valacyclovir
 - <span style="background:rgba(240, 200, 0, 0.2)">Guanosine analogs</span>. 
-- HSV/VZV-coded thymidine kinase monophosphorylates the guanosine analogue to an active intermediate → phosphorylation by cellular kinases → acyclovir triphosphate (ACV-TP)![[Pasted image 20240207162621.png|Pasted image 20240207162621.png]]
+- [[Herpesviruses|HSV]]/VZV-coded thymidine kinase monophosphorylates the guanosine analogue to an active intermediate → phosphorylation by cellular kinases → acyclovir triphosphate (ACV-TP)![[Pasted image 20240207162621.png|Pasted image 20240207162621.png]]
 - The <span style="background:rgba(240, 200, 0, 0.2)">phosphorylated drug is incorporated into the replicating viral DNA strand → inhibition of viral DNA polymerase via chain termination</span>![[Pasted image 20231222091724.png|Pasted image 20231222091724.png]]
 - Mechanism of antiviral resistance: Mutation of viral thymidine kinase
 
 # Foscarnet, Cidofovir
-inhibits viral DNA polymerase![[Pasted image 20231222093206.png|Pasted image 20231222093206.png]]
+Inhibits viral DNA polymerase![[Pasted image 20231222093206.png|Pasted image 20231222093206.png]]
+- Indications
+	- <span style="background:rgba(240, 200, 0, 0.2)">CMV retinitis</span> in immunocompromised individuals (e.g., patients with AIDS)
+	- Acyclovir-resistant [[Herpesviruses|HSV]]
+- Adverse effects
+	- Common: nephrotoxicity
+	- Foscarnet: <span style="background:rgba(240, 200, 0, 0.2)">hypocalcemia</span>, [[hypokalemia|hypokalemia]]
+		- Foscarnet can chelate calcium.
