@@ -10,14 +10,16 @@ aliases:
 share: true
 ---
 # Epidemiology
+---
 ## Type 2 DM
 - Age
 	- Adult onset typically > 40 years
 	- Mean age of onset is decreasing
 - Race: highest prevalence in <span style="background:rgba(240, 200, 0, 0.2)">Native Americans</span>, Hispanics, African Americans, and Asian non-Hispanic Americans
 
----
+
 # Etiology
+---
 ## Type 1 DM
 - Autoimmune destruction of pancreatic β cells in genetically susceptible individuals
 - HLA association: [[HLA system|HLA-DR3]] and [[HLA system|HLA-DR4]] positive patients are at increased risk of developing T1DM. 
@@ -27,8 +29,24 @@ share: true
 	- [[Celiac disease|Celiac disease]]
 	- Primary [[adrenal insufficiency|adrenal insufficiency]]
 
+
+# Classifications
 ---
+- Type 1: formerly known as insulin-dependent (IDDM) or juvenile-onset diabetes mellitus
+- Type 2: formerly known as non-insulin-dependent (NIDDM) or adult-onset diabetes mellitus
+- [[Diabetes mellitus in pregnancy|Gestational diabetes]]
+- Other types of diabetes mellitus
+	- <span style="background:rgba(240, 200, 0, 0.2)">MODY (maturity-onset diabetes of the young): genetic defects leading to β-cell dysfunction</span>
+	- Different forms of autosomal dominant inherited diabetes mellitus that <span style="background:rgba(240, 200, 0, 0.2)">manifest before the age of 25 years and are not associated with obesity or autoantibodies</span>
+	- Multiple monogenic subtypes (most common: MODY II due to glucokinase gene defect, and MODY III, due to hepatocyte nuclear factor-1-α gene defect)
+	- MODY II
+		- A single mutation leads to <span style="background:rgba(240, 200, 0, 0.2)">impaired insulin secretion due to altered glucokinase function.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Glucokinase is the glucose sensor of the β cell, facilitating storage of glucose in the liver, especially at high concentrations.</span>
+		- There is no increased risk of microvascular disease.
+		- Despite stable hyperglycemia and chronically elevated HbA1C levels, MODY II can be managed with diet alone.
+
 # Pathophysiology
+---
 ## Normal insulin physiology
 - Secretion: Insulin is synthesized in the β cells of the islets of Langerhans. The <span style="background:rgba(240, 200, 0, 0.2)">cleavage of proinsulin (precursor molecule of insulin)</span> produces C-peptide (connecting peptide) and insulin, which consists of two peptide chains (A and B chains).
 - Action
@@ -37,7 +55,7 @@ share: true
 	- Lipid metabolism: maintains a fat depot and has an antiketogenic effect 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte regulation: stimulates intracellular potassium accumulation </span>
 		- Directly stimulates Na<sup>+</sup>/K<sup>+</sup> ATPase and promotes intracellular alkalosis, reduces phosphate levels (glucose binds to phosphate in the cell), and stimulates magnesium uptake into cells
-- <span style="background:rgba(240, 200, 0, 0.2)">Those with long-standing diabetes (ie, >5 years) frequently also have alpha cell failure with decreased glucagon secretion and therefore have an even greater risk of rapid hypoglycemia.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Those with long-standing diabetes (ie, >5 years) frequently also have alpha cell failure with decreased glucagon secretion and therefore have an even greater risk of rapid [[hypoglycemia|hypoglycemia]].</span>
 ## Type 2 diabetes
 - Mechanisms
 	- Peripheral insulin resistance
@@ -90,7 +108,7 @@ share: true
 >[!tip] 
 >Strict glycemic control is crucial in preventing microvascular disease.
 ## Other complications
-- <span style="background:rgba(240, 200, 0, 0.2)">Osmotic damage: occurs in tissues with high aldolase reductase activity and low/absent sorbitol dehydrogenase activity (e.g., eyes, peripheral nerves)</span> → <span style="background:rgba(240, 200, 0, 0.2)">diabetic cataracts</span>, neuropathy![[L59313.jpg|L59313.jpg]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Osmotic damage: occurs in tissues with high aldolase reductase activity and low/absent sorbitol dehydrogenase activity (e.g., eyes, peripheral nerves)</span> → <span style="background:rgba(240, 200, 0, 0.2)">diabetic [[Cataract|cataracts]]</span>, neuropathy![[L59313.jpg|L59313.jpg]]
 
 ---
 # Diagnostics
@@ -106,7 +124,7 @@ share: true
 		- Increased RBC lifespan: e.g., iron and/or [[Vitamin B12|vitamin B12 deficiency]], splenectomy, [[aplastic anemia|aplastic anemia]]
 		- Assay interference: heavy alcohol use
 	- <span style="background:rgba(240, 200, 0, 0.2)">Factors resulting in a falsely low HbA1c</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Decreased RBC lifespan</span>: e.g., due to acute blood loss, <span style="background:rgba(240, 200, 0, 0.2)">hemoglobinopathies such as sickle cell trait/disease, [[thalassemia|thalassemia]]</span>, G6PD-deficiency, [[cirrhosis|cirrhosis]], hemolytic anemia, [[splenomegaly|splenomegaly]], antiretroviral drugs
+		- <span style="background:rgba(240, 200, 0, 0.2)">Decreased RBC lifespan</span>: e.g., due to acute blood loss, <span style="background:rgba(240, 200, 0, 0.2)">hemoglobinopathies such as sickle cell trait/disease, [[thalassemia|thalassemia]]</span>, [[Glucose-6-phosphate dehydrogenase deficiency|G6PD deficiency]], [[cirrhosis|cirrhosis]], hemolytic anemia, [[splenomegaly|splenomegaly]], antiretroviral drugs
 		- Increased erythropoiesis: e.g., due to EPO therapy, reticulocytosis, <span style="background:rgba(240, 200, 0, 0.2)">pregnancy</span> (second and third trimesters), iron supplementation
 ## Additional studies
 - <span style="background:rgba(240, 200, 0, 0.2)">C-peptide</span>: can help differentiate between types of diabetes![[Pasted image 20231215112826.png|Pasted image 20231215112826.png]]
@@ -195,9 +213,9 @@ share: true
 >- Liptin makes you <font color="#ffc000">pee (PP4)</font> more times
 - SGLT-2 inhibitors![[Pasted image 20231209142321.png|Pasted image 20231209142321.png]]
 	- Contraindications
-		- <span style="background:rgba(240, 200, 0, 0.2)">Chronic kidney disease: If GFR decreases, drug efficacy decreases and adverse effects increase. </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Chronic kidney disease|Chronic kidney disease]]: If GFR decreases, drug efficacy decreases and adverse effects increase. </span>
 			- Because SGLT-2 inhibitors rely on adequate renal glucose filtration to exert their antihyperglycemic effect, they become less effective or ineffective as renal function declines (eg, when estimated glomerular filtration rate (eGFR) falls <30-45 mL/min/1.73 m2).  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">checking serum creatinine (used to calculate eGFR) is recommended prior to medication initiation.</span>
-		- Recurrent urinary tract infections (e.g., in patients with anatomical or functional anomalies of the urinary tract)
+		- Recurrent [[urinary tract infections|urinary tract infections]] (e.g., in patients with anatomical or functional anomalies of the urinary tract)
 - α-glucosidase inhibitors![[Pasted image 20231209142546.png|Pasted image 20231209142546.png]]
 - Pioglitazone
 	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ <span style="background:rgba(240, 200, 0, 0.2)">transcription of genes involved in glucose and lipid metabolism</span> → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
