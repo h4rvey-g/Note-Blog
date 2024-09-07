@@ -9,6 +9,10 @@ share: true
 ![[highresdefault_L40718.jpg|highresdefault_L40718.jpg]]
 ![[Pasted image 20240226105751.png|Pasted image 20240226105751.png]]
 ![[Pasted image 20240226105806.png|Pasted image 20240226105806.png]]
+# Heart murmurs
+---
+![[Pasted image 20240904233005.png|Pasted image 20240904233005.png]]
+
 # Extra (gallop) heart sounds
 ![[Pasted image 20240406101219.png|Pasted image 20240406101219.png]]
 >[!tip] 
@@ -23,7 +27,7 @@ share: true
 - Associated disorders
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Heart failure|Heart failure]] with reduced EF</span>
 	- High-output states (eg, thyrotoxicosis)
-	- Mitral or aortic regurgitation
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mitral or aortic regurgitation</span>
 	- Teens or athletes
 		- Hearts are trained to handle more blood
 ## S4
