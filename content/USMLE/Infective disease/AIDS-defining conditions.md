@@ -18,6 +18,9 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Cerebral toxoplasmosis</span>
 - Extrapulmonary [[cryptococcosis|cryptococcosis]] (especially cryptococcal [[meningitis|meningitis]])
 - Cryptosporidiosis
+	- Etiology: Cryptosporidium species
+	- Clinical features: <span style="background:rgba(240, 200, 0, 0.2)">chronic, watery diarrhea (lasting > 1 month)</span> with nausea and abdominal pains; typically at CD4 counts < 100
+	- <span style="background:rgba(240, 200, 0, 0.2)">Diagnostics: acid-fast oocysts in stool</span>
 - Esophageal candidiasis or pulmonary candidiasis
 	- Oropharyngeal candida, which is not AIDS-defining, is more common as CD4 counts decline, and may be seen when CD4 count is < 200–250.
 	- Neutrophils are the most important immune cell in the defense against invasive Candida infection; therefore, <span style="background:rgba(240, 200, 0, 0.2)">patients with neutropenia (eg, following cytotoxic chemotherapy) are at high risk for invasive disease (eg, candidemia, meningitis).  In contrast, T lymphocytes are more important for prevention of superficial, mucocutaneous infection (eg, thrush).</span>
