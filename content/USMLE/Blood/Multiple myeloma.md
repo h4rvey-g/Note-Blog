@@ -56,3 +56,6 @@ share: true
 	- Diagnosis: markedly positive urine sulfosalicylic acid test  and/or urine protein electrophoresis
 		- <span style="background:rgba(240, 200, 0, 0.2)">On light microscopy, numerous large, glassy eosinophilic [[Urine sediment|casts]] are seen.</span>
 	- May progress to end-stage renal disease (ESRD)
+- <span style="background:rgba(240, 200, 0, 0.2)">AL [[amyloidosis|amyloidosis]]: Light chains can accumulate as amyloids and may lead to [[restrictive cardiomyopathy|restrictive cardiomyopathy]], renal insufficiency, macroglossia, and [[malabsorption|malabsorption]] syndromes.</span>
+- Infections
+- Secondary plasma cell leukemia
