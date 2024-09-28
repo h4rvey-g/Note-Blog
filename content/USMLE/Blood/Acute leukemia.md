@@ -10,7 +10,8 @@ aliases:
   - APL
 share: true
 ---
-![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
+Hairy Cell
+Leukemia![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
 >[!Mnemonic] 
 >A mnemonic for acute leukemia ages:
 >- ALL - adults Least likely ~ children (10 yrs)
