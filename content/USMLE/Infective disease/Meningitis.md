@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-01-21 10:47
 modified: 2024-01-21 10:47
-aliases: []
+aliases:
+  - Primary amebic meningoencephalitis
 share: true
 ---
 # Epidemiology
@@ -12,7 +13,7 @@ share: true
 # Etiology
 ## Bacterial
 - <span style="background:rgba(240, 200, 0, 0.2)">Neisseria meningitidis (First peak: &lt; 2 years of age; second peak: 16–20 years of age)</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Streptococcus pneumoniae (most common in adults >20 and elders)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Streptococcus pneumoniae|Streptococcus pneumoniae]] (most common in adults >20 and elders)</span>
 ## Other etiologies
 - Viral meningitis: often associated with encephalitis (meningoencephalitis)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Enteroviruses (especially coxsackieviruses and echoviruses): the most common cause of all types of meningitis in all patient groups</span>
@@ -28,16 +29,31 @@ share: true
 	- Retrograde transport along or within peripheral or cranial nerves
 	- Direct infection (e.g., due to trauma or head surgery)
 
+# Subtypes and variants
 ---
+## Primary amebic meningoencephalitis
+- Pathogen: <span style="background:rgba(240, 200, 0, 0.2)">Naegleria fowleri (colloquially referred to as “brain-eating amoeba”), found in warm freshwater (e.g., ponds, hot springs)</span>
+- Route of infection: via <span style="background:rgba(240, 200, 0, 0.2)">contaminated water entering the nose</span> (e.g., while swimming) → invades the CNS directly via the olfactory nerve (perforates the cribriform plate) 
+- Clinical features: causes <span style="background:rgba(240, 200, 0, 0.2)">fulminant meningoencephalitis with rapid onset</span>
+- Diagnosis
+	- CSF analysis 
+		- Findings similar to those of <span style="background:rgba(240, 200, 0, 0.2)">bacterial meningitis</span> (e.g., neutrophilic pleocytosis, hypoglycorrhachia, increased CSF protein)
+		- CSF erythrocytosis (due to hemorrhagic necrosis)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Microscopy shows trophozoites</span>
+- Treatment: [[Antifungals|amphotericin B]], miltefosine
+- <span style="background:rgba(240, 200, 0, 0.2)">Prognosis: nearly always fatal</span>
+
+
 # Clinical features
-
-
 ---
+
+
 # Diagnostics
-
-
 ---
+
+
 # Treatment
+---
 ## Prevention
 ### N. meningitidis
 - Indications
