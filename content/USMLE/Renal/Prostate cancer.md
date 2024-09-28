@@ -24,15 +24,16 @@ share: true
 	- Features of metastatic disease; examples include:
 		- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain (due to [[bone metastasis|bone metastasis]], especially in the lumbosacral spine)</span>
 		- Neurological deficits (e.g., due to vertebral fracture causing spinal cord compression) 
-		- Lymphedema (caused by obstructing metastases in the lymph nodes)
+		- [[Nonpitting edema|Lymphedema]] (caused by obstructing metastases in the lymph nodes)
 
 ---
 # Diagnostics
-
+## Biopsy
+- Findings: <span style="background:rgba(240, 200, 0, 0.2)">adenocarcinoma</span>![[L66058.jpg|L66058.jpg]]
 
 ---
 # Treatment
-## Androgen deprivation
+## [[Androgen and estrogen synthesis|Androgen]] deprivation
 <span style="background:rgba(240, 200, 0, 0.2)">Androgens accelerate the growth of prostate cancer.</span> Androgen deprivation by reduction of testosterone production or inhibition of testosterone binding to the androgen receptor on cancer cells is an important aspect of treating advanced or high-risk prostate cancer.
 ### Androgen deprivation therapy (ADT)
 - Definition: therapy designed to decrease testosterone production by the testes
@@ -41,12 +42,12 @@ share: true
 - Options
 	- Medical castration: decreases pituitary stimulation of androgen production by the testes
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypothalamic and pituitary drugs|GnRH agonists]] (e.g., [[Hypothalamic and pituitary drugs|leuprolide]])</span>
-			- GnRH agonists may induce a <span style="background:rgba(240, 200, 0, 0.2)">short-term elevation in testosterone</span> that transiently worsens symptoms (testosterone flare). This can be treated with a short course (< 4 weeks) of <span style="background:rgba(240, 200, 0, 0.2)">first-generation antiandrogens.</span>
+			- [[Hypothalamic and pituitary drugs|GnRH agonists]] may induce a <span style="background:rgba(240, 200, 0, 0.2)">short-term elevation in testosterone</span> that transiently worsens symptoms (testosterone flare). This can be treated with a short course (< 4 weeks) of <span style="background:rgba(240, 200, 0, 0.2)">first-generation antiandrogens.</span>
 	- Surgical castration: bilateral orchiectomy
 - Adverse effects
-	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of osteoporosis and fractures</span> 
-	- Sexual dysfunction: loss of libido, erectile dysfunction
-	- Change in body image: gynecomastia
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of [[osteoporosis|osteoporosis]] and fractures</span> 
+	- [[Sexual dysfunction|Sexual dysfunction]]: loss of libido, erectile dysfunction
+	- Change in body image: [[gynecomastia|gynecomastia]]
 ### Androgen synthesis inhibitors and androgen receptor antagonists
 - Indication: adjunct to ADT in locally advanced and metastatic prostate cancer
 - Androgen receptor antagonists (antiandrogen therapy)
