@@ -26,7 +26,7 @@ share: true
 	- Normal-sized torso
 	- Short, plump extremities
 - Craniofacial abnormalities
-	- Middle ear deformation: recurrent otitis media
+	- Middle ear deformation: recurrent [[Acute otitis media|otitis media]]
 - Other skeletal abnormalities
 	- Small foramen magnum: compression of the cervical medulla
 	- Lumbar lordosis and kyphoscoliosis 
