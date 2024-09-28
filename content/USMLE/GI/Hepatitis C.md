@@ -15,7 +15,7 @@ share: true
 	- Needle sharing among individuals who use injection drugs 
 	- Needlestick injury (e.g., health care workers)
 	- Blood [[transfusion|transfusion]]
-	- Dialysis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Dialysis</span>
 - Organ transplantation
 - Sexual: rare (in contrast to [[Hepatitis B|HBV]] and [[Human immunodeficiency virus|HIV]])
 
@@ -32,7 +32,7 @@ share: true
 ## Incubation period
 - 2 weeks to 6 months
 ## Chronic course
-- Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state).
+- <span style="background:rgba(240, 200, 0, 0.2)">Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state).</span>
 - Findings often mild, nonspecific (e.g., fatigue)
 - Liver [[cirrhosis|cirrhosis]] (up to 25% of cases) within 20 years of infection
 - Extrahepatic features of HCV (common) 
