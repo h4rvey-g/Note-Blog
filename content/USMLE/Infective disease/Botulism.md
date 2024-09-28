@@ -20,6 +20,11 @@ share: true
 	- Infantile hypotonia (see “Infant botulism” below)
 - Gastrointestinal symptoms
 	- Gastrointestinal discomfort, nausea, and vomiting, later followed by constipation
+# Foodborne botulism
+- Etiology
+	- Ingestion of preformed botulinum toxin via contaminated foods 
+		- The anaerobic spores survive in <span style="background:rgba(240, 200, 0, 0.2)">poorly pasteurized canned foods (e.g., vegetables with soil contact, meat, home-fermented tofu)</span>
+		- Germination of the spores produces dangerous toxins (botulinum toxins = enterotoxins A-F) and gas → <span style="background:rgba(240, 200, 0, 0.2)">bulging cans</span>
 # Infant botulism
 - <span style="background:rgba(240, 200, 0, 0.2)">Etiology: ingestion of spores</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Spores may be present in honey, juice, and contaminated soil.</span>
