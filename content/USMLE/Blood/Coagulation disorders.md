@@ -12,6 +12,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Large and deep</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Large hematomas, muscle bleed or hemarthrosis</span>
 
+---
+
 - Increased PT
 	- Factor VII deficiency
 	- Monitoring of [[vitamin K|vitamin K]] antagonist therapy (INR)
