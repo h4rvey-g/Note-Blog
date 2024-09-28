@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-10 17:43
 modified: 2023-12-10 17:43
-aliases: []
+aliases:
+  - Short bowel syndrome
 share: true
 ---
 # Epidemiology
@@ -13,7 +14,17 @@ share: true
 
 
 ---
-# Pathophysiology
+# Subtypes and variants
+## Exocrine pancreatic insufficiency
+- See [[Steatorrhea|Steatorrhea]]
+## Short bowel syndrome
+- Definition: a condition in which the <span style="background:rgba(240, 200, 0, 0.2)">small bowel cannot adequately absorb</span> nutrients, water, or electrolytes
+- Etiology
+	- <span style="background:rgba(240, 200, 0, 0.2)">Small bowel resection, e.g., in [[Crohn disease|Crohn disease]], trauma</span>
+	- Congenital visceral malformations
+- Management
+	- Diet optimization
+	- Total parenteral nutrition in patients with intestinal failure
 
 
 ---
