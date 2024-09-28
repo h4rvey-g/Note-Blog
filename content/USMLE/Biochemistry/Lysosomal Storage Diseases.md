@@ -19,7 +19,7 @@ share: true
 
 # Gaucher disease
 ---
-![[Pasted image 20231111091954.png|Pasted image 20231111091954.png]] Because you are crying, you need a tissue paper to wipe tears.
+![[Pasted image 20231111091954.png|Pasted image 20231111091954.png]] Because you are crying, you need a <font color="#ffc000">tissue paper</font> to wipe tears.
 
 # Tay-Sachs disease
 ---
