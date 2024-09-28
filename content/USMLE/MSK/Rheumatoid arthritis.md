@@ -21,8 +21,8 @@ share: true
 - Certain interstitial tissue proteins (e.g. intracellular filament protein vimentin, filaggrin, type II collagen) <span style="background:rgba(240, 200, 0, 0.2)">undergo a posttranslational modification</span> that involves the conversion of arginine to citrulline (citrullination). 
 - <span style="background:rgba(240, 200, 0, 0.2)">Citrullinated proteins are recognized as foreign by the antigen-presenting cells that present them to CD4+ T cells.</span>
 - Activation of CD4+ T cells leads to the following sequences of events: 
-	- <span style="background:rgba(240, 200, 0, 0.2)">IL-4 production</span> → B-cell proliferation and differentiation → production of <span style="background:rgba(240, 200, 0, 0.2)">anticitrullinated peptide antibodies</span> → type II hypersensitivity reaction and type III hypersensitivity reaction
-	- Migration of CD4+ T cells to synovial joints → secretion of cytokines <span style="background:rgba(240, 200, 0, 0.2)">(IFN-γ, IL-17)</span> → recruitment of macrophages → secretion of cytokines (<span style="background:rgba(240, 200, 0, 0.2)">TNF-α, IL-1</span>, IL-6) → inflammation and proliferation
+	- <span style="background:rgba(240, 200, 0, 0.2)">IL-4 production</span> → B-cell proliferation and differentiation → production of <span style="background:rgba(240, 200, 0, 0.2)">anticitrullinated peptide antibodies</span> → type II hypersensitivity reaction and [[Type III hypersensitivity reactions|type III hypersensitivity reaction]]
+	- Migration of CD4+ T cells to synovial joints → secretion of cytokines <span style="background:rgba(240, 200, 0, 0.2)">([[Interferons|IFN-γ]], IL-17)</span> → recruitment of macrophages → secretion of cytokines (<span style="background:rgba(240, 200, 0, 0.2)">TNF-α, IL-1</span>, IL-6) → inflammation and proliferation
 - Bouts of inflammation, angiogenesis, and proliferation → <span style="background:rgba(240, 200, 0, 0.2)">proliferative granulation tissue with mononuclear inflammatory cells → pannus and synovial hypertrophy → invasion, progressive destruction, and deterioration of cartilage and bone</span>
 - Antibodies against Fc portion of IgG (rheumatoid factor, RF) are produced to aid in removing autoantibodies and immune complexes.
 	- RF excess triggers formation of new immune complexes and [[Type III hypersensitivity reactions|type III HSR]]
@@ -41,15 +41,34 @@ share: true
 		- Typically bilateral and peripheral
 		- Rheumatoid pulmonary nodules may be accompanied by fibrosis and pneumoconiosis (Caplan syndrome).
 
-
+# Subtypes and variants
 ---
+## Atlantoaxial subluxation (Vertebral subluxation)
+- Definition: a potentially life-threatening complication caused by the <span style="background:rgba(240, 200, 0, 0.2)">inflammatory destruction of the ligaments affecting the atlantoaxial joint and the intervertebral joints</span>
+- Clinical features
+	- Pain and stiffness of the neck (typically early-morning neck pain at rest)
+	- Head tilt
+	- Neurological deficits
+		- <span style="background:rgba(240, 200, 0, 0.2)">Cervical radiculopathy with peripheral paresthesias of the upper limb</span>
+		- In some cases, symptoms of high spinal cord compression
+			- Slowly progressive spastic quadriparesis
+			- Hyperreflexia or positive Babinski reflex
+			- Respiratory insufficiency
+- Diagnostics
+	- Extension and flexion x-rays of the cervical spine
+	- MRI 
+
+>[!warning] 
+>Endotracheal intubation can acutely worsen the subluxation and cause compression of the spinal cord and/or vertebral arteries.
+
 # Diagnostics
+---
 ![[Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Anticitrullinated peptide antibodies (ACPA), e.g., anticyclic citrullinated peptide (anti-CCP) </span>
 	- Tissue inflammation causes arginine residues in proteins such as vimentin to be enzymatically converted into citrulline through a process called citrullination.  This alters the shape of the proteins, which can then serve as neoantigens that generate an immune response.
 - <span style="background:rgba(240, 200, 0, 0.2)">Rheumatoid factor (RF): IgM autoantibodies against the Fc region of IgG antibodies</span>
 # Differential diagnostics
-- <span style="background:rgba(240, 200, 0, 0.2)">Parvovirus B19 will presents with similar symptoms, except for rash, normal ESR, and acute onset</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Parvovirus B19|Parvovirus B19]] will presents with similar symptoms, except for rash, normal ESR, and acute onset</span>
 - See [[Osteoarthritis#Differential diagnosis|Osteoarthritis > Differential diagnosis]]
 
 ---
