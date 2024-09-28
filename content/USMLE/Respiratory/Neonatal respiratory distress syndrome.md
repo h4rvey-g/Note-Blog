@@ -33,8 +33,14 @@ share: true
 - Decreased breath sounds on auscultation
 - Cyanosis due to pulmonary hypoxic vasoconstriction
 
+# Diagnostics
 ---
+- X-ray chest![[L57477.png|L57477.png]]
+	- Interstitial pulmonary edema with perihilar streaking
+	- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse, fine, reticulogranular (ground-glass) densities with low lung volumes and air bronchograms</span> 
+	- Atelectasis
 # Complications
+---
 ## Bronchopulmonary dysplasia (BPD)
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">chronic lung condition secondary to prolonged mechanical ventilation and oxygen therapy for NRDS</span>
 - Etiology: <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary barotrauma and oxygen toxicity with subsequent inflammation of lung tissue due to ventilation of the immature lung </span>(ventilation for more than 28 days)
