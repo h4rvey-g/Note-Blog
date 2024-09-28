@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2024-04-03 20:41
 modified: 2024-04-03 20:41
-aliases: []
+aliases:
+  - XLA
+  - X-linked agammaglobulinemia
 share: true
 ---
 ![[Pasted image 20240505160745.png|Pasted image 20240505160745.png]]
@@ -19,3 +21,7 @@ share: true
 		- Normal or high T cells
 	- Low immunoglobulins of all classes
 	- Absent lymphoid tissue, i.e., no germinal centers and primary follicles
+
+>[!tip] XLA vs CVID
+>- XLA presents <span style="background:rgba(240, 200, 0, 0.2)">early (infancy)</span> due to a complete failure in B-cell development from birth.
+>- CVID presents <span style="background:rgba(240, 200, 0, 0.2)">later (pubertal or post-pubertal)</span> because it involves a gradual decline in B-cell function, leading to a delayed onset of immune deficiency symptoms.
