@@ -10,7 +10,7 @@ share: true
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Recurrent pyogenic infections</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Partial albinism</span>
-	- Progressive degeneration of neurons and peripheral neuropathy
+	- Progressive degeneration of neurons and <span style="background:rgba(240, 200, 0, 0.2)">peripheral neuropathy</span>
 	- Hemophagocytic lymphohistiocytosis (can occur in the accelerated phase and is potentially fatal)
 - Diagnosis
 	- Peripheral smear shows <span style="background:rgba(240, 200, 0, 0.2)">giant cytoplasmic granules</span> in granulocytes and platelets![[L53760.png|L53760.png]]
