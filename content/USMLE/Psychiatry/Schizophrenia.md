@@ -65,3 +65,15 @@ share: true
 
 
 ---
+# Prognosis
+---
+
+| Good                                      | Poor                                      |
+|-------------------------------------------|-------------------------------------------|
+| Later onset                               | Onset in childhood or adolescence         |
+| Female sex                                | Male sex                                  |
+| Acute onset with precipitant              | Gradual onset (prodrome), no precipitant  |
+| Predominantly positive symptoms           | Predominantly negative symptoms           |
+| No family history                         | Family history of psychotic illness       |
+| Short duration of active symptoms         | Long duration of untreated psychosis      |
+
