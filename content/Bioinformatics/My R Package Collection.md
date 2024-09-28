@@ -19,6 +19,9 @@ share: true
 2. tidybulk
 	- Seamlessly integrated with `tidySummarizedExperiment`
 	- Provide many out-of-box functions for bulk RNA-seq pipeline
+## scRNA-seq
+1. escape: [ncborcherding/escape: Easy single cell analysis platform for enrichment (github.com)](https://github.com/ncborcherding/escape)
+	- The escape package allows users to easily incorporate multiple methods of GSEA and offers several visualization and analysis methods.
 # Visualization
 ---
 1. ggstatsplot: [ggplot2 Based Plots with Statistical Details • ggstatsplot (indrajeetpatil.github.io)](https://indrajeetpatil.github.io/ggstatsplot/index.html)
