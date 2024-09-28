@@ -69,7 +69,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 		- Associated with various conditions (e.g., IBD, [[rheumatoid arthritis|rheumatoid arthritis]], and trauma)
 		- Manifests with very painful, rapidly-progressive, red spots that can change into purulent pustules or deep ulcerated lesions with central necrosis
 		- Commonly located at extensor side of the lower limbs
-		- Treated with immunosuppressants (e.g., corticosteroids, cyclosporine A)
+		- Treated with [[immunosuppressants|immunosuppressants]] (e.g., corticosteroids, cyclosporine A)
 
 ---
 # Diagnostics
@@ -85,6 +85,12 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- Small aphthous ulcerations 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cobblestone sign: inflamed edematous sections interspersed with deep ulcerations that resemble cobblestones</span> ![[Pasted image 20231026112246.png|Pasted image 20231026112246.png]]
 	- Erythema, fissures, strictures, and fistulas
+## Laboratory studies
+- To monitor disease activity
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fecal calprotectin and/or fecal lactoferrin</span>: proteins associated with neutrophil activation 
+		- Used as noninvasive markers of intestinal inflammation to monitor disease activity and response to therapy
+		- Also used to differentiate IBD from irritable bowel syndrome
+	- Inflammatory markers: CRP, ESR
 
 ---
 # Treatment
@@ -97,7 +103,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - Typically involve the perianal region![[Pasted image 20231026113426.png|Pasted image 20231026113426.png]]
 ## Other intestinal complications
 - [[Colorectal cancer|Colorectal cancer]] (especially in the case of pancolitis)
-- Short bowel syndrome and associated issues after surgery
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Malabsorption|Short bowel syndrome]]</span> and associated issues after surgery
 - <span style="background:rgba(240, 200, 0, 0.2)">Stenosis/strictures → bowel obstruction/(sub)ileus</span>
 - Intestinal perforation → peritonitis
 - [[Primary sclerosing cholangitis|Primary sclerosing cholangitis]]
@@ -112,5 +118,5 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- [[Anemia|Anemia]]
 		- Iron deficiency anemia
 			- Caused by intestinal blood loss
-		- Megaloblastic [[anemia|anemia]] ([[vitamin B12|vitamin B12]] deficiency due to impaired [[absorption|absorption]] in the chronically inflamed ileum)![[Pasted image 20231026112938.png|Pasted image 20231026112938.png]]
+		- <span style="background:rgba(240, 200, 0, 0.2)">Megaloblastic [[anemia|anemia]] ([[vitamin B12|vitamin B12]] deficiency due to impaired [[absorption|absorption]] in the chronically inflamed ileum)</span>![[highresdefault_L24633.jpg|highresdefault_L24633.jpg]]
 	- [[Osteoporosis|Osteoporosis]]
