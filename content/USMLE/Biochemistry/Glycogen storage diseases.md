@@ -4,11 +4,24 @@ created: 2023-11-14 17:12
 modified: 2023-11-14 17:12
 aliases:
   - McArdle disease
+  - Cori disease
 share: true
 ---
 ![[highresdefault_L23545.jpg|highresdefault_L23545.jpg]]
+# Von Gierke disease
 ![[Pasted image 20231114171252.png|Pasted image 20231114171252.png]]
-![[Pasted image 20231114172027.png|Pasted image 20231114172027.png]]Abnormal glycogen branch like coral.
+# Cori disease
+![[Pasted image 20231114172027.png|Pasted image 20231114172027.png]]<span style="background:rgba(240, 200, 0, 0.2)">Abnormal glycogen branch like coral.</span>
+- Clinical presentation is similar to that of type I, though symptoms tend to be less severe.
+- Generalized muscle weakness and/or cramps
+- Possibly cirrhosis (ascites, hepatomegaly, and splenomegaly)
+- Mild, fasting hypoglycemia and ketosis
+- Hyperlipidemia
+- <span style="background:rgba(240, 200, 0, 0.2)">Cytosolic accumulations of limit dextrin-like complexes</span>
+- Blood lactate levels are normal.
+- Gluconeogenesis is functional.
+- Type III may result in cardiomyopathy.
+# McArdle disease & Hers disease
 ![[Pasted image 20231114172325.png|Pasted image 20231114172325.png]]
 >[!Mnemonic] 
 ><font color="#ffc000">M</font>uscle -> <font color="#ffc000">M</font>cArdle's
