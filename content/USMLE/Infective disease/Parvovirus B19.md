@@ -7,3 +7,5 @@ aliases:
 share: true
 ---
 <span style="background:rgba(240, 200, 0, 0.2)">The only single-stranded DNA (ssDNA) virus!</span>
+
+![[L61285.jpg|L61285.jpg]]
