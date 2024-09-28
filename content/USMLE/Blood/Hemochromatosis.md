@@ -48,6 +48,8 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 
 ---
 # Treatment
-
+## Iron chelation therapy
+- First-line treatment for <span style="background:rgba(240, 200, 0, 0.2)">secondary iron overload</span> due to iron-loading anemia
+- <span style="background:rgba(240, 200, 0, 0.2)">Chelating agents: deferoxamine</span>
 
 ---
