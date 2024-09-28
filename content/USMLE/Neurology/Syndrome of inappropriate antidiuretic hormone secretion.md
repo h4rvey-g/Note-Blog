@@ -12,7 +12,7 @@ share: true
 ---
 # Etiology
 ## Drugs
-- [[Anticonvulsant drugs|Anticonvulsants]] (e.g., carbamazepine, [[Anticonvulsant drugs|valproate]])
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Anticonvulsant drugs|Anticonvulsants]] (e.g., carbamazepine, [[Anticonvulsant drugs|valproate]])</span>
 - [[Antidepressants|Antidepressants]]
 	- [[Antidepressants|SSRIs]] (e.g., sertraline)
 	- MAO inhibitors
