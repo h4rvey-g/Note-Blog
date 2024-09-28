@@ -15,6 +15,7 @@ share: true
 
 ---
 # Pathophysiology
+![[paste-133350144606211.jpg|paste-133350144606211.jpg]]
 - Activation of meningeal nociceptors
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dilatation of intracranial blood vessels</span> → activation of meningeal nociceptors 
 	- Activation of the trigeminovascular pathway: activation of trigeminal neurons → release of vasoactive neuropeptides such as substance P
