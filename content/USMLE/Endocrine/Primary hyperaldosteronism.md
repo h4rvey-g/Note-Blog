@@ -12,7 +12,9 @@ share: true
 
 ---
 # Etiology
-
+- Most commonly due to the following conditions: 
+	- Bilateral idiopathic hyperplasia of the adrenal glands (∼ 60%) 
+	- Aldosterone-producing adrenal adenoma or aldosteronoma (∼ 30%)
 
 ---
 # Pathophysiology
