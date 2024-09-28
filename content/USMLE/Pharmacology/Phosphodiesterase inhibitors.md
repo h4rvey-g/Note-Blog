@@ -33,13 +33,23 @@ share: true
 	- Abdominal pain
 # Phosphodiesterase type 3 inhibitor (PDE3 inhibitor)
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Antiplatelets</span>
+## Antiplatelets
+- Agents
 	- Cilostazol
 	- Dipyridamole
-## Indications
-- Intermittent vascular claudication
-- Antiplatelet (antianginal, TIA/stroke prevention)
-- Coronary stent restenosis prophylaxis
+- Indications
+	- Intermittent vascular claudication
+	- Antiplatelet (antianginal, TIA/stroke prevention)
+	- Coronary stent restenosis prophylaxis
+## [[Heart failure|Heart failure]] drugs
+- Agent: <span style="background:rgba(240, 200, 0, 0.2)">Milrinone</span>
+- Indications
+	- Acute treatment of <span style="background:rgba(240, 200, 0, 0.2)">decompensated cardiac failure with cardiogenic shock</span>
+- Mechanisms
+	- Inhibition of smooth muscle proliferation
+	- PDE3 inhibition → ↑ cAMP 
+		- In the myocardium: ↑ cAMP → activation of calcium channels → <span style="background:rgba(240, 200, 0, 0.2)">cardiostimulatory effects → ↑ inotropy and ↑ chronotropy</span>
+		- In peripheral vessels: ↑ cAMP → inhibition of myosin light chain kinase → smooth muscle relaxation → <span style="background:rgba(240, 200, 0, 0.2)">vasodilation with reduced cardiovascular preload and afterload</span>
 
 # Phosphodiesterase type 5 inhibitor (PDE5 inhibitor) 
 ---
