@@ -58,7 +58,7 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 >- **Junctional escape rhythm** = junctional rhythm at a rate of 40-60 bpm
 >- **Accelerated junctional rhythm** = junctional rhythm at 60-100 bpm
 >- **Junctional tachycardia** = junctional rhythm at > 100 bpm
-# Hyperkalemia
+# [[Hyperkalemia|Hyperkalemia]]
 | 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|
 |     兴奋↑（↓）     |       兴奋↑        |
@@ -66,13 +66,13 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 |       自律↓        |       自律↑        |
 |       收缩↓        |     收缩↑（↓）     |
 
-- Mild hyperkalemia: 5.5–6.4 mEq/L 
+- Mild [[hyperkalemia|hyperkalemia]]: 5.5–6.4 mEq/L 
     - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
-- Moderate hyperkalemia: 6.5–8.0 mEq/L 
+- Moderate [[hyperkalemia|hyperkalemia]]: 6.5–8.0 mEq/L 
 	- <mark style="background: #FFF3A3A6;">Lengthening of QRS interval</mark>
 		- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
-- Severe hyperkalemia: > 8.0 mEq/L 
+- Severe [[hyperkalemia|hyperkalemia]]: > 8.0 mEq/L 
     - Absent [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec)
     - Intraventricular conduction block
     - Unusual QRS morphology  
@@ -149,7 +149,7 @@ The pattern of <span style="background:rgba(240, 200, 0, 0.2)">persistent anteri
 - The irregular baseline in this ECG gives the appearance of [[atrial fibrillation|atrial fibrillation]]
 - The slow regular rhythm even suggests the possibility of [[atrial fibrillation|atrial fibrillation]] with complete heart block and a junctional escape rhythm
 - However, on closer inspection there are visible P waves in V3 (circled)
-- This patient had sinus bradycardia and a resting tremor due to Parkinson’s disease
+- This patient had sinus bradycardia and a resting [[tremor|tremor]] due to Parkinson’s disease
 # Miscellaneous
 ## P wave
 Time: < 0.12s = 3 small block
@@ -177,7 +177,7 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 - Changes in the sequence of ventricular activation (e.g., in bundle branch blocks or cardiac hypertrophy)
 ### Classifications
 - Peaked T wave
-	- Hyperkalemia
+	- [[Hyperkalemia|Hyperkalemia]]
 	- High vagal tone
 	- Early stages of a STEMI
 	- Prinzmetal [[Coronary artery disease|angina]]
@@ -197,9 +197,9 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
 - The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">[[Cardiac glycosides|digoxin]] therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
-	- Digoxin: The inhibition of the sodium/potassium atpase <span style="background:rgba(240, 200, 0, 0.2)">decreases the amount of intracellular potassium, which causes an increase in potassium influx during repolarization, shortening the qt interval</span>
-	- Digoxin increases parasympathetic tone, <span style="background:rgba(240, 200, 0, 0.2)">lengthening the pr interval</span>
-- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation [[antihistamines|antihistamines]], some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
+	- [[Cardiac glycosides|Digoxin]]: The inhibition of the sodium/potassium atpase <span style="background:rgba(240, 200, 0, 0.2)">decreases the amount of intracellular potassium, which causes an increase in potassium influx during repolarization, shortening the qt interval</span>
+	- [[Cardiac glycosides|Digoxin]] increases parasympathetic tone, <span style="background:rgba(240, 200, 0, 0.2)">lengthening the pr interval</span>
+- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, [[antidepressants|antidepressants]], [[antipsychotics|antipsychotics]], phenothiazines, 1st-generation [[antihistamines|antihistamines]], some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], [[hypokalemia|hypokalemia]], [[hypomagnesemia|hypomagnesemia]]</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
 ## Rates
 - [[Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block

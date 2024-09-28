@@ -7,8 +7,15 @@ aliases:
   - estrogen
   - Aromatase inhibitors
   - Aromatase inhibitor
+  - LH and FSH
+  - Leydig cells
 share: true
 ---
+>[!tip] LH and FSH
+>- LH
+>	- Female individuals: triggers ovulation
+>	- Male individuals: stimulates testosterone synthesis in Leydig cells
+>- FSH: stimulates the maturation of germ cells in both male and female individuals
 
 # Androgen
 - Four types of androgen: testosterone, dihydrotestosterone (DHT), androstenedione, dehydroepiandrosterone (DHEA)
@@ -66,7 +73,7 @@ There are <span style="background:rgba(240, 200, 0, 0.2)">three types of estroge
 		- Fetal DHEA enters the maternal serum and is converted by the placenta to unconjugated estriol, which is then rapidly conjugated by the liver to a water-soluble form that can be excreted in urine.
 ## Estrogen effects
 - Bones: ↑ bone formation by inhibiting bone resorption (induces osteoclast apoptosis)
-- Blood vessels: protective effect against atherosclerosis
+- Blood vessels: protective effect against [[atherosclerosis|atherosclerosis]]
 - Blood clotting: ↑ risk of thrombosis
 - Kidneys: ↑ water and sodium retention (may contribute to edema)
 - Protein synthesis

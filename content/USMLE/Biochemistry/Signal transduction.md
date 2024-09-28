@@ -6,6 +6,16 @@ aliases:
   - cGMP
 share: true
 ---
+
+| Receptor     | Change in Second Messenger | Primary Effects                                                                                                                             |
+| ------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alpha-1      | ↑ IP3                      | Peripheral vasoconstriction<br>Urethral constriction<br>Pupillary dilation                                                                  |
+| Alpha-2      | ↓ cAMP                     | CNS sympatholytic<br>↓ Insulin release & intestinal motility                                                                                |
+| Beta-1       | ↑ cAMP                     | ↑ Cardiac contractility & heart rate<br>↑ Renin release by JG cells of kidney                                                               |
+| Beta-2       | ↑ cAMP                     | Peripheral vasodilation<br>Bronchodilation                                                                                                  |
+| Muscarinic-2 | ↓ cAMP                     | ↓ Cardiac contractility & heart rate                                                                                                        |
+| Muscarinic-3 | ↑ IP3                      | Bronchoconstriction<br>↑ Insulin release & intestinal motility<br>Bladder contraction<br>Pupillary constriction<br>Peripheral vasodilation* |
+
 # Receptors
 ---
 - **Receptor Types**  
@@ -42,7 +52,7 @@ share: true
 - Effects
 	- cAMP activates protein kinase A (PKA).
 	- Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">PKA controls the activity (activation or inactivation) of numerous enzymes via phosphorylation of serine and threonine residues.</span>
-	- Example: glycogen metabolism to ↑ blood glucose concentration
+	- Example: <span style="background:rgba(240, 200, 0, 0.2)">glycogen metabolism to ↑ blood glucose concentration</span>
 		- [[Hypoglycemia|Hypoglycemia]] → ↑ glucagon or adrenaline → GPCR activation → ↑ cAMP → activation of PKA, which causes:
 			- Phosphorylation of glycogen phosphorylase → activation → increased mobilization of glucose from glycogen
 			- Phosphorylation of glycogen synthase → inhibition→ decreased glycogen formation
@@ -51,7 +61,7 @@ share: true
 - Examples of ligand hormones
 	- Hypothalamic hormones: GHRH, CRH, vasopressin (V2 receptor)
 	- Pituitary hormones: TSH, ACTH, FSH, LH, MSH
-	- Other hormones: PTH, [[calcitonin|calcitonin]], glucagon, histamine (H2 receptor), [[Human chorionic gonadotropin|hCG]]
+	- Other hormones: PTH, [[calcitonin|calcitonin]], <span style="background:rgba(240, 200, 0, 0.2)">glucagon</span>, histamine (H2 receptor), [[Human chorionic gonadotropin|hCG]]
 ## cGMP (cyclic guanosine monophosphate)
 - Synthesis: cGMP is synthesized from GTP by the guanylate cyclase. There are two subforms of guanylate cyclase:
 	- Soluble guanylate cyclase: activated by <span style="background:rgba(240, 200, 0, 0.2)">nitric oxide</span>

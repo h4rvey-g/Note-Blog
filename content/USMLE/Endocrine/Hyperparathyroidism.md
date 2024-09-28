@@ -20,7 +20,7 @@ share: true
 X-ray
 - Decreased bone mineral density
 - <span style="background:rgba(240, 200, 0, 0.2)">Cortical thinning</span>: especially prominent in the phalanges of the hand; manifests as acroosteolysis (a subperiosteal pattern of bone resorption)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike the typical [[osteoporosis|osteoporosis]] of aging, which predominantly affects trabecular bone</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike the typical [[osteoporosis|osteoporosis]] of [[Aging changes|aging]], which predominantly affects trabecular bone</span>
 - Salt and pepper skull: granular decalcification manifesting as diffusely distributed lytic foci on imaging of the calvarium 
 - Features of osteitis fibrosa cystica
 ## Complications

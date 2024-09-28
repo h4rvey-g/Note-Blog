@@ -23,7 +23,7 @@ share: true
 		- Retina
 	- Neural crest
 		- <span style="background:rgba(240, 200, 0, 0.2)">Neural ganglia, adrenal medulla</span>
-		- Schwann cells; pia & arachnoid mater
+		- <span style="background:rgba(240, 200, 0, 0.2)">Schwann cells</span>; pia & arachnoid mater
 		- Aorticopulmonary septum & endocardial cushions
 		- Branchial arches (bones & cartilage)
 		- Skull bones

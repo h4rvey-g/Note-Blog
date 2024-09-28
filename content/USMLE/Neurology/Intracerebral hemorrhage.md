@@ -13,7 +13,7 @@ share: true
 ---
 # Etiology
 - Nontraumatic (spontaneous)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension: most common cause of spontaneous ICH</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypertension|Hypertension]]: most common cause of spontaneous ICH</span>
 		- Hypertension-induced hemorrhages <span style="background:rgba(240, 200, 0, 0.2)">typically occur in the subcortical regions.</span> Small penetrating arteries supply this part of the brain and emerge at sharp angles from larger vessels, making them particularly sensitive to changes in blood pressure.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cerebral amyloid angiopathy: most common cause of spontaneous ICH in individuals > 60 years of age</span>
 		- Typically causes <span style="background:rgba(240, 200, 0, 0.2)">lobar hemorrhage</span>

@@ -5,6 +5,8 @@ modified: 2024-01-08 10:00
 aliases:
   - "Retinal artery\rocclusion"
   - Retinal vein occlusion
+  - central retinal artery occlusion
+  - CRAO
 share: true
 ---
 # Epidemiology
@@ -18,7 +20,7 @@ share: true
 ## Retinal vein occlusion
 - Systemic diseases
 	- [[Atherosclerosis|Atherosclerosis]]
-	- Hypertension
+	- [[Hypertension|Hypertension]]
 	- [[Diabetes mellitus|Diabetes mellitus]]
 
 ---
@@ -28,12 +30,12 @@ share: true
 ---
 # Clinical features
 ## Retinal artery occlusion
-- CRAO
+- Central retinal artery occlusion (CRAO)
 	- Sudden, painless loss of vision in one eye (often described as a “descending curtain”)
 	- Ophthalmoscopic findings
 		- <span style="background:rgba(240, 200, 0, 0.2)">Grayish-white (cloudy) discoloration of the entire retina </span>
 			- A result of edema within the nerve fiber layer (NFL)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Cherry-red spot at the fovea centralis</span>![[Pasted image 20240108102210.png|Pasted image 20240108102210.png]]
+		- <span style="background:rgba(240, 200, 0, 0.2)">Cherry-red spot at the fovea centralis</span>![[L26697.png|L26697.png]]
 			- No nerve fibers are present in the foveal avascular zone (FAZ). Therefore, the FAZ is not affected by edema of the nerve fiber layer. The underlying choroid is clearly visible as a cherry-red spot against a dull white background.
 - BRAO
 	- Sudden onset of visual field defects (scotomas) in the affected eye
@@ -56,7 +58,7 @@ share: true
 - Evaluation for cardiovascular risk factors: 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Carotid doppler (to look for atherosclerotic plaques)</span>
 	- Echocardiography (to identify potential sources of emboli, e.g. cardiac vegetations, patent foramen ovale)
-- Tests to rule out temporal arteritis:
+- Tests to rule out [[Giant cell arteritis|temporal arteritis]]:
 	- Inflammatory markers (e.g., ↑ ESR)
 	- Temporal artery biopsy
 

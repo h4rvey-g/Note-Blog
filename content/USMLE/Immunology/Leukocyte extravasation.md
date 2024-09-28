@@ -34,7 +34,7 @@ share: true
 			- Composed of CD18 and CD11a
 			- Binds to ICAM
 		- Lymphocytes and monocytes β1-integrin (also called VLA-4) binds to VCAM
-		- Expression of integrins is activated by leukotriene B4 (LTB4) and C5a. 
+		- Expression of integrins is activated by <span style="background:rgba(240, 200, 0, 0.2)">leukotriene B4 (LTB4)</span> and C5a. 
 		- The deficiency of a CD18 integrin subunit causes [[Leukocyte adhesion deficiency type 1|Leukocyte adhesion deficiency type 1]].
 
 >[!tip] 

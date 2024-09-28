@@ -8,6 +8,7 @@ aliases:
   - Antiepileptics
   - Valproate
   - Valproic Acid
+  - Carbamazepine
 share: true
 ---
 ![[Pasted image 20240315154449.png|Pasted image 20240315154449.png]]

@@ -15,6 +15,8 @@ share: true
 - Advanced age
 - Neurologic disorder (e.g. [[dementia|dementia]], stroke)
 - Sensory impairment (e.g. [[hearing loss|hearing loss]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Sleep disruption</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Immobilization</span>
 ## Precipitating causes
 - <span style="background:rgba(240, 200, 0, 0.2)">Drugs (eg, narcotics, sedatives, [[antihistamines|antihistamines]], muscle relaxers, polypharmacy)</span>
 - Infections (eg, [[pneumonia|pneumonia]], urinary tract infection, [[meningitis|meningitis]])
@@ -39,6 +41,10 @@ share: true
 
 # Treatment
 ---
+- Polypharmacy/psychoactive drug avoidance
+- <span style="background:rgba(240, 200, 0, 0.2)">Sleep facilitation: bright day/dim night lighting</span>
+- Visual/hearing aids
+- Mobilization: out of bed, restraint avoidance
 ## Treatment of agitation in delirium
 - Agitation should initially be managed with nonpharmacologic strategies.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Avoid physical restraints as much as possible in older patients</span> with delirium, as they can worsen distress and agitation, as well as contribute to preventable injuries.

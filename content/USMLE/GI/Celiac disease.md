@@ -22,13 +22,14 @@ share: true
 # Clinical features
 ## Gastrointestinal symptoms
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic or recurring [[diarrhea|diarrhea]]: [[steatorrhea|steatorrhea]]</span>
-- Flatulence, abdominal bloating, and pain
+- <span style="background:rgba(240, 200, 0, 0.2)">Flatulence, abdominal bloating, and pain</span>
 ## Extraintestinal symptoms and associations
 - **[[Malabsorption|Malabsorption]] symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[anemia|anemia]], [[osteoporosis|osteoporosis]], hypocalcemia
 - In children: failure to thrive, growth failure, delayed puberty, secondary [[hyperparathyroidism|hyperparathyroidism]]
 - Dermatologic associations: **[[dermatitis herpetiformis|dermatitis herpetiformis]]**
 	- Transglutaminases play a role in forming extensively cross-linked proteins (e.g., elastin, coagulation by factor XIII).
 - Neuropsychiatric symptoms: peripheral neuropathies (numbness, burning and tingling of the hands and feet) , headache, ataxia, depression, irritability
+- <span style="background:rgba(240, 200, 0, 0.2)">Commonly associated with autoimmune diseases</span>
 
 ---
 # Diagnostics

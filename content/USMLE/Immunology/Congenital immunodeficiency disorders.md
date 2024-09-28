@@ -28,14 +28,14 @@ share: true
 
 | Condition                            | Characteristic features                                                                |
 | ------------------------------------ | -------------------------------------------------------------------------------------- |
-| Ataxia-telangiectasia                | - Ataxia                                                                               |
+| [[Ataxia-telangiectasia|Ataxia-telangiectasia]]                | - Ataxia                                                                               |
 |                                      | - Telangiectasias                                                                      |
 |                                      | - Sinopulmonary infections                                                             |
 | [[Chédiak-Higashi syndrome|Chédiak-Higashi syndrome]]         | - Oculocutaneous albinism                                                              |
 |                                      | - Pyogenic infections                                                                  |
 |                                      | - Progressive neurologic dysfunction                                                   |
 | [[Chronic granulomatous disease|Chronic granulomatous disease]]    | - Severe bacterial & fungal infections                                                 |
-|                                      | - Granuloma formation                                                                  |
+|                                      | - [[Granulomatous inflammation\|Granuloma]] formation                                                                  |
 | [[DiGeorge syndrome|DiGeorge syndrome]]                | - Congenital heart disease                                                             |
 |                                      | - Dysmorphic facies                                                                    |
 |                                      | - Hypocalcemia                                                                         |
@@ -45,4 +45,4 @@ share: true
 | Terminal complement deficiency       | - <span style="background:rgba(240, 200, 0, 0.2)">Recurrent Neisseria infection</span> |
 | [[Wiskott-Aldrich syndrome|Wiskott-Aldrich syndrome]]         | - Recurrent infections that worsen with age                                            |
 |                                      | - Easy bleeding                                                                        |
-|                                      | - Eczema                                                                               |
+|                                      | - [[Atopic dermatitis\|Eczema]]                                                                               |

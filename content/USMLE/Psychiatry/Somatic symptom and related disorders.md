@@ -7,6 +7,7 @@ aliases:
   - Factitious disorder
   - Malingering
   - Conversion disorder
+  - Somatic symptom disorder
 share: true
 ---
 ![[Pasted image 20240408212613.png|Pasted image 20240408212613.png]]

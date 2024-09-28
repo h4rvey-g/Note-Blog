@@ -21,6 +21,7 @@ Inflammation and progressive destruction (<span style="background:rgba(240, 200,
 
 # Diagnostics
 ---
+![[Pasted image 20231016163207.png|Pasted image 20231016163207.png]]
 - Liver chemistries: cholestatic pattern of injury
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ [[Alkaline phosphatase|ALP]], ↑ GGT, ↑ direct bilirubin</span>
 	- Mild transaminitis (or <span style="background:rgba(240, 200, 0, 0.2)">normal AST and ALT</span>)

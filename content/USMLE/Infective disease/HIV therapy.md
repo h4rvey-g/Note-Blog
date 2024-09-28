@@ -19,7 +19,7 @@ Left part is for [[Human immunodeficiency virus|HIV]], right part is for other v
 
 # NRTIs (Nucleoside reverse transcriptase inhibitors)
 - Medications in class
-	- Abacavir (ABC)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abacavir (ABC)</span>
 	- Didanosine (ddI)
 	- Emtricitabine (FTC)
 	- Lamivudine (3TC)
@@ -32,6 +32,11 @@ Left part is for [[Human immunodeficiency virus|HIV]], right part is for other v
 	- NRTIs act as nucleoside analogs → <span style="background:rgba(240, 200, 0, 0.2)">competitive blockage of nucleoside binding to reverse transcriptase → inhibition of formation of 3' to 5' phosphodiester linkages → termination of DNA chain</span> → inhibition of RNA to DNA reverse transcription
 	- Activation <span style="background:rgba(240, 200, 0, 0.2)">requires intracellular phosphorylation</span>, into their active triphosphate form <span style="background:rgba(240, 200, 0, 0.2)">like natural nucleotides</span>
 		- thus, NRTI efficacy is reliant on kinase availability and activity, which varies depending on cell functionality and activation state.
+- Adverse effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abacavir hypersensitivity reaction</span>
+		- Potentially life-threatening systemic reaction consisting of fever, rash, constitutional symptoms, vomiting, diarrhea, and, occasionally, respiratory distress
+		- <span style="background:rgba(240, 200, 0, 0.2)">Avoid abacavir in HLA-B*5701-positive patients.</span>
+	- Pancreatitis: didanosine, stavudine
 
 ![[Pasted image 20231210153709.png|Pasted image 20231210153709.png]]
 >[!Mnemonic] 
@@ -57,3 +62,8 @@ NAVIR -> never
 >[!Mnemonic] 
 >- En<font color="#ffc000">fu</font>virtide inhibits <font color="#ffc000">fu</font>sion.
 >- <font color="#ffc000">Ma</font>zda -> <font color="#ffc000">Ma</font>raviroc
+
+# ART regimens
+- 2 NRTIs PLUS 1 NNRTI
+- 2 NRTIs PLUS 1 PI (boosted)
+- 2 NRTIs PLUS 1 INI

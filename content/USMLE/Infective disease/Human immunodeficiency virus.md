@@ -62,3 +62,9 @@ share: true
 # Treatment
 ---
 See [[HIV therapy|HIV therapy]]
+
+# HIV in pregnancy
+---
+- The transmission risk depends on maternal viral load.
+- <span style="background:rgba(240, 200, 0, 0.2)">Combined antiretroviral therapy (cART)</span> is recommended throughout pregnancy and delivery. See [[HIV therapy#ART regimens|HIV therapy > ART regimens]]
+	- In untreated individuals, rates of vertical transmission are as high as 30%. Effective maternal cART and neonatal zidovudine therapy can reduce the risk of perinatal HIV transmission to < 2%.

@@ -7,6 +7,9 @@ aliases:
   - Tuberous sclerosis
   - neurofibromatosis
   - von Hippel-Lindau syndrome
+  - NF1
+  - NF2
+  - Neurofibromatosis type I
 share: true
 ---
 # Sturge-Weber syndrome
@@ -33,12 +36,15 @@ share: true
 - VHL gene: tumor suppressor gene on the short arm of chromosome 3
 - Deletion of VHL gene → <span style="background:rgba(240, 200, 0, 0.2)">impaired ubiquitination</span> and elimination of hypoxia-inducible factor 1a  → loss of function → <span style="background:rgba(240, 200, 0, 0.2)">tumor and cyst development</span>
 ![[Pasted image 20231228172914.png|Pasted image 20231228172914.png]]![[Pasted image 20231228172923.png|Pasted image 20231228172923.png]]
-# Neurofibromatosis type I
+# Neurofibromatosis
+- Etiology
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neurofibromatosis type 1 and type 2: autosomal dominant inheritance or spontaneous mutation</span>
+## Neurofibromatosis type I
 - Café-au-lait spots
 >[!Mnemonic] 
 >If you drink too much <font color="#ffc000">coffee</font>, you are gonna go <font color="#ffc000">number one</font>.
 
-- <span style="background:rgba(240, 200, 0, 0.2)">Cutaneous neurofibromas</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Cutaneous neurofibromas</span>![[highresdefault_L8455.jpg|highresdefault_L8455.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Optic gliomas</span>
-# Neurofibromatosis type II
+## Neurofibromatosis type II
 ![[Pasted image 20231228201624.png|Pasted image 20231228201624.png]]![[Pasted image 20231228201715.png|Pasted image 20231228201715.png]]

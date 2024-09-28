@@ -27,13 +27,13 @@ major cause of ESRD
 - <span style="background:rgba(240, 200, 0, 0.2)">Glomerulosclerosis</span> (later stages)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse hyalinization</span> (most common) or
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pathognomonic nodular glomerulosclerosis (Kimmelstiel-Wilson nodules)</span>: ![[Pasted image 20230823155435.png|Pasted image 20230823155435.png]]
-		- Glomerular capillary hypertension and hyperfiltration → increase in mesangial matrix → eosinophilic hyaline material in the area of glomerular capillary loops
+		- Glomerular capillary [[hypertension|hypertension]] and hyperfiltration → increase in mesangial matrix → eosinophilic hyaline material in the area of glomerular capillary loops
 		- Can progressively consume the entire glomerulus → hypofiltration (↓ GFR)
 
 ---
 # Clinical features
 - Patients are usually asymptomatic in the early stages; some may report <span style="background:rgba(240, 200, 0, 0.2)">foamy urine</span>.
-- In the later stages, clinical features of [[chronic kidney disease|chronic kidney disease]] (e.g., hypertension, volume overload) may be present.
+- In the later stages, clinical features of [[chronic kidney disease|chronic kidney disease]] (e.g., [[hypertension|hypertension]], volume overload) may be present.
 
 ---
 # Diagnostics
@@ -42,6 +42,6 @@ major cause of ESRD
 
 ---
 # Treatment
-
+<span style="background:rgba(240, 200, 0, 0.2)">Glycemic control and antihypertensive treatment</span> can delay the progression of diabetic kidney disease. 
 
 ---

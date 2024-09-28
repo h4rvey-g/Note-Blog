@@ -20,7 +20,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Inhalation of foreign antigen</span> → monocyte differentiation → <span style="background:rgba(240, 200, 0, 0.2)">activation of interstitial dendritic cells and alveolar macrophages</span>
 	- Interstitial dendritic cells migrate towards mediastinal lymph nodes and alveolar macrophages differentiate, serving as antigen-presenting cells to circulating T helper (Th) cells → <span style="background:rgba(240, 200, 0, 0.2)">differentiation and clonal expansion of T cells</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">T cell recruitment and ↑ B-cell activity → local immune hyperactivity and inflammation → formation of noncaseating granulomas in the lungs and the lymphatic system</span>
-- Granuloma formation
+- [[Granulomatous inflammation|Granuloma]] formation
 	- A nodular collection of macrophages that forms as a result of inflammation without central necrosis. Associated with sarcoidosis, berylliosis, and [[Crohn disease|Crohn disease]].
 	- <span style="background:rgba(240, 200, 0, 0.2)">Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)</span>![[Pasted image 20230807213802.png|Pasted image 20230807213802.png]]
 
@@ -65,6 +65,7 @@ Butterfly rash as seen in [[systemic lupus erythematosus|systemic lupus erythema
 - Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, [[tuberculosis|tuberculosis]], [[Crohn disease|Crohn disease]], berylliosis)![[Pasted image 20231103144254.png|Pasted image 20231103144254.png]]
 ## Additional studies
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchoalveolar lavage (BAL):↑ CD4:CD8 ratio</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">CD4+ lymphocytes release [[Interferons|interferon]]-gamma and TNF-alpha to drive macrophage activation and [[Granulomatous inflammation|granuloma]] formation.</span>
 
 ---
 # Treatment

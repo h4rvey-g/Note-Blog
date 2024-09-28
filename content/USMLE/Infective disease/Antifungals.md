@@ -17,3 +17,9 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Fever, chills (amphotericin B is sometimes referred to as “shake and bake”)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Bone marrow suppression, anemia</span>
 - Arrhythmias
+## Nystatin
+- Routes of administration <span style="background:rgba(240, 200, 0, 0.2)">(too toxic for intravenous use)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Topical</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Vaginal candidiasis</span>
+		- [[Diaper rash|Diaper rash]]
+	- Oral (swish and swallow): oropharyngeal candidiasis

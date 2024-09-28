@@ -11,7 +11,7 @@ share: true
 # AL amyloidosis (primary amyloidosis)
 Most common form of amyloidosis
 ## Etiology
-Low-level expansion of a plasma cell dyscrasia (e.g., [[multiple myeloma|multiple myeloma]], Waldenstrom macroglobulinemia)
+<span style="background:rgba(240, 200, 0, 0.2)">Low-level expansion of a plasma cell dyscrasia (e.g., [[multiple myeloma|multiple myeloma]]</span>, Waldenstrom macroglobulinemia)
 
 ---
 ## Pathophysiology

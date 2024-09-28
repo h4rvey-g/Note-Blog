@@ -55,7 +55,7 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 ### Leukotriene receptor antagonists (LTRAs)
 - Montelukast, Zafirlukast
 - Uses
-	- Exercise-induced
+	- <span style="background:rgba(240, 200, 0, 0.2)">Exercise-induced</span>
 	- Prevent leukotrienes from binding to their receptors (CysLT1)→ ↓ bronchoconstriction and inflammation
 	- Asthma aspirin-induced asthma
 	- Long-term maintenance treatment (particularly in children)

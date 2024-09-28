@@ -26,6 +26,9 @@ share: true
 
 # Clinical features
 ---
+>[!tip] 
+>热退疹出，颜色粉红
+
 ## Febrile phase
 - Duration: 3–5 days
 - Fever

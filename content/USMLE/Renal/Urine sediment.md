@@ -10,16 +10,17 @@ share: true
 # Urinary casts
 Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.
 ![[Pasted image 20230831154504.png|Pasted image 20230831154504.png]]
+<span style="background:rgba(240, 200, 0, 0.2)">Granular casts (acute) → waxy casts (chronic)</span>
 # Hyaline casts
 The factors which favor protein cast formation are low flow rate, high salt concentration, and low pH, all of which favor protein denaturation and precipitation, particularly that of the Tamm-Horsfall protein. Protein casts with long, thin tails formed at the junction of Henle's loop and the distal convoluted tubule are called cylindroids. <span style="background:rgba(240, 200, 0, 0.2)">Hyaline casts can be seen even in healthy patients.</span>
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE04.gif)
 
-Red blood cells may stick together and form red blood cell casts. Such casts are indicative of glomerulonephritis, with leakage of RBC's from glomeruli, or severe tubular damage.
+Red blood cells may stick together and form red blood cell casts. Such casts are indicative of [[Nephritic syndrome|glomerulonephritis]], with leakage of RBC's from glomeruli, or severe tubular damage.
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE06.gif)
 
-White blood cell casts are most typical for acute [[pyelonephritis|pyelonephritis]], but they may also be present with glomerulonephritis. Their presence indicates inflammation of the kidney, because such casts will not form except in the kidney.
+White blood cell casts are most typical for acute [[pyelonephritis|pyelonephritis]], but they may also be present with [[Nephritic syndrome|glomerulonephritis]]. Their presence indicates inflammation of the kidney, because such casts will not form except in the kidney.
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE05.gif)
 

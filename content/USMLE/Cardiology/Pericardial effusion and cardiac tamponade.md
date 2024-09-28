@@ -21,7 +21,7 @@ share: true
 	- [[Aortic dissection|Aortic dissection]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Serous or serosanguinous pericardial effusion </span>
 	- Idiopathic
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[Acute pericarditis|Acute pericarditis]] (especially viral</span>, but also fungal, tuberculous or bacterial)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Pericarditis|Pericarditis]] (especially viral</span>, but also fungal, tuberculous or bacterial)
 	- Malignancy
 	- Postpericardiotomy syndrome
 	- Uremia
