@@ -26,7 +26,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypertension: severe (i.e., resistant to therapy)</span> and/or early-onset (i.e, hypertension in individuals < 30 years of age) 
 - <span style="background:rgba(240, 200, 0, 0.2)">Abdominal bruit</span> heard over the flank or epigastrium: present during both systole and diastole 
 - Flash pulmonary edema
-- Features of [[atherosclerosis|atherosclerosis]] in other parts of the body (e.g., peripheral artery disease, [[coronary artery disease|coronary artery disease]], carotid stenosis)
+- Features of [[atherosclerosis|atherosclerosis]] in other parts of the body (e.g., [[Peripheral arterial disease|peripheral artery disease]], [[coronary artery disease|coronary artery disease]], carotid stenosis)
 
 # Diagnostics
 ---
