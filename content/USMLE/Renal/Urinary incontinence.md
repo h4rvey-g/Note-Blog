@@ -42,7 +42,7 @@ share: true
 ### Mechanism
 - Impaired (weak) detrusor contractility
 - <span style="background:rgba(240, 200, 0, 0.2)">Bladder outlet obstruction (e.g., [[Benign prostatic hyperplasia|BPH]])</span>
-- Both mechanisms can lead to incomplete bladder emptying → bladder overfilling → <mark style="background: #FFF3A34A;">chronically distended bladder with ↑ bladder pressure → dribbling of urine (leak) when intravesical pressure > outlet resistance</mark>
+- Both mechanisms can lead to incomplete bladder emptying → bladder overfilling → <span style="background:rgba(240, 200, 0, 0.2)">chronically distended bladder with ↑ bladder pressure → dribbling of urine (leak) when intravesical pressure > outlet resistance</span>
 ### Clinical features
 - Frequent, involuntary intermittent/continuous dribbling of urine in the absence of an urge to urinate
 - Occurs only when the bladder is <span style="background:rgba(240, 200, 0, 0.2)">full</span>
