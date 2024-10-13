@@ -5,13 +5,14 @@ modified: 2024-06-05 09:06
 aliases: []
 share: true
 ---
-![[Pasted image 20240605090810.png|Pasted image 20240605090810.png]]![[Pasted image 20240605091026.png|Pasted image 20240605091026.png]]
+(View in the front)![[Pasted image 20240605090810.png|Pasted image 20240605090810.png]](like you put your hand on someone's shoulder from the back)![[Pasted image 20240605091026.png|Pasted image 20240605091026.png]]
 - **Supraspinatus (suprascapular nerve)**
 	-  <span style="background:rgba(240, 200, 0, 0.2)">Abducts arm initially (before the action of the deltoid)</span>
 	- Most common rotator cuff injury (trauma or degeneration and impingement leading to tendinopathy or tear)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Assessed by the "empty/full can" test</span>![[Pasted image 20240725153945.png|Pasted image 20240725153945.png]]
 - **Infraspinatus (suprascapular nerve)**
 	-  <span style="background:rgba(240, 200, 0, 0.2)">Externally rotates arm</span>
+	- The only one of these four muscles that <span style="background:rgba(240, 200, 0, 0.2)">does not participate in abduction.</span>
 	- Common pitching injury
 - **Teres minor (axillary nerve)**
 	- <span style="background:rgba(240, 200, 0, 0.2)">Adducts and externally rotates arm</span>
