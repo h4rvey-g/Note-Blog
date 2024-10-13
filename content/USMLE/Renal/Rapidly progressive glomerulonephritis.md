@@ -6,17 +6,7 @@ aliases: RPGN
 share: true
 ---
 # Etiology
-- Type I: anti-GBM glomerulonephritis: anti-glomerular basement membrane antibody disease ([[Goodpasture syndrome|Goodpasture syndrome]])
-- Type II: immune complex-mediated glomerulonephritis
-	- [[IgA nephropathy|IgA nephropathy]]
-	- Membranoproliferative nephropathy
-	- [[IgA vasculitis|IgA vasculitis]]
-	- Lupus nephritis
-	- [[Poststreptococcal glomerulonephritis|Poststreptococcal glomerulonephritis]] ([[Poststreptococcal glomerulonephritis|PSGN]])
-- <span style="background:rgba(240, 200, 0, 0.2)">Type III: glomerulonephritis associated with [[Vasculitides|vasculitis]] (pauci-immune GN, ANCA-associated)</span>
-	- [[Granulomatosis with polyangiitis|Granulomatosis with polyangiitis]]
-	- Microscopic polyangiitis
-	- Eosinophilic [[granulomatosis with polyangiitis|granulomatosis with polyangiitis]]
+Three classifications, same as [[Nephritic syndrome#Etiology|Nephritic syndrome > Etiology]]
 
 ---
 # Pathophysiology
@@ -30,7 +20,9 @@ share: true
 
 ---
 # Diagnostics
-![[Pasted image 20230902164951.png|Pasted image 20230902164951.png]]
+- Antiglomerular basement membrane (anti-GBM) RPGN:  Linear GBM deposits of IgG and C3 are found on [[immunofluorescence|immunofluorescence]].  In some patients, anti-GBM antibodies cross-react with pulmonary alveolar basement membranes, producing pulmonary hemorrhages ([[Goodpasture syndrome|Goodpasture syndrome]]).
+- Immune-complex RPGN:  There is a "lumpy-bumpy" granular pattern of staining for both antibodies (eg, IgG, IgA) and complement on [[immunofluorescence|immunofluorescence]] microscopy.  This can be a complication of [[poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[systemic lupus erythematosus|systemic lupus erythematosus]], [[IgA nephropathy|IgA nephropathy]], or [[IgA vasculitis|Henoch-Schönlein purpura]].
+- Pauci-immune RPGN:  There are no immunoglobulin or [[Complement system|complement]] deposits on the basement membrane. Most patients have elevated serum titers of [[Antineutrophil cytoplasmic antibodies|ANCA]].  This condition is often associated with [[vasculitides|vasculitides]] (eg, [[granulomatosis with polyangiitis|granulomatosis with polyangiitis]], microscopic polyangiitis) but can also be idiopathic.
 
 ---
 # Treatment
