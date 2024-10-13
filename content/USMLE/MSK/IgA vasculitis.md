@@ -5,6 +5,7 @@ modified: 2023-10-10 16:37
 aliases:
   - Henoch-Schonlein purpura
   - HSP
+  - Henoch-Schönlein purpura
 share: true
 ---
 # Epidemiology
@@ -27,6 +28,9 @@ Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., i
 
 ---
 # Clinical features
+>[!tip] Key features
+><span style="background:rgba(240, 200, 0, 0.2)">Triad of palpable purpura, arthralgias, and abdominal pain in children.</span>
+
 ![[L41662.jpg|L41662.jpg]]
 An upper respiratory tract infection often precedes symptom onset by 1–3 weeks.
 - Skin (∼ 100% of cases)
