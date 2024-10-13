@@ -37,6 +37,9 @@ share: true
 	- ↑ Phosphorylation (hyperphosphorylation) of tau → formation of intracellular fibrils → neurotoxic effect (number of tangles correlates with the degree of cognitive impairment)
 - <span style="background:rgba(240, 200, 0, 0.2)">Reduced cholinergic function</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Acetylcholine deficiency</span> is related to the degeneration of cholinergic neurons and likely plays a role in the decline of cognitive abilities.
+	- This occurs due to a <span style="background:rgba(240, 200, 0, 0.2)">deficiency of choline acetyltransferase.</span>
+	- The decline in acetylcholine is most notable in the <span style="background:rgba(240, 200, 0, 0.2)">nucleus basalis of Meynert, which participates in memory and cognition.</span>  This nucleus is located at the base of the forebrain and widely projects to the neocortex.  
+	- Another involved structure is the <span style="background:rgba(240, 200, 0, 0.2)">hippocampus</span>:  The major function of the hippocampus is the formation of new memories.
 
 ---
 # Clinical features
