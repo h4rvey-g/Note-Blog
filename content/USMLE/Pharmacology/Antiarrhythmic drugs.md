@@ -5,6 +5,7 @@ modified: 2024-03-17 14:51
 aliases:
   - Class I Antiarrhythmics
   - Antiarrhythmics
+  - Adenosine
 share: true
 ---
 # Class I antiarrhythmics
@@ -28,5 +29,9 @@ Class IA is 1+2, Class IC is only 1 (strongly). However, Class IB is different f
 - Mechanism of action: activates Gi protein → inhibition of adenylate cyclase → ↓ cAMP → deactivation of L-type Ca<sup>2+</sup> channels and activation of K<sup>+</sup> channels → ↓ Ca<sup>2+</sup> and ↑ K<sup>+</sup> efflux → <span style="background:rgba(240, 200, 0, 0.2)">hyperpolarization → transient AV node block (short-acting, ∼ 15 seconds) → acute termination of [[supraventricular tachycardia|supraventricular tachycardia]]</span>
 - Indications
 	- Diagnosis and termination of certain forms of paroxysmal supraventricular tachycardias (e.g., [[Supraventricular tachycardia|AVNRT]] and orthodromic AVRT) 
-	- Diagnosis of underlying AFib in supraventricular tachyarrhythmias 
+	- Diagnosis of underlying [[Atrial fibrillation|AFib]] in supraventricular tachyarrhythmias 
+- Adverse effects 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chest pain, flushing, hypotension, bronchospasm</span>
+	- Sense of impending doom
+	- AV block, asystole
 
