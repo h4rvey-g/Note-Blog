@@ -10,7 +10,7 @@ share: true
 
 # Etiology
 ---
-The most common form of congenital LQTS (LQTS type 1) is caused by a <mark style="background: #FFF3A34A;">defect in the slow delayed rectifier voltage-gated potassium channel</mark>.
+The most common form of congenital LQTS (LQTS type 1) is caused by a <span style="background:rgba(240, 200, 0, 0.2)">defect in the slow delayed rectifier voltage-gated potassium channel</span>.
 ## Acquired LQTS
 <span style="background:rgba(240, 200, 0, 0.2)">A prolonged QT interval indicates delayed ventricular de- or repolarization, most commonly caused by drugs (mainly via inhibition of potassium efflux) or electrolyte imbalances.</span>
 - Drug-induced LQTS: Usually substances that block potassium outflow during the rapid repolarization phase 
