@@ -7,7 +7,7 @@ aliases:
 share: true
 ---
 # Epidemiology
-- Genetic predisposition and association with <span style="background:rgba(240, 200, 0, 0.2)">[[HLA system|HLA-B27]]</span> (see “Seronegative spondyloarthritis”)
+- Genetic predisposition and association with <span style="background:rgba(240, 200, 0, 0.2)">[[HLA system|HLA-B27]]</span> 
 - Commonly affects young men
 
 ---
