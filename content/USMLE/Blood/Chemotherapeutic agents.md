@@ -40,9 +40,19 @@ share: true
 # Antimetabolites (S phase)
 ![[Pasted image 20230909215738.png|Pasted image 20230909215738.png]]
 - See [[De novo pyrimidine and purine synthesis|De novo pyrimidine and purine synthesis]]
-- Azathioprine is the prodrug of 6-MP
-	- <span style="background:rgba(240, 200, 0, 0.2)">Azathioprine and 6-MP are purine analogs, so they are metabolized to inactivate forms by xanthine oxidase like purines</span>![[L23656.jpg|L23656.jpg]]![[L59300.jpg|L59300.jpg]]
-	- See [[Gout#Treatment|Gout > Treatment]], [[Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]]
+- Purine antagonists
+	- Azathioprine is the prodrug of 6-MP
+		- <span style="background:rgba(240, 200, 0, 0.2)">Azathioprine and 6-MP are purine analogs, so they are metabolized to inactivate forms by xanthine oxidase like purines</span>![[L23656.jpg|L23656.jpg]]![[L59300.jpg|L59300.jpg]]
+		- See [[Gout#Treatment|Gout > Treatment]], [[Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]]
+- Antifolates
+	- Methotrexate
+		- Adverse effects
+			- Myelosuppression, anemia
+			- <span style="background:rgba(240, 200, 0, 0.2)">Hepatotoxicity</span>, hepatic fibrosis
+			- Pulmonary fibrosis, pneumonitis
+			- Nephrotoxicity
+			- <span style="background:rgba(240, 200, 0, 0.2)">Mucositis (e.g., oral ulcerations)</span>
+			- Birth defects (due to folate deficiency), e.g., neural tube defects
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png|Pasted image 20230909221400.png]]
 >[!Mnemonic] 
