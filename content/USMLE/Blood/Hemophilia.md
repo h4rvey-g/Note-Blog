@@ -8,7 +8,7 @@ share: true
 ---
 
 # Etiology
-Hemophilia usually affects males, as it is primarily an <mark style="background: #FFF3A34A;">X-linked recessive</mark> disease.
+Hemophilia usually affects males, as it is primarily an <span style="background:rgba(240, 200, 0, 0.2)">X-linked recessive</span> disease.
 - Hemophilia A (factor VIII deficiency): ∼ 80% of cases
 - Hemophilia B (factor IX deficiency): ∼ 20% of cases
 - Hemophilia C (factor XI deficiency): very rare
