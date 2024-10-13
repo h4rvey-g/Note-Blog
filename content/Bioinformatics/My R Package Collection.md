@@ -13,6 +13,12 @@ share: true
 	- Very suitable for median or large projects
 # Analysis
 ---
+## Common
+1. genekitr: [🧬 Welcome to genekitr! | Genekitr: Gene Analysis Toolkit based on R](https://www.genekitr.fun/)
+	- More visualization for ORA and GSEA results
+	- Better gene ID conversion function
+		- Automatically identify input type
+		- Distinguish from symbol and alias
 ## RNA-seq (bulk)
 1. tidySummarizedExperiment: [Brings SummarizedExperiment to the Tidyverse • tidySummarizedExperiment (stemangiola.github.io)](https://stemangiola.github.io/tidySummarizedExperiment/)
 	- tidySummarizedExperiment provides a bridge between Bioconductor SummarizedExperiment and the tidyverse. It creates an invisible layer that <span style="background:rgba(240, 200, 0, 0.2)">enables viewing the Bioconductor SummarizedExperiment object as a tidyverse tibble, and provides SummarizedExperiment-compatible dplyr, tidyr, ggplot and plotly functions.</span> This allows users to get the best of both Bioconductor and tidyverse worlds.
@@ -31,5 +37,3 @@ share: true
 3. tidyheatmaps
 	- Use tidyverse way to create heatmaps
 	- Support all features of `pheatmap`
-4. genekitr
-	- Provide additional visualizations for gene enrichment analysis besides `enrichplot`
