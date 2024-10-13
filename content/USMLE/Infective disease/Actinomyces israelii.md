@@ -4,6 +4,7 @@ created: 2023-08-07 15:11
 modified: 2023-08-07 15:11
 aliases:
   - Actinomycosis
+  - Actinomyces
 share: true
 ---
 # Etiology
@@ -17,7 +18,7 @@ share: true
 	- Maxillofacial trauma
 	- Local tissue inflammation (e.g., tonsillitis, tumor)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Comorbidities (e.g., [[Diabetes mellitus|diabetes]])</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Abdominal and pelvic actinomycosis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Abdominal and pelvic actinomycosis</span> (See [[Pelvic inflammatory disease|PID]])
 	- Intestinal surgery 
 	- Foreign body ingestion
 	- Tumor
@@ -48,3 +49,7 @@ share: true
 The bacteria are surrounded by numerous granulocytes, resulting in a lesion with a rosette-like pattern (green overlay).
 >
 This is the typical histopathological appearance of a yellow “sulfur granule” caused by actinomycosis.
+
+# Treatment
+---
+<span style="background:rgba(240, 200, 0, 0.2)">Penicillin</span>
