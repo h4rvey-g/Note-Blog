@@ -26,7 +26,8 @@ share: true
 - Hot flashes
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of [[endometrial cancer|endometrial cancer]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of [[Uterine leiomyoma#Uterine leiomyosarcoma (uterine sarcoma)|Uterine leiomyoma > Uterine leiomyosarcoma (uterine sarcoma)]]</span>
-- ↑ Risk of thromboembolic events (e.g., [[pulmonary embolism|pulmonary embolism]], DVT)
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of thromboembolic events (e.g., [[pulmonary embolism|pulmonary embolism]], DVT)</span>
+	- Proposed mechanisms include increased levels of clotting factors (eg, prothrombin; fibrinogen; factor VII, VIII, X) and activated protein C resistance.
 # Raloxifene
 ---
 ## Mechanism of action
