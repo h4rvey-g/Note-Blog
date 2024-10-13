@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-03 11:14
 modified: 2023-12-03 11:14
-aliases: []
+aliases:
+  - Congenital hypothyroidism
 share: true
 ---
 # Epidemiology
@@ -13,7 +14,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Primary hypothyroidism: insufficient thyroid hormone production</span>
 	- [[Hashimoto thyroiditis|Hashimoto thyroiditis]]
 		- The most common cause of hypothyroidism in iodine-sufficient regions
-		- Associated with HLA-DR3 and other autoimmune diseases (e.g., vitiligo, pernicious anemia, type 1 [[diabetes mellitus|diabetes mellitus]], and [[systemic lupus erythematosus|systemic lupus erythematosus]])
+		- Associated with [[HLA system|HLA-DR3]] and other autoimmune diseases (e.g., [[vitiligo|vitiligo]], pernicious anemia, type 1 [[diabetes mellitus|diabetes mellitus]], and [[systemic lupus erythematosus|systemic lupus erythematosus]])
 	- Postpartum thyroiditis ([[Subacute thyroiditis|subacute lymphocytic thyroiditis]]) 
 	- [[Subacute thyroiditis|De Quervain thyroiditis]] ([[Subacute thyroiditis|subacute granulomatous thyroiditis]]): often subsequent to a flu-like illness
 	- Iatrogenic: e.g., post thyroidectomy, radioiodine therapy, <span style="background:rgba(240, 200, 0, 0.2)">antithyroid medication (e.g., amiodarone, lithium)</span>
@@ -35,7 +36,7 @@ share: true
 - Symptoms related to generalized myxedema
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hoarse voice, difficulty articulating words</span>
 - Symptoms of <span style="background:rgba(240, 200, 0, 0.2)">[[hyperprolactinemia|hyperprolactinemia]]</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Abnormal menstrual cycle (esp. secondary amenorrhea or menorrhagia)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abnormal menstrual cycle (esp. secondary [[amenorrhea|amenorrhea]] or menorrhagia)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Galactorrhea </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased libido</span>, erectile dysfunction, delayed ejaculation, and infertility in men
 
