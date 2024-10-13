@@ -29,9 +29,14 @@ share: true
 
 ---
 # Clinical features
+>[!Mnemonic] 
+>H<font color="#ffc000">A</font>V only has <font color="#ffc000">a</font>cute phase, H<font color="#ffc000">C</font>V mostly has <font color="#ffc000">c</font>hronic phase (and is <font color="#ffc000">c</font>urable)
+
 ## Incubation period
 - 2 weeks to 6 months
-## Chronic course
+## Acute course (< 6 months)
+- Asymptomatic in 80% of cases
+## Chronic course (> 6 months)
 - <span style="background:rgba(240, 200, 0, 0.2)">Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state).</span>
 - Findings often mild, nonspecific (e.g., fatigue)
 - Liver [[cirrhosis|cirrhosis]] (up to 25% of cases) within 20 years of infection
@@ -55,7 +60,18 @@ share: true
 
 ---
 # Diagnostics
-
+## Pathology
+- Acute Phase 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Focal areas of macrovesicular steatosis</span>
+	- Bile duct injury
+	- Sinusoidal inflammation of hepatic cells
+	- Lobular involvement in the form of eosinophilic single-cell necrosis
+- Chronic phase
+	- <span style="background:rgba(240, 200, 0, 0.2)">Lymphoid follicles in portal triad</span>
+	- Necroinflammation of periportal liver cells
+	- Variable degree of fibrosis
+	- Severe hepatocyte injury
+- Without treatment, the disease will ultimately progress to liver fibrosis, cirrhosis, and hepatocellular carcinoma.
 
 ---
 # Treatment

@@ -20,16 +20,16 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 #  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal|lead reversal]].
 # Multifocal atrial rhythm
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
-**Differentiate from <mark style="background: #FFF3A34A;">[[ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci .
+**Differentiate from <span style="background:rgba(240, 200, 0, 0.2)">[[ectopic atrial rhythm|ectopic atrial rhythm]]</span>.** In [[ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci .
 #  Early repolarization
 ![[Pasted image 20230617214946.png|Pasted image 20230617214946.png]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
 # Premature Atrial Complex (PAC)
-A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">premature beat arising from ectopic pacemaking tissue within the atria</mark>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
+A premature atrial complex (PAC) is a <span style="background:rgba(240, 200, 0, 0.2)">premature beat arising from ectopic pacemaking tissue within the atria</span>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
 ![[Pasted image 20230813210013.png|Pasted image 20230813210013.png]]
 >[!tip] 
 >- Abnormal (non-sinus) P wave usually followed by a normal QRS complex (< 120 ms)
->	- PACs arising close to the AV node (“low atrial” ectopics) cause <mark style="background: #FFF3A34A;">retrograde activation</mark> of the atria, producing an<mark style="background: #FFF3A34A;"> inverted P wave</mark> with a relatively short PR interval ≥ 120 ms (PR interval < 120 ms is classified as a PJC)
+>	- PACs arising close to the AV node (“low atrial” ectopics) cause <span style="background:rgba(240, 200, 0, 0.2)">retrograde activation</span> of the atria, producing an<span style="background:rgba(240, 200, 0, 0.2)"> inverted P wave</span> with a relatively short PR interval ≥ 120 ms (PR interval < 120 ms is classified as a PJC)
 >	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked” or “camel hump” appearance
 >- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
 >- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
@@ -67,9 +67,9 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 |       收缩↓        |     收缩↑（↓）     |
 
 - Mild [[hyperkalemia|hyperkalemia]]: 5.5–6.4 mEq/L 
-    - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
+    - <mark style="background: #FFF3A3A6;">Tall, peaked </span>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
 - Moderate [[hyperkalemia|hyperkalemia]]: 6.5–8.0 mEq/L 
-	- <mark style="background: #FFF3A3A6;">Lengthening of QRS interval</mark>
+	- <mark style="background: #FFF3A3A6;">Lengthening of QRS interval</span>
 		- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
 - Severe [[hyperkalemia|hyperkalemia]]: > 8.0 mEq/L 
@@ -113,7 +113,7 @@ mnemonic: William Marrow
 ![[Pasted image 20230622220505.png|Pasted image 20230622220505.png]]
 In left bundle branch block
 - The R wave in the lateral leads may be either “M-shaped”, notched, monophasic, or an RS complex![[Pasted image 20230803202721.png|Pasted image 20230803202721.png]]
-In right bundle branch block, the right precordial leads will show <mark style="background: #FFF3A34A;">ST-segment depression and T-wave inversion</mark>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
+In right bundle branch block, the right precordial leads will show <span style="background:rgba(240, 200, 0, 0.2)">ST-segment depression and T-wave inversion</span>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
 # [[Mitral valve stenosis|Mitral stenosis]]
 Characteristic findings include:
 - Left atrial enlargement/P mitrale (widened and biphasic P wave)
@@ -154,12 +154,12 @@ The pattern of <span style="background:rgba(240, 200, 0, 0.2)">persistent anteri
 ## P wave
 Time: < 0.12s = 3 small block
 Voltage: <0.25mV = 2.5 small block
-<mark style="background: #FFF3A34A;">The P wave in V1 is **often biphasic**.</mark> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
+<span style="background:rgba(240, 200, 0, 0.2)">The P wave in V1 is **often biphasic**.</span> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
 Thus, 
 - **P mitrale (widened and biphasic P wave): [[Mitral valve stenosis|Mitral stenosis]], causing left atrium hypertrophy**
 - **Peaked P wave: [[Pulmonary hypertension|Pulmonary hypertension]], causing right atrium hypertrophy**
 ![[Pasted image 20230620211202.png|Pasted image 20230620211202.png]]
-In [[Supraventricular tachycardia|AVNRT]], The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
+In [[Supraventricular tachycardia|AVNRT]], The <span style="background:rgba(240, 200, 0, 0.2)">retrograde P</span> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <span style="background:rgba(240, 200, 0, 0.2)">Retrograde P</span> wave (aka pseudo-R' wave) is seen in V1.
 ![[127701f042d46e7958a823fce6249be.jpg|127701f042d46e7958a823fce6249be.jpg]]
 
 ## ST segment
@@ -185,21 +185,21 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 	- May be a normal finding in:
 		- Leads III, aVR, or <span style="background:rgba(240, 200, 0, 0.2)">V1</span>
 		- Children
-	- <mark style="background: #FFF3A34A;">[[Coronary artery disease|Coronary artery disease]] (myocardial ischemia)</mark>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Coronary artery disease|Coronary artery disease]] (myocardial ischemia)</span>
 	- Bundle branch blocks
 	- [[Pulmonary embolism|Pulmonary embolism]]  
-	- <mark style="background: #FFF3A34A;">Perimyocarditis </mark>
-	- <mark style="background: #FFF3A34A;">Ventricular hypertrophy</mark>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Perimyocarditis </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Ventricular hypertrophy</span>
 	- [[Cardiac glycosides|Digoxin]]
 	- [[Intracranial hemorrhage|Intracranial hemorrhage]]  
 	- Persistent juvenile T-wave pattern
 	- Wellens syndrome
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
-- The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia|hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">[[Cardiac glycosides|digoxin]] therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
+- The two chief causes of a short QT are <span style="background:rgba(240, 200, 0, 0.2)">[[hypercalcemia|hypercalcemia]]</span> and <span style="background:rgba(240, 200, 0, 0.2)">[[Cardiac glycosides|digoxin]] therapy</span> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <span style="background:rgba(240, 200, 0, 0.2)">hereditary short QT</span> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
 	- [[Cardiac glycosides|Digoxin]]: The inhibition of the sodium/potassium atpase <span style="background:rgba(240, 200, 0, 0.2)">decreases the amount of intracellular potassium, which causes an increase in potassium influx during repolarization, shortening the qt interval</span>
 	- [[Cardiac glycosides|Digoxin]] increases parasympathetic tone, <span style="background:rgba(240, 200, 0, 0.2)">lengthening the pr interval</span>
-- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, [[antidepressants|antidepressants]], [[antipsychotics|antipsychotics]], phenothiazines, 1st-generation [[antihistamines|antihistamines]], some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia|Hypocalcemia]], [[hypokalemia|hypokalemia]], [[hypomagnesemia|hypomagnesemia]]</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
+- Prolonged QT: Congenital [[Long QT syndromes|Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, [[antidepressants|antidepressants]], [[antipsychotics|antipsychotics]], phenothiazines, 1st-generation [[antihistamines|antihistamines]], some antibiotics), Electrolyte disturbances (e.g., <span style="background:rgba(240, 200, 0, 0.2)">[[Hypocalcemia|Hypocalcemia]], [[hypokalemia|hypokalemia]], [[hypomagnesemia|hypomagnesemia]]</span>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), [[Arsenic toxicity|Arsenic poisoning]]
 ## Rates
 - [[Atrial flutter|Atrial flutter]]: 250-300/min -- about 1 small block
 - [[Atrial fibrillation|Atrial fibrillation]]: 350-400/min -- less than 1 small block

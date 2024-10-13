@@ -17,6 +17,17 @@ share: true
 	- [[Cervical cancer|Cervical cancer]] (responsible for 70% of cases) 
 	- High risk of anogenital, oral, and oropharyngeal squamous cell carcinoma
 - HPV types 1, 2, and 4: cause skin warts, such as <span style="background:rgba(240, 200, 0, 0.2)">common warts (verruca vulgaris) and plantar warts (myrmecias)</span>
+# Pathophysiology
+---
+- HPV expresses the following oncoproteins
+	- <span style="background:rgba(240, 200, 0, 0.2)">E6 → inhibition of p53 protein → inhibition of the intrinsic apoptotic pathway and inhibition of p21 protein</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">E7</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of [[retinoblastoma|retinoblastoma]] protein (pRb) → increased activity of E2F-family of transcription factors</span>
+		- Inhibits p21 and p27 (CDK inhibitors) → increased activity of cyclin-dependent kinase
+
+>[!Mnemonic] 
+>6 comes before 7 and P comes before R: E6 inhibits P53 and E7 inhibits pRb
+
 # Pathology
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">HPV infect [[Skin layers|stratum basale]], where epithelial cells are replicating</span>

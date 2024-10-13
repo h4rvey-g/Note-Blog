@@ -7,9 +7,25 @@ aliases:
 share: true
 ---
 # Etiology
-- The most common cause of nephritic syndrome is immune complex deposition, which leads to <span style="background:rgba(240, 200, 0, 0.2)">serum hypocomplementemia.</span>
 >[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">[[IgA nephropathy|IgA nephropathy]] is an exception, which is characterized by normal serum [[Complement system|complement]] levels</span>
+>- The most common cause of nephritic syndrome is immune complex deposition, which leads to <span style="background:rgba(240, 200, 0, 0.2)">serum hypocomplementemia.</span>
+>- <span style="background:rgba(240, 200, 0, 0.2)">[[IgA nephropathy|IgA nephropathy]] is an exception, which is characterized by normal serum [[Complement system|complement]] levels</span>
+
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Antineutrophil cytoplasmic antibodies|ANCA]]-associated glomerulonephritis (pauci-immune glomerulonephritis)</span>
+	- [[Granulomatosis with polyangiitis|Granulomatosis with polyangiitis]]
+	- Microscopic polyangiitis
+	- Eosinophilic granulomatosis with polyangiitis
+- <span style="background:rgba(240, 200, 0, 0.2)">Anti-glomerular basement membrane (GBM)</span> associated glomerulonephritis
+	- [[Goodpasture syndrome|Anti-GBM disease]] (Goodpasture disease)
+	- Anti-GBM glomerulonephritis (no lung involvement)
+- <span style="background:rgba(240, 200, 0, 0.2)">Immune complex-mediated glomerulonephritis</span>
+	- Low C3 levels
+		- [[Diffuse proliferative glomerulonephritis|Lupus nephritis]]
+		- Infection-related glomerulonephritis
+			- [[Poststreptococcal glomerulonephritis|Poststreptococcal glomerulonephritis]]
+	- Normal C3 levels
+		- [[IgA nephropathy|IgA nephropathy]]
+		- [[IgA vasculitis|IgA vasculitis]]
 
 ---
 # Classifications

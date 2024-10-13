@@ -62,12 +62,12 @@ share: true
 ---
 ECG features of pericarditis
 Not all patients go through all stages and manifestations may vary. In particular, pericarditis due to uremia may not involve characteristic ECG changes. 
-Stage 1: <mark style="background: #FFF3A3A6;">diffuse ST elevations, ST depression in aVR and V1, PR segment depression </mark>
+Stage 1: <mark style="background: #FFF3A3A6;">diffuse ST elevations, ST depression in aVR and V1, PR segment depression </span>
 Stage 2: ST segment normalizes in ∼ 1 week.
 Stage 3: inverted T waves
 Stage 4: ECG returns to normal baseline (as prior to onset of pericarditis) after weeks to months.
 
-<mark style="background: #BBFABBA6;">In contrast to myocardial infarction, pericarditis is characterized by a diffuse distribution of ST elevations on ECG.See also “Differential diagnoses of ST elevations on ECG.”</mark>
+<mark style="background: #BBFABBA6;">In contrast to myocardial infarction, pericarditis is characterized by a diffuse distribution of ST elevations on ECG.See also “Differential diagnoses of ST elevations on ECG.”</span>
 ![[Pasted image 20230618204845.png|Pasted image 20230618204845.png]]
 ![[Pasted image 20230618205433.png|Pasted image 20230618205433.png]]
 <center>

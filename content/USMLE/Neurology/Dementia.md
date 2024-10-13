@@ -31,3 +31,5 @@ share: true
 	- Behavioral changes
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rapid progression</span>
 	- Myoclonus &/or seizures
+
+![[sheet (2).png|sheet (2).png]]

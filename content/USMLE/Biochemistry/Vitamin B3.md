@@ -12,7 +12,7 @@ share: true
 # Function
 >[!Mnemonic] 
 >Active forms of <font color="#ffc000">N</font>iacin are <font color="#ffc000">N</font>AD+ and <font color="#ffc000">N</font>ADP+.
-- <span style="background:rgba(240, 200, 0, 0.2)">Cofactor for redox reactions</span> (e.g., alcohol <span style="background:rgba(240, 200, 0, 0.2)">dehydrogenase</span>, isocitrate <span style="background:rgba(240, 200, 0, 0.2)">dehydrogenase</span>, [[Glucose-6-phosphate dehydrogenase deficiency|G6PD]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Cofactor for redox reactions</span> (e.g., alcohol <span style="background:rgba(240, 200, 0, 0.2)">dehydrogenase</span>, isocitrate <span style="background:rgba(240, 200, 0, 0.2)">dehydrogenase</span>, [[Glucose-6-phosphate dehydrogenase deficiency|G6PD]])![[highresdefault_L26357.jpg|highresdefault_L26357.jpg]]
 # Therapeutic use
 - Dyslipidemia: Niacin lowers VLDL and increases HDL serum levels (See [[Lipid-lowering agents|Lipid-lowering agents]])
 

@@ -13,15 +13,27 @@ share: true
 ## Primary osteoporosis (most common)
 - Type I (postmenopausal osteoporosis): postmenopausal women 
 	- [[Androgen and estrogen synthesis|Estrogen]] stimulates [[Bone remodeling|osteoblasts]] and inhibits [[Bone remodeling|osteoclasts]].
-	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased estrogen levels following [[menopause|menopause]] lead to increased bone resorption.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased [[Androgen and estrogen synthesis|estrogen]] levels following [[menopause|menopause]] lead to increased bone resorption.</span>
 - Type II (senile osteoporosis): gradual loss of bone mass as patients age (especially > 70 years)
 ## Secondary osteoporosis
-- Most commonly due to systemic <span style="background:rgba(240, 200, 0, 0.2)">long-term therapy with corticosteroids</span> (e.g., in patients with autoimmune disease)
-- Endocrine/metabolic: [[Cushing syndrome|hypercortisolism]], hypogonadism, [[hyperthyroidism|hyperthyroidism]], [[hyperparathyroidism|hyperparathyroidism]], renal disease
+- Drug induced
+	- Most commonly due to systemic <span style="background:rgba(240, 200, 0, 0.2)">long-term therapy with corticosteroids</span> (e.g., in patients with autoimmune disease)
+
+| Medication                                                                                                                                    | Possible Mechanism         |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Anticonvulsant drugs\|Anticonvulsants]] that induce [[cytochrome P450|cytochrome P450]] (phenobarbital, phenytoin, [[Anticonvulsant drugs\|carbamazepine]]) | ↑ [[Vitamin D|Vitamin D]] catabolism |
+| [[Androgen and estrogen synthesis\|Aromatase inhibitors]]                                                                                     | ↓ Estrogen                 |
+| Medroxyprogesterone                                                                                                                           | ↓ Testosterone & estrogen  |
+| [[Hypothalamic and pituitary drugs\|GnRH agonists]] (long term)                                                                               | ↓ Testosterone & estrogen  |
+| [[Proton pump inhibitors|Proton pump inhibitors]]                                                                                                                    | ↓ Calcium absorption       |
+| Glucocorticoids, Unfractionated heparin                                                                                                       | ↓ Bone formation           |
+
+
+- Endocrine/metabolic: [[Cushing syndrome|hypercortisolism]], [[hypogonadism|hypogonadism]], [[hyperthyroidism|hyperthyroidism]], [[hyperparathyroidism|hyperparathyroidism]], renal disease
 ## Additional risk factors
 - Cigarette smoking
 - Immobilization or inadequate physical activity
-- [[Malabsorption|Malabsorption]] (e.g., [[celiac disease|celiac disease]]), malnutrition (e.g., diet low in calcium and vitamin D), anorexia 
+- [[Malabsorption|Malabsorption]] (e.g., [[celiac disease|celiac disease]]), malnutrition (e.g., diet low in calcium and [[vitamin D|vitamin D]]), anorexia 
 
 ---
 # Pathophysiology
@@ -44,7 +56,7 @@ share: true
 ## Nonbisphosphonates
 ### Denosumab
 - Mechanism of action
-	- Monoclonal antibody a<span style="background:rgba(240, 200, 0, 0.2)">gainst the receptor activator of nuclear factor-κB ligand (RANKL)</span>
+	- Monoclonal antibody <span style="background:rgba(240, 200, 0, 0.2)">against the receptor activator of nuclear factor-κB ligand (RANKL)</span>
 	- Targets RANKL by mimicking osteoprotegerin → interference in osteoclast maturation → <span style="background:rgba(240, 200, 0, 0.2)">↓ osteoclast activity</span>
 ### PTH and [[Parathyroid hormone-related protein|PTH-related protein]] analogues
 - Teriparatide, Abaloparatide

@@ -42,3 +42,15 @@ Sjogren syndrome is a chronic inflammatory autoimmune disease that most commonly
 # Treatment
 ---
 
+# Complications
+---
+- Development of associated conditions
+	- Autoimmune diseases, e.g., [[systemic lupus erythematosus|systemic lupus erythematosus]], [[rheumatoid arthritis|rheumatoid arthritis]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">B-cell lymphomas, e.g., [[MALT lymphoma|MALT lymphoma]]</span>
+		- Prevalence ∼ 5% 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Frequently manifests as unilateral, persistent parotid enlargement</span>
+		- Predictors of lymphoma include lymphadenopathy, palpable purpura, and cryoglobulinemia.
+	- [[Renal tubular disorders|Renal tubular acidosis]] type 1 
+- Corneal scarring, ulcer, rupture, and infection
+- Pregnancy: fetal loss, infant with neonatal lupus syndrome and associated complete heart block 
+

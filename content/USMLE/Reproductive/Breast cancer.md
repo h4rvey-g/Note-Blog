@@ -69,7 +69,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Nipple retraction</span>
 	- Ulceration that causes blood-tinged [[nipple discharge|nipple discharge]]
 - Diagnostics
-	- Punch/wedge or surface biopsy of nipple tissue: <span style="background:rgba(240, 200, 0, 0.2)">Paget cells</span> confirm disease.
+	- Punch/wedge or surface biopsy of nipple tissue: <span style="background:rgba(240, 200, 0, 0.2)">Paget cells</span> confirm disease.![[Pasted image 20241010083736.png|Pasted image 20241010083736.png]]
 ## Inflammatory breast cancer (IBC)
 - Definition: a rare form of advanced, aggressive invasive carcinoma <span style="background:rgba(240, 200, 0, 0.2)">characterized by dermal lymphatic invasion of tumor cells</span>
 - Clinical features![[Pasted image 20240416202309.png|Pasted image 20240416202309.png]]
@@ -77,7 +77,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Erythematous, warm, and edematous skin plaques with prominent hair follicles that resemble orange peel</span>
 		- Caused by <span style="background:rgba(240, 200, 0, 0.2)">obstruction of the lymphatic channels</span> due to tumor growth  
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tenderness</span>, burning sensation
-	- Blood-tinged nipple discharge
+	- Blood-tinged [[nipple discharge|nipple discharge]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Signs of metastatic disease (e.g., axillary lymphadenopathy)</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Usually no palpable mass</span>
 - Differential diagnosis

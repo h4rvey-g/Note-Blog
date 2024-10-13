@@ -36,7 +36,7 @@ share: true
 - Immediately manage life-threatening and severe symptoms.
 - <span style="background:rgba(240, 200, 0, 0.2)">Administer passive immunization, e.g., human tetanus immunoglobulin (HTIG), as soon as possible.</span>
 - Manage acute wounds, e.g., wound irrigation and debridement
-- Initiate antibiotics, preferably PO metronidazole.
+- <span style="background:rgba(240, 200, 0, 0.2)">Initiate antibiotics, preferably PO metronidazole.</span>
 - Begin active immunization with the tetanus vaccine once the patient is improving.
 - Prevention
 	- Prevention of neonatal tetanus is achieved primarily by <span style="background:rgba(240, 200, 0, 0.2)">vaccination of the mother during pregnancy</span> with an inactivated tetanus toxin (tetanus toxoid) as part of the tetanus-diptheria (Td) or tetanus-reduced diphteria-acellular pertussis (Tdap) vaccine.  An appropriately vaccinated woman provides transplacental IgG to the fetus, which decreases the incidence of neonatal tetanus by approximately 95%.

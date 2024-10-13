@@ -19,7 +19,7 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 - Physiologically, a membrane-bound glycosylphosphatidylinositol (GPI) anchor protects RBCs against [[Complement system|complement]]-mediated hemolysis.
 - Acquired mutation on the PIGA gene located on the X chromosome → GPI anchor loses its protective effect → RBC destruction by [[Complement system|complement]] and reticuloendothelial system → intravascular and [[Lab findings of hemolysis|extravascular hemolysis]]![[0c4abbceeb2a64bddf60c772faad8b4.jpg|0c4abbceeb2a64bddf60c772faad8b4.jpg]]
 - PNH can also occur in patients with aplastic [[anemia|anemia]] and [[Myelodysplastic syndromes|MDS]].
-- <span style="background:rgba(240, 200, 0, 0.2)">Autoimmunity to HSCs, causing bone marrow failure → pancytopenia</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Autoimmunity to HSCs, causing bone marrow failure → [[pancytopenia|pancytopenia]]</span>
 
 ---
 # Clinical features
@@ -33,11 +33,11 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 - <span style="background:rgba(240, 200, 0, 0.2)">Venous thrombosis in unusual locations (e.g., hepatic, cerebral, and/or abdominal veins)</span>
 	- Hemolysis generates free Hb, which scavenges serum nitric oxide (a vasodilator), causing vasoconstriction.
 	- Free Hb also promotes oxidative stress, which activates the endothelium of blood vessels, inducing platelet aggregation.
-- Increased risk of infections (in case of pancytopenia)
+- Increased risk of infections (in case of [[pancytopenia|pancytopenia]])
 
 ---
 # Diagnostics
-- CBC: anemia, thrombocytopenia, and/or pancytopenia ; usually ↑ reticulocytes
+- CBC: anemia, thrombocytopenia, and/or [[pancytopenia|pancytopenia]] ; usually ↑ reticulocytes
 - Hemolysis workup: ↓ haptoglobin
 - Direct Coombs test: negative  
 	- [[Complement system|complement]]-mediated RBC destruction

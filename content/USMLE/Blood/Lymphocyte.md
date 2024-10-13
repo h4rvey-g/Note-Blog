@@ -9,7 +9,7 @@ share: true
 Lymphocytosis: > 33%
 ## Etiology
 - Acute viral infections (e.g., [[rubella|rubella]], [[infectious mononucleosis|infectious mononucleosis]], [[mumps|mumps]])
-- Chronic infections (e.g., <mark style="background: #FFF3A34A;">[[tuberculosis|tuberculosis]]</mark>, syphilis, toxoplasmosis)
+- Chronic infections (e.g., <span style="background:rgba(240, 200, 0, 0.2)">[[tuberculosis|tuberculosis]]</span>, syphilis, toxoplasmosis)
 - Neoplasia (e.g., [[Hodgkin lymphoma|Hodgkin lymphoma]], [[Non-Hodgkin lymphomas|non-Hodgkin lymphoma]], CLL)
 >[!tip] 
 >The lymphocyte count may be increased or decreased in lymphoma.

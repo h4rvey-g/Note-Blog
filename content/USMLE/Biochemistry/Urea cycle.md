@@ -10,7 +10,27 @@ share: true
 # Rate limiting enzyme
 ![[Pasted image 20231108214012.png|Pasted image 20231108214012.png]]
 ![[Pasted image 20231108213814.png|Pasted image 20231108213814.png]]
+# Ornithine transcarbamylase deficiency
+---
 ![[Pasted image 20231108214221.png|Pasted image 20231108214221.png]]
+- Definition: inherited genetic disorder characterized by the <span style="background:rgba(240, 200, 0, 0.2)">inability to excrete ammonia</span>
+- Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common urea cycle defect</span>
+- Inheritance: X-linked recessive (in contrast to the rest of urea cycle enzyme deficiencies which are all autosomal recessive)
+- Pathophysiology
+	- <span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme ornithine transcarbamylase → impaired conversion of carbamoyl phosphate and ornithine to citrulline (and phosphate) → ammonia cannot be eliminated and accumulates</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Conversion of excess carbamoyl phosphate to orotic acid</span> occurs as part of the pyrimidine synthesis pathway
+- Clinical features
+	- Symptoms commonly manifest in the first days of life but can develop at any age.
+	- Nausea, vomiting, irritability, poor feeding
+	- Delayed growth and cognitive impairment
+	- In severe cases, metabolic encephalopathy with coma and death
+	- Does not cause megaloblastic anemia (as opposed to orotic aciduria)
+- Diagnostics
+	- [[Hyperammonemia|Hyperammonemia]] (usually > 100 μmol/L)
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Orotic acid in urine and blood</span>
+	- ↓ BUN
+	- ↑ Carbamoyl phosphate and ↓ citrulline in the serum
+	- Normal ketone and glucose levels
 # Transport of ammonia by alanine
 ![[Pasted image 20231222210338.png|Pasted image 20231222210338.png]]
 1. In the liver, alanine is transaminated by alanine aminotransferase to pyruvate with the amino group being transferred to α-ketoglutarate to form glutamate. <span style="background:rgba(240, 200, 0, 0.2)">Almost all aminotransferase enzymes use α-ketoglutarate as the amino group acceptor.</span>  

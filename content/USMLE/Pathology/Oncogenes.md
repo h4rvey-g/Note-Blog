@@ -17,7 +17,7 @@ share: true
 - MYC: [[Neuroblastoma|Neuroblastoma]] (NMYC), small cell [[lung cancer|lung cancer]] (LMYC), <span style="background:rgba(240, 200, 0, 0.2)">Burkitt lymphoma</span>
 - RET: Medullary [[thyroid cancer|thyroid cancer]], pheochromocytoma
 	- Mutations are associated with [[Multiple endocrine neoplasias|MEN2]]
-- KRAS: Colorectal, lung, pancreatic cancers
+- KRAS: Colorectal, lung, <span style="background:rgba(240, 200, 0, 0.2)">pancreatic cancers</span>
 	- RAS <span style="background:rgba(240, 200, 0, 0.2)">GTPase</span>
 	- EGFR leads to downstream activation of KRAS. 
 	- Tumors with KRAS-activating mutations are resistant to anti-EGFR agents as they have a constitutive activation of a downstream signal that is independent of EGFR stimulation or blockade.

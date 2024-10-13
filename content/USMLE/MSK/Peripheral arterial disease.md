@@ -5,6 +5,7 @@ modified: 2024-04-05 20:25
 aliases:
   - Peripheral vascular disease
   - PAD
+  - peripheral artery disease
 share: true
 ---
 # Epidemiology

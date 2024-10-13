@@ -12,15 +12,28 @@ share: true
 
 # Etiology
 ---
-
+## Acquired cataracts (> 99%)
+- Age-related cataract (> 90%)
+- As a result of ocular diseases (complicated cataract)
+	- Diabetes mellitus
+- Drug-induced
+	- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids (local and systemic)</span>
+		- Glucocorticoids increase oxidative stress within the lens by reducing antioxidant defenses like glutathione
+- Chronic alcohol and tobacco use 
+- Traumatic (traumatic cataract) 
+- Eye infections
+- Excessive sunlight or UVB exposure
 
 # Pathophysiology
 ---
-
+- Oxidative damage & opacification of the lens
 
 # Clinical features
 ---
-
+- Painless, progressive, bilateral vision loss
+- Difficulty with nighttime driving
+- Loss of red reflex
+- Opacified lens
 
 # Diagnostics
 ---

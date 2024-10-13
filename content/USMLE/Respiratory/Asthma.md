@@ -35,7 +35,7 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 	- IgE-mediated type 1 hypersensitivity to a specific allergen
 	- Characterized by mast cell degranulation and release of histamine after a prior phase of sensitization
 - Nonallergic asthma
-	- <mark style="background: #FFF3A34A;">Irritant asthma: irritant enters lung → ↑ release of neutrophils → submucosal edema → airway obstruction</mark>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Irritant asthma: irritant enters lung → ↑ release of neutrophils → submucosal edema → airway obstruction</span>
 	- Aspirin-induced asthma (NSAID-exacerbated respiratory disease) is characterized by the Samter triad:
 		- Inhibition of COX-1 → ↓ PGE2  → ↑ leukotrienes and inflammation → submucosal edema → airway obstruction
 		- Chronic rhinosinusitis with nasal polyposis

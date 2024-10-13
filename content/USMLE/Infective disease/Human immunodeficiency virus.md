@@ -23,7 +23,16 @@ share: true
 
 # Pathophysiology
 ---
-
+## Natural history of HIV infection
+1. HIV enters the body (e.g., via mucosal lesions or via infection of mucosal/cutaneous immune cells.), then attaches to the CD4 receptor on host cells with its gp120 glycoprotein (binding)
+	- Cells that have CD4 receptors: T lymphocytes (e.g., T helper cells), macrophages, monocytes, dendritic cells.
+2. Viral envelope fuses with host cell, capsid enters the cell.
+	- <span style="background:rgba(240, 200, 0, 0.2)">For fusion, CD4 receptor and a coreceptor (CCR5 in macrophages, and CCR5 or CXCR4 in T-cells) must be present.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Viral entry into macrophages via CCR5 mainly occurs during the early stages of infection, while entry via CXCR4 occurs in later stages.</span>
+	- Individuals without CCR5 receptors appear to be resistant to HIV, those patients either have a homozygous CCR5 mutation (substantial resistance) or a heterozygous CCR5 mutation (slower course).
+3. A virion's RNA is transcribed into dsDNA by viral reverse transcriptase and then integrated into the host's DNA by viral integrase.
+4. Viral DNA is replicated and virions are assembled
+5. Virion repurposes a portion of the cell's membrane as an envelope and leaves the cell (budding) → cell death
 
 # Clinical features
 ---

@@ -12,8 +12,8 @@ share: true
 - T-cell immunodeficiencies (more abnormalities)
 	- [[DiGeorge syndrome|DiGeorge syndrome]]
 	- Autosomal dominant [[hyper-IgE syndrome|hyper-IgE syndrome]] (Job syndrome)
-	- IL-12 receptor deficiency
-	- Chronic mucocutaneous candidiasis
+	- [[IL-12 receptor deficiency|IL-12 receptor deficiency]]
+	- Chronic mucocutaneous [[candidiasis|candidiasis]]
 	- IPEX syndrome
 - Combined immunodeficiencies
 	- [[Severe combined immunodeficiency|Severe combined immunodeficiency]]
@@ -38,10 +38,10 @@ share: true
 |                                      | - [[Granulomatous inflammation\|Granuloma]] formation                                                                  |
 | [[DiGeorge syndrome|DiGeorge syndrome]]                | - Congenital heart disease                                                             |
 |                                      | - Dysmorphic facies                                                                    |
-|                                      | - Hypocalcemia                                                                         |
+|                                      | - [[Hypocalcemia|Hypocalcemia]]                                                                         |
 | [[Severe combined immunodeficiency|Severe combined immunodeficiency]] | - Severe bacterial & viral infections in infancy                                       |
 |                                      | - Chronic diarrhea                                                                     |
-|                                      | - Mucocutaneous candidiasis                                                            |
+|                                      | - Mucocutaneous [[candidiasis|candidiasis]]                                                            |
 | Terminal complement deficiency       | - <span style="background:rgba(240, 200, 0, 0.2)">Recurrent Neisseria infection</span> |
 | [[Wiskott-Aldrich syndrome|Wiskott-Aldrich syndrome]]         | - Recurrent infections that worsen with age                                            |
 |                                      | - Easy bleeding                                                                        |

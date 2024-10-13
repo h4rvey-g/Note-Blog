@@ -73,6 +73,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 
 ---
 # Diagnostics
+![[Pasted image 20241009172413.png|Pasted image 20241009172413.png]]
 ## Endoscopy
 - Indication: all patients with suspected CD
 	- Assesses the distribution and severity of the disease
@@ -85,6 +86,11 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- Small aphthous ulcerations 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cobblestone sign: inflamed edematous sections interspersed with deep ulcerations that resemble cobblestones</span> ![[Pasted image 20231026112246.png|Pasted image 20231026112246.png]]
 	- Erythema, fissures, strictures, and fistulas
+## Imaging
+- <span style="background:rgba(240, 200, 0, 0.2)">Cross-sectional enterography (MRE, CTE): preferred imaging modality for CD</span>
+	- Edematous thickening of the intestinal wall 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Creeping fat: excessive mesenteric fat around the affected segments of bowel</span>
+		- Possibly in response to intestinal bacteria translocation
 ## Laboratory studies
 - To monitor disease activity
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fecal calprotectin and/or fecal lactoferrin</span>: proteins associated with neutrophil activation 

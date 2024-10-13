@@ -11,4 +11,5 @@ share: true
 ![[Pasted image 20231222112630.png|Pasted image 20231222112630.png]]
 
 >[!tip] 
->HSV has systemic symptoms, but this is uncommon in chancroid!
+>- HSV has systemic symptoms, but this is uncommon in chancroid!
+>- <span style="background:rgba(240, 200, 0, 0.2)">Lymphogranuloma venereum has painless genital ulcer, but has painful, fluctuant lymph nodes (buboes)</span>

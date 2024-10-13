@@ -48,3 +48,8 @@ PTH-mediated or non-PTH-mediated causes
 	- Due to acquired renal ADH resistance. Although ADH is being secreted, the kidneys no longer respond to it adequately (nephrogenic [[diabetes insipidus|diabetes insipidus]]).
 
 ![[Pasted image 20230622205511.png|Pasted image 20230622205511.png]]
+
+# Treatment
+---
+- Consider [[calcitonin|calcitonin]] for rapid-onset, short-term control of hypercalcemia. 
+- Bisphosphonates for slow-onset, long-term control of hypercalcemia

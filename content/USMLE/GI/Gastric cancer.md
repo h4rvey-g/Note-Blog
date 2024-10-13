@@ -11,7 +11,17 @@ share: true
 
 # Etiology
 ---
-
+## Exogenous risk factors
+- <span style="background:rgba(240, 200, 0, 0.2)">Diet rich in [[nitrates|nitrates]] and/or salts (e.g., dried foods, foods preserved by curing or smoking) and low in fresh vegetables containing antioxidants</span>
+	- Bacteria are believed to convert ingested [[nitrates|nitrates]] into carcinogenic nitrites.
+- <span style="background:rgba(240, 200, 0, 0.2)">H. pylori infection</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Nicotine use</span> 
+- Epstein-Barr virus 
+## Endogenous risk factors
+- Gastric conditions
+	- Chronic [[atrophic gastritis|atrophic gastritis]] and associated pernicious anemia
+	- Achlorhydria (e.g., due to [[Ménétrier disease|Ménétrier disease]])
+	- Gastric ulcers
 
 # Pathophysiology
 ---

@@ -15,13 +15,15 @@ share: true
 
 ---
 # Pathophysiology
-Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated formation of <mark style="background: #FFF3A34A;">noncaseating granulomas</mark>.
+Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated formation of <span style="background:rgba(240, 200, 0, 0.2)">noncaseating granulomas</span>.
 - General
 	- <span style="background:rgba(240, 200, 0, 0.2)">Inhalation of foreign antigen</span> → monocyte differentiation → <span style="background:rgba(240, 200, 0, 0.2)">activation of interstitial dendritic cells and alveolar macrophages</span>
 	- Interstitial dendritic cells migrate towards mediastinal lymph nodes and alveolar macrophages differentiate, serving as antigen-presenting cells to circulating T helper (Th) cells → <span style="background:rgba(240, 200, 0, 0.2)">differentiation and clonal expansion of T cells</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">T cell recruitment and ↑ B-cell activity → local immune hyperactivity and inflammation → formation of noncaseating granulomas in the lungs and the lymphatic system</span>
-- [[Granulomatous inflammation|Granuloma]] formation
-	- A nodular collection of macrophages that forms as a result of inflammation without central necrosis. Associated with sarcoidosis, berylliosis, and [[Crohn disease|Crohn disease]].
+- [[Granulomatous inflammation|Granuloma]] formation: Mature granulomas are composed of epithelioid cells and macrophages surrounded by lymphocytes and fibroblasts.
+	- Macrophages activate Th1 cells. 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Th1 cells stimulate the formation of epithelioid cells and multinucleated giant cells by releasing IFN-γ.</span>![[Pasted image 20240222102853.png|Pasted image 20240222102853.png]]
+	- Epithelioid cells produce angiotensin-converting enzyme (ACE) and release cytokines that recruit more immune cells.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)</span>![[Pasted image 20230807213802.png|Pasted image 20230807213802.png]]
 
 >[!tip] 

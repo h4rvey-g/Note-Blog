@@ -8,7 +8,7 @@ aliases:
 share: true
 ---
 # Epidemiology
-- Most common and severe manifestation of <mark style="background: #FFF3A34A;">lupus nephritis in [[systemic lupus erythematosus|systemic lupus erythematosus]] (SLE)</mark>
+- Most common and severe manifestation of <span style="background:rgba(240, 200, 0, 0.2)">lupus nephritis in [[systemic lupus erythematosus|systemic lupus erythematosus]] (SLE)</span>
 - Also seen with [[IgA nephropathy|IgA nephropathy]] and with other inflammatory, autoimmune, or infectious diseases
 
 ---
@@ -25,7 +25,7 @@ share: true
 - ↓ Serum C3 [[Complement system|complement]] levels
 - ANA, anti-dsDNA antibodies
 - LM
-	- <mark style="background: #FFF3A34A;">Thickening of glomerular capillaries (appear as wire loops) </mark>![[Pasted image 20230822213646.png|Pasted image 20230822213646.png]]![[Pasted image 20231210144927.png|Pasted image 20231210144927.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Thickening of glomerular capillaries (appear as wire loops) </span>![[Pasted image 20230822213646.png|Pasted image 20230822213646.png]]![[Pasted image 20231210144927.png|Pasted image 20231210144927.png]]
 	- Characterized by <span style="background:rgba(240, 200, 0, 0.2)">increased glomerular cellularity in more than half of the glomeruli</span>
 - EM
 	- An immunofluorescence pattern containing <span style="background:rgba(240, 200, 0, 0.2)">IgG, IgM, IgA and C3, C1q</span> is highly characteristic of lupus nephritis and is referred to as a <span style="background:rgba(240, 200, 0, 0.2)">full-house</span> (三带一对, ie, a poker hand with three of a kind 3 immunoglobulin classes and two of a kind 2 complement components).![[Pasted image 20240529112801.png|Pasted image 20240529112801.png]]

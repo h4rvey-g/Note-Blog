@@ -19,12 +19,12 @@ share: true
 - Location: Peripheral
 - Characteristics
 	- Most common type of primary lung cancer
-	- More common in women and <mark style="background: #FFF3A34A;">nonsmokers</mark>
+	- More common in women and <span style="background:rgba(240, 200, 0, 0.2)">nonsmokers</span>
 	- Associated with mutations in:
 		- EGFR gene
 		- ALK gene
 		- KRAS gene
-	- <mark style="background: #FFF3A34A;">Common finding: hypertrophic osteoarthropathy (digital clubbing)</mark>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Common finding: hypertrophic osteoarthropathy ([[Nail clubbing|digital clubbing]])</span>
 	- Most common type of lung cancer that originates in pulmonary scars 
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 
@@ -47,7 +47,7 @@ share: true
 ### Small cell lung cancer (SCLC)
 - Location: Peripheral
 - Characteristics
-	- Strong association with <mark style="background: #FFF3A34A;">smoking</mark>
+	- Strong association with <span style="background:rgba(240, 200, 0, 0.2)">smoking</span>
 ### Bronchial [[carcinoid tumor|carcinoid tumor]]
 - Location: Central or peripheral
 	- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells

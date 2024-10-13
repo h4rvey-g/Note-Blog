@@ -29,7 +29,7 @@ share: true
 ![[Pasted image 20230624132724.png|Pasted image 20230624132724.png]]![[Pasted image 20230624133437.png|Pasted image 20230624133437.png]]
 # Pathology
 Common abnormalities of the JVP waveform include:  
-- Constrictive pericarditis: elevated JVP (due to increased external atrial pressure) with a <mark style="background: #FFF3A34A;">prominent x (exaggerated atrial relaxation) and y (early rapid ventricular filling) descent</mark>  
+- Constrictive pericarditis: elevated JVP (due to increased external atrial pressure) with a <span style="background:rgba(240, 200, 0, 0.2)">prominent x (exaggerated atrial relaxation) and y (early rapid ventricular filling) descent</span>  
 - Cardiac tamponade: elevated JVP (due to increased external atrial pressure), a prominent x descent (exaggerated atrial relaxation), and a blunt or absent y descent (minimal ventricular filling)  
 - Tricuspid regurgitation: prominent v wave as the blood from the right ventricle regurgitates into the right atrium during ventricular systole (atrial diastole), increasing interatrial pressure and volume  
 - Tricuspid stenosis: giant a wave due to high right atrial systolic pressure  

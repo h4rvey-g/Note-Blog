@@ -39,9 +39,9 @@ share: true
 	- Fluvoxamine
 - Indications
 	- [[Major depressive disorder|Major depressive disorder]] (first-line therapy)
-	- Generalized anxiety disorder (GAD)
-	- [[Obsessive-compulsive disorder|Obsessive-compulsive disorder]] ([[Obsessive-compulsive disorder|OCD]])
-	- Post-traumatic stress disorder ([[Trauma- and stressor-related disorders|PTSD]])
+	- [[Anxiety disorders|Generalized anxiety disorder]]
+	- [[Obsessive-compulsive disorder|Obsessive-compulsive disorder]]
+	- [[Trauma- and stressor-related disorders|PTSD]]
 	- Panic disorder
 	- Premature ejaculation
 	- Premenstrual dysphoric disorder
@@ -52,19 +52,19 @@ share: true
 	- Early side effects (onset and resolution typically within 1 week of therapy start)
 		- Headache
 		- [[Diarrhea|Diarrhea]], nausea, vomiting 
-		- Activating effects (e.g., agitation, anxiety, insomnia) 
+		- Activating effects (e.g., agitation, anxiety, [[Insomnia disorder|insomnia]]) 
 	- Late side effects 
-		- <span style="background:rgba(240, 200, 0, 0.2)">Sexual dysfunction (e.g., anorgasmia, ↓ libido, erectile or ejaculatory dysfunction)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Sexual dysfunction|Sexual dysfunction]] (e.g., anorgasmia, ↓ libido, erectile or ejaculatory dysfunction)</span>
 		- [[Syndrome of inappropriate antidiuretic hormone secretion|SIADH]]
 		- [[Serotonin syndrome|Serotonin syndrome]]
 			- Can be caused by any drug that increases serotonin levels
-			- [[Serotonin syndrome|Serotonin syndrome]] caused by SSRIs alone typically manifests with mild symptoms (e.g., nausea, mild tremor).
+			- [[Serotonin syndrome|Serotonin syndrome]] caused by SSRIs alone typically manifests with mild symptoms (e.g., nausea, mild [[tremor|tremor]]).
 			- Increased risk of occurrence and greater severity of symptoms when coadministered with another serotonergic agent (e.g., MAOIs)
 			- Differential diagnosis: poisoning or overdose from concomitant use of substances (e.g., ethanol, salicylates) that may cause similar symptoms to [[serotonin syndrome|serotonin syndrome]] (e.g., altered mental status)
 		- Motor disorders (e.g., tremors, bruxism)
 ## Sertraline
 - Ser for serotonin
-- Sertraline has more GI side effects but is safe when pregnant or breastfeeding.
+- Sertraline has more GI side effects but is safe when pregnant or [[Infant nutrition and breastfeeding|breastfeeding]].
 >[!Mnemonic] 
 >Think <font color="#ffc000">squirt</font> raline to remember <font color="#ffc000">diarrhea and breast milk</font>.
 ## Citalopram
@@ -79,12 +79,12 @@ share: true
 	- Levomilnacipran
 	- Milnacipran
 - Indications
-	- Major depressive disorder (second-line therapy)
-	- Generalized anxiety disorder
-	- Neuropathic pain (e.g. diabetic neuropathy)
-	- Duloxetine and milnacipran specifically: fibromyalgia
-	- Stress incontinence in women: duloxetine 
-	- Venlafaxine specifically: social anxiety disorder, OCD, panic disorder, and PTSD
+	- [[Major depressive disorder|Major depressive disorder]] (second-line therapy)
+	- [[Anxiety disorders|Generalized anxiety disorder]]
+	- Neuropathic pain (e.g. [[diabetic neuropathy|diabetic neuropathy]])
+	- Duloxetine and milnacipran specifically: [[fibromyalgia|fibromyalgia]]
+	- [[Stress incontinence|Stress incontinence]] in women: duloxetine 
+	- Venlafaxine specifically: social anxiety disorder, [[Obsessive-compulsive disorder|OCD]], panic disorder, and [[Trauma- and stressor-related disorders|PTSD]]
 - Side effects
 	- Similar profile to SSRIs
 # Serotonin antagonist and reuptake inhibitors (SARIs)
@@ -96,15 +96,15 @@ share: true
 - Drugs
 	- Trazodone
 - Indications
-	- Insomnia
-	- Major depressive disorder (high doses required)
+	- [[Insomnia disorder|Insomnia]]
+	- [[Major depressive disorder|Major depressive disorder]] (high doses required)
 - Side effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Priapism</span>
 		- Blocking alpha-1 adrenergic receptors
 	- Sedation (due to H1 antagonism)
 	- Orthostatic hypotension
 	- Nausea
-- Drug interactions: risk of serotonin syndrome if used concomitantly with other serotonergic drugs
+- Drug interactions: risk of [[serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
 - Additional information
 	- Mainly used as an adjunct to other antidepressants for treating insomnia associated with depression 
 	- Two-week washout period before starting other serotonergic drugs
@@ -118,7 +118,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Selective α2-adrenergic antagonist → ↑ [[Neurotransmitters|serotonin]] and norepinephrine release</span>
 	- 5-HT2 and 5-HT3 receptor antagonists → ↑ effect of serotonin on free 5-HT1 receptor is the likely cause of antidepressant action
 	- H1 antagonist
-- Indications: [[major depressive disorder|major depressive disorder]], especially in patients who are underweight and/or who have insomnia
+- Indications: [[major depressive disorder|major depressive disorder]], especially in patients who are underweight and/or who have [[Insomnia disorder|insomnia]]
 - Side effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Appetite and weight gain</span>: can also be a desired effect
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sedation (due to H1 antagonism)</span>: can also be a desired effect
@@ -138,12 +138,12 @@ share: true
 	- Tachycardia, palpitations
 	- Weight loss
 	- Neuropsychiatric symptoms: insomnia, agitation, headache
-	- <span style="background:rgba(240, 200, 0, 0.2)">Reduction of seizure threshold: Bupropion should be avoided in patients at increased risk for seizure (e.g., history of epilepsy, anorexia/bulimia, alcohol or benzodiazepine withdrawal).</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Reduction of seizure threshold: Bupropion should be avoided in patients at increased risk for seizure (e.g., history of epilepsy, anorexia/bulimia, alcohol or [[Sedative-hypnotic drugs|benzodiazepine]] withdrawal).</span>
 	- Does not cause sexual side effects
 	- Dry mouth
 - Drug interactions: risk of [[serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
 >[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">Buproprion is not associated with sexual dysfunction or weight gain.</span> It is contraindicated in patients with seizure and eating disorders.
+><span style="background:rgba(240, 200, 0, 0.2)">Buproprion is not associated with [[sexual dysfunction|sexual dysfunction]] or weight gain.</span> It is contraindicated in patients with seizure and eating disorders.
 >- Because it does not affect serotonin.
 
 >[!Mnemonic] 
@@ -169,7 +169,7 @@ share: true
 	- [[Parkinson disease|Parkinson disease]]: selegiline (as an adjunct to carbidopa-levodopa)
 - Side effects
 	- CNS stimulation
-	- Sexual dysfunction, can cause priapism
+	- [[Sexual dysfunction|Sexual dysfunction]], can cause priapism
 	- Orthostatic hypotension
 	- Weight gain
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypertensive crises|Hypertensive crisis]] with ingestion of foods containing tyramine</span>
@@ -208,7 +208,7 @@ share: true
 	- Orthostatic hypotension 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiotoxicity</span> due to Na<sup>+</sup> channel inhibition in the myocardium: changes in cardiac conductivity velocity, arrhythmias, <span style="background:rgba(240, 200, 0, 0.2)">prolonged QT interval (predisposes to [[torsades de pointes|torsades de pointes]]), wide QRS complex</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Treatment is sodium bicarbonate</span>
-	- Tremor
+	- [[Tremor|Tremor]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticholinergic symptoms due to blockage of muscarinic cholinergic receptors (more common with tertiary amines)</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">TCAs have structural similarities to acetylcholine, enabling them to bind to and block muscarinic receptors.</span>
 		- Cardiovascular: tachycardia, arrhythmia (including ventricular fibrillation), hypotension

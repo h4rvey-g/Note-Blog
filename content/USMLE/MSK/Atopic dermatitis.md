@@ -36,11 +36,11 @@ The pathogenesis of atopic dermatitis involves immune dysregulation and genetica
 		- as a result of eyelid dermatitis![[Pasted image 20230729153839.png|Pasted image 20230729153839.png]]
 	- Occasionally, lesions appear on the trunk. 
 - Childhood AD (age 2–12 years)
-	- Eczema: <mark style="background: #FFF3A34A;">flexural creases</mark> (antecubital fossa and popliteal fossa), skin folds, extensor surface of hands 
+	- Eczema: <span style="background:rgba(240, 200, 0, 0.2)">flexural creases</span> (antecubital fossa and popliteal fossa), skin folds, extensor surface of hands 
 	- Lesions usually become lichenified (thickening of the skin with accentuated skin markings).
 	- ![[Pasted image 20230729155030.png|Pasted image 20230729155030.png]]
 - Adult/adolescent AD (age > 12 years)
-	- Lichenified lesions and pruritus of <mark style="background: #FFF3A34A;">flexor surfaces</mark> of the extremities 
+	- Lichenified lesions and pruritus of <span style="background:rgba(240, 200, 0, 0.2)">flexor surfaces</span> of the extremities 
 	- Antecubital fossae are frequently involved. 
 	- Adult AD may also present as nummular eczema.
 - Associated skin findings in AD

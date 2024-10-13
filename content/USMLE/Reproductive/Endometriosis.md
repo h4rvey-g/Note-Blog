@@ -49,6 +49,11 @@ share: true
 
 ---
 # Diagnostics
+---
+## Pathology
+- Normal endometrial glands
+- Normal endometrial stroma
+- <span style="background:rgba(240, 200, 0, 0.2)">Preponderance of hemosiderin laden macrophages due to cyclic hemorrhages into endometriomas</span>![[L63809.jpg|L63809.jpg]]
 
 # Differential diagnosis
 ## Adenomyosis
@@ -86,7 +91,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Empiric treatment with [[Non-opioid analgesics|NSAIDs]] and continuous hormonal [[Contraception|contraceptives]]</span> 
 	- [[Non-opioid analgesics|NSAIDs]] alone if pregnancy is desired 
 	- Synthetic androgens (e.g., danazol) 
-- Severe symptoms: <span style="background:rgba(240, 200, 0, 0.2)">[[Hypothalamic and pituitary drugs|GnRH agonists]]</span> (e.g., buserelin, goserelin) and estrogen-progestin OCPs 
-	- OCPs are to avoid hypoestrogenic side effects
+- Severe symptoms: <span style="background:rgba(240, 200, 0, 0.2)">[[Hypothalamic and pituitary drugs|GnRH agonists]]</span> (e.g., buserelin, goserelin) and estrogen-progestin [[Contraception|OCPs]] 
+	- [[Contraception|OCPs]] are to avoid hypoestrogenic side effects
 
 ---

@@ -19,6 +19,10 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - Classically affects the entire motor neuron system at two or more levels (both upper and lower motor neuron degeneration).
 	- Upper motor neurons in the precentral gyrus and, frequently, prefrontal cortex
 	- Lower motor neurons in the anterior horn of the spinal cord and brainstem
+- Pathology
+	- <span style="background:rgba(240, 200, 0, 0.2)">UMN: degeneration & atrophy of lateral corticospinal tracts, precentral gyrus</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">LMN: degeneration of anterior horn (thin anterior roots) & cranial nerve motor nuclei</span>
+	- Muscle: denervation atrophy (angular fibers with crowded nuclei)
 
 ---
 # Clinical features

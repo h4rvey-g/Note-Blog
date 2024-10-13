@@ -19,21 +19,21 @@ Typical pneumonia is characterized by a sudden onset of symptoms caused by lobar
 	- Dullness on percussion 
 - Tachypnea and dyspnea (nasal flaring, thoracic retractions) 
 
-<mark style="background: #BBFABBA6;">Suspect bacterial pneumonia in immunocompromised patients with acute high fever and [[pleural effusion|pleural effusion]].</mark>
+<mark style="background: #BBFABBA6;">Suspect bacterial pneumonia in immunocompromised patients with acute high fever and [[pleural effusion|pleural effusion]].</span>
 ## Atypical pneumonia
-Atypical pneumonia typically has an indolent course (slow onset) and commonly manifests with <mark style="background: #FFF3A34A;">extrapulmonary symptoms</mark>.
-- <mark style="background: #FFF3A34A;">Nonproductive, dry cough</mark>
+Atypical pneumonia typically has an indolent course (slow onset) and commonly manifests with <span style="background:rgba(240, 200, 0, 0.2)">extrapulmonary symptoms</span>.
+- <span style="background:rgba(240, 200, 0, 0.2)">Nonproductive, dry cough</span>
 - Dyspnea
-- <mark style="background: #FFF3A34A;">Auscultation often unremarkable</mark>
+- <span style="background:rgba(240, 200, 0, 0.2)">Auscultation often unremarkable</span>
 - Common extrapulmonary features include fatigue, headaches, sore throat, myalgias, and malaise.
 
-<mark style="background: #BBFABBA6;">This classification does not have a major impact on patient management because it is not always possible to clearly distinguish between typical and atypical pneumonia.</mark>
+<mark style="background: #BBFABBA6;">This classification does not have a major impact on patient management because it is not always possible to clearly distinguish between typical and atypical pneumonia.</span>
 # Pathogen-specific pneumonia
 ## Mycoplasma pneumonia
 ### Microbiology
 - Incomplete/absent cell wall (not visible on gram stain) 
 - Bacterial membrane stabilized by cholesterol (obtained from host cell)
-- <mark style="background: #FFF3A34A;">Grows on [[Eaton agar|Eaton agar]] → “fried egg” appearance</mark>![[Pasted image 20230806165400.png|Pasted image 20230806165400.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Grows on [[Eaton agar|Eaton agar]] → “fried egg” appearance</span>![[Pasted image 20230806165400.png|Pasted image 20230806165400.png]]
 ### Epidemiology
 - One of the most common causes of atypical pneumonia
 - More common in school-aged children and adolescents

@@ -2,11 +2,13 @@
 author: Harvey Guo
 created: 2023-08-23 14:55
 modified: 2023-08-23 14:55
-aliases: Untitled
+aliases: []
 share: true
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloid: insoluble protein or protein fragments</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloidosis: extracellular aggregation and subsequent deposition of amyloid in various organs</span>
+
+![[Pasted image 20241011160527.png|Pasted image 20241011160527.png]]
 ![[Pasted image 20231210144343.png|Pasted image 20231210144343.png]]
 # AL amyloidosis (primary amyloidosis)
 Most common form of amyloidosis

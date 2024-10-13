@@ -22,7 +22,7 @@ share: true
 - Panic disorder
 	- Recurrent, unexpected panic attacks
 	- <span style="background:rgba(240, 200, 0, 0.2)">Abrupt onset</span> of characteristic physical symptoms that resolve within minutes and <span style="background:rgba(240, 200, 0, 0.2)">a negative medical workup</span> should raise suspicion for panic disorder.
-	- Both panic disorder and somatic symptom disorder feature multiple physical symptoms and high health care use.  In somatic symptom disorder, patients experience physical symptoms <span style="background:rgba(240, 200, 0, 0.2)">persistently</span> (eg, daily, unrelenting fatigue) whereas in panic disorder, physical symptoms are <span style="background:rgba(240, 200, 0, 0.2)">unexpected, episodic, and of short duration</span>, typically lasting <10 minutes.
+	- Both panic disorder and [[Somatic symptom and related disorders|somatic symptom disorder]] feature multiple physical symptoms and high health care use.  In [[Somatic symptom and related disorders|somatic symptom disorder]], patients experience physical symptoms <span style="background:rgba(240, 200, 0, 0.2)">persistently</span> (eg, daily, unrelenting fatigue) whereas in panic disorder, physical symptoms are <span style="background:rgba(240, 200, 0, 0.2)">unexpected, episodic, and of short duration</span>, typically lasting <10 minutes.
 - Specific phobia
 	- Excessive anxiety about a specific object or situation (phobic stimulus)
 - Generalized anxiety disorder

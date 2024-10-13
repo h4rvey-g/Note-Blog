@@ -10,7 +10,9 @@ share: true
 - Usually caused by an ascending bacterial infection of the bladder (cystitis)
 - Pathogens
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gram-negative rods</span> bacteria (Thus <span style="background:rgba(240, 200, 0, 0.2)">use fluoroquinolones</span>)
-		- Escherichia coli (∼ 75–90% of cases; leading cause of pyelonephritis)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Escherichia coli (∼ 75–90% of cases; leading cause of pyelonephritis)</span>
+			- UPEC (uropathogenic E. coli)
+			- Virulence factor: <span style="background:rgba(240, 200, 0, 0.2)">P fimbria (pyelonephritis‑associated pili): specifically bind to the urogenital epithelium</span> → cystitis, pyelonephritis
 		- Pseudomonas aeruginosa
 		- Klebsiella pneumoniae
   - Risk factors

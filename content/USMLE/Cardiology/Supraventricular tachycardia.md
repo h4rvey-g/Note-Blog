@@ -22,7 +22,7 @@ share: true
 >[!warning] 
 >Signs of unstable tachycardia due to SVT include acute pulmonary edema, <font color="#ffc000">hypotension</font>, severe chest pain, and altered mental status.
 # Wolff-Parkinson-White (WPW) syndrome
-WPW syndrome is a specific form of pre-excitation syndrome characterized by a <mark style="background: #FFF3A34A;">congenital</mark> accessory pathway and tachyarrhythmias, while pre-excitation syndrome is a broader term that encompasses various syndromes involving early ventricular activation.
+WPW syndrome is a specific form of pre-excitation syndrome characterized by a <span style="background:rgba(240, 200, 0, 0.2)">congenital</span> accessory pathway and tachyarrhythmias, while pre-excitation syndrome is a broader term that encompasses various syndromes involving early ventricular activation.
 ## ECG
 - PR interval < 120ms
 - Delta wave: slurring slow rise of initial portion of the QRS
