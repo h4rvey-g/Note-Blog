@@ -17,7 +17,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Gastric MALTomas: multiple studies show an association with H. pylori infection. </span>
 	- The prevalence of H. pylori infection in low-grade gastric MALTomas is up to 90%.
 - Nongastric MALTomas: frequent association with autoimmune conditions
-	- Salivary gland MALTomas: see [[Sjogren syndrome|Sjogren syndrome]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Salivary gland MALTomas: see [[Sjogren syndrome|Sjogren syndrome]]</span>
 
 # Pathophysiology
 ---
@@ -31,7 +31,7 @@ The most common trigger for gastric MALT lymphoma is Helicobacter pylori infecti
 	- <span style="background:rgba(240, 200, 0, 0.2)">Melena, hematemesis</span>, potentially [[anemia|anemia]]
 	- Fatigue, <span style="background:rgba(240, 200, 0, 0.2)">weight loss</span>
 - Non-gastric MALTomas
-	- Salivary MALToma: parotid enlargement
+	- <span style="background:rgba(240, 200, 0, 0.2)">Salivary MALToma: parotid enlargement</span>
 
 # Diagnostics
 ---
