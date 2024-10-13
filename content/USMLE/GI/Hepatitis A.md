@@ -20,7 +20,8 @@ share: true
 ---
 # Clinical features
 >[!tip] 
->Unlike [[hepatitis B|hepatitis B]] or C, HAV infection is a self-limiting disease that is <span style="background:rgba(240, 200, 0, 0.2)">not associated with an asymptomatic viral carrier state and does not progress to chronic hepatitis, [[cirrhosis|cirrhosis]], or [[hepatocellular carcinoma|hepatocellular carcinoma]].</span>
+>- Unlike [[hepatitis B|hepatitis B]] or C, HAV infection is a self-limiting disease that is <span style="background:rgba(240, 200, 0, 0.2)">not associated with an asymptomatic viral carrier state and does not progress to chronic hepatitis, [[cirrhosis|cirrhosis]], or [[hepatocellular carcinoma|hepatocellular carcinoma]].</span>
+>- H<font color="#ffc000">A</font>V only has <font color="#ffc000">a</font>cute phase, H<font color="#ffc000">C</font>V only has <font color="#ffc000">c</font>hronic phase
 
 <span style="background:rgba(240, 200, 0, 0.2)">In children age &lt; 6, HAV infection is most often (>80%) silent or subclinical</span> . Clinical disease is typically more severe (70% of symptomatic patients with jaundice) in adults (some of whom develop an aversion to smoking, for unclear reasons)
 
