@@ -6,11 +6,11 @@ aliases: Untitled
 share: true
 ---
 # Definition
-A <mark style="background: #FFF3A34A;">potentially life-threatening oncologic emergency</mark> resulting from the rapid destruction of tumor cells, which leads to a massive release of intracellular components, e.g., potassium (K<sup>+</sup>), phosphate (PO<sub>4</sub><sup>3-</sup>), and uric acid, that can damage the **kidneys** and cause renal failure.
+A <span style="background:rgba(240, 200, 0, 0.2)">potentially life-threatening oncologic emergency</span> resulting from the rapid destruction of tumor cells, which leads to a massive release of intracellular components, e.g., potassium (K<sup>+</sup>), phosphate (PO<sub>4</sub><sup>3-</sup>), and uric acid, that can damage the **kidneys** and cause renal failure.
 
 ---
 # Etiology
-most commonly <mark style="background: #FFF3A34A;">occurs after initiating cytotoxic treatment</mark> in patients with hematologic malignancies (e.g., [[Acute leukemia|ALL]], [[Acute leukemia|AML]], or [[Non-Hodgkin lymphomas|NHL]]).most commonly occurs after initiating cytotoxic treatment in patients with hematologic malignancies (e.g., [[Acute leukemia|ALL]], [[Acute leukemia|AML]], or [[Non-Hodgkin lymphomas|NHL]]).
+most commonly <span style="background:rgba(240, 200, 0, 0.2)">occurs after initiating cytotoxic treatment</span> in patients with hematologic malignancies (e.g., [[Acute leukemia|ALL]], [[Acute leukemia|AML]], or [[Non-Hodgkin lymphomas|NHL]]).most commonly occurs after initiating cytotoxic treatment in patients with hematologic malignancies (e.g., [[Acute leukemia|ALL]], [[Acute leukemia|AML]], or [[Non-Hodgkin lymphomas|NHL]]).
 
 ---
 # Pathophysiology
