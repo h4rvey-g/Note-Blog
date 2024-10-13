@@ -29,7 +29,7 @@ share: true
 
 # Diagnostics
 ---
-The lepromin skin test (in which M leprae antigens are injected intradermally) can be used to distinguish between tuberculoid and lepromatous leprosy.  <span style="background:rgba(240, 200, 0, 0.2)">Patients with tuberculoid leprosy will develop an indurated nodule at the site of the injection (much like a positive PPD test for M tuberculosis).  In contrast, the test is usually nonreactive in patients with lepromatous leprosy due to their weak TH1 cell-mediated immune response.</span>
+The lepromin skin test (in which M leprae antigens are injected intradermally) can be used to distinguish between tuberculoid and lepromatous leprosy.  <span style="background:rgba(240, 200, 0, 0.2)">Patients with tuberculoid leprosy will develop an indurated nodule at the site of the injection (much like a positive PPD test for M [[tuberculosis|tuberculosis]]).  In contrast, the test is usually nonreactive in patients with lepromatous leprosy due to their weak TH1 cell-mediated immune response.</span>
 
 # Treatment
 ---
