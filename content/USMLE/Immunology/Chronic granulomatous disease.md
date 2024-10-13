@@ -18,7 +18,7 @@ X-linked recessive or autosomal recessive inheritance (2:1)
 
 ---
 # Clinical features
-- Recurrent, severe infections (chronic skin, lymph node, bone, respiratory, GI, and [[urinary tract infections|urinary tract infections]]) with <mark style="background: #FFF3A34A;">catalase-positive organisms</mark>
+- Recurrent, severe infections (chronic skin, lymph node, bone, respiratory, GI, and [[urinary tract infections|urinary tract infections]]) with <span style="background:rgba(240, 200, 0, 0.2)">catalase-positive organisms</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Staphylococcus aureus|Staphylococcus aureus]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Burkholderia cepacia</span>
 	- Serratia marcescens
@@ -31,6 +31,7 @@ X-linked recessive or autosomal recessive inheritance (2:1)
 # Diagnostics
 - Neutrophil assay
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dihydrorhodamine test (DHR): flow cytometry test showing abnormal NADPH oxidase activity</span> (inability to metabolize dihydrorhodamine to fluorescent product, rhodamine → <span style="background:rgba(240, 200, 0, 0.2)">decreased green fluorescence</span>)
+		- The DHR assay detects the conversion of DHR (a colorless substance) to rhodamine (fluoresces green) by free radicals produced when the NADPH oxidase pathway is stimulated (eg, by a protein kinase C agonist such as phorbol myristate acetate).  In unaffected patients, stimulated cells show increased intensity of fluorescence (ie, rightward shift along the x-axis), indicating appropriate NADPH activity, whereas unstimulated cells remain colorless.  In patients with CGD, the stimulated cells show no increased fluorescence (ie, no oxidation of DHR).![[highresdefault_L77221.png|highresdefault_L77221.png]]
  - Nitroblue tetrazolium dye reduction test: negative
 
 ---
