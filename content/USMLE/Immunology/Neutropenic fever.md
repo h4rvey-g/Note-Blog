@@ -6,7 +6,7 @@ aliases:
   - Febrile neutropenia
 share: true
 ---
-- Neutropenia: ANC < 500/mcL OR expected to decrease to < 500/mcL within 48 hours
+- [[Neutropenia|Neutropenia]]: ANC < 500/mcL OR expected to decrease to < 500/mcL within 48 hours
 - Fever: single oral temperature ≥ 38.3°C (101°F) OR ≥ 38°C (100.4°F) for at least 1 hour
 # Epidemiology
 ---
