@@ -36,6 +36,8 @@ share: true
 ---
 - Presbyopia
 	- Pathophysiology: age-related <span style="background:rgba(240, 200, 0, 0.2)">decrease in lens elasticity, strength of ciliary muscle, and lens curvature</span> → decreased lens accommodation (focusing on an object up close)
+
+![[sheet (2).png|sheet (2).png]]
 # Beers criteria
 ---
 Common medications to avoid in older adults
