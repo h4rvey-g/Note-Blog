@@ -38,7 +38,7 @@ Medial medullary syndrome involves contralateral hemiplegia, contralateral epicr
 Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.
 >[!Mnemonic] 
 ><font color="#ffc000">PICA-chew</font>: A <font color="#ffc000">P</font>osterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery stroke makes it so you can’t <font color="#ffc000">chew</font>.![[Pasted image 20240120150237.png|Pasted image 20240120150237.png]]
-### Anterior inferior cerebellar artery
+### Anterior inferior cerebellar artery (<span style="background:rgba(240, 200, 0, 0.2)">Lateral pontine syndrome</span>)
 Lateral pontine syndrome is similar to lateral medullary syndrome but also involves facial paralysis and [[hearing loss|hearing loss]]. 
 >[!Mnemonic] 
 >A stroke in the <font color="#ffc000">A</font>nterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery messes up the f<font color="#ffc000">AICA</font>l nerve.
