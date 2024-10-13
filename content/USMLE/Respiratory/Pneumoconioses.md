@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-07-27 15:58
 modified: 2023-07-27 15:58
-aliases: Untitled
+aliases:
+  - Asbestosis
 share: true
 ---
 # Etiology
@@ -30,8 +31,8 @@ share: true
 		- asbestos fiber becomes coated with iron and calcium![[Pasted image 20230727171328.png|Pasted image 20230727171328.png]]
 		> Ingestion of these fibers by macrophages sets off a fibrogenic response via release of growth factors that promote collagen deposition by fibroblasts.
 	- Complications
-		- [[Lung cancer|Lung cancer]] (smoking increases the risk): <mark style="background: #FFF3A34A;">bronchogenic carcinoma is most common</mark>
-		- [[Mesothelioma|Mesothelioma]]: rarely occurs without a history of asbestos exposure
+		- [[Lung cancer|Lung cancer]] (smoking increases the risk):<span style="background:rgba(240, 200, 0, 0.2)">bronchogenic carcinoma is most common</span>
+		- [[Mesothelioma|Mesothelioma]]: <span style="background:rgba(240, 200, 0, 0.2)">rarely occurs</span> without a history of asbestos exposure
 - Chest x-ray: 
 	- Diffuse bilateral infiltrates predominantly in the lower lobes
 	- Interstitial fibrosis
@@ -53,7 +54,7 @@ share: true
 - Chest x-ray
 	- Eggshell calcification: well-defined sickle-shaped calcification of the rims of hilar lymph nodes![[Pasted image 20230805164438.png|Pasted image 20230805164438.png]]
 	- Bilateral diffuse ground glass opacities
-	- Large number of rounded, solitary, small (≤ 1 cm in diameter) opacities particularly in the <mark style="background: #FFF3A34A;">upper lobe of the lungs</mark>
+	- Large number of rounded, solitary, small (≤ 1 cm in diameter) opacities particularly in the <span style="background:rgba(240, 200, 0, 0.2)">upper lobe of the lungs</span>
 - Etiology: 
 - Population at risk: 
 - Clinical features: 
@@ -75,11 +76,11 @@ share: true
 - Clinical features: 
 - Chest x-ray: 
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
