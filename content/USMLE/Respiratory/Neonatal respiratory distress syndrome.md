@@ -9,8 +9,8 @@ share: true
 ---
 
 # Etiology
-- <mark style="background: #FFF3A34A;">Premature birth</mark>
-- <mark style="background: #FFF3A34A;">[[Diabetes mellitus in pregnancy|Maternal diabetes]] mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</mark>
+- <span style="background:rgba(240, 200, 0, 0.2)">Premature birth</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Diabetes mellitus in pregnancy|Maternal diabetes]] mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</span>
 - Hereditary
 - Cesarean delivery: results in lower levels of fetal glucocorticoids than vaginal delivery, in which higher levels are released as a response to stress from uterine contractions 
 - Hydrops fetalis
