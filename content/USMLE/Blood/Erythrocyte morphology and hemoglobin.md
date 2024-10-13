@@ -18,12 +18,12 @@ share: true
 
 
 # Bohr effect 
-<mark style="background: #FFF3A34A;">The O2 affinity of Hb is inversely proportional to the CO<sub>2</sub> content and H<sup>+</sup> concentration of blood.</mark>
+<span style="background:rgba(240, 200, 0, 0.2)">The O2 affinity of Hb is inversely proportional to the CO<sub>2</sub> content and H<sup>+</sup> concentration of blood.</span>
 High CO<sub>2</sub> and H<sup>+</sup> concentrations (from tissue metabolism) cause decreased affinity for O2 → O2 that is bound to Hb is released to tissue (the O2-Hb dissociation curve is shifted to the right).
 HbO2 + H<sup>+</sup> ⇄ H<sup>+</sup>Hb + O2
 HbO2 + CO<sub>2</sub> ⇄ Hb-COO- + H<sup>+</sup> + O2
 # Haldane effect 
-<mark style="background: #FFF3A34A;">The CO<sub>2</sub> affinity of Hb is inversely proportional to the oxygenation of Hb.</mark>
+<span style="background:rgba(240, 200, 0, 0.2)">The CO<sub>2</sub> affinity of Hb is inversely proportional to the oxygenation of Hb.</span>
 When Hb is deoxygenated (typically in peripheral tissue), uptake of CO<sub>2</sub> is facilitated.
 When Hb is oxygenated (in high pO2, for example, in the lungs):
 Oxygenated Hb has a decreased affinity for CO<sub>2</sub> → CO<sub>2</sub> that is bound to Hb is released in the pulmonary arteries to diffuse into the alveoli (the O2-Hb dissociation curve is shifted to the left).
