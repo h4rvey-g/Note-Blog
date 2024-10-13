@@ -212,6 +212,9 @@ share: true
 >- <font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1 agonist![[Pasted image 20231209141619.png|Pasted image 20231209141619.png]] 
 >- Liptin makes you <font color="#ffc000">pee (PP4)</font> more times
 - SGLT-2 inhibitors![[Pasted image 20231209142321.png|Pasted image 20231209142321.png]]
+	- Sodium-dependent glucose cotransporter (SGLT)
+		- <span style="background:rgba(240, 200, 0, 0.2)">SGLT1</span> is responsible for almost all sodium-dependent glucose uptake in the <span style="background:rgba(240, 200, 0, 0.2)">small intestine</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">SGLT2</span> is responsible for almost all sodium-dependent glucose reabsorption in the <span style="background:rgba(240, 200, 0, 0.2)">proximal tubule</span>.
 	- Contraindications
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Chronic kidney disease|Chronic kidney disease]]: If GFR decreases, drug efficacy decreases and adverse effects increase. </span>
 			- Because SGLT-2 inhibitors rely on adequate renal glucose filtration to exert their antihyperglycemic effect, they become less effective or ineffective as renal function declines (eg, when estimated glomerular filtration rate (eGFR) falls <30-45 mL/min/1.73 m2).  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">checking serum creatinine (used to calculate eGFR) is recommended prior to medication initiation.</span>
