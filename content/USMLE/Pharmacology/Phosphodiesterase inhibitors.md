@@ -62,3 +62,11 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Erectile dysfunction</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Pulmonary hypertension|Pulmonary hypertension]]</span>
 - [[Benign prostatic hyperplasia|Benign prostatic hyperplasia]] (tadalafil only)
+## Adverse effects
+- Headache
+- Lightheadedness
+- Exanthema, flushing 
+- <span style="background:rgba(240, 200, 0, 0.2)">Visual changes: photophobia, optic neuropathy, visual deficits (cyanopsia)</span>
+	- Due to concomitant PDE 6 (photoreceptor) inhibition by PDE5 inhibitor in the retina.
+- GI symptoms (e.g., dyspepsia)
+- Runny nose, nasal congestion
