@@ -17,7 +17,7 @@ share: true
 		- Methotrexate
 	- Psychotropic or anticonvulsant
 		- Clozapine
-		- Carbamazepine
+		- [[Anticonvulsant drugs|Carbamazepine]]
 		- Phenytoin
 	- Cardiovascular
 		- Antiarrhythmic agents (eg, procainamide)
