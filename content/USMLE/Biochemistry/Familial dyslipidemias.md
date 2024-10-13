@@ -6,7 +6,13 @@ aliases:
   - Familial hyperlipidemia
 share: true
 ---
-![[Pasted image 20231112145415.png|Pasted image 20231112145415.png]]
+| Dyslipidemia                               | Protein defect             | Elevated lipoproteins       | Major manifestations                                                                                             |
+| ------------------------------------------ | -------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Familial chylomicronemia syndrome (type I) | Lipoprotein lipase, ApoC-2 | Chylomicrons                | <span style="background:rgba(240, 200, 0, 0.2)">Acute pancreatitis</span>, Lipemia retinalis, Eruptive xanthomas |
+| Familial hypercholesterolemia (type II A)  | LDL receptor, ApoB-100     | LDL                         | <span style="background:rgba(240, 200, 0, 0.2)">Premature atherosclerosis</span>, Tendon xanthomas, Xanthelasmas |
+| Familial dysbetalipoproteinemia (type III) | ApoE                       | Chylomicron & VLDL remnants | Premature atherosclerosis, Tuboeruptive & palmar xanthomas                                                       |
+| Familial hypertriglyceridemia (type IV)    | Polygenic                  | VLDL                        | Associated with coronary disease, pancreatitis & diabetes                                                        |
+
 ![[Pasted image 20231102150505.png|Pasted image 20231102150505.png]]![[Pasted image 20231102144509.png|Pasted image 20231102144509.png]]
 ![[Pasted image 20231102144620.png|Pasted image 20231102144620.png]]
 - Type II
