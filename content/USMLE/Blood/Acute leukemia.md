@@ -66,9 +66,14 @@ Leukemia![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
 ## Genetic studies
 - <span style="background:rgba(240, 200, 0, 0.2)">APL: t(15;17) translocation, producing PML-RARA</span>
 - 
-
+# Differential diagnostics
 ---
+![[Pasted image 20241016204154.png|Pasted image 20241016204154.png]]
+
+>[!tip] 
+>Assessment of <span style="background:rgba(240, 200, 0, 0.2)">leukocyte alkaline phosphatase</span> (an enzyme found in maturing neutrophils) can be used to distinguish marked leukocytosis due to leukemoid reaction from chronic myeloid leukemia (CML).  <span style="background:rgba(240, 200, 0, 0.2)">Values are typically normal or increased in leukemoid reaction; in contrast, they are usually low in CML because the abnormal maturing neutrophils don't bother to make these.</span>
 # Treatment
+---
 >[!tip] 
 >In <font color="#ffc000">APL, the t(15;17) translocation</font> and subsequent formation of the PML-RARA fusion gene can inhibit myeloblast differentiation under physiological levels of retinoic acid. <font color="#ffc000">High doses of ATRA (a [[vitamin A|vitamin A]] derivative) may induce myeloblast differentiation and promote remission.</font>
 
