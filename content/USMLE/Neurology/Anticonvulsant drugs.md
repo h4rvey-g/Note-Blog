@@ -12,6 +12,17 @@ aliases:
 share: true
 ---
 ![[Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
+
+| Drug                           | Mechanism of Action                              |
+| ------------------------------ | ------------------------------------------------ |
+| Benzodiazepines, Phenobarbital | ↑ GABA A action                                  |
+| Levetiracetam                  | Inhibits vesicle fusion by binding SV2A proteins |
+| Valproic Acid                  | Blocks Na+ channels & blocks GABA transaminase   |
+| Ethosuximide                   | Blocks thalamic T-type Ca2+ channels             |
+| Phenytoin, Carbamazepine       | Blocks Na+ channels                              |
+| Gabapentin                     | Blocks Ca2+ channels                             |
+
+
 # First-generation anticonvulsants
 ---
 ## Carbamazepine
@@ -37,7 +48,8 @@ share: true
 ### Adverse effects
 - [[Tremor|Tremor]]
 - [[Alopecia|Alopecia]]
-- Teratogenicity
+- <span style="background:rgba(240, 200, 0, 0.2)">Teratogenicity</span>
+	- Impairs folate metabolism, leading to <span style="background:rgba(240, 200, 0, 0.2)">neural tube defects</span> (contraindicated in women of childbearing age/pregnancy)
 ## Phenytoin
 ### Adverse effects
 1. Phenytoin toxicity is mainly characterized by CNS manifestations.  Its effect on the cerebellum and vestibular system can cause ataxia and [[Internuclear ophthalmoplegia|nystagmus]].
