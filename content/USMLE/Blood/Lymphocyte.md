@@ -14,6 +14,15 @@ Lymphocytosis: > 33%
 >[!tip] 
 >The lymphocyte count may be increased or decreased in lymphoma.
 # T cell differentiation
+| Cell | Induced by      | Inhibited by | Secretes               |
+|------|-----------------|--------------|------------------------|
+| Th1  | IFN-γ, IL-12    | IL-4, IL-10  | IFN-γ, IL-2            |
+| Th2  | IL-2, -4        | IFN-γ        | IL-4, -5, -6, -10, -13 |
+| Th17 | IL-1, -6, TGF-β | IFN-γ, IL-4  | IL-17, -21, and -22    |
+| Treg | TGF-β, IL-2     | IL-6         | TGF-β, IL-10, -35      |
+
+
+
 ![[Pasted image 20240222102853.png|Pasted image 20240222102853.png]]![[L39839.jpg|L39839.jpg]]![[Pasted image 20240222102955.png|Pasted image 20240222102955.png]]
 ![[L69431.jpg|L69431.jpg]]
 # Lymphatic system
