@@ -27,6 +27,7 @@ share: true
 # Pathophysiology
 ---
 - Oxidative damage & opacification of the lens
+- Cataracts caused by diabetes: see [[Diabetes mellitus#Other complications|Diabetes mellitus > Other complications]]
 
 # Clinical features
 ---
