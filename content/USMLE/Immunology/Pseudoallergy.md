@@ -4,6 +4,7 @@ created: 2024-08-27 13:37
 modified: 2024-08-27 13:37
 aliases:
   - Nonallergic hypersensitivity
+  - Vancomycin infusion reaction
 share: true
 ---
 - Description: an <span style="background:rgba(240, 200, 0, 0.2)">IgE-independent</span> reaction that is clinically indistinguishable from [[type I hypersensitivity reaction|type I hypersensitivity reaction]]
