@@ -76,3 +76,10 @@ share: true
 # Treatment
 ---
 
+# Complications
+---
+## Anemia of chronic kidney disease
+- Pathophysiology: ↓ synthesis of erythropoietin → ↓ stimulation of RBC production → normocytic, normochromic anemia 
+- Management
+	- Consider <span style="background:rgba(240, 200, 0, 0.2)">erythropoietin-stimulating agents</span> (ESAs): for patients with <span style="background:rgba(240, 200, 0, 0.2)">Hb &lt; 10.0 g/dL</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Adverse effects: ↑ risk of thromboembolism; ↑ risk of hypertension</span>
