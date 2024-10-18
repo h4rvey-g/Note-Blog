@@ -24,7 +24,7 @@ share: true
 - Symptoms caused by cysticerci accumulation in subcutaneous tissue, muscles, brain, spinal cord, and eyes
 	- Palpable subcutaneous cysts
 	- Myalgia
-	- <span style="background:rgba(240, 200, 0, 0.2)">Neurocysticercosis (cysticerci-containing cysts in the CNS): increased intracranial pressure, neurological deficits, seizures</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neurocysticercosis (cysticerci-containing cysts in the CNS): increased intracranial pressure, neurological deficits, [[Seizures and epilepsy|seizures]]</span>
 	- Ocular cysticercosis: eye pain, loss of visual acuity or vision in one eye
 
 # Diagnostics

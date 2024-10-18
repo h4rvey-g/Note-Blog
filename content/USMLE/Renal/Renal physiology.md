@@ -72,3 +72,23 @@ share: true
 	- Regulated via:
 		- Prostaglandins → dilation of afferent arterioles → ↑ GFR and ↑ RPF (FF unchanged)
 		- Angiotensin II → constriction of efferent arterioles → ↑ GFR and ↓ RPF → ↑ FF
+
+# Kidney embryology
+---
+![[highresdefault_L88965.jpg|highresdefault_L88965.jpg]]
+
+3. Metanephros: the third embryonic excretory organ, developing caudally to the mesonephros and persisting as the permanent kidney
+	- Arises during the 5th week of embryonic development
+	- Canalization is complete by the 10th week of embryonic development.
+	- Maturing of the kidneys continues until week 35–36 of embryonic development.
+	- Components
+		- <span style="background:rgba(240, 200, 0, 0.2)">Ureteric bud (metanephric diverticulum)</span>
+			- Originates from the caudal end of the mesonephric duct
+			- <span style="background:rgba(240, 200, 0, 0.2)">Differentiates into the collecting duct system: ureter, renal pelvis, major calyces, minor calyces, and collecting ducts</span>
+			- Ureteropelvic junction: junction between ureter and renal pelvis
+				- Canalizes last and represents the most common site of prenatal urinary tract obstruction
+				- Obstruction of the ureteropelvic junction may cause prenatal hydronephrosis, which can be discovered during prenatal ultrasound screenings.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Metanephric blastema (metanephric mesenchyme)</span>
+			- Differentiation stimulated by ureteric bud signals
+			- <span style="background:rgba(240, 200, 0, 0.2)">Differentiates into nephrons: glomerulus, proximal convoluted tubule, loop of Henle, and distal convoluted tubule </span>
+	- Congenital anomalies of the kidneys can result from, e.g., due to abnormal interaction between the ureteric bud and the metanephritic blastema.

@@ -45,3 +45,8 @@ TKIs are the <span style="background:rgba(240, 200, 0, 0.2)">primary drug class<
 - Mechanism of action
 	- <span style="background:rgba(240, 200, 0, 0.2)">Selective inhibition of tyrosine kinase</span> (e.g., by blocking its ATP binding site): inhibits tyrosine phosphorylation of downstream signaling proteins (no phosphate transfer from ATP to tyrosine residues)
 	- Disruption of the BCR-ABL1 pathway: inhibits proliferation and induces apoptosis in BCR-ABL1-positive cells
+- Adverse effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fluid retention and edema</span>
+	- Myelosuppression
+	- Hepatotoxicity (e.g., ↑ LFTs)
+	- Myalgia

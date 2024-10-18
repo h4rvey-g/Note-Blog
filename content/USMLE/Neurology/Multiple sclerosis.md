@@ -18,7 +18,7 @@ share: true
 # Etiology
 The etiology of multiple sclerosis is unclear; it is believed to develop in genetically predisposed people who have been exposed to certain environmental factors.
 - Environmental risk factors
-	- Low vitamin D levels (insufficient intake, decreased exposure to UV radiation)
+	- Low [[vitamin D|vitamin D]] levels (insufficient intake, decreased exposure to UV radiation)
 
 ---
 # Pathophysiology

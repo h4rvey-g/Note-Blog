@@ -8,11 +8,12 @@ share: true
 ---
 ![[Pasted image 20231228163326.png|Pasted image 20231228163326.png]]
 
-| Condition   | HCG | PAPP-A | Nuchal translucency |
-|-------------|-----|--------|---------------------|
-| Trisomy 21  | ↑   | ↓      | ↑                   |
-| Trisomy 18  | ↓   | ↓      | ↑↑                  |
-| Trisomy 13  | ↓   | ↓      | ↑                   |
+| Condition  | HCG                                                      | PAPP-A | AFP                                                           | Inhibin A                                                | Nuchal translucency |
+| ---------- | -------------------------------------------------------- | ------ | ------------------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| Trisomy 21 | <span style="background:rgba(240, 200, 0, 0.2)">↑</span> | ↓      | ↓                                                             | <span style="background:rgba(240, 200, 0, 0.2)">↑</span> | ↑                   |
+| Trisomy 18 | ↓                                                        | ↓      | ↓                                                             | normal                                                   | ↑↑                  |
+| Trisomy 13 | ↓                                                        | ↓      | <span style="background:rgba(240, 200, 0, 0.2)">normal</span> | normal                                                   | ↑                   |
+
 
 
 # [[Down syndrome|Down syndrome]]

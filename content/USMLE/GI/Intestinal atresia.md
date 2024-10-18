@@ -11,7 +11,7 @@ share: true
 	- Duodenal atresia is the <span style="background:rgba(240, 200, 0, 0.2)">complete occlusion or absence of the duodenal lumen.</span>
 	- Duodenal stenosis is an incomplete obstruction caused by narrowing of the lumen.
 - Epidemiology
-	- 20–25% of cases are associated with chromosomal abnormalities, especially [[Down syndrome|Down syndrome]].
+	- <span style="background:rgba(240, 200, 0, 0.2)">20–25% of cases are associated with chromosomal abnormalities, especially [[Down syndrome|Down syndrome]].</span>
 - Pathophysiology
 	- Since the development of the duodenum is connected to the growth of the pancreas and the hepatobiliary system, duodenal atresia is also commonly associated with anomalies of these organs.
 - Clinical features

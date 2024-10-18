@@ -28,3 +28,9 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">↓ Platelet count → gestational thrombocytopenia</span>
 - ↑ RBC mass (increases from 8–10th week of gestation until the end of pregnancy) 
 - ↓ Iron and folate levels due to increased vitamin and mineral requirements
+## Endocrine system
+- <span style="background:rgba(240, 200, 0, 0.2)">Human placental lactogen (hPL)</span>: a hormone synthesized by syncytiotrophoblasts of the placenta, which <span style="background:rgba(240, 200, 0, 0.2)">promotes the production of insulin.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal glucose levels</span>: allows glucose to freely cross the placenta for <span style="background:rgba(240, 200, 0, 0.2)">consumption by the fetus for energy</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal proteolysis: provides a readily available supply of amino acids for the fetus</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal lipolysis</span>: leads to increased free fatty acids and ketones <span style="background:rgba(240, 200, 0, 0.2)">to provide energy to the mother, preserving glucose and amino acids for the fetus</span>

@@ -61,6 +61,9 @@ mutations in SERPINA1 gene
 >[!tip] 
 >[[Hemochromatosis|Hemochromatosis]] is diagnosed with Prussian blue staining![[Pasted image 20231029102123.png|Pasted image 20231029102123.png]]
 
+>[!tip] 
+>[[Whipple disease|Whipple disease]] also has PAS-positive
+
 ---
 # Treatment
 

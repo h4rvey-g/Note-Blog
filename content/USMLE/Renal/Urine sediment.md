@@ -8,6 +8,15 @@ aliases:
 share: true
 ---
 # Urinary casts
+| Urinary Casts   | Composition                                             | Associated Conditions                      |
+|-----------------|---------------------------------------------------------|--------------------------------------------|
+| Hyaline         | Tamm-Horsfall protein                                    | Nonspecific, concentrated urine            |
+| Fatty           | Lipid droplets                                           | [[Nephrotic syndrome|Nephrotic syndrome]]                         |
+| Waxy            | Degenerated hyaline cast                                 | [[Chronic kidney disease|Chronic kidney disease]]                     |
+| Granular        | (muddy brown) Sloughed tubular epithelial cells with pigmented granules | [[Acute kidney injury\|Acute tubular necrosis]]                     |
+| WBC             | White blood cells                                        | [[Pyelonephritis|Pyelonephritis]], interstitial nephritis     |
+| RBC             | Red blood cells                                          | [[Nephritic syndrome\|Glomerulonephritis]]                         |
+
 Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.
 ![[Pasted image 20230831154504.png|Pasted image 20230831154504.png]]
 <span style="background:rgba(240, 200, 0, 0.2)">Granular casts (acute) → waxy casts (chronic)</span>

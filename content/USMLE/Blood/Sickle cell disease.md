@@ -33,7 +33,24 @@ share: true
 
 ---
 # Clinical features
-
+Typically manifests <span style="background:rgba(240, 200, 0, 0.2)">after 3–6 months of age</span> as the production of HbF decreases and HbS levels increase
+## Acute manifestations
+- Vaso-occlusive events
+	- <span style="background:rgba(240, 200, 0, 0.2)">Dactylitis in children &lt; 5 years of age</span> 
+		- Typically the earliest manifestation of sickle cell disease
+		- Most common in children <span style="background:rgba(240, 200, 0, 0.2)">between 6 months and 2 years</span> of age; uncommon in older children and adults
+		- Swelling, tenderness, and warmth![[Pasted image 20241014110318.png|Pasted image 20241014110318.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Vasoocclusive crises (sickle cell pain crisis) </span>
+		- Most common acute complication of sickle cell disease 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Characterized by recurrent episodes of severe throbbing or sharp pain</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Typically affects the limbs, chest, and back and lasts for ∼ 7 days</span>
+		- Often associated with other vasoocclusive events (especially dactylitis in children)
+	- Acute chest syndrome
+	- Priapism
+	- Stroke (common in children)
+	- Sickle cell hepatopathy
+	- Organ infarctions (any organ; particularly the spleen)
+	- Avascular necrosis
 
 ---
 # Diagnostics

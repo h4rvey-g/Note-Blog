@@ -4,6 +4,7 @@ created: 2024-02-18 10:21
 modified: 2024-02-18 10:21
 aliases:
   - Yolk sac tumor
+  - Testicular cancer
 share: true
 ---
 # Germ cell tumors

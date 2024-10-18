@@ -53,8 +53,8 @@ See also [[Lipid transport|Lipid transport]]
 # [[Vitamin B3|Niacin]] (Vitamin B3)
 - <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: inhibits lipolysis and fatty acid release in adipose tissue through blockade of hormone-sensitive lipase and ↓ hepatic VLDL synthesis → ↓ triglyceride, ↓↓ LDL synthesis, ↑↑ HDL</span>![[Pasted image 20231112162849.png|Pasted image 20231112162849.png]]
 - Indication: high LDL cholesterol and lipoprotein(a) levels (> 50 mg/dL) despite statin and ezetimibe therapy (or if statins are contraindicated)
-- Adverse effects
-	- Flushing and pruritus: ↑ prostaglandin synthesis → peripheral vasodilation (pretreatment with aspirin or ibuprofen can minimize this side effect)
+- Adverse effects, see [[Vitamin B3#Vitamin B3 toxicity|Vitamin B3 > Vitamin B3 toxicity]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Flushing and pruritus</span>
 	- Hyperglycemia
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Gout|Hyperuricemia]] and [[gout|gout]]</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Vitamin B3|Niacin]] decreases renal uric acid excretion.</span>

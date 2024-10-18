@@ -50,7 +50,16 @@ share: true
 
 # Diagnostics
 ---
-
+## Differential diagnostics
+| Feature                                                         | Meningitis                                                                                      | Meningo-encephalitis          | Encephalitis                                                            |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------- |
+| **Fever, leukocytosis**                                         | Often                                                                                           | Often                         | Often                                                                   |
+| **Meningeal irritation**<br>(e.g. Nuchal rigidity, photophobia) | Often                                                                                           | Often                         | <span style="background:rgba(240, 200, 0, 0.2)">No</span>               |
+| **Mental status alteration**                                    | Sometimes                                                                                       | Often                         | <span style="background:rgba(240, 200, 0, 0.2)">Nearly always</span>    |
+| **Seizure**                                                     | Uncommon                                                                                        | More often than in meningitis | <span style="background:rgba(240, 200, 0, 0.2)">Often</span>            |
+| **Focal neurologic findings**                                   | Half of patients develop focal findings at some point during the disease course (usually later) | More often than in meningitis | <span style="background:rgba(240, 200, 0, 0.2)">Hallmark feature</span> |
+| **Typical pathogens**                                           | [[Streptococcus pneumoniae|Streptococcus pneumoniae]], N. meningitidis, H. influenzae                                        | HSV, VZV, Listeria spp.       | HSV, VZV, Enteroviruses                                                 |
+*Focal neurologic findings include weakness, visual disturbance, aphasia, cerebellar findings, behavior change
 
 # Treatment
 ---

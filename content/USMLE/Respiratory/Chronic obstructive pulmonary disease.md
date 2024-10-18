@@ -62,8 +62,20 @@ https://youtu.be/BmYCAp4dRuA
 
 ![[L80596.png|L80596.png]]
 
----
 # Treatment
-
-
 ---
+
+
+# Acute exacerbation of COPD (AECOPD)
+---
+AECOPD is a clinical diagnosis based on the development of cardinal symptoms of AECOPD (e.g., acute worsening dyspnea, increase in the purulence of sputum) over ≤ 14 days. It is often accompanied by tachypnea, tachycardia, and increased local or systemic inflammation.
+## Etiology
+- <span style="background:rgba(240, 200, 0, 0.2)">Viral respiratory infections: most common cause of AECOPD</span> 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rhinovirus: most common</span> 
+	- Others: SARS-CoV-2, influenza, RSV, parainfluenza, metapneumovirus, adenovirus
+- <span style="background:rgba(240, 200, 0, 0.2)">Bacterial infections: e.g., Haemophilus influenzae, Moraxella catarrhalis, Streptococcus pneumoniae</span> 
+	- Risk factors for Pseudomonas aeruginosa infection include:  
+		- Advanced COPD
+		- Previous hospitalizations
+		- Systemic glucocorticoid use
+		- Previous isolation of P. aeruginosa
