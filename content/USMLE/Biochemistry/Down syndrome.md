@@ -49,6 +49,10 @@ share: true
 	- Atlantoaxial instability
 	- <span style="background:rgba(240, 200, 0, 0.2)">Short stature</span>
 ## Organ malformations and associated conditions
+- Heart: congenital heart defects in ∼ 50% of cases 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Atrioventricular septal defect (endocardial cushion defect) is the most common heart defect in individuals with Down syndrome.</span>
+	- Ventricular septal defect
+	- Atrial septal defects
 - Gastrointestinal tract
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Intestinal atresia|Duodenal atresia]]/stenosis</span>
 	- [[Hirschsprung disease|Hirschsprung disease]]
