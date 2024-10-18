@@ -22,3 +22,15 @@ share: true
 	- Arteriovenous malformation (an abnormal, high-flow connection between arteries and veins bypassing capillaries which develops due to disrupted angiogenesis)
 - <span style="background:rgba(240, 200, 0, 0.2)">Sequence: Abnormalities result from a single 1° embryologic event (eg, oligohydramnios → Potter sequence).</span>
 - Field defect: Disturbance of tissues that develop in a contiguous physical space (eg, [[holoprosencephaly|holoprosencephaly]]).
+
+# Aortic arches
+---
+![[Pasted image 20241016195320.png|Pasted image 20241016195320.png]]
+
+| Aortic Arch Derivative | Adult Derivative                                                   |
+| ---------------------- | ------------------------------------------------------------------ |
+| First                  | Part of maxillary artery                                           |
+| Second                 | Hyoid artery, Stapedial artery                                     |
+| Third                  | Common carotid artery, Proximal internal carotid artery            |
+| Fourth                 | On left → aortic arch, On right → proximal right subclavian artery |
+| Sixth                  | Proximal pulmonary arteries, On left → ductus arteriosus           |
