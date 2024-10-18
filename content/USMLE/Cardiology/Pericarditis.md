@@ -60,7 +60,8 @@ share: true
 
 # Diagnostics
 ---
-ECG features of pericarditis
+## Acute pericarditis
+### ECG features of pericarditis
 Not all patients go through all stages and manifestations may vary. In particular, pericarditis due to uremia may not involve characteristic ECG changes. 
 Stage 1: <mark style="background: #FFF3A3A6;">diffuse ST elevations, ST depression in aVR and V1, PR segment depression </span>
 Stage 2: ST segment normalizes in ∼ 1 week.
@@ -74,3 +75,9 @@ Stage 4: ECG returns to normal baseline (as prior to onset of pericarditis) afte
 - First, the diffuseness of the ST elevations (I, II, III, aVF, V3-V6). In myocardial infarction the ST elevations tend to be localized (inferior, anterior, posterior, lateral), often, but not always with reciprocal ST depressions.
 - Second, the PR segment displacement which has been attributed to subepicardial atrial injury.
 </center>
+
+## Chronic pericarditis
+- Imaging
+	- CT and cardiac MRI
+		- <span style="background:rgba(240, 200, 0, 0.2)">Pericardial thickening > 2 mm</span> 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Calcifications</span>![[Pasted image 20241018111737.png|Pasted image 20241018111737.png]]
