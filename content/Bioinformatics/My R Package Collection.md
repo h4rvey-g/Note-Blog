@@ -19,6 +19,8 @@ share: true
 	- Better gene ID conversion function
 		- Automatically identify input type
 		- Distinguish from symbol and alias
+2. tidyomics: [tidyomics/tidyomics: Easily install and load packages from the tidyomcis ecosystem (github.com)](https://github.com/tidyomics/tidyomics)
+	- A collection of packages for omics data analysis that are consistent with tidyverse ecosystem
 ## RNA-seq (bulk)
 1. tidySummarizedExperiment: [Brings SummarizedExperiment to the Tidyverse • tidySummarizedExperiment (stemangiola.github.io)](https://stemangiola.github.io/tidySummarizedExperiment/)
 	- tidySummarizedExperiment provides a bridge between Bioconductor SummarizedExperiment and the tidyverse. It creates an invisible layer that <span style="background:rgba(240, 200, 0, 0.2)">enables viewing the Bioconductor SummarizedExperiment object as a tidyverse tibble, and provides SummarizedExperiment-compatible dplyr, tidyr, ggplot and plotly functions.</span> This allows users to get the best of both Bioconductor and tidyverse worlds.
@@ -37,3 +39,6 @@ share: true
 3. tidyheatmaps
 	- Use tidyverse way to create heatmaps
 	- Support all features of `pheatmap`
+4. ggsci: [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 • ggsci (nanx.me)](https://nanx.me/ggsci/index.html)
+	- A collection of ggplot2 color palettes inspired by scientific journals and data visualization libraries
+	- Only has up to 10 colors in each palette, and expanding the colors could be tricky
