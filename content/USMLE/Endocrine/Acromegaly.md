@@ -5,6 +5,8 @@ modified: 2024-04-14 11:15
 aliases:
   - IGF-1
   - insulin-like growth factor 1
+  - insulin-like growth factor
+  - insulin-like growth factors
 share: true
 ---
 # Epidemiology
@@ -17,6 +19,11 @@ share: true
 
 # Pathophysiology
 ---
+>[!question] 
+>- Insulin-like growth factor is just a growth hormone, except
+>	- It binds to insulin receptor, but not metabolizing glucose, thus contributing to glucose intolerance?
+
+
 ![[L19257.jpg|L19257.jpg]]
 - Physiology of GH and IGF-1 
 	- GH secretion induced by stress, sport, and [[hypoglycemia|hypoglycemia]]; inhibited especially by hyperglycemia or food intake
