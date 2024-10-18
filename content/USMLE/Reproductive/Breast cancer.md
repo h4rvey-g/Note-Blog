@@ -6,6 +6,7 @@ aliases:
   - Paget disease of the breast
 share: true
 ---
+![[Pasted image 20241018091605.png|Pasted image 20241018091605.png]]
 # Epidemiology
 ---
 
@@ -14,21 +15,54 @@ share: true
 ---
 
 
-# Types of breast cancer
+# Benign cancer
+---
+## [[Intraductal papilloma|Intraductal papilloma]]
+- <span style="background:rgba(240, 200, 0, 0.2)">BIoody [[nipple discharge|nipple discharge]] in pre-menopausal women (vs. Papillary Carcinoma)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">FibrovascuIar projections lined by luminal myoepithelial cells (vs. Papillary Carcinoma)</span>
+
+![[Pasted image 20241017174131.png|Pasted image 20241017174131.png]]
+![[Pasted image 20241017174211.png|Pasted image 20241017174211.png]]
+
+>[!Mnemonic] 
+>- <font color="#ffc000">I</font>ntraductal = Myoepithelium <font color="#ffc000">I</font>ncluded
+>- <font color="#ffc000">P</font>apillary = Myoepithelium <font color="#ffc000">P</font>opped
+
+## Fibroadenoma
+- Refers to a marble-like, rubbery mobile, stromal/glandular benign tumor
+- <span style="background:rgba(240, 200, 0, 0.2)">Estrogen sensitive (will enlarge during pregnancy/menstrual cycle)</span>
+- Typically occurs in 15-35 y/o women
+- Biopsy: fibrous and glandular tissue![[Pasted image 20241018090342.png|Pasted image 20241018090342.png]]
+
+>[!Mnemonic] 
+>fib<font color="#ffc000">RO</font>adenoma = est<font color="#ffc000">RO</font>gen sensitive
+
+## Phyllodes tumor
+- Refers to a fibroepithelial tumor that ranges from benign (mostly) to malignant (rarely)
+- <span style="background:rgba(240, 200, 0, 0.2)">Characteristic **leaf-like projections into epithelium-lined stroma & dilated lumen**</span>
+- Typically occurs in **40-50 y/o women**
+
+# Malignant cancer
 ---
 ![[Pasted image 20240416200003.png|Pasted image 20240416200003.png]]
 ## Noninvasive carcinomas
 ### Ductal carcinoma in situ (DCIS)
 - Characteristics
-	- No penetration of the basement membrane
+	- <span style="background:rgba(240, 200, 0, 0.2)">No penetration of the basement membrane</span>
 	- Preceded by ductal atypia
 	- Frequently appears as a pattern of grouped <span style="background:rgba(240, 200, 0, 0.2)">microcalcifications</span> on mammography
 	- Higher risk of subsequent ipsilateral invasive carcinoma
 - Comedocarcinoma
-	- Characteristics: subtype of DCIS characterized by central necrosis 
+	- Characteristics: subtype of DCIS characterized by central necrosis![[L67791.jpg|L67791.jpg]]
 
 >[!tip] 
 >Noninvasive carcinomas are characterized by the absence of stromal invasion.
+### Lobular carcinoma in situ (LCIS)
+- Refers to proliferation of lobular cells but has not yet invaded basement membrane
+- <span style="background:rgba(240, 200, 0, 0.2)">Lacks E-Cadherin</span>
+
+>[!Mnemonic] 
+><font color="#ffc000">L</font>obular <font color="#ffc000">C</font>arcinoma <font color="#ffc000">L</font>acks <font color="#ffc000">C</font>adherin
 ## Invasive carcinomas
 ### Invasive ductal carcinoma (IDC)
 - Characteristics
@@ -41,7 +75,7 @@ share: true
 - Characteristics
 	- Rare subtype of invasive ductal carcinoma
 	- Most common tumor associated with the BRCA1 mutation
-	- Well-circumscribed soft tumor with smooth borders (may appear benign)
+	- Well-circumscribed soft tumor with smooth borders (may appear benign)![[L67792.jpg|L67792.jpg]]
 	- Usually triple-negative
 	- Lymphadenopathy 
 - Differential diagnosis: fibroadenoma
@@ -49,9 +83,13 @@ share: true
 - Characteristics
 	- <span style="background:rgba(240, 200, 0, 0.2)">∼ 10% of all invasive breast carcinomas</span>
 	- Less aggressive than ductal carcinoma
+	- Monomorphic cells in a <span style="background:rgba(240, 200, 0, 0.2)">single file pattern</span> due to a decrease in E-cadherin expression![[paste-225636106895941.jpg|paste-225636106895941.jpg]]
 - Localization
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral</span> in ∼ 20% of cases
 	- <span style="background:rgba(240, 200, 0, 0.2)">Frequently multifocal</span>
+
+>[!Mnemonic] 
+><font color="#ffc000">ILC</font> = <font color="#ffc000">I</font>ndividual <font color="#ffc000">L</font>ine <font color="#ffc000">C</font>arcinoma
 # Clinical features
 ---
 ## Locally advanced disease
@@ -60,6 +98,10 @@ share: true
 	- Peau d'orange (see below)
 # Subtypes and variants
 ---
+## Inflammatory conditions (DDx)
+- Mastitis
+- [[Mammary duct ectasia|Mammary duct ectasia]]
+- [[Fat necrosis of the breast|Fat necrosis of the breast]]
 ## Paget disease of the breast
 - Definition: a rare type of breast cancer that <span style="background:rgba(240, 200, 0, 0.2)">affects the lactiferous ducts and the skin of the nipple and areola</span>
 - Pathogenesis: migratory/epidermotropic theory: neoplastic ductal epithelial cells from an underlying DCIS or IDC  move through the lactiferous ducts and invade the surrounding epidermis of the nipple.
