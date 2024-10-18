@@ -95,12 +95,19 @@ share: true
 ><font color="#ffc000">RISE-PAIR</font>-idone gives <font color="#ffc000">RISE</font> to a <font color="#ffc000">PAIR</font>![[Pasted image 20240315143057.png|Pasted image 20240315143057.png]]
 ## Extrapyramidal symptoms (EPS)
 - Pathophysiology: Inhibition of the nigrostriatal dopaminergic pathways results in EPS.
-	- First-generation high-potency antipsychotics: D2antagonism → EPS
-	- Second-generation antipsychotics: weaker D2antagonism → fewer EPS
+	- First-generation high-potency antipsychotics: D2 antagonism → EPS
+	- Second-generation antipsychotics: weaker D2 antagonism → fewer EPS
 - Clinical features similar to [[Parkinson disease|Parkinson disease]]: Muscle, rustle, and hustle![[Pasted image 20240317222923.png|Pasted image 20240317222923.png]]
-### Tardive dyskinesia
-- Repetitive chewing and lip smacking
-- Choreic movements
-- <span style="background:rgba(240, 200, 0, 0.2)">Can be irreversible if drug is not discontinued</span>
+	- Acute dystonia
+		- <span style="background:rgba(240, 200, 0, 0.2)">Painful and lasting muscle spasms and stiffness predominantly affecting the head, neck, and tongue</span> 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Facial grimacing, torticollis</span>
+		- Tongue protrusion or twisting
+		- Oculogyric crisis (upward deviation of the eyes)
+		- In severe cases: laryngospasm, opisthotonus of the back
+	- Tardive dyskinesia
+		- Repetitive chewing and lip smacking
+		- Choreic movements
+		- <span style="background:rgba(240, 200, 0, 0.2)">Can be irreversible if drug is not discontinued</span>
+
 >[!Mnemonic] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Chewing Tar</span>dive![[32wab_.gif|32wab_.gif]]
