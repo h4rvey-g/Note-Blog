@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'umami', host: 'https://cloud.umami.is/script.js', websiteId: '9ac4cee8-5463-4237-a88b-f993b1099387',
     },
     locale: "en-US",
     baseUrl: "www.h4rvey.com",
