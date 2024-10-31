@@ -24,7 +24,7 @@ share: true
 ## Hematologic system
 - ↑ Plasma volume → ↓ hematocrit, especially towards the end of pregnancy (30–34th week of gestation) → dilutional anemia (hemoglobin value rarely drops below 11 g/dL)
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypercoagulability is due to an increase in fibrinogen, factor VII, and factor VIII and a decrease in protein S (reduces the risk of intrapartum blood loss).</span>
-	- Increased estrogen and progesterone levels
+	- Increased [[Androgen and estrogen synthesis|estrogen]] and progesterone levels
 - <span style="background:rgba(240, 200, 0, 0.2)">↓ Platelet count → gestational thrombocytopenia</span>
 - ↑ RBC mass (increases from 8–10th week of gestation until the end of pregnancy) 
 - ↓ Iron and folate levels due to increased vitamin and mineral requirements
