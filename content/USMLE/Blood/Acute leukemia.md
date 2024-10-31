@@ -10,8 +10,7 @@ aliases:
   - APL
 share: true
 ---
-Hairy Cell
-Leukemia![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
+![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
 >[!Mnemonic] 
 >A mnemonic for acute leukemia ages:
 >- ALL - adults Least likely ~ children (10 yrs)
@@ -48,6 +47,7 @@ Leukemia![[Pasted image 20231218144652.png|Pasted image 20231218144652.png]]
 
 ---
 # Diagnostics
+![[L46316.jpg|L46316.jpg]]
 >[!tip] 
 >Some subtypes (<span style="background:rgba(240, 200, 0, 0.2)">especially M3, or APL</span>) exhibit Auer rods 
 >- Pink-red, rod-shaped granular cytoplasmic inclusion bodies in malignant immature myeloblasts or promyelocytes![[Pasted image 20240209151353.png|Pasted image 20240209151353.png]]
