@@ -81,6 +81,17 @@ share: true
 >[!Mnemonic] 
 ><font color="#ffc000">Quiet</font>iapine
 # Adverse effects
+>[!tip] Summary
+>- **Extrapyramidal side effects:**
+>    - Acute dystonic reaction: sudden-onset, sustained muscle contractions
+>    - Akathisia: subjective restlessness with inability to sit still
+>    - Drug-induced parkinsonism: tremor, rigidity, bradykinesia, masked facies
+>- **Tardive dyskinesia:**
+>    - Involuntary movements after chronic use (e.g., lip smacking, choreoathetoid movements)
+>- **Neuroleptic malignant syndrome:**
+>    - Fever, rigidity, mental status changes, autonomic instability
+
+
 - First-generation antipsychotics (FGAs)
 	- High-potency (eg, haloperidol)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Extrapyramidal symptoms (acute dystonia, akathisia, parkinsonism), tardive dyskinesia</span>
@@ -99,15 +110,25 @@ share: true
 	- Second-generation antipsychotics: weaker D2 antagonism → fewer EPS
 - Clinical features similar to [[Parkinson disease|Parkinson disease]]: Muscle, rustle, and hustle![[Pasted image 20240317222923.png|Pasted image 20240317222923.png]]
 	- Acute dystonia
+		- Onset: <span style="background:rgba(240, 200, 0, 0.2)">Hours to days</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Painful and lasting muscle spasms and stiffness predominantly affecting the head, neck, and tongue</span> 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Facial grimacing, torticollis</span>
 		- Tongue protrusion or twisting
 		- Oculogyric crisis (upward deviation of the eyes)
 		- In severe cases: laryngospasm, opisthotonus of the back
+	- Pseudoparkinsonism
+		- Onset: ∼ 1–4 weeks
+	- Akathisia
+		- 1–8 weeks
+		- <span style="background:rgba(240, 200, 0, 0.2)">Restlessness/compelling urge to move</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Inability to sit or stand still</span>
+		- See [[Restless legs syndrome|Restless legs syndrome]]
 	- Tardive dyskinesia
+		- Months to years
 		- Repetitive chewing and lip smacking
 		- Choreic movements
 		- <span style="background:rgba(240, 200, 0, 0.2)">Can be irreversible if drug is not discontinued</span>
 
 >[!Mnemonic] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Chewing Tar</span>dive![[32wab_.gif|32wab_.gif]]
+## ![[Neuroleptic malignant syndrome|Neuroleptic malignant syndrome]]
