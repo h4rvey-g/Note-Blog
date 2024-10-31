@@ -33,8 +33,18 @@ share: true
 # Diagnostics
 ![[Pasted image 20240402223058.png|Pasted image 20240402223058.png]]
 
+# Pathology
 ---
+- <span style="background:rgba(240, 200, 0, 0.2)">Cystic medial degeneration</span>: a degeneration (necrosis) of large blood vessels such as the aorta. 
+	- Seen in disorders that cause increased arterial wall stress (e.g., hypertension, [[coarctation of the aorta|coarctation of the aorta]]) as well as connective tissue disorders (especially MFS and EDS)
+	- Can lead to aortic aneurysm and [[aortic dissection|aortic dissection]]
+	- Histopathology![[L2831.jpg|L2831.jpg]]![[L48423.jpg|L48423.jpg]]
+		- Loss, thinning, disorganization, and fragmentation of elastic tissue <span style="background:rgba(240, 200, 0, 0.2)">in the media</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Accumulation of mucoid extracellular matrix</span>
+		- Loss of smooth muscle nuclei
+
+
 # Treatment
-
-
 ---
+
+
