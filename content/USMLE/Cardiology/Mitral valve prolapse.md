@@ -12,7 +12,10 @@ share: true
 
 # Etiology
 ---
-
+- Mostly idiopathic
+- Connective tissue disorders: [[Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]], [[Ehlers-Danlos syndrome and Marfan syndrome|Ehlers-Danlos syndrome]], [[osteogenesis imperfecta|osteogenesis imperfecta]]
+- Acute rheumatic heart disease
+- [[Infective endocarditis|Infective endocarditis]]
 
 # Pathophysiology
 ---
