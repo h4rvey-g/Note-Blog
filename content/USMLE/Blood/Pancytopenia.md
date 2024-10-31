@@ -9,13 +9,13 @@ share: true
 ---
 - Bone marrow aplasia
 	- [[Aplastic anemia|Aplastic anemia]]
-	- Infection (eg, parvovirus, [[Human immunodeficiency virus|HIV]], viral hepatitis)
+	- Infection (eg, [[Parvovirus B19|parvovirus]], [[Human immunodeficiency virus|HIV]], viral hepatitis)
 	- Nutritional deficiency (eg, [[vitamin B12|vitamin B12]]/folate)
 	- Medications (eg, hydroxyurea)
 - Bone marrow infiltration
 	- Cancer (eg, hematologic, metastatic)
 	- [[Primary myelofibrosis|Myelofibrosis]]
-	- Infection (eg, tuberculosis, fungal infection)
+	- Infection (eg, [[tuberculosis|tuberculosis]], fungal infection)
 - Mature blood cell destruction
 	- Intravascular (eg, DIC, [[Thrombotic thrombocytopenic purpura|TTP]])
 	- Extravascular (eg, hypersplenism)
