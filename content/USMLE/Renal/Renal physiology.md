@@ -92,3 +92,23 @@ share: true
 			- Differentiation stimulated by ureteric bud signals
 			- <span style="background:rgba(240, 200, 0, 0.2)">Differentiates into nephrons: glomerulus, proximal convoluted tubule, loop of Henle, and distal convoluted tubule </span>
 	- Congenital anomalies of the kidneys can result from, e.g., due to abnormal interaction between the ureteric bud and the metanephritic blastema.
+
+# Kidney anatomy
+---
+![[Pasted image 20241024171043.png|Pasted image 20241024171043.png]]
+- Renal cortex
+	- The outermost layer of the renal parenchyma (∼ 10 mm thick)
+	- Surrounds the renal medulla and extends inwards (as renal columns) dividing the medulla into renal pyramids
+	- <span style="background:rgba(240, 200, 0, 0.2)">Contains the glomeruli, proximal convoluted tubules, distal convoluted tubules, and cortical collecting ducts</span>
+- Renal medulla
+	- Consists of several renal medullary pyramids separated by the renal columns 
+	- <span style="background:rgba(240, 200, 0, 0.2)">The base of each pyramid faces the outer cortex, the apex faces the renal sinus and forms a renal papilla, which drains into a minor calyx.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Contains the loops of Henle and collecting ducts</span>, which merge to form the papillary ducts at the renal papillae
+	- <span style="background:rgba(240, 200, 0, 0.2)">Blood flow in the renal medulla is relatively low</span> compared to that in the renal cortex. 
+		- Facilitates the development of an osmolality gradient that allows for effective urine concentration 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Causes medullary vulnerability to hypoxia when renal blood flow is decreased (renal ischemia) </span>
+- Renal sinus
+	- The inner portion of the kidney containing the renal calyces and renal pelvis
+	- The minor calyces draining from each renal papilla merge to form major calyces.
+	- The major calyces merge to form the renal pelvis, which represents the proximal portion of the ureter.
+- Renal hilum: The medial fissure on each kidney where the renal pelvis, vessels, and nerves enter and exit
