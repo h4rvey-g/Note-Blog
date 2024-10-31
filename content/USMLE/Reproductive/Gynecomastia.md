@@ -19,6 +19,18 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Small, mobile, firm plaques of breast tissue in the subareolar region</span> that develop during puberty
 		- Can be tender, unilateral/bilateral, and associated with fatty development around the nipple
 		- Spontaneously resolves (usually by 17 years of age) 
+## Pathological gynecomastia
+### Drug-induced
+| Drug                                                 | Mechanism                                                                                                             |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Estrogens**                                        | Direct stimulation of ductal epithelial hyperplasia                                                                   |
+| **Antiandrogens** (e.g., flutamide, bicalutamide)    | Competitive inhibition of testosterone receptor                                                                       |
+| **5-alpha reductase inhibitors** (e.g., finasteride) | ↓ Conversion of testosterone to dihydrotestosterone                                                                   |
+| **Spironolactone**                                   | <span style="background:rgba(240, 200, 0, 0.2)">↓ Testosterone synthesis & inhibition of testosterone receptor</span> |
+| **Ketoconazole**                                     | ↓ Synthesis of steroid hormones (↓ androgen > ↓ estrogen)                                                             |
+| **Cimetidine**                                       | Inhibition of testosterone receptor                                                                                   |
+| **Androgen-anabolic steroids**                       | Aromatization of androgens to estrogen                                                                                |
+
 
 # Pathophysiology
 ---
@@ -34,4 +46,4 @@ share: true
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+
