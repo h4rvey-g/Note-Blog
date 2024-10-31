@@ -26,12 +26,13 @@ Excessive illness anxiety/preoccupation with somatic symptoms & treatment seekin
 - Somatic symptom disorder
 	- The key is <span style="background:rgba(240, 200, 0, 0.2)">symptom</span>
 	- Both panic disorder and somatic symptom disorder feature multiple physical symptoms and high health care use.  In somatic symptom disorder, patients experience physical symptoms <span style="background:rgba(240, 200, 0, 0.2)">persistently</span> (eg, daily, unrelenting fatigue) whereas in panic disorder, physical symptoms are <span style="background:rgba(240, 200, 0, 0.2)">unexpected, episodic, and of short duration</span>, typically lasting <10 minutes.
-- Conversion disorder
+- Conversion disorder (Functional neurological symptom disorder)
 	- CAN'T (They really feel the symptoms and they can't stand them)
 		- Clinically unexplained
 		- Abnormalities
 		- Nervous symptoms
 		- Trigger (sometimes)
+	- <span style="background:rgba(240, 200, 0, 0.2)">No anxiety</span>
 # [[Personality disorders|Personality disorders]]
 - Enduring patterns of maladaptive interpersonal behavior that may include deliberate self-harm (<span style="background:rgba(240, 200, 0, 0.2)">borderline</span>) 
 - Desire to be taken care of (<span style="background:rgba(240, 200, 0, 0.2)">dependent</span>) but do not involve intentional deception
