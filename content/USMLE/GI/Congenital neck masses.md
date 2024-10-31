@@ -10,6 +10,9 @@ share: true
 - Painless, firm, <span style="background:rgba(240, 200, 0, 0.2)">midline</span> neck mass that elevates with swallowing and tongue protrusion
 - Usually located near the hyoid bone 
 - May cause dysphagia or neck/throat pain
+- Pathophysiology 
+	- The thyroid gland originates from the foramen cecum at the base of the tongue and descends caudally into the neck, forming the thyroglossal duct.
+	- If the <span style="background:rgba(240, 200, 0, 0.2)">thyroglossal duct fails to obliterate</span>, midline neck cysts or ectopic thyroid tissue can develop anywhere along its path.
 # Branchial cleft cyst
 - **Definition:** <span style="background:rgba(240, 200, 0, 0.2)">remnants of the embryological second branchial cleft or cervical sinus</span>, which normally regresses before birth
 - **Pathophysiology:** formed due to incomplete obliteration of branchial clefts and pouches![[Pasted image 20231015111236.png|Pasted image 20231015111236.png]]
