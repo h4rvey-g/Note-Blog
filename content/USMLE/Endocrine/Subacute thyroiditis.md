@@ -32,6 +32,7 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 
 ---
 # Pathophysiology
+Subacute thyroiditis typically follows an acute viral illness and is thought to be due to a <span style="background:rgba(240, 200, 0, 0.2)">cross-reacting immune response against viral proteins or tissue antigens released during cellular injury. </span>
 1. <font color="#ffc000">Thyrotoxic phase</font>
 	- Lasts 2–8 weeks
 	- Caused by damage to follicular cells and the release of pre-formed colloid (stored thyroid hormones)
@@ -71,7 +72,7 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 		- Iodine uptake decreases for two reasons: <span style="background:rgba(240, 200, 0, 0.2)">1. Follicular cells are damaged and unable to take up iodine; 2. TSH secretion is initially suppressed as a result of thyrotoxicosis.</span> Radioiodine uptake returns to normal when TSH begins to rise during the hypothyroid phase. <span style="background:rgba(240, 200, 0, 0.2)">Decreased iodine uptake is another important feature that differentiates [[Graves disease| Graves thyrotoxicosis]] from thyrotoxicosis that occurs with subacute thyroiditis.</span>
 - Thyroid pain differential![[Pasted image 20231127220045.png|Pasted image 20231127220045.png]]
 - Histology 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Subacute granulomatous thyroiditis: granulomatous inflammation, multinucleated giant cells</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Subacute granulomatous thyroiditis: granulomatous inflammation, multinucleated giant cells</span>![[Pasted image 20241029221518.png|Pasted image 20241029221518.png]]
 	- Subacute lymphocytic thyroiditis: lymphocytic infiltration, sparse germinal centers
 
 ---
