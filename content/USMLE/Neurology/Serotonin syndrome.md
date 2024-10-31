@@ -16,7 +16,7 @@ share: true
 - [[Anticonvulsant drugs|Anticonvulsants]] (e.g., valproate)
 - <span style="background:rgba(240, 200, 0, 0.2)">Opioids (e.g., tramadol, meperidine)</span>
 - NMDA receptor antagonists (e.g., dextromethorphan)
-- 5-HT3 receptor antagonists (e.g., ondansetron)
+- [[Antiemetics|5-HT3 receptor antagonists]] (e.g., ondansetron)
 - [[Neurotransmitters|Serotonin]] receptor agonists (e.g., triptans, ritonavir)
 - <span style="background:rgba(240, 200, 0, 0.2)">Antibiotics (e.g., linezolid)</span>
 - Herbal supplements (e.g., St. John's wort, ginseng, <span style="background:rgba(240, 200, 0, 0.2)">tryptophan</span>)
