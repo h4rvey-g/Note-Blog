@@ -22,7 +22,7 @@ share: true
 #### Etiology
 - Hypercalciuria
 - Hyperoxaluria
-	- Increased intestinal absorption of oxalate, e.g., due to fatty acid [[malabsorption|malabsorption]] (e.g., [[Crohn disease|Crohn disease]], [[ulcerative colitis|ulcerative colitis]], short bowel syndrome)
+	- Increased intestinal absorption of oxalate, e.g., due to fatty acid [[malabsorption|malabsorption]] (e.g., [[Crohn disease|Crohn disease]], [[ulcerative colitis|ulcerative colitis]], [[Malabsorption|short bowel syndrome]])
 	 - [[Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
 		 - <span style="background:rgba(240, 200, 0, 0.2)">[[Vitamin C|Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
@@ -48,7 +48,7 @@ share: true
 ### Calcium phosphate stones
 #### Etiology
 - [[Hyperparathyroidism|Hyperparathyroidism]] (brushite)
-- Type 1 renal tubular acidosis (brushite)
+- Type 1 [[Renal tubular disorders|renal tubular acidosis]] (brushite)
 - Develop in persistently alkalic urine
 #### Diagnosis
 - Urine microscopy: wedge-shaped crystals![[Pasted image 20230901152436.png|Pasted image 20230901152436.png]] 
@@ -93,7 +93,7 @@ share: true
 - Positive cyanide nitroprusside test
 ## Struvite stones (magnesium ammonium phosphate stones)
 ### Etiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Upper [[Urinary tract infections|UTI]] with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
+- <span style="background:rgba(240, 200, 0, 0.2)">Upper [[Urinary tract infections|UTI]] with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or [[Pseudomonas|Pseudomonas]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation</span>
 		- Urea → 2 NH<sub>3</sub> + CO<sub>2</sub>
 		- NH<sub>3</sub> + H<sub>2</sub>O → NH<sub>4</sub><sup>+</sup> + OH<sup>−</sup>
