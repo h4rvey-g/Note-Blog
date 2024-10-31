@@ -22,14 +22,14 @@ share: true
 - Advanced prostate cancer can manifest with:
 	- Constitutional symptoms: fatigue, loss of appetite, clinically significant unintentional weight loss
 	- Features of metastatic disease; examples include:
-		- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain (due to [[bone metastasis|bone metastasis]], especially in the lumbosacral spine)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain (due to [[bone metastasis|bone metastasis]], especially in the lumbosacral spine)</span>![[L29238.jpg|L29238.jpg]]
 		- Neurological deficits (e.g., due to vertebral fracture causing spinal cord compression) 
 		- [[Nonpitting edema|Lymphedema]] (caused by obstructing metastases in the lymph nodes)
 
 ---
 # Diagnostics
 ## Biopsy
-- Findings: <span style="background:rgba(240, 200, 0, 0.2)">adenocarcinoma</span>![[L66058.jpg|L66058.jpg]]
+- Findings: <span style="background:rgba(240, 200, 0, 0.2)">adenocarcinoma</span>![[L66058.jpg|L66058.jpg]]![[Pasted image 20241029215722.png|Pasted image 20241029215722.png]]
 
 ---
 # Treatment
