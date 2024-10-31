@@ -18,20 +18,20 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Warm and humid climates </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excessive sweating, seborrhea, and oily skin</span>
 	- Immunosuppression
-	- Cushing syndrome
+	- [[Cushing syndrome|Cushing syndrome]]
 
 >[!tip] Malassezia yeast is not one of dermatophytes
 >| Feature             | Malassezia Yeast                        | Dermatophytes                                                      |
 |---------------------|-----------------------------------------|--------------------------------------------------------------------|
 | Classification      | Genus of yeast                          | Group of fungi (genera: Trichophyton, Microsporum, Epidermophyton) |
 | Habitat             | <span style="background:rgba(240, 200, 0, 0.2)">Normal skin flora</span>                       | Soil, animals, human-to-human transmission                         |
-| Infections          | Tinea versicolor, seborrheic dermatitis | Ringworm infections (e.g., Tinea pedis, Tinea corporis)            |
+| Infections          | [[Tinea|Tinea]] versicolor, seborrheic dermatitis | Ringworm infections (e.g., [[Tinea|Tinea]] pedis, [[Tinea|Tinea]] corporis)            |
 | Growth Requirements | Lipids (fats)                           | Keratinized tissues                                                |
 | Pathogenicity       | Opportunistic under certain conditions  | Actively invade keratinized tissues                                |
 
 # Pathophysiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Malassezia spp. infect the stratum corneum → lipid degradation → production of acids that inhibit tyrosinase and damage melanocytes → hypopigmentation</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Malassezia spp. infect the [[Skin layers|stratum corneum]] → lipid degradation → production of acids that inhibit tyrosinase and damage melanocytes → hypopigmentation</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Inflammatory response to pathogens → hyperpigmentation</span>
 
 # Clinical features
