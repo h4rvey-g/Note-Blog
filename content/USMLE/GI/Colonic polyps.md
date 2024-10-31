@@ -27,7 +27,22 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common type of nonneoplastic polyp among those with low malignant potential</span>
 - Histology: hyperplasia of normal cellular components with a sawtooth/serrated pattern of crypt epithelium
 	- <span style="background:rgba(240, 200, 0, 0.2)">No dysplasia</span>, see [[Cellular adaptations|Cellular adaptations]]![[Pasted image 20231215205043.png|Pasted image 20231215205043.png]]
+# Adenomatous polyposis syndromes
+---
+## Familial adenomatous polyposis (FAP)
+- Inheritance: <span style="background:rgba(240, 200, 0, 0.2)">autosomal dominant</span> (one-third of cases are due to de novo mutations) 
+- Intestinal manifestations
+	- <span style="background:rgba(240, 200, 0, 0.2)">Polyps develop in the second/third decade of life but patients are usually asymptomatic until symptoms of colon cancer develop.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Lifetime colorectal cancer risk: 100%</span> (onset typically occurs at 35–40 years of age)
+- Diagnostic findings
+	- Sigmoidoscopy/colonoscopy and histology
+		- <span style="background:rgba(240, 200, 0, 0.2)">100 adenomatous polyps throughout the colorectum</span>![[Pasted image 20241024220505.png|Pasted image 20241024220505.png]]
+		- Desmoid tumors
+	- Genetic testing: mutations in the tumor-suppressing <span style="background:rgba(240, 200, 0, 0.2)">APC gene</span>
+
+
 # Hamartomatous polyposis syndromes
+---
 ## Peutz-Jeghers syndrome (PJS)
 - Inheritance: autosomal dominant
 - Intestinal manifestations
