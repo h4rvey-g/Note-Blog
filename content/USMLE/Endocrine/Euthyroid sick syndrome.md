@@ -16,10 +16,10 @@ share: true
 	- Altered deiodinase enzyme activity leads to:
 		- <span style="background:rgba(240, 200, 0, 0.2)">↓ Conversion of T4 to T3</span>
 		- ↑ Conversion of T4 to reverse T3 (rT3) by thyroxine 5-monodeiodinase
-	- Various factors, e.g., protein loss due to nephrotic syndrome, may also lead to decreased levels of thyroid-binding globulin.
+	- Various factors, e.g., protein loss due to [[nephrotic syndrome|nephrotic syndrome]], may also lead to decreased levels of thyroid-binding globulin.
 - Clinical features
 	- Signs and symptoms of the underlying illness
-	- Typically no classic symptoms of hyper- or hypothyroidism
+	- Typically no classic symptoms of hyper- or [[hypothyroidism|hypothyroidism]]
 - Diagnostics
 	- Early: <span style="background:rgba(240, 200, 0, 0.2)">Low T3, normal TSH & T4</span>
 	- Late: Low T3, TSH & T4
