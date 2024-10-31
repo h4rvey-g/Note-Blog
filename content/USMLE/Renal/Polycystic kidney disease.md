@@ -25,7 +25,7 @@ ADPKD: The most common inherited cause of [[chronic kidney disease|chronic kidne
 
 ---
 # Pathophysiology
-formation and expansion of cysts in the renal cortex and medulla → <span style="background:rgba(240, 200, 0, 0.2)">compression of renal vessels with activation of the renin-angiotensin-aldosterone system (RAAS), ischemia, and destruction of the kidney parenchyma</span>
+Formation and expansion of cysts in the renal cortex and medulla → <span style="background:rgba(240, 200, 0, 0.2)">compression of renal vessels with activation of the renin-angiotensin-aldosterone system (RAAS), ischemia, and destruction of the kidney parenchyma</span>
 
 ---
 # Clinical features
