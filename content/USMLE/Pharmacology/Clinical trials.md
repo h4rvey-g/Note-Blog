@@ -6,6 +6,15 @@ aliases:
   - Clinical trial
 share: true
 ---
+>[!Mnemonic] 
+>Does the drug <font color="#ffc000">SWIM</font>? ⁣  
+>![🏊](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f3ca.png) "Is it <font color="#ffc000">S</font>afe?” Assesses safety, toxicity, pharmacokinetics, and pharmacodynamics⁣  
+>![🏊](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f3ca.png) “Does it <font color="#ffc000">W</font>ork?” Assesses treatment efficacy, optimal dosing, and adverse effects.⁣  
+>![🏊](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f3ca.png) “Is it as good or better?” Compares the new treatment to the current standard of care (any <font color="#ffc000">I</font>mprovement?).⁣  
+>![🏊](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f3ca.png) “Can it stay?” Detects rare or long-term adverse effects (eg, black box warnings). Can result in treatment being withdrawn from <font color="#ffc000">M</font>arket.⁣  
+⁣
+
+![[highresdefault_L67113.jpg|highresdefault_L67113.jpg]]
 - **Phase 0 trial**
     - Purpose: <span style="background:rgba(240, 200, 0, 0.2)">Exploratory phase with no therapeutic or diagnostic intent, aimed at gaining insight into pharmacokinetics and pharmacodynamics.</span>
     - <span style="background:rgba(240, 200, 0, 0.2)">Only &lt; ​1% of the therapeutic dose is used.</span>
