@@ -51,11 +51,12 @@ share: true
 ## Organ malformations and associated conditions
 - Heart: congenital heart defects in ∼ 50% of cases 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Atrioventricular septal defect (endocardial cushion defect) is the most common heart defect in individuals with Down syndrome.</span>
-	- Ventricular septal defect
+	- [[Ventricular septal defect|Ventricular septal defect]]
 	- Atrial septal defects
 - Gastrointestinal tract
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Intestinal atresia|Duodenal atresia]]/stenosis</span>
 	- [[Hirschsprung disease|Hirschsprung disease]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Early-onset [[Alzheimer disease|Alzheimer disease]] (The amyloid precursor protein, which generates amyloid beta, is located on chromosome 21.)</span>
 
 ---
 # Diagnostics

@@ -4,6 +4,7 @@ created: 2024-01-21 10:47
 modified: 2024-01-21 10:47
 aliases:
   - Primary amebic meningoencephalitis
+  - Naegleria fowleri
 share: true
 ---
 # Epidemiology
@@ -26,14 +27,15 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hematogenous dissemination</span>
 		- About 5–10% of the US adult population are colonized with Neisseria meningitidis.<span style="background:rgba(240, 200, 0, 0.2)"> The bacteria attach to the nasopharyngeal mucosa</span>, where they can persist for long periods of time. Hematogenous dissemination may then occur subsequent to mucosal infiltration facilitated by infection with another pathogen capable of infiltrating the mucosa, e.g., adenovirus.![[L42361.jpg|L42361.jpg]]
 	- Contiguous spread of infections in nose, eyes, and ears
-	- Retrograde transport along or within peripheral or cranial nerves
+	- <span style="background:rgba(240, 200, 0, 0.2)">Retrograde transport along or within peripheral or cranial nerves</span>
+		- E.g. Naegleria fowleri via CN I, see below
 	- Direct infection (e.g., due to trauma or head surgery)
 
 # Subtypes and variants
 ---
 ## Primary amebic meningoencephalitis
 - Pathogen: <span style="background:rgba(240, 200, 0, 0.2)">Naegleria fowleri (colloquially referred to as “brain-eating amoeba”), found in warm freshwater (e.g., ponds, hot springs)</span>
-- Route of infection: via <span style="background:rgba(240, 200, 0, 0.2)">contaminated water entering the nose</span> (e.g., while swimming) → invades the CNS directly via the olfactory nerve (perforates the cribriform plate) 
+- Route of infection: via <span style="background:rgba(240, 200, 0, 0.2)">contaminated water entering the nose</span> (e.g., while swimming) → invades the CNS directly via the <span style="background:rgba(240, 200, 0, 0.2)">olfactory nerve</span> (perforates the cribriform plate) 
 - Clinical features: causes <span style="background:rgba(240, 200, 0, 0.2)">fulminant meningoencephalitis with rapid onset</span>
 - Diagnosis
 	- CSF analysis 

@@ -7,6 +7,18 @@ aliases:
   - Iliohypogastric nerve
 share: true
 ---
+>[!tip] 
+>- The **superior gluteal nerve** originates from the L4, L5, and S1 roots.
+>	- Gluteus medius, gluteus minimus, tensor fascia latae
+>	- thigh/hip abduction
+>- The **inferior gluteal nerve** arises from L5, S1, and S2.
+>	- Gluteus maximus
+>	- Thigh/hip extension
+>- The **posterior cutaneous nerve** comes from S1, S2, and S3.
+>- The **pudendal nerve** is derived from S2, S3, and S4.
+>- The **sciatic nerve**, being the largest, includes roots from L4 to S3.
+>- Obturator nerve
+>	- thigh adduction
 # Iliohypogastric nerve
 ![[Pasted image 20231223095230.png|Pasted image 20231223095230.png]]
 ![[L75749.png|L75749.png]]

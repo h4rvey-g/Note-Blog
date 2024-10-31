@@ -20,6 +20,7 @@ share: true
 HFE gene defect (homozygous) → defective binding of transferrin to its receptor → <span style="background:rgba(240, 200, 0, 0.2)">↓ hepcidin synthesis by the liver → unregulated ferroportin activity in enterocytes → ↑ intestinal iron [[absorption|absorption]]</span> → iron accumulation throughout the body → damage to the affected organs![[Pasted image 20231029090123.png|Pasted image 20231029090123.png]]
 >[!tip] 
 >Don't mess up with [[Wilson disease|Wilson disease]]
+>- <span style="background:rgba(240, 200, 0, 0.2)">Wilson disease is accumulation of copper, and has neurologic symptoms.</span>
 
 ---
 # Clinical features
@@ -38,6 +39,18 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 
 >[!tip] 
 >Classic triad of [[cirrhosis|cirrhosis]], [[diabetes mellitus|diabetes mellitus]], skin pigmentation (“bronze [[Diabetes mellitus|diabetes]]”).
+
+| Feature             | Hemochromatosis                                                                                    | Wilson Disease                                                                                                          |
+| ------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Genetics**        | Autosomal recessive; HFE gene mutations                                                            | Autosomal recessive; ATP7B gene mutations                                                                               |
+| **Iron Metabolism** | Excessive iron absorption leading to overload                                                      | Impaired copper excretion leading to accumulation                                                                       |
+| **Common Symptoms** | Fatigue, joint pain, <span style="background:rgba(240, 200, 0, 0.2)">diabetes</span>, skin changes | Liver dysfunction, <span style="background:rgba(240, 200, 0, 0.2)">neurological symptoms</span>, Kayser-Fleischer rings |
+| **Diagnosis**       | Serum ferritin, liver biopsy, genetic testing                                                      | Serum ceruloplasmin, 24-hour urinary copper, liver biopsy                                                               |
+| **Treatment**       | Phlebotomy, chelation therapy if needed                                                            | Chelation therapy (e.g., penicillamine), zinc therapy                                                                   |
+| **Complications**   | Liver cirrhosis, diabetes, heart disease                                                           | Liver failure, neurological damage, psychiatric issues                                                                  |
+| **Age of Onset**    | Usually in middle age                                                                              | Typically in childhood or young adulthood                                                                               |
+| **Prevalence**      | Common in people of Northern European descent                                                      | More common in certain populations (e.g., Ashkenazi Jews)                                                               |
+
 
 ---
 # Diagnostics

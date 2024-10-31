@@ -39,6 +39,8 @@ Acetazolamide
 ## Agents
 - Aldosterone receptor antagonists: spironolactone, eplerenone
 - <span style="background:rgba(240, 200, 0, 0.2)">Epithelial sodium channel blockers: triamterene, amiloride</span>
+## Mechanism of action
+- <span style="background:rgba(240, 200, 0, 0.2)">Androgen and progesterone receptor antagonist</span>
 # Adverse effects
 ---
 ## Loop diuretics

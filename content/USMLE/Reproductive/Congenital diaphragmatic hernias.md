@@ -12,7 +12,7 @@ share: true
 
 # Etiology
 ---
-- Impaired development and/or fusion of embryonic structures (pleuroperitoneal membrane) → defect in the diaphragm persists during fetal development → displacement of abdominal contents into the pleural cavity → compression of lung tissue  → pulmonary hypoplasia
+- Impaired development and/or fusion of embryonic structures (pleuroperitoneal membrane) → defect in the diaphragm persists during [[Embryogenesis|fetal development]] → displacement of abdominal contents into the pleural cavity → compression of lung tissue  → pulmonary hypoplasia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Failure of fusion of the septum transversum postero-laterally with the pleuroperitoneal membranes</span> → Bochdalek hernia![[L66298.jpg|L66298.jpg]]
 
 # Pathophysiology

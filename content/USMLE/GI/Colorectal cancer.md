@@ -19,6 +19,14 @@ share: true
 
 ---
 # Etiology
+## Risk factors for colorectal cancer
+- Hereditary syndromes
+
+| Syndrome                       | Gene Mutation | Colon Cancer Risk                                              | Other Associated Neoplasms                         |
+| ------------------------------ | ------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Familial adenomatous polyposis | APC           | <span style="background:rgba(240, 200, 0, 0.2)">100%</span>    | Upper gastrointestinal, Thyroid, Desmoids/osteomas |
+| [[Lynch syndrome|Lynch syndrome]]                 | MSH2/6, MLH1  | <span style="background:rgba(240, 200, 0, 0.2)">50%-80%</span> | Endometrial, Ovarian                               |
+| Peutz-Jeghers syndrome         | STK11         | 39%                                                            | Upper gastrointestinal, Pancreatic, Breast         |
 
 
 ---

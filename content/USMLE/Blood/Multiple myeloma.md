@@ -42,6 +42,7 @@ share: true
 - Cytology: clusters of plasma cells ![[L44127.jpg|L44127.jpg]]
 	- Mildly organized monoclonal cells
 	- <span style="background:rgba(240, 200, 0, 0.2)">Perinuclear lucent zone</span>
+		- Active Golgi apparatus
 	- <span style="background:rgba(240, 200, 0, 0.2)">Clockface nuclei: Chromatin in the periphery of the nucleus resembles a cartwheel or clock face arrangement.</span>
 	- Intracytoplasmic crystalline inclusion bodies containing IgG
 

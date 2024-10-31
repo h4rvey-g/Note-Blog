@@ -30,6 +30,9 @@ share: true
 # Clinical features
 ![[Pasted image 20231015091950.png|Pasted image 20231015091950.png]]
 
+>[!Mnemonic] Wilson disease has neurologic symptoms but hemochromatosis doesn't
+>Think about <font color="#ffc000">Wilson</font> from Don't Starve, the <font color="#ffc000">mad</font> scientist![[Pasted image 20241030153040.png|Pasted image 20241030153040.png]]
+
 ---
 # Diagnostics
 

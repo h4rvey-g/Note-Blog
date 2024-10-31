@@ -27,12 +27,18 @@ share: true
 
 # Clinical features
 ---
-
+- Auscultation
+	- <span style="background:rgba(240, 200, 0, 0.2)">S3 heart sound in advanced stages of disease</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Indication of severity</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">vs S2-opening snap interval in [[Mitral valve stenosis|Mitral stenosis]], also a indication of severity</span>
+	- Holosystolic murmur (high-pitched, blowing) 
+		- Radiates to the left axilla and heard best over the apex (5th intercostal space at the left midclavicular line) 
+		- Intensity can be increased by increasing preload (e.g., leg raise) or afterload (e.g., handgrip) due to increased regurgitation.
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+

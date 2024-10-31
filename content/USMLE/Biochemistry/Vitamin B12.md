@@ -10,8 +10,10 @@ share: true
 ---
 # Functions
 - Cofactor for enzymes:
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[Methionine|Methionine]] synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).</span>![[Pasted image 20231225210715.png|Pasted image 20231225210715.png]]
-	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)![[Pasted image 20231225210648.png|Pasted image 20231225210648.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Methionine|Methionine]] synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).</span> 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency leads to impaired DNA synthesis</span>![[Pasted image 20241023084613.png|Pasted image 20241023084613.png]]
+	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency leads to impaired myelin synthesis</span>![[Pasted image 20241023084633.png|Pasted image 20241023084633.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hydroxocobalamin (precursor of vitamin B12) is used to treat [[Cyanide poisoning|Cyanide poisoning]]</span>
 
 ---
@@ -20,6 +22,9 @@ share: true
 
 ---
 # Etiology
+>[!attention] 
+>The liver can store approximately <span style="background:rgba(240, 200, 0, 0.2)">1,000 times</span> the daily vitamin B12 requirement; deficiency develops only after the complete absence of intake or absorption for <span style="background:rgba(240, 200, 0, 0.2)">3-4 year</span>
+
 ![[highresdefault_L24633.jpg|highresdefault_L24633.jpg]]
 - [[Malabsorption|Malabsorption]]
 	- ↓ Intrinsic factor (IF)
@@ -89,7 +94,7 @@ share: true
 - If vitamin B12 serum levels are normal:
 	- Measure homocysteine: elevated in both vitamin B12 deficiency and folate deficiency
 	- <span style="background:rgba(240, 200, 0, 0.2)">Measure methylmalonic acid (MMA) to help rule out folate deficiency (MMA is normal in folate deficiency and elevated in vitamin B12 deficiency)</span>
-		- Without vitamin B12, methylmalonyl CoA mutase cannot break down methylmalonyl CoA, which leads to the accumulation of MMA.![[Pasted image 20231225210648.png|Pasted image 20231225210648.png]]
+		- Without vitamin B12, methylmalonyl CoA mutase cannot break down methylmalonyl CoA, which leads to the accumulation of MMA.![[Pasted image 20241023084633.png|Pasted image 20241023084633.png]]
 
 ---
 # Treatment

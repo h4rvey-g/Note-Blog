@@ -13,3 +13,4 @@ share: true
 >[!tip] 
 >- HSV has systemic symptoms, but this is uncommon in chancroid!
 >- <span style="background:rgba(240, 200, 0, 0.2)">Lymphogranuloma venereum has painless genital ulcer, but has painful, fluctuant lymph nodes (buboes)</span>
+>- Add [[Human papillomavirus infection#Anogenital warts (Condylomata acuminata)|Human papillomavirus infection > Anogenital warts (Condylomata acuminata)]], which could be painful or not

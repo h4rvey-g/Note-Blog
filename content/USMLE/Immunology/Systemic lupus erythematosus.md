@@ -17,7 +17,8 @@ share: true
 - Hormonal factors: <span style="background:rgba(240, 200, 0, 0.2)">Hyperestrogenic states (e.g., due to oral contraceptive use, postmenopausal hormonal therapy</span>, [[endometriosis|endometriosis]]) are associated with an increased risk of SLE.
 - Environmental factors
 	- Cigarette smoking and silica exposure increase the risk of developing SLE.
-	- <span style="background:rgba(240, 200, 0, 0.2)">UV light and [[Infectious mononucleosis|EBV]] infection may trigger disease flares</span>, but there is insufficient evidence on whether they cause SLE.
+	- <span style="background:rgba(240, 200, 0, 0.2)">UV light and [[Infectious mononucleosis|EBV]] infection may trigger disease flares</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Ultraviolet rays and sun exposure lead to increased cell apoptosis</span>
 	- Drugs such as procainamide or hydralazine (see “[[Drug-induced lupus erythematosus|Drug-induced lupus erythematosus]]”)
 
 ---
@@ -40,7 +41,8 @@ share: true
 - Skin (85% of cases)
 	- Malar rash (butterfly rash): flat or raised fixed erythema over both malar eminences (nasolabial folds tend to be spared) 
 	- Raynaud phenomenon
-	- <span style="background:rgba(240, 200, 0, 0.2)">Photosensitivity → maculopapular rash </span>![[Pasted image 20231212100519.png|Pasted image 20231212100519.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Photosensitivity → maculopapular rash </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Ultraviolet rays and sun exposure lead to increased cell apoptosis</span>![[Pasted image 20231212100519.png|Pasted image 20231212100519.png]]
 	- Discoid rash  
 	- <span style="background:rgba(240, 200, 0, 0.2)">Oral ulcers (usually painless)</span>
 	- Nonscarring [[alopecia|alopecia]] (except with discoid rashes)
@@ -49,11 +51,13 @@ share: true
 >[!tip] 
 >Both [[rheumatoid arthritis|rheumatoid arthritis]] and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
 ## Less common
+- Hematological: <span style="background:rgba(240, 200, 0, 0.2)">petechiae</span>, pallor, or recurrent infections due to <span style="background:rgba(240, 200, 0, 0.2)">cytopenias</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Warm [[Autoimmune hemolytic anemia|AIHA]]</span>, IgG causes [[Lab findings of hemolysis|extravascular hemolysis]].
 - Kidneys: <span style="background:rgba(240, 200, 0, 0.2)">nephritis with proteinuria (see “[[Diffuse proliferative glomerulonephritis|Lupus nephritis]]”)</span>
 	- Mesangial and/or subendothelial deposition of immune complexes (e.g., anti-dsDNA antibodies, anti-Sm antibodies) → expansion and thickening of mesangium, capillary walls, and/or glomerular basement membrane
 - Heart
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pericarditis, [[myocarditis|myocarditis]], endocarditis (Libman-Sacks endocarditis)</span>
-	- Aortic valve lesions
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Pericarditis|Pericarditis]], [[myocarditis|myocarditis]], endocarditis (Libman-Sacks endocarditis)</span>
+	- Aortic valve lesions <span style="background:rgba(240, 200, 0, 0.2)">(e.g. [[Mitral valve prolapse|Mitral valve prolapse]])</span>
 	- [[Coronary artery disease|Coronary artery disease]] 
 # Diagnostics
 ---

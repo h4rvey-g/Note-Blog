@@ -148,4 +148,11 @@ share: true
 
 # Treatment
 ---
-
+## Systemic therapy
+### ERBB2-targeted therapy <span style="background:rgba(240, 200, 0, 0.2)">(ERBB2 = HER2)</span>
+ERBB2-targeted therapy includes <span style="background:rgba(240, 200, 0, 0.2)">ERBB2 antibodies (e.g., trastuzumab, pertuzumab) and tyrosine kinase inhibitors (e.g., lapatinib, neratinib).</span>
+- Indication: all ERBB2+ tumors
+- First-line agent: trastuzumab
+	- A humanized monoclonal antibody against the ERBB2 tyrosine kinase receptor; used in the treatment of ERBB2+ breast and gastric cancer 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: targets c-erbB2 tyrosine kinase receptor → ↓ of ERBB2-initiated cellular signaling and ↑ antibody-dependent cytotoxicity → ↓ tumor growth</span>
+	- Adverse effects: cardiotoxicity (e.g., dilated cardiomyopathy with systolic CHF)

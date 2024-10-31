@@ -6,7 +6,6 @@ aliases:
   - Scleroderma
 share: true
 ---
-Systemic sclerosis (SSc) is a systemic autoimmune disease characterized by vasculopathy and fibrosis of the skin and other organs.
 # Epidemiology
 - ♀ > ♂ (∼ 5:1)
 - Peak incidence: 30–50 years
@@ -17,11 +16,16 @@ Systemic sclerosis (SSc) is a systemic autoimmune disease characterized by vascu
 
 ---
 # Pathophysiology
-![[highresdefault_L83817.jpg|highresdefault_L83817.jpg]]
+Systemic sclerosis (SSc) is a systemic autoimmune disease characterized by <span style="background:rgba(240, 200, 0, 0.2)">vasculopathy and fibrosis</span> of the skin and other organs.![[highresdefault_L83817.jpg|highresdefault_L83817.jpg]]
 
 ---
 # Clinical features
-![[Pasted image 20231010172112.png|Pasted image 20231010172112.png]]
+
+| Category           | Limited Cutaneous                                                                                                       | Diffuse Cutaneous                                                                |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Manifestations** | Distal sclerosis (most prominent in the fingers), <span style="background:rgba(240, 200, 0, 0.2)">CREST syndrome</span> | Proximal sclerosis (involves the trunk & proximal extremities)                   |
+| **Serology**       | Anticentromere                                                                                                          | Anti–Scl-70                                                                      |
+| **Complications**  | Pulmonary hypertension, Scleroderma renal crisis                                                                        | <span style="background:rgba(240, 200, 0, 0.2)">Interstitial lung disease</span> |
 ## CREST syndrome
 CREST syndrome refers to a constellation of symptoms traditionally associated with <span style="background:rgba(240, 200, 0, 0.2)">limited SSc</span> (can also be seen in diffuse SSc).
 - C: Calcinosis cutis: small white calcium deposits on the pressure points of the extremities (e.g., elbows, knees, fingertips) ![[Pasted image 20231010172910.png|Pasted image 20231010172910.png]]
@@ -71,7 +75,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticentromere antibodies</span>: associated with limited SSc, increased risk for vascular complications (e.g., PAH)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-SCl-70 (anti-topoisomerase I antibody)</span>: associated with severe and rapidly progressive diffuse SSc, limited SSc, ILD, digital ulcers
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-RNA polymerase III</span>: associated with diffuse SSc, scleroderma renal crisis
-
+- A characteristic skin biopsy finding is <span style="background:rgba(240, 200, 0, 0.2)">dermal layer expansion </span>due to diffuse deposition of collagen (eosinophilic connective tissue), resulting in <span style="background:rgba(240, 200, 0, 0.2)">atrophy of the intradermal adipose tissue and dermal appendages (ie, hair follicles, glands).</span>![[L4543.jpg|L4543.jpg]]
 
 ---
 # Treatment

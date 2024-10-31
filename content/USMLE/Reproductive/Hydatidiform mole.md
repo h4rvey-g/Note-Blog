@@ -45,12 +45,12 @@ share: true
 ## DDx
 ![[Pasted image 20240906221319.png|Pasted image 20240906221319.png]]
 
-| Diagnosis                  | Classification | Trophoblasts                                      | Villi                              | Fetal/embryonic tissue   |
-|----------------------------|----------------|--------------------------------------------------|------------------------------------|--------------------------|
-| Partial mole               | Benign         | Focally hyperplastic                             | Focally enlarged, hydropic         | Present, triploid         |
-| Complete mole              | Benign         | Diffusely hyperplastic                           | Diffusely enlarged, hydropic       | Absent                    |
-| Invasive mole              | Malignant      | Diffusely hyperplastic with myometrial invasion  | Diffusely enlarged, hydropic       | Absent                    |
-| Gestational [[choriocarcinoma|choriocarcinoma]] | Malignant      | Diffusely anaplastic/necrotic with vascular invasion | Absent                             | Present or absent         |
+| Diagnosis                       | Classification | Trophoblasts                                         | Villi                        | Fetal/embryonic tissue |
+| ------------------------------- | -------------- | ---------------------------------------------------- | ---------------------------- | ---------------------- |
+| Partial mole                    | Benign         | Focally hyperplastic                                 | Focally enlarged, hydropic   | Present, triploid      |
+| Complete mole                   | Benign         | Diffusely hyperplastic                               | Diffusely enlarged, hydropic | Absent                 |
+| Invasive mole                   | Malignant      | Diffusely hyperplastic with myometrial invasion      | Diffusely enlarged, hydropic | Absent                 |
+| Gestational [[choriocarcinoma|choriocarcinoma]] | Malignant      | Diffusely anaplastic/necrotic with vascular invasion | Absent                       | Present or absent      |
 
 
 ---

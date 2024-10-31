@@ -29,6 +29,8 @@ share: true
 ![[Pasted image 20240808103618.png|Pasted image 20240808103618.png]]![[Pasted image 20240807172514.png|Pasted image 20240807172514.png]]
 # Selective serotonin reuptake inhibitors (SSRI)
 ---
+>[!warning] 
+>Don't use SSRI in [[Bipolar disorder|Bipolar disorder]], as it can precipitate a manic episode!
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of [[Neurotransmitters|serotonin]] reuptake in synaptic cleft → ↑ serotonin levels</span>
 - Drugs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fluoxetine</span>
@@ -106,7 +108,7 @@ share: true
 	- Nausea
 - Drug interactions: risk of [[serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
 - Additional information
-	- Mainly used as an adjunct to other antidepressants for treating insomnia associated with depression 
+	- Mainly used as an adjunct to other antidepressants for treating [[Insomnia disorder|insomnia]] associated with depression 
 	- Two-week washout period before starting other serotonergic drugs
 
 >[!Mnemonic] 
@@ -116,7 +118,7 @@ share: true
 ## Mirtazapine
 - Mechanism of action 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Selective α2-adrenergic antagonist → ↑ [[Neurotransmitters|serotonin]] and norepinephrine release</span>
-	- 5-HT2 and 5-HT3 receptor antagonists → ↑ effect of serotonin on free 5-HT1 receptor is the likely cause of antidepressant action
+	- 5-HT2 and [[Antiemetics|5-HT3 receptor antagonists]] → ↑ effect of serotonin on free 5-HT1 receptor is the likely cause of antidepressant action
 	- H1 antagonist
 - Indications: [[major depressive disorder|major depressive disorder]], especially in patients who are underweight and/or who have [[Insomnia disorder|insomnia]]
 - Side effects

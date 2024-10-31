@@ -25,12 +25,56 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Poultry, unpasteurized milk (natural gut flora in birds)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Contact with infected persons or infected animals (e.g., pigs, dogs, cats)</span>
 
----
 # Pathophysiology
-
-
 ---
+## Inflammatory
+- EHEC
+	- Shiga-like toxin: bloody diarrhea
+	- Enhanced cytokine release (mainly renal epithelial cells) → HUS (no invasion of host cells)
+- Shigella
+	- Spread from cell to cell → invasion of M cells (MALT)
+	- Shiga toxin
+- Campylobacter
+	- Type IV secretion system (T4SS)
+	- Cytolethal-distending toxin
+- Non-Typhi Samonella
+	- Flagellar motility
+	- Endotoxin
+- [[Clostridium difficile infection|Clostridioides difficile]]
+	- Toxin A (enterotoxin)
+	- Toxin B (cytotoxin)
+- Yersinia Enterocolitica
+- Amebic Dysentery
+- Vibrio parahaemolyticus/vulnificus 
+## Noninflammatory
+- ETEC
+	- Heat-labile toxin
+		- Overactivates adenylate cyclase → <span style="background:rgba(240, 200, 0, 0.2)">↑ cAMP → ↑ secretion of chloride and water efflux into the intestinal lumen</span> → watery diarrhea
+	- Heat-stable toxin
+		- Activation of guanylate cyclase → <span style="background:rgba(240, 200, 0, 0.2)">↑ cGMP → ↓ NaCl reabsorption</span> → water efflux into the intestinal lumen → secretory diarrhea
+- V. cholerae
+	- Cholera toxin (enterotoxin): “rice-water” diarrhea
+		- <span style="background:rgba(240, 200, 0, 0.2)">Same with heat-labile toxin</span>
+		- Permanently activates Gs protein → overactivation of adenylate cyclase → <span style="background:rgba(240, 200, 0, 0.2)">↑ cAMP → ↑ secretion of chloride and water efflux into the intestinal lumen </span>→ watery diarrhea.
+- Giardiasis
+	- Impaired function and structure of intestinal tissue, resulting in malabsorption and diarrhea
+- Gastroenteritis from preformed enterotoxin (S. aureus, B. cereus)
+	- See [[Food poisoning|Food poisoning]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">S. aureus: Enterotoxin B</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Forms pores in enterocyte membranes → leakage of Na+ and water into the intestinal lumen</span>
+- C. perfringens
+	- Exotoxins
+	- <span style="background:rgba(240, 200, 0, 0.2)">Clostridium perfringens alpha toxin</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Acts as a phospholipase → degrades cell membranes and tissue.</span>
+	- Enterotoxin (heat-labile)
+		- Responsible for food poisoning.
+- Cryptosporidiosis
+- Norovirus
+- Rotavirus
+
+
 # Clinical features
+---
 
 
 ---

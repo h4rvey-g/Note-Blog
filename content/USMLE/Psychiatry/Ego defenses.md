@@ -18,6 +18,7 @@ share: true
 	- Common in [[Obsessive-compulsive disorder|OCD]]
 - [[Reaction formation|Reaction formation]]: Transforming unacceptable feelings/impulses into the opposite
 - Regression: Reverting to earlier developmental stage
+	- See [[Rett syndrome|Rett syndrome]]
 - Splitting: Experiencing a person/situation as either all positive or all negative
 
 |                                    | Be bad to others          |

@@ -42,6 +42,9 @@ share: true
 	3. Development (at the phosphorylated tyrosine residues) of binding sites for SH2 domains of signal proteins (STAT proteins). 
 	4. <span style="background:rgba(240, 200, 0, 0.2)">STAT proteins are phosphorylated and dimerized by JAK.</span>
 	5. STAT dimers exert their effect directly in the nucleus as a <span style="background:rgba(240, 200, 0, 0.2)">transcription factor</span> for JAK-STAT regulated genes.
+
+>[!tip] 
+>JAK-STAT is activated in 3 types of [[Myeloproliferative neoplasms|Myeloproliferative neoplasms]]
 # Second messengers
 ---
 ![[Pasted image 20240407094441.png|Pasted image 20240407094441.png]]

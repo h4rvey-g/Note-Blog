@@ -77,7 +77,7 @@ share: true
 # Treatment
 ## [[Antiviral therapy|Antiviral therapy]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Direct-acting antivirals (DAAs)</span>
-	- Antivirals target and inhibit HCV-encoded proteins that are essential for the HCV replication cycle.
+	- DAAs target specific enzymes in the HCV life cycle to <span style="background:rgba(240, 200, 0, 0.2)">inhibit viral replication and assembly</span>
 	- Example regimens
 		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
 		- Sofosbuvir PLUS velpatasvir (all 6 genotypes)

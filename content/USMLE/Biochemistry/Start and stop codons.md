@@ -8,3 +8,4 @@ aliases:
 share: true
 ---
 ![[Pasted image 20240206103328.png|Pasted image 20240206103328.png]]
+![[L26544.jpg|L26544.jpg]]

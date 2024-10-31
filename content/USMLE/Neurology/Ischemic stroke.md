@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-24 09:25
 modified: 2023-12-24 09:25
-aliases: []
+aliases:
+  - Wallenberg syndrome
 share: true
 ---
 # Epidemiology
@@ -34,8 +35,8 @@ A <span style="background:rgba(240, 200, 0, 0.2)">left posterior cerebral artery
 Medial medullary syndrome involves contralateral hemiplegia, contralateral epicritic numbness, and ipsilateral tongue weakness.
 >[!Mnemonic] 
 >“<font color="#ffc000">MM</font>! These <font color="#ffc000">açaí (ASA-i)</font> berries are so tasty I want to <font color="#ffc000">lick</font> them!”
-### Posterior inferior cerebellar artery
-Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.
+### Posterior inferior cerebellar artery (Wallenberg syndrome)
+Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.![[L57143.jpg|L57143.jpg]]
 >[!Mnemonic] 
 ><font color="#ffc000">PICA-chew</font>: A <font color="#ffc000">P</font>osterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery stroke makes it so you can’t <font color="#ffc000">chew</font>.![[Pasted image 20240120150237.png|Pasted image 20240120150237.png]]
 ### Anterior inferior cerebellar artery (<span style="background:rgba(240, 200, 0, 0.2)">Lateral pontine syndrome</span>)

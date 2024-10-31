@@ -15,8 +15,8 @@ share: true
 
 # Pathophysiology
 ---
-The pathophysiology of RLS is incompletely understood but likely involves CNS iron deficiency (even in patients with normal serum iron levels) and abnormalities in dopaminergic transmission.
-
+- The pathophysiology of RLS is incompletely understood but likely involves CNS iron deficiency (even in patients with normal serum iron levels) and <span style="background:rgba(240, 200, 0, 0.2)">abnormalities in dopaminergic transmission</span>.
+- See akathisia, an [[Antipsychotics#Extrapyramidal symptoms (EPS)|Antipsychotics > Extrapyramidal symptoms (EPS)]]
 # Clinical features
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">A recurrent urge to move the legs that is:</span>

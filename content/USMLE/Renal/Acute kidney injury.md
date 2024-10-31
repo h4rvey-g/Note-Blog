@@ -24,7 +24,7 @@ share: true
 1. Initiating event (kidney injury)
 2. Oliguric or anuric phase (maintenance phase)
 	- 1–3 weeks
-3. <span style="background:rgba(240, 200, 0, 0.2)">Polyuric/diuretic phase</span>
+3. <span style="background:rgba(240, 200, 0, 0.2)">Polyuric/[[Diuretics|diuretic]] phase</span>
 	- ∼ 2 weeks
 	- Glomerular filtration returns to normal, which increases urine production (polyuria), while tubular reabsorption remains disturbed. 
 		- Generally, the <span style="background:rgba(240, 200, 0, 0.2)">glomeruli recover faster than the tubular system</span>
@@ -54,9 +54,16 @@ share: true
 		- Pigment nephropathy
 			- Myoglobinuria due to [[Rhabdomyolysis and crush syndrome|rhabdomyolysis]] ([[Rhabdomyolysis and crush syndrome|crush syndrome]])
 			- Hemoglobinuria associated with hemolysis
-- Diagnostic
-	- ![[L67813.jpg|L67813.jpg]]
+- Diagnostic![[L67813.jpg|L67813.jpg]]
+
+>[!tip] Acute tubular necrosis vs [[Renal papillary necrosis|Renal papillary necrosis]]
+>- ATN: Oliguria
+>	- Causes: ischemic or toxic
+>- RPN: Flank pain, hematuria
+>	- Causes: [[sickle cell disease|sickle cell disease]], [[Non-opioid analgesics|NSAIDs]]
+
 # Diagnostics
+---
 ![[Pasted image 20230814165601.png|Pasted image 20230814165601.png]]
 ## [[Urine sediment|Urine sediment]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Prerenal: hyaline [[Urine sediment|casts]]</span> due to concentrated urine in the setting of low renal perfusion

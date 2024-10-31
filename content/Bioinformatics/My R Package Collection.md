@@ -42,3 +42,6 @@ share: true
 4. ggsci: [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 • ggsci (nanx.me)](https://nanx.me/ggsci/index.html)
 	- A collection of ggplot2 color palettes inspired by scientific journals and data visualization libraries
 	- Only has up to 10 colors in each palette, and expanding the colors could be tricky
+5. ggalign: [A ggplot2 Extension for Consistent Axis Alignment • ggalign](https://yunuuuu.github.io/ggalign/)
+	- Aligning and organizing multiple plots, particularly those that automatically reorder observations, such as dendrogram.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Alternative to ggheatmap and ComplexHeatmap</span>

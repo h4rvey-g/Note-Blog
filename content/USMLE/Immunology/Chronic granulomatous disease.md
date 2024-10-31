@@ -36,7 +36,7 @@ X-linked recessive or autosomal recessive inheritance (2:1)
 
 ---
 # Treatment
-- Life-long prophylactic antibiotics, e.g., TMP-SMX (for catalase-positive infections)
+- Life-long prophylactic [[antibiotics|antibiotics]], e.g., TMP-SMX (for catalase-positive infections)
 - [[Interferons|IFN-γ]] therapy
 - Bone marrow transplant
 

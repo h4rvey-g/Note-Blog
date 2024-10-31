@@ -82,5 +82,13 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral (poly)neuropathy</span>
 ### Mechanism of action
 - <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of presynaptic</span> P/Q-type <span style="background:rgba(240, 200, 0, 0.2)">Ca<sup>2+</sup> channels</span> via action on the α2δ-subunit → ↓ Ca<sup>2+</sup> intracellular flow → <span style="background:rgba(240, 200, 0, 0.2)">↓ glutamate release</span>
+## Topiramate
+### Indications
+- Focal and generalized tonic-clonic epileptic seizures
+- Migraine prophylaxis
+- Idiopathic intracranial hypertension
+### Mechanism of action
+- Blockage of voltage-gated Na+ channels
+- ↑ GABA
 # Pregnancy and [[Infant nutrition and breastfeeding|breastfeeding]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Classic anticonvulsants (especially carbamazepine and sodium valproate!) should be avoided if possible → [[Teratogenesis|teratogenic]] effects</span>

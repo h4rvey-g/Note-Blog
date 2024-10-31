@@ -5,6 +5,7 @@ modified: 2023-10-17 21:38
 aliases:
   - Hepatitis B infection
   - HBV
+  - Hepatitis D
 share: true
 ---
 # Epidemiology
@@ -80,3 +81,8 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 		- Because HBV is not cytopathic itself and <span style="background:rgba(240, 200, 0, 0.2)">newborns lack mature cytotoxic T-cells that mediate damage infected hepatocytes</span>, the degree of hepatic tissue damage will be very limited.
 	- <span style="background:rgba(240, 200, 0, 0.2)">High risk for chronic infection</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">High viral load & HBeAg positive</span>
+# Hepatitis D
+---
+- Pathogen: hepatitis D virus (HDV)
+	- Comprises an <span style="background:rgba(240, 200, 0, 0.2)">outer lipoprotein envelope made of the hepatitis B surface antigen</span> (HBsAg) for entry into host cells and an inner ribonucleoprotein structure in which the HDV genome resides
+- Epidemiology: 5% of all patients with chronic HBV infection carry HDV.

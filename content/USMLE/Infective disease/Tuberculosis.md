@@ -41,6 +41,21 @@ share: true
 
 # Treatment
 ---
+![[Pasted image 20241030164402.png|Pasted image 20241030164402.png]]
+## Rifamycins
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibits bacterial DNA-dependent RNA-polymerase → prevention of transcription (mRNA synthesis)</span> → inhibition of bacterial protein synthesis → cell death (bactericidal effect)
+## Isoniazid (INH)
+- Mechanism of action
+	- Isoniazid is a <span style="background:rgba(240, 200, 0, 0.2)">prodrug</span> and needs to be converted into its active metabolite <span style="background:rgba(240, 200, 0, 0.2)">by bacterial catalase-peroxidase (encoded by KatG).</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Prevents cell wall synthesis by inhibiting the synthesis of mycolic acid </span>
+## Pyrazinamide
+- Mechanism of action
+	- Not completely understood
+		- <span style="background:rgba(240, 200, 0, 0.2)">Prodrug</span>: converted into active form pyrazinoic acid
+		- Most effective at acidic pH (e.g., in acidic phagolysosomes)
+	- Bactericidal effect
+## Ethambutol
+- Mechanism of action: inhibits arabinosyltransferase → ↓ carbohydrate polymerization → <span style="background:rgba(240, 200, 0, 0.2)">prevention of mycobacterial cell wall synthesis (bacteriostatic effect)</span> 
 ## Side effects of antituberculosis agents
 - Isoniazid
 	- Asymptomatic elevation of transaminases 
