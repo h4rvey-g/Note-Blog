@@ -5,6 +5,7 @@ modified: 2023-08-02 15:19
 aliases:
   - COPD
   - panacinar emphysema
+  - AECOPD
 share: true
 ---
 # Etiology
