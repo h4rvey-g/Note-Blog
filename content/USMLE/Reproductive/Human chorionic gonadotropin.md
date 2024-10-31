@@ -23,3 +23,5 @@ share: true
 		- Pregnancy tests generally detect hCG through antibodies to the β-subunit.
 # Types of pregnancy tests
 ![[Pasted image 20240311145801.png|Pasted image 20240311145801.png]]
+- hCG begins being produced by syncytiotrophoblast after invasion of endometrial connective tissue 6-7 days after fertilization
+- Serum level at 8 days is <5 IU/L, once serum is 20 IU/L this can be detected in a urine pregnancy test (~14 days following fertilization)
