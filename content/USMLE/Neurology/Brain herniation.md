@@ -53,7 +53,7 @@ share: true
 	- Caudal displacement of diencephalon & brainstem
 	- Rupture of paramedian basilar artery branches
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral midposition & fixed pupils (loss of sympathetic & parasympathetic innervation)</span>
-	- Decorticate (flexor) → decerebrate (extensor) posturing
+	- [[Extrapyramidal tracts|Decorticate]] (flexor) → [[Extrapyramidal tracts|decerebrate]] (extensor) posturing
 - Tonsillar
 	- Herniation of cerebellar tonsils through foramen magnum
 	- Coma, loss of CN reflexes, <span style="background:rgba(240, 200, 0, 0.2)">flaccid paralysis, respiratory arrest</span> (brainstem compression)
