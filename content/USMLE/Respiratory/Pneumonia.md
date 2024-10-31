@@ -25,7 +25,7 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - <span style="background:rgba(240, 200, 0, 0.2)">Nonproductive, dry cough</span>
 - Dyspnea
 - <span style="background:rgba(240, 200, 0, 0.2)">Auscultation often unremarkable</span>
-- Common extrapulmonary features include fatigue, headaches, sore throat, myalgias, and malaise.
+- Common extrapulmonary features include fatigue, [[headaches|headaches]], sore throat, myalgias, and malaise.
 
 <mark style="background: #BBFABBA6;">This classification does not have a major impact on patient management because it is not always possible to clearly distinguish between typical and atypical pneumonia.</span>
 # Pathogen-specific pneumonia
@@ -40,7 +40,7 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - Outbreaks most commonly occur in schools, colleges, prisons, and military facilities.
 ### Clinical features
 - Generalized papular rash
-- Erythema multiforme 
+- [[Erythema multiforme|Erythema multiforme]] 
 - [[Pneumonia#Atypical pneumonia|Pneumonia > Atypical pneumonia]]
 ### Diagnostics
 - Subclinical hemolytic [[anemia|anemia]]: associated with elevated cold agglutinin titers (IgM)
@@ -56,7 +56,7 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - Aspiration pneumonitis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Present hours after aspiration event</span>
 	- Range from no symptoms to nonproductive cough, ↓ O2, respiratory distress
-	- CXR infiltrates (one or both lower lobes) resolve without antibiotics
+	- CXR infiltrates (one or both lower lobes) resolve without [[antibiotics|antibiotics]]
 - Aspiration pneumonia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Present days after aspiration event</span>
 	- Fever, cough, ↑ sputum
