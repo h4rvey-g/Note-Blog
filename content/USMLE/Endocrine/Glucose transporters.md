@@ -13,6 +13,6 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">GLUT-4 is present in adipose tissue, and skeletal & heart muscle</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Only one responsive to insulin</span>
 	- Plays a key role in <span style="background:rgba(240, 200, 0, 0.2)">regulating body glucose homeostasis</span>
-	- Insulin stimulates incorporation of GLUT4 (stored in vesicles) into plasma membranes of cells for controlled glucose uptake and storage. 
-	- Physical exercise also induces the translocation of GLUT4 into the plasma membrane of skeletal muscle, in an insulin-independent manner.![[L26321.jpg|L26321.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Insulin stimulates incorporation of GLUT4 (stored in vesicles) into plasma membranes of cells for controlled glucose uptake and storage. </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Physical exercise also induces the translocation of GLUT4 into the plasma membrane</span> of skeletal muscle, in an <span style="background:rgba(240, 200, 0, 0.2)">insulin-independent</span> manner.![[L26321.jpg|L26321.jpg]]
 - GLUT-5 is a fructose transporter found in spermatocytes and the gastrointestinal tract.
