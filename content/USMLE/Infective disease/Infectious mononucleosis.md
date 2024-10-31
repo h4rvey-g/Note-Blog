@@ -21,7 +21,8 @@ share: true
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">EBV infects B lymphocytes in mucosal epithelium (e.g., oropharynx, cervix) via the CD21 receptor</span> → infected B lymphocytes induce a humoral (B-cell) as well as a cellular (T-cell) immune response  → <span style="background:rgba(240, 200, 0, 0.2)">an increased concentration of atypical lymphocytes in the bloodstream, which are CD8+ cytotoxic T cells that fight infected B lymphocytes</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Atypical lymphocytes are not infected by virus; they react to infected cells. They contain cytotoxic granules composed of perforin (creates holes in the infected cell's membrane) and granzymes (enter the cytoplasm of infected cells and trigger cell death)</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">The name "mononucleosis" is derived from the monocyte-like appearance of (atypical) lymphocytes under the microscope.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">The name "mononucleosis" is derived from the monocyte-like appearance of (atypical) lymphocytes under the microscope.</span>![[L46316.jpg|L46316.jpg]]
+
 	- The T-cell response is crucial for overcoming the infection. However, if the response is not sufficient (e.g., in [[Human immunodeficiency virus|HIV]] patients), B cells may proliferate uncontrollably and increase the risk of complications. For example, the high rate of proliferation increases the risk of oncogenic mutations that lead to the development of B-cell lymphomas.
 
 # Clinical features
@@ -49,7 +50,7 @@ share: true
 			- No heterophile antibodies present → no cross-reaction → no agglutination
 			- In some cases, the test can show negative results if it is performed too soon (i.e. within the first 1–2 weeks after symptom onset) and antibodies have not developed yet.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Specificity of ∼ 100%, sensitivity of 85%</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral smear: lymphocytosis with > 10% atypical lymphocytes (in some cases, up to 90%) </span>![[Pasted image 20240321211059.png|Pasted image 20240321211059.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral smear: lymphocytosis with > 10% atypical lymphocytes (in some cases, up to 90%) </span>![[highresdefault_L8246.jpg|highresdefault_L8246.jpg]]
 
 # Treatment
 ---
