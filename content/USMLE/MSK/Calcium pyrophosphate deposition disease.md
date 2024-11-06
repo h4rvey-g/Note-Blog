@@ -48,8 +48,8 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 # Diagnostics
 ## [[Arthrocentesis|Arthrocentesis]] and synovial fluid analysis (SFA)
 - Cloudy fluid
-- Polarized light microscopy (with a red filter) appearance of CPP crystals
-	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>
+- Polarized light microscopy (with a red filter) appearance of CPP crystals (<span style="background:rgba(240, 200, 0, 0.2)">opposite to findings in [[Gout|Gout]]</span>)![[L69143.jpg|L69143.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>![[Pasted image 20241102104304.png|Pasted image 20241102104304.png]]
 	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.
 	- Crystals appear yellow when their axis is perpendicular to the polarizer. 
 - Cell count: WBC > 2000/μL with > 50% neutrophils
