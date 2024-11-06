@@ -19,8 +19,12 @@ share: true
 >	- <font color="#ffc000">TOM</font> moved fast , to <font color="#ffc000">lure</font> the <font color="#ffc000">CAT</font> , but still took several <font color="#ffc000">días</font> (Spanish for days) .
 ## Adverse effects
 ### Benzodiazepine overdose
-- <span style="background:rgba(240, 200, 0, 0.2)">Antidote: flumazenil</span>
-	- Mechanism of action: competitive antagonism at GABA receptor
+- Clinical features
+	- Sedation with normal vital signs
+	- Slurred speech, ataxia
+- Treatment
+	- <span style="background:rgba(240, 200, 0, 0.2)">Antidote: flumazenil</span>
+		- Mechanism of action: competitive antagonism at GABA receptor
 
 >[!Mnemonic] 
 >Flum-<font color="#ffc000">AZE</font>-<font color="#ffc000">NIL</font> = turns benzos into nothing

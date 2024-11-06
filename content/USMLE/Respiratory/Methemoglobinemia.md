@@ -11,7 +11,9 @@ share: true
 
 # Etiology
 ---
-- nitrites
+- Dapsone
+- Local/topical [[Inhalational anesthetics|anesthetics]] (eg, benzocaine, teething medications)
+- [[Nitrates|Nitrates]]/nitrites (eg, drinking ground water)
 
 # Pathophysiology
 ---
@@ -30,4 +32,7 @@ share: true
 # Treatment
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Methylene blue is the first-line treatment for acquired methemoglobinemia.</span>
-	- Acts as a cofactor to <span style="background:rgba(240, 200, 0, 0.2)">reduce methemoglobin to hemoglobin</span>
+	- Acts as a cofactor to <span style="background:rgba(240, 200, 0, 0.2)">reduce methemoglobin to [[Hemoglobin variants|hemoglobin]]</span>
+
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">100% supplemental oxygen is not useful in methemoglobinemia, in contrast to monoxide poisoning and [[cyanide poisoning|cyanide poisoning]].</span>

@@ -50,3 +50,10 @@ share: true
 
 >[!tip] Explanation
 >- Spironolactone also <span style="background:rgba(240, 200, 0, 0.2)">block the deleterious effect of aldosterone on the heart</span>, causing regression of myocardial fibrosis and <span style="background:rgba(240, 200, 0, 0.2)">improvement in ventricular remodeling</span>.
+
+## RAAS inhibitors
+- <span style="background:rgba(240, 200, 0, 0.2)">Angiotensin receptor-neprilysin inhibitors (ARNIs)</span>
+	- Drug names: <span style="background:rgba(240, 200, 0, 0.2)">sacubitril/valsartan </span>
+		- To <span style="background:rgba(240, 200, 0, 0.2)">block the vasoconstrictive effect of angiotensin II accumulation, sacubitril needs to be combined with an ARB</span>.![[highresdefault_L25942.jpg|highresdefault_L25942.jpg]]
+			- <span style="background:rgba(240, 200, 0, 0.2)">Neprilysin</span> is a zinc-dependent metalloprotease that cleaves peptides at the amino side of hydrophobic residues and <span style="background:rgba(240, 200, 0, 0.2)">inactivates several peptide hormones</span> including glucagon, enkephalins, substance P, neurotensin, oxytocin, and bradykinin.
+	- Indication: Stage C or D HFrEF (preferred initial agent for RAAS inhibition)

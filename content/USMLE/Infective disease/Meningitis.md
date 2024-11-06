@@ -15,6 +15,12 @@ share: true
 ## Bacterial
 - <span style="background:rgba(240, 200, 0, 0.2)">Neisseria meningitidis (First peak: &lt; 2 years of age; second peak: 16–20 years of age)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Streptococcus pneumoniae|Streptococcus pneumoniae]] (most common in adults >20 and elders)</span>
+### Most common causative agents of bacterial meningitis by age group and underlying condition
+- Immunocompromise
+	- [[Listeriosis|Listeria monocytogenes]]
+	- [[Streptococcus pneumoniae|Streptococcus pneumoniae]]
+	- [[Haemophilus influenzae|Haemophilus influenzae]] type b
+	- Gram-negative bacilli (e.g., Escherichia coli, Salmonella spp.)
 ## Other etiologies
 - Viral meningitis: often associated with encephalitis (meningoencephalitis)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Enteroviruses (especially coxsackieviruses and echoviruses): the most common cause of all types of meningitis in all patient groups</span>

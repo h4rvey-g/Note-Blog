@@ -40,6 +40,10 @@ share: true
 3. <span style="background:rgba(240, 200, 0, 0.2)">ADH also stimulates reabsorption of urea in collecting ducts to maximize corticopapillary osmotic gradient. **So increased [[BUN-creatinine ratio|BUN-creatinine ratio]] in hypovolemia.**</span>
 	- Urea passively diffuses from the interstitium into the loop of Henle, increasing the luminal concentration of urea.![[Pasted image 20240322222015.png|Pasted image 20240322222015.png]]
 # Renal blood flow
+![[Pasted image 20241031155759.png|Pasted image 20241031155759.png]]
+
+>[!Mnemonic] 
+>Physiological substances all increase GFR, while artificial medications all reduce GFR.
 ## Tubuloglomerular feedback
 - Description: feedback system between the tubules and glomeruli that <span style="background:rgba(240, 200, 0, 0.2)">adjusts the GFR according to the resorption capacity of the tubules</span>
 - Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">macula densa (of the juxtaglomerular apparatus) senses alterations in the NaCl concentration in the DCT </span>

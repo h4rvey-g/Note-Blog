@@ -6,6 +6,7 @@ aliases:
   - Congenital hypothyroidism
 share: true
 ---
+![[53b4869667ab7d60531d8d4b5dd514de.jpg|53b4869667ab7d60531d8d4b5dd514de.jpg]]
 # Epidemiology
 
 
@@ -61,16 +62,16 @@ Hypothyroidism is treated with lifelong hormone substitution.
 ---
 # Congenital hypothyroidism
 ## Clinical features
-- Umbilical hernia
-- Prolonged [[neonatal jaundice|neonatal jaundice]]
-	- Most commonly, unconjugated hyperbilirubinemia
-		- Primarily due to decreased UDP-glucuronosyltransferase activity
-- Hypotonia
-- Decreased activity, poor feeding, and adipsia 
-- Hoarse cry, macroglossia
-- <span style="background:rgba(240, 200, 0, 0.2)">Cretinism: a complication of severe, untreated congenital hypothyroidism that leads to impaired development of the brain and skeleton, resulting in skeletal abnormalities (e.g., short stature and delayed fontanelle closure) and permanent intellectual disabilities</span>
+- Asymptomatic at birth
+- Symptomatic weeks to months after birth (as maternal T4 wanes)
+	- Hypometabolism: ↓ HR & temperature, lethargy/poor feeding, hypotonia, constipation, jaundice
+	- Mucopolysaccharide accumulation: macroglossia, umbilical hernia
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cretinism</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Nonpitting edema (eg, "puffy" face), umbilical hernia, protruding tongue, and a large anterior fontanelle</span>
+		- Due to <span style="background:rgba(240, 200, 0, 0.2)">accumulation of matrix substances cutaneously and internally</span>
+
 >[!warning] 
->Most children with congenital hypothyroidism do not have symptoms at the time of birth because the placenta supplies the fetus with maternal thyroid hormone. For this reason, neonatal screening is vital even if children are asymptomatic. Irreversible intellectual disabilities can be avoided through early initiation of adequate therapy!
+>Most children with congenital hypothyroidism <span style="background:rgba(240, 200, 0, 0.2)">do not have symptoms at the time of birth because the placenta supplies the fetus with maternal thyroid hormone.</span> For this reason, neonatal screening is vital even if children are asymptomatic. Irreversible intellectual disabilities can be avoided through early initiation of adequate therapy!
 
 ## Diagnostics
 - <span style="background:rgba(240, 200, 0, 0.2)">Neonatal screening to measure TSH levels</span> 24–48 hours after birth is required by law.

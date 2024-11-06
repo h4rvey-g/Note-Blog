@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-04-05 11:08
 modified: 2024-04-05 11:08
-aliases: []
+aliases:
+  - Immunodeficiency
 share: true
 ---
 - B-cell immunodeficiencies <span style="background:rgba(240, 200, 0, 0.2)">(pyogenic and sinopulmonary infections, especially by encapsulated bacteria. See [[Asplenia|Asplenia]])</span>
@@ -25,6 +26,7 @@ share: true
 	- [[Leukocyte adhesion deficiency type 1|Leukocyte adhesion deficiency type 1]]
 	- [[Chédiak-Higashi syndrome|Chédiak-Higashi syndrome]]
 	- Myeloperoxidase deficiency
+- [[Complement system#Complement deficiencies|Complement system > Complement deficiencies]]
 
 | Condition                            | Characteristic features                                                                |
 | ------------------------------------ | -------------------------------------------------------------------------------------- |

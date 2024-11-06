@@ -23,6 +23,7 @@ AMD is characterized by progressive degenerative changes in the central part of 
 - <span style="background:rgba(240, 200, 0, 0.2)">Dry AMD (∼ 90%)</span>
 	- Also referred to as nonexudative AMD or atrophic AMD
 	- <span style="background:rgba(240, 200, 0, 0.2)">Deposition of yellow-whitish material consisting of lipids, vitronectin, and other proteins (drusen) in the retinal pigment epithelium and between it and Bruch membrane  → slow progressive atrophy of the local retinal pigment epithelium (centrally or pericentrally)</span>
+		- The condition likely results from <span style="background:rgba(240, 200, 0, 0.2)">chronic oxidative damage to the retinal pigment epithelium and choriocapillaris</span>, leading to subretinal inflammation with abnormal extracellular matrix formation (eg, confluent drusen, basement membrane thickening).
 - <span style="background:rgba(240, 200, 0, 0.2)">Wet AMD (∼ 10%)</span>
 	- Also referred to as exudative AMD or neovascular AMD
 	- <span style="background:rgba(240, 200, 0, 0.2)">Choroidal neovascularization (between the retinal pigment epithelium and Bruch's membrane) → leaking of intravascular serous fluid and blood  → sudden localized elevation of the macula and/or detachment of the retinal pigment epithelium</span>
@@ -49,7 +50,7 @@ AMD is characterized by progressive degenerative changes in the central part of 
 
 ---
 # Treatment
-- Treatment of wet AMD
+- Treatment of <span style="background:rgba(240, 200, 0, 0.2)">wet AMD</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">First-line: injection of VEGF inhibitors (ranibizumab, bevacizumab, pegaptanib) into the vitreous body </span>
 
 >[!Mnemonic] 

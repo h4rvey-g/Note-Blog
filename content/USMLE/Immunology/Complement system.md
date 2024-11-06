@@ -44,3 +44,4 @@ share: true
 	- Strong contraindication for ACE inhibitors
 ## Complement deficiencies
 ![[Pasted image 20240405112726.png|Pasted image 20240405112726.png]]
+- Recurrent, severe childhood infections (e.g., upper respiratory tract infections, pneumonia, meningitis) with encapsulated bacteria (e.g., <span style="background:rgba(240, 200, 0, 0.2)">N. meningitidis</span>, H. influenzae, S. pneumoniae)

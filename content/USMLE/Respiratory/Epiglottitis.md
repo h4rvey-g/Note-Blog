@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-10-08 08:52
 modified: 2023-10-08 08:52
-aliases: []
+aliases:
+  - Epiglottis
 share: true
 ---
 # Epidemiology

@@ -17,3 +17,4 @@ share: true
 >	- When this inhibitory control is lost or reduced due to an UMN lesion, the result is an increase in muscle tone and spasticity, more so in muscles with anti-gravity functions such as the extensors in the legs.
 >- <font color="#ffc000">Upper Extremities (e.g., Arms)</font>: <font color="#ffc000">flexor muscles</font> tend to exhibit increased tone and spasticity in UMN lesions
 >	- This is related to the natural posture and use of these limbs, where flexion is a more dominant and protective posture.
+>- Also see [[Extrapyramidal tracts|Extrapyramidal tracts]]

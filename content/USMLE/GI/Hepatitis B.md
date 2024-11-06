@@ -16,22 +16,6 @@ share: true
 
 
 ---
-# Pathology
-## Active viral hepatitis
->[!tip] 
->Most cases are marked by significant <span style="background:rgba(240, 200, 0, 0.2)">panlobular lymphocytic inflammation (ie, involving the entire lobule)</span>, which develops in response to the viral antigens.  To control the infection, <span style="background:rgba(240, 200, 0, 0.2)">cytotoxic T cells trigger apoptosis</span> of infected hepatocytes by binding death receptors (eg, Fas) on the plasma membrane and by secreting cytotoxic mediators (eg, perforins, granzymes).  As a result, a cascade of caspase enzymes breaks down hepatocyte proteins and DNA, leading to <span style="background:rgba(240, 200, 0, 0.2)">cell shrinkage, chromatin condensation and fragmentation, and budding apoptotic bodies (ie, membrane-bound cellular fragments).</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Eosinophilic single-cell necrosis (Councilman bodies) </span>
-	- An eosinophilic remnant of apoptotic hepatocytes seen on liver biopsy. Associated with yellow fever and viral hepatitis.![[L80982.png|L80982.png]]![[L68570.jpg|L68570.jpg]]
-- Bridging necrosis
-## Chronic viral hepatitis
-- <span style="background:rgba(240, 200, 0, 0.2)">Interface hepatitis (piecemeal necrosis) </span>
-	- Periportal liver cell necrosis with lymphocytic infiltration![[Pasted image 20231017214520.png|Pasted image 20231017214520.png]]
-	- The cause of interface hepatitis is a CD8 T-cell‑induced hepatocyte apoptosis.
-	- Indicates chronic active hepatitis and poor prognosis
-- Fibrous septa
-- <span style="background:rgba(240, 200, 0, 0.2)">Ground glass hepatocytes (Characteristic for HBV)</span>
-	- Hepatocytes with swollen transparent cytoplasm due to hyperplasia of the [[endoplasmic reticulum|endoplasmic reticulum]] resulting in a ground glass appearance![[Pasted image 20231017214542.png|Pasted image 20231017214542.png]]![[Pasted image 20231017214547.png|Pasted image 20231017214547.png]]
-	- Pathognomonic for hepatitis B
 
 ---
 # Pathophysiology
@@ -64,12 +48,27 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 >[!tip] Window period
 >During the window period, anti-HBc IgM and anti-HBe may be positive. <span style="background:rgba(240, 200, 0, 0.2)">But they don't give a clear picture of current infectiousness because they may indicate previous infection.</span>
 
-
+# Pathology
 ---
+## Active viral hepatitis
+>[!tip] 
+>Most cases are marked by significant <span style="background:rgba(240, 200, 0, 0.2)">panlobular lymphocytic inflammation (ie, involving the entire lobule)</span>, which develops in response to the viral antigens.  To control the infection, <span style="background:rgba(240, 200, 0, 0.2)">cytotoxic T cells trigger apoptosis</span> of infected hepatocytes by binding death receptors (eg, Fas) on the plasma membrane and by secreting cytotoxic mediators (eg, perforins, granzymes).  As a result, a cascade of caspase enzymes breaks down hepatocyte proteins and DNA, leading to <span style="background:rgba(240, 200, 0, 0.2)">cell shrinkage, chromatin condensation and fragmentation, and budding apoptotic bodies (ie, membrane-bound cellular fragments).</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Eosinophilic single-cell necrosis (Councilman bodies) </span>
+	- An eosinophilic remnant of apoptotic hepatocytes seen on liver biopsy. Associated with yellow fever and viral hepatitis.![[L80982.png|L80982.png]]![[L68570.jpg|L68570.jpg]]
+- Bridging necrosis
+## Chronic viral hepatitis
+- <span style="background:rgba(240, 200, 0, 0.2)">Interface hepatitis (piecemeal necrosis) </span>
+	- Periportal liver cell necrosis with lymphocytic infiltration![[Pasted image 20231017214520.png|Pasted image 20231017214520.png]]
+	- The cause of interface hepatitis is a CD8 T-cell‑induced hepatocyte apoptosis.
+	- Indicates chronic active hepatitis and poor prognosis
+- Fibrous septa
+- <span style="background:rgba(240, 200, 0, 0.2)">Ground glass hepatocytes (Characteristic for HBV)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Accumulation of hepatitis B surface antigen within infected hepatocytes.</span> This results in the appearance of a <span style="background:rgba(240, 200, 0, 0.2)">finely granular, homogeneous, pale eosinophilic cytoplasm (ground-glass hepatocytes)</span>.![[Pasted image 20241103104916.png|Pasted image 20241103104916.png]]
+	- Pathognomonic for hepatitis B
+
 # Treatment
-
-
 ---
+
 # Prevention
 ## Perinatal Hep B
 ![[Pasted image 20231029112500.png|Pasted image 20231029112500.png]]

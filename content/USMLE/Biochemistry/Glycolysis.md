@@ -6,6 +6,8 @@ aliases: []
 share: true
 ---
 ![[Pasted image 20231107154612.png|Pasted image 20231107154612.png]]
+![[Pasted image 20241031153852.png|Pasted image 20241031153852.png]]
+
 Glycolysis is the metabolic process that serves as the foundation for both aerobic and anaerobic cellular respiration. In glycolysis, glucose is converted into pyruvate. Glucose is a six- memebered ring molecule found in the blood and is usually a result of the breakdown of carbohydrates into sugars. It enters cells through specific transporter proteins that move it from outside the cell into the cell’s cytosol. All of the glycolytic enzymes are found in the cytosol.  
 糖酵解是一种代谢过程，是有氧和无氧细胞呼吸的基础。在糖酵解中，葡萄糖转化为丙酮酸。葡萄糖是血液中发现的六元环分子，通常是碳水化合物分解成糖的结果。它通过特定的转运蛋白进入细胞，将其从细胞外转移到细胞质中。所有糖酵解酶都存在于细胞质中。
 
