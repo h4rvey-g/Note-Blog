@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-08-03 14:40
 modified: 2023-08-03 14:40
-aliases: Untitled
+aliases: []
 share: true
 ---
 # Etiology
@@ -84,7 +84,7 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 	- Select cases of severe asthma
 ### IL-5 antibodies
 -  mepolizumab, reslizumab,benralizumab
-- <span style="background:rgba(240, 200, 0, 0.2)">Block the effects of IL-5 on eosinophils</span> → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
+- <span style="background:rgba(240, 200, 0, 0.2)">Block the effects of IL-5 on [[eosinophils|eosinophils]]</span> → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
 - Uses
 	- Refractory severe eosinophilic asthma
 
