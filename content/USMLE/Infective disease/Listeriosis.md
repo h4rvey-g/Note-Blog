@@ -4,6 +4,7 @@ created: 2024-07-28 20:03
 modified: 2024-07-28 20:03
 aliases:
   - Listeria
+  - Listeria monocytogenes
 share: true
 ---
 # Epidemiology
@@ -23,7 +24,7 @@ share: true
 		- Perinatal transmission (via infected vaginal secretions)
 - Incubation time: 1–90 days (usually within a month) 
 - Risk factors
-	- Immunodeficiency
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Congenital immunodeficiency disorders|Immunodeficiency]]</span>
 	- Age > 60
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Pregnancy|Pregnancy]]</span>
 	- Neonates
@@ -40,7 +41,7 @@ share: true
 - Pregnant women
 	- Flu-like illness
 	- Chorioamnionitis
-	- Spontaneous abortion
+	- [[Spontaneous abortion|Spontaneous abortion]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis</span>
 - Infants
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal [[meningitis|meningitis]]</span>
