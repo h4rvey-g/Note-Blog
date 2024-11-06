@@ -25,9 +25,9 @@ share: true
 - APC/β catenin: [[Colorectal cancer|Colorectal cancer]], [[pancreatic cancer|pancreatic cancer]]
 - BRCA1, BRCA2: [[Breast cancer|Breast cancer]], [[ovarian cancer|ovarian cancer]]
 	- Involved in <span style="background:rgba(240, 200, 0, 0.2)">repair of double-stranded DNA breaks</span>
-- NF1: [[Neuroblastoma|Neuroblastoma]], sarcoma
-- <span style="background:rgba(240, 200, 0, 0.2)">RB (RB1): Retinoblastoma, osteosarcoma</span>
-	- Retinoblastoma protein (Rb protein):<span style="background:rgba(240, 200, 0, 0.2)"> causes cell cycle arrest at the G1 phase by inhibiting E2F transcription factor.</span>
+- [[Neurocutaneous disorders|NF1]]: [[Neuroblastoma|Neuroblastoma]], sarcoma
+- <span style="background:rgba(240, 200, 0, 0.2)">RB (RB1): [[Retinoblastoma|Retinoblastoma]], osteosarcoma</span>
+	- [[Retinoblastoma|Retinoblastoma]] protein (Rb protein):<span style="background:rgba(240, 200, 0, 0.2)"> causes cell cycle arrest at the G1 phase by inhibiting E2F transcription factor.</span>
 	- Needs to be phosphorylated (rendering it inactive) to allow progression through the <span style="background:rgba(240, 200, 0, 0.2)">G1/S checkpoint</span>
 - TP53: Most cancers, [[Li-Fraumeni syndrome|Li-Fraumeni (SBLA) syndrome]] (multiple malignancies at early age; Sarcoma, Breast/Brain, Lung/Leukemia, Adrenal gland)
 	- Encodes the p53 protein that suppresses cell division and regulates DNA repair and apoptosis.
