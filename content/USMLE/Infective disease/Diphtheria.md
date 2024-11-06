@@ -40,3 +40,7 @@ share: true
 - Tests to identify toxigenic strains (if the culture reveals C. diphtheriae)
 	- Elek test
 		- Positive if the strain is toxicogenic
+# Treatment
+---
+- Diphtheria antitoxin (most important)
+- [[Antibiotics|Antibiotics]]
