@@ -28,7 +28,14 @@ share: true
 
 # Clinical features
 ---
-
+- Most patients are asymptomatic.
+- Recurring hemolytic crises may occur, especially following triggers
+	- Arise within 2–3 days after increased oxidative stress 
+	- Sudden onset of back or abdominal pain
+	- Jaundice
+	- [[Urine color|Dark urine]] 
+	- Transient [[splenomegaly|splenomegaly]]
+- Recurrent severe infections causing symptoms of [[chronic granulomatous disease|chronic granulomatous disease]]
 
 # Diagnostics
 ---
