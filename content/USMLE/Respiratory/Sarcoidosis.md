@@ -42,16 +42,21 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 - <span style="background:rgba(240, 200, 0, 0.2)">Interstitial fibrosis</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cough, exertional dyspnea, chest pain</span>
 	- Mild rales on pulmonary auscultation
-## Cutaneous sarcoidosis
+## Extrapulmonary sarcoidosis
+### Cutaneous sarcoidosis
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Erythema nodosum|Erythema nodosum]]</span>: most common nonspecific cutaneous manifestation 
 ![[Pasted image 20230720153101.png|Pasted image 20230720153101.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Lupus pernio</span>
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
 
 Butterfly rash as seen in [[systemic lupus erythematosus|systemic lupus erythematosus]]
-## Neurosarcoidosis
+### Neurosarcoidosis
 - Cranial nerve palsy (unilateral or bilateral <span style="background:rgba(240, 200, 0, 0.2)">facial nerve palsy is the most common</span>)
 - [[Diabetes insipidus|Diabetes insipidus]]
+### Ocular sarcoidosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Sarcoid uveitis</span> 
+	- Most common ocular manifestation
+	- Manifests with pain, redness, and photophobia
 ## Symptoms of [[hypercalcemia|hypercalcemia]]![[Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
 
 ---
