@@ -22,3 +22,14 @@ share: true
 | 12  | <font color="#ffc000">H</font>oney  | <font color="#ffc000">H</font>ypoglossal Canal        |
 
 CN V![[Pasted image 20240219180217.png|Pasted image 20240219180217.png]]
+# Tongue nerve intervention
+---
+1. Motor innervation of the tongue is provided by the <span style="background:rgba(240, 200, 0, 0.2)">hypoglossal nerve (cranial nerve CN XII) </span>with the exception of the palatoglossus muscle, which is innervated by the vagus nerve (CN X).
+2. General sensory innervation of the tongue (including touch, pain, pressure, and temperature sensation) is provided by:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anterior 2/3 of the tongue: mandibular branch of trigeminal nerve (CN V3)</span>
+	- Posterior 1/3 of the tongue: glossopharyngeal nerve (CN IX)
+	- Posterior area of the tongue root: vagus nerve (CN X)
+3. Gustatory innervation (taste buds) is as follows:
+	- Anterior 2/3 of the tongue: chorda tympani branch of facial nerve (CN VII)
+	- Posterior 1/3 of the tongue: glossopharyngeal nerve (CN IX)
+	- Posterior area of the tongue root and taste buds of the larynx and upper esophagus: vagus nerve (CN X)
