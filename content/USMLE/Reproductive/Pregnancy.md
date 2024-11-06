@@ -9,7 +9,7 @@ share: true
 ---
 ## Respiratory system
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Oxygen consumption</span> (by approx. 20%)
-- ↑ Intraabdominal pressure through uterine growth → dyspnea (the diaphragm is displaced upwards → ↓ total lung capacity, residual volume, functional residual capacity, and expiratory reserve volume)
+- ↑ Intraabdominal pressure through uterine growth → [[dyspnea|dyspnea]] (the diaphragm is displaced upwards → ↓ total lung capacity, residual volume, functional residual capacity, and expiratory reserve volume)
 - <span style="background:rgba(240, 200, 0, 0.2)">Progesterone stimulates the respiratory centers in the brain → hyperventilation (to eliminate fetal CO2 more efficiently) → physiological, chronic compensated respiratory alkalosis</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Ventilation|Ventilation]] is increased primarily ↑ Tidal volume → ↑ minute [[ventilation|ventilation]]</span>
 		- Elevated progesterone levels trigger a sensation of shortness of breath and stimulate the [[hypothalamus|hypothalamus]] to increase respiratory drive.
@@ -21,6 +21,7 @@ share: true
 	- Increased cardiac output leads to increased renal perfusion.
 	- Therefore, serum creatinine levels considered normal in nonpregnant patients (eg, 1.0 mg/dL) represent significant renal dysfunction in this population.
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Glucose levels in urine: Increased glomerular filtration results in overload of the glucose carrier responsible for its resorption.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Mild proteinuria: Increased GFR and glomerular permeability to albumin</span> increases protein excretion.
 ## Hematologic system
 - ↑ Plasma volume → ↓ hematocrit, especially towards the end of pregnancy (30–34th week of gestation) → dilutional anemia (hemoglobin value rarely drops below 11 g/dL)
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypercoagulability is due to an increase in fibrinogen, factor VII, and factor VIII and a decrease in protein S (reduces the risk of intrapartum blood loss).</span>
@@ -34,3 +35,14 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal proteolysis: provides a readily available supply of amino acids for the fetus</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal lipolysis</span>: leads to increased free fatty acids and ketones <span style="background:rgba(240, 200, 0, 0.2)">to provide energy to the mother, preserving glucose and amino acids for the fetus</span>
+## Gastrointestinal system
+- ↑ Salivation
+- ↓ Lower esophageal sphincter tone → gastroesophageal reflux
+- <span style="background:rgba(240, 200, 0, 0.2)">↓ Motility → constipation and bloating</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Progesterone decreases colonic smooth muscle activity and decreases fasting MMCs (migrating myoelectric complex) in the small intestine</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gravid uterus mechanically impedes small intestine transit</span>
+- Gallbladder stasis → [[gallstones|gallstones]]
+	- Estrogen increases cholesterol secretion into bile
+	- Progesterone reduces gallbladder motility
+- [[Hemorrhoids|Hemorrhoids]]
+	- Gravid uterus increases venous pressure
