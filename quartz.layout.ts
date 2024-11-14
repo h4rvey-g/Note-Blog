@@ -34,21 +34,21 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
   afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
+    Component.Comments({
+      provider: 'giscus',
+      options: {
       // from data-repo
-      repo: 'h4rvey-g/Note-Blog',
+        repo: 'h4rvey-g/Note-Blog',
       // from data-repo-id
-      repoId: 'R_kgDOMMkbLg',
+        repoId: 'R_kgDOMMkbLg',
       // from data-category
-      category: 'Announcements',
+        category: 'Announcements',
       // from data-category-id
-      categoryId: 'DIC_kwDOMMkbLs4CkQkL',
-      inputPosition: 'top'
-    }
-  }),
-],
+        categoryId: 'DIC_kwDOMMkbLs4CkQkL',
+        inputPosition: 'top'
+      }
+    }),
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
