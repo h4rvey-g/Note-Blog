@@ -33,6 +33,22 @@ export const sharedPageComponents: SharedLayout = {
       "Email": "mailto:howieguo8@outlook.com",
     },
   }),
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'h4rvey-g/Note-Blog',
+      // from data-repo-id
+      repoId: 'R_kgDOMMkbLg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOMMkbLs4CkQkL',
+      inputPosition: 'top'
+    }
+  }),
+],
 }
 
 // components for pages that display a single page (e.g. a single note)
