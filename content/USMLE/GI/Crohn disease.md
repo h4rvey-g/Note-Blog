@@ -113,9 +113,10 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - <span style="background:rgba(240, 200, 0, 0.2)">Stenosis/strictures → bowel obstruction/(sub)ileus</span>
 - Intestinal perforation → peritonitis
 - [[Primary sclerosing cholangitis|Primary sclerosing cholangitis]]
-- Impaired bile acid reabsorption
+- <span style="background:rgba(240, 200, 0, 0.2)">Impaired bile acid reabsorption</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cholesterol gallstones</span>![[L31467 (1).jpg|L31467 (1).jpg]]
 	- Bile acid diarrhea 
-	- Bile acid [[malabsorption|malabsorption]] → [[steatorrhea|steatorrhea]] and deficiencies in fat-soluble vitamins 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bile acid [[malabsorption|malabsorption]] → [[steatorrhea|steatorrhea]] and deficiencies in fat-soluble vitamins </span>
 - Abscess formation/phlegmons
 ## Systemic complications
 - Signs of [[malabsorption|malabsorption]] syndrome
