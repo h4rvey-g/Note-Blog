@@ -11,12 +11,24 @@ share: true
 
 # Etiology
 ---
+
+| Feature                   | Helicobacter pylori–induced chronic gastritis                                                 | Autoimmune gastritis                                      |
+| ------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Distribution**          | Multifocal; patchy <span style="background:rgba(240, 200, 0, 0.2)">(start from antrum)</span> | Corpus; diffuse (spares antrum)                           |
+| **Inflammatory cells**    | Neutrophils, plasma cells, lymphocytes                                                        | Lymphocytes, macrophages                                  |
+| **Gastrin level**         | Normal or ↑                                                                                   | ↑                                                         |
+| **Acid production**       | Normal or ↓                                                                                   | ↓                                                         |
+| **Sequelae**              | Gastric ulcer                                                                                 | [[Vitamin B12\|Vitamin B12 deficiency]]/pernicious anemia |
+| **Associated malignancy** | Adenocarcinoma, [[MALT lymphoma|MALT lymphoma]]                                                             | Adenocarcinoma, [[Carcinoid tumor\|carcinoid]]            |
+| **Risk factors**          | Living in resource-limited area                                                               | Other autoimmune diseases                                 |
+
+
 - <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune metaplastic atrophic gastritis (AMAG)</span>
-	- Associated with major histocompatibility haplotypes HLA-B8 and [[HLA system|HLA-DR3]]
+	- Associated with major histocompatibility haplotypes [[HLA system|HLA]]-B8 and [[HLA system|HLA-DR3]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Environmental metaplastic atrophic gastritis (EMAG)</span>
 	- Helicobacter pylori infection
 		- Most important risk factor for chronic gastritis, including atrophic gastritis 
-		- Colonizes mainly antrum of stomach
+		- <span style="background:rgba(240, 200, 0, 0.2)">Colonizes mainly antrum of stomach</span>
 
 # Pathophysiology
 ---
