@@ -60,12 +60,25 @@ share: true
 ![[Pasted image 20240413093315.png|Pasted image 20240413093315.png]]
 ## Thionamides
 - Examples	
-	- Methimazole
+	- Methimazole (MMI)
 	- Carbimazole
-	- Propylthiouracil
+	- Propylthiouracil (PTU)
 - Mechanism of action
 	- Inhibits thyroid hormone production via inhibition of thyroid peroxidase → blockade of iodide oxidation, organification, coupling
 	- Propylthiouracil also lowers peripheral conversion of T4 to T3 by inhibiting 5'-deiodinase.
+- Adverse effects
+	- Allergy/hypersensitivity
+		- The most common side effect is a pruritic rash (particularly with methimazole)
+	- Hematologic side effects
+		- <span style="background:rgba(240, 200, 0, 0.2)">Agranulocytosis</span>
+			- Rare but dangerous (affects ∼ 0.5% of patients; more common in elderly and those taking high doses)
+			- Rapidly reversible with discontinuation of treatment
+		- Aplastic anemia
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hepatotoxicity (seen with propylthiouracil use)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Teratogenicity: increased risk of congenital malformations with carbimazole and methimazole (e.g., aplasia cutis)</span>
+
+>[!tip] 
+>As methimazole and carbimazole are teratogenic, <span style="background:rgba(240, 200, 0, 0.2)">propylthiouracil is recommended in the first trimester. After the first trimester, switch back to carbimazole or methimazole</span> because of the hepatotoxic effects of propylthiouracil.
 ## Potassium iodides
 <span style="background:rgba(240, 200, 0, 0.2)">In the event of a nuclear accident, potassium iodide is given prophylactically to protect the thyroid from excessive accumulation of radioactive <sup>131</sup>I.</span>
 
