@@ -18,4 +18,4 @@ share: true
 	- Hyperkeratosis in such lesions may become prominent and form <span style="background:rgba(240, 200, 0, 0.2)">cutaneous horns</span>.![[L11311.png|L11311.png]]
 - Prognosis
 	- Lesions may either regress, persist, or <span style="background:rgba(240, 200, 0, 0.2)">progress to [[cutaneous squamous cell carcinoma|cutaneous squamous cell carcinoma]] (SCC). </span>
-	- The degree of epithelial dysplasia determines the risk of cutaneous squamous cell carcinoma.
+	- The degree of epithelial dysplasia determines the risk of [[cutaneous squamous cell carcinoma|cutaneous squamous cell carcinoma]].
