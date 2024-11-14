@@ -12,7 +12,14 @@ share: true
 
 ---
 # Etiology
-
+- Wernicke encephalopathy and Korsakoff syndrome are caused by a severe deficiency of [[Vitamin B1|thiamine]] ([[vitamin B1|vitamin B1]]).
+- [[Vitamin B1|Thiamine]] deficiency can be due to:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic heavy alcohol use (most common)</span>: due to inadequate intake, absorption, and hepatic storage of thiamine
+	- Inadequate intake
+		- Thiamine-deficient diets 
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Anorexia nervosa|Anorexia nervosa]]</span>, [[Metabolic fuel use|starvation]]
+			- <span style="background:rgba(240, 200, 0, 0.2)">In patients with low glucose intake, thiamine deficiency may be asymptomatic. However, this patient ingested a large quantity of glucose, which likely rapidly depleted her limited thiamine stores.</span>
+	- [[Malabsorption|Malabsorption]]
 
 ---
 # Pathophysiology
