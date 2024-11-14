@@ -15,7 +15,7 @@ share: true
 - Congenital [[rubella|rubella]] syndrome 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Triad of congenital [[rubella|rubella]] syndrome</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac defect</span>: most common defect (e.g., patent ductus arteriosus, pulmonary artery stenosis)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Cataracts</span>: Other eye manifestations may also occur later in life, including [[glaucoma|glaucoma]] and salt and pepper retinopathy (abnormal retinal pigmentation)
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Cataract|Cataracts]]</span>: Other eye manifestations may also occur later in life, including [[glaucoma|glaucoma]] and salt and pepper retinopathy (abnormal retinal pigmentation)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Cochlear defect</span>: bilateral sensorineural [[hearing loss|hearing loss]]
 	- Early features
 		- Hepatosplenomegaly, jaundice
@@ -26,4 +26,33 @@ share: true
 		- Skeletal abnormalities
 
 >[!Mnemonic] 
-><font color="#ffc000">CCC</font>-Triad of congenital rubella syndrome: <font color="#ffc000">C</font>ataracts, <font color="#ffc000">C</font>ochlear defects, <font color="#ffc000">C</font>ardiac abnormality
+><font color="#ffc000">CCC</font>-Triad of congenital [[rubella|rubella]] syndrome: <font color="#ffc000">C</font>ataracts, <font color="#ffc000">C</font>ochlear defects, <font color="#ffc000">C</font>ardiac abnormality
+- Prevention
+	- <span style="background:rgba(240, 200, 0, 0.2)">Maternal preconception immunization with live attenuated rubella vaccine</span>
+
+# Congenital [[syphilis|syphilis]]
+---
+## Pathogen
+Treponema pallidum
+## Transmission
+- Fetus: transplacental transmission from infected mother
+- Neonate: perinatal transmission during birth
+## Clinical features of congenital [[syphilis|syphilis]]
+- Perinatal
+	- Intrauterine fetal demise
+	- Prematurity, low birth weight
+	- Focal necrosis of the umbilical cord
+- Mucocutaneous
+	- <span style="background:rgba(240, 200, 0, 0.2)">Snuffles: copious rhinorrhea, often purulent or serosanguineous</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Desquamating, maculopapular rash involving palms/soles</span>
+	- Fissures near orifices (eg, anal, oral)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Jaundice</span>
+- Musculoskeletal
+	- <span style="background:rgba(240, 200, 0, 0.2)">Long bone abnormalities (eg, periosteal thickening, metaphyseal erosion)</span>![[Pasted image 20241106194729.png|Pasted image 20241106194729.png]]
+		- Bilateral and symmetric metaphyseal erosions and periosteal inflammation of long bones
+		- Pathologic fractures
+		- Swelling, pain, and limited movement of affected extremities
+- Reticuloendothelial
+	- [[Hepatomegaly|Hepatomegaly]] ± [[splenomegaly|splenomegaly]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Lymphadenopathy</span>
+	- Anemia, thrombocytopenia, leukopenia/leukocytosis
