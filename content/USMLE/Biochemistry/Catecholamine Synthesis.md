@@ -16,11 +16,15 @@ share: true
 - Discolored face
 ![[Pasted image 20231107143801.png|Pasted image 20231107143801.png]]
 # Albinism
+- ![[Pasted image 20231107150236.png|Pasted image 20231107150236.png]]![[Pasted image 20231107144232.png|Pasted image 20231107144232.png]]
+- Translucent, hypopigmented blue, grey, or green irides
 - Normal NUMBER of Melanocytes
 - Decreased PRODUCTION of Melanin
-- ![[Pasted image 20231107150236.png|Pasted image 20231107150236.png]]
-![[Pasted image 20231107144232.png|Pasted image 20231107144232.png]]
-+ Translucent, hypopigmented blue, grey, or green irides
+
+>[!tip] Differential diagnostics
+>- Albinism in [[Chédiak-Higashi syndrome|Chédiak-Higashi syndrome]]: due to defect in uptake of melanin by keratinocytes
+>- [[Vitiligo|Vitiligo]]: CD8+ lymphocyte–mediated melanocyte apoptosis
+
 # [[Phenylketonuria|Phenylketonuria]]
 ![[Pasted image 20231113173304.png|Pasted image 20231113173304.png]]
 ![[Pasted image 20231107144314.png|Pasted image 20231107144314.png]]
