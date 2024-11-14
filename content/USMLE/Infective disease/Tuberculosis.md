@@ -37,7 +37,43 @@ share: true
 
 # Diagnostics
 ---
-
+## Active TB infection
+- **Acid-fast bacilli smear microscopy**
+	- **Description**: Ziehl Neelsen stain or auramine rhodamine stain are used.
+	- **Advantages**:
+		- Rapid detection
+		- Inexpensive
+	- **Disadvantages**:
+		- <span style="background:rgba(240, 200, 0, 0.2)">Low sensitivity</span>
+		- Cannot differentiate *M. tuberculosis* from other nontuberculous mycobacteria
+		- Both viable and nonviable mycobacteria will stain
+- **<span style="background:rgba(240, 200, 0, 0.2)">Nucleic acid amplification test</span>**
+	- **Description**: For initial testing (along with AFB smear microscopy and culture) if clinical suspicion is high. Used for confirmation of AFB positive smears.
+	- **Advantages**:
+		- <span style="background:rgba(240, 200, 0, 0.2)">High specificity and sensitivity (lower sensitivity in individuals with a negative AFB smear)</span>
+		- Rapid diagnosis
+		- Rapid detection of drug-resistant strains
+		- Low cross-reactivity with nontuberculous mycobacteria
+	- **Disadvantages**:
+		- Requires laboratory equipment and trained staff, which may make use in resource-limited settings more difficult
+		- Both viable and nonviable mycobacteria are detectable
+- **Culture**
+## Latent TB infection
+- <span style="background:rgba(240, 200, 0, 0.2)">Tuberculin skin test</span> (purified protein derivative test, Mantoux test)
+	- Mechanism
+		- Tests cell-mediated immunity against M. tuberculosis via<span style="background:rgba(240, 200, 0, 0.2)"> delayed hypersensitivity reaction ([[Type IV hypersensitivity reaction|type IV HSR]]) mounted by T cells</span>
+	- Does not differentiate between active and latent TB
+	- False positives resulting from either of the following:
+		- Prior BCG [[vaccination|vaccination]]
+		- Exposure to nontuberculous mycobacteria
+	- <span style="background:rgba(240, 200, 0, 0.2)">False negatives</span> are possible in patients with any of the following:
+		- [[Sarcoidosis|Sarcoidosis]] 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Immunosuppressed state (anergy)</span>
+- [[Interferons|Interferon]]-γ release assay (IGRA)
+	- Mechanism
+		- Tests cell-mediated immunity against <span style="background:rgba(240, 200, 0, 0.2)">M. tuberculosis-specific antigens by measuring the amount of [[Interferons|IFN-γ]] released by T cells</span> using ELISA![[Pasted image 20241106173104.png|Pasted image 20241106173104.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Preferred test in individuals with prior BCG vaccination</span>
+		- Uses antigens that are found only in _Mycobacterium tuberculosis_, but not in BCG
 
 # Treatment
 ---
@@ -59,12 +95,12 @@ share: true
 ## Side effects of antituberculosis agents
 - Isoniazid
 	- Asymptomatic elevation of transaminases 
-	- [[Cytochrome P450|Cytochrome P450]] inhibition: leading to interactions with numerous drugs, including antiretroviral agents, cardiovascular agents, and antibiotics
+	- [[Cytochrome P450|Cytochrome P450]] inhibition: leading to interactions with numerous drugs, including antiretroviral agents, cardiovascular agents, and [[antibiotics|antibiotics]]
 	- Less common
 		- [[Drug-induced lupus erythematosus|Drug-induced lupus]]
 		- [[Vitamin B6|Vitamin B6]] deficiency: [[sideroblastic anemia|sideroblastic anemia]], peripheral neuropathy 
-		- CNS toxicity: precipitation of benzodiazepine-refractory seizures with high doses of isoniazid, psychosis, ataxia 
-		- Others: anion gap metabolic acidosis, pellagra, optic neuritis
+		- CNS toxicity: precipitation of [[Sedative-hypnotic drugs|benzodiazepine]]-refractory [[Seizures and epilepsy|seizures]] with high doses of isoniazid, psychosis, ataxia 
+		- Others: anion gap metabolic acidosis, [[Vitamin B3|pellagra]], optic neuritis
 - Rifampin
 	- [[Cytochrome P450|Cytochrome P450]] induction: leading to important interactions with ART in patients with [[Human immunodeficiency virus|HIV]] (therefore, rifabutin is preferred) 
 	- Orange discoloration of body fluids
