@@ -19,7 +19,7 @@ share: true
 	- Associated with other autoimmune endocrinopathies
 - Infectious adrenalitis
 	- [[Tuberculosis|Tuberculosis]]: most common cause worldwide, but rare in the US
-	- CMV disease in immunosuppressed states (especially AIDS)
+	- [[Cytomegalovirus infection|CMV]] disease in immunosuppressed states (especially AIDS)
 	- [[Histoplasmosis|Histoplasmosis]]
 - Adrenal hemorrhage 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis: especially meningococcal sepsis (endotoxic shock) → hemorrhagic necrosis ([[Waterhouse-Friderichsen syndrome|Waterhouse-Friderichsen syndrome]])</span>
@@ -64,7 +64,7 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 - Salt craving
 ### Lab findings
 - Hyponatremia
-- Hyperkalemia
+- [[Hyperkalemia|Hyperkalemia]]
 - Normal anion gap metabolic acidosis
 ## <span style="background:rgba(240, 200, 0, 0.2)">Hypoandrogenism</span>
 - Loss of libido
@@ -107,16 +107,16 @@ Adrenal crisis is an <span style="background:rgba(240, 200, 0, 0.2)">acute, seve
 ---
 - Definition: a set of conditions characterized by autoimmune disease that causes multiple endocrine deficiencies, which affect the hormone-producing (endocrine) glands
 - Types
-	- Type 1: (APS-1, Whitaker syndrome, autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy, or APECED) 
+	- Type 1: ([[Antiphospholipid syndrome|APS]]-1, Whitaker syndrome, autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy, or APECED) 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Caused by a mutation in the autoimmune regulator gene (AIRE)</span>
 			- Facilitates the elimination of self-reactive T cells.
 		- Associated endocrine deficiencies (two or more of the following should be present)
 			- Most commonly
 				- <span style="background:rgba(240, 200, 0, 0.2)">Primary adrenal insufficiency</span>
 				- <span style="background:rgba(240, 200, 0, 0.2)">Hypoparathyroidism</span>
-				- <span style="background:rgba(240, 200, 0, 0.2)">Chronic mucocutaneous candidiasis</span>
+				- <span style="background:rgba(240, 200, 0, 0.2)">Chronic mucocutaneous [[candidiasis|candidiasis]]</span>
 				- Ectodermal dystrophy of skin, nails, and dental enamel
-	- Type 2 (APS-2, Schmidt syndrome): defined by the occurrence of primary adrenal insufficiency with thyroid autoimmune disease and/or [[Diabetes mellitus|type 1 diabetes]] mellitus
+	- Type 2 ([[Antiphospholipid syndrome|APS]]-2, Schmidt syndrome): defined by the occurrence of primary adrenal insufficiency with thyroid autoimmune disease and/or [[Diabetes mellitus|type 1 diabetes]] mellitus
 		- Main manifestation: primary adrenal insufficiency
 			- Associated endocrine deficiencies (one or more of the following may be present)
 				- Most commonly

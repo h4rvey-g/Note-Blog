@@ -42,3 +42,15 @@ share: true
 5. Alveolar sacs
 	- All gone
 
+## Pneumocytes
+- Type I pneumocytes: thin squamous cells that line the alveoli that allow for transcellular gas exchange
+	- Comprise 95% of the total alveolar area
+	- Connected to each other by tight junctions
+	- Form the blood-air barrier, together with the endothelial cells of the capillaries and the basement membrane between the two cells.
+- <span style="background:rgba(240, 200, 0, 0.2)">Type II pneumocytes</span>: cuboidal alveolar cells 
+	- Comprise 5% of the total alveolar area, but 60% of total number of cells
+	- <span style="background:rgba(240, 200, 0, 0.2)">Surfactant formation: Type II pneumocytes contain lamellar bodies, which secrete surfactant (surface-activating lipoprotein complex).</span>
+		- Surfactant is mainly composed of the phospholipids dipalmitoylphosphatidylcholine (DPPC or lecithin) and phosphatidylglycerol.
+		- It reduces alveolar surface tension and thereby prevents the alveoli from collapsing.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Lung regeneration and repair: Type II pneumocytes can proliferate to replace type I or type II pneumocytes following lung damage.</span>
+

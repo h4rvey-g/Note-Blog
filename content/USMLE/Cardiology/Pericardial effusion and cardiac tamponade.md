@@ -22,7 +22,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Serous or serosanguinous pericardial effusion </span>
 	- Idiopathic
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Pericarditis|Pericarditis]] (especially viral</span>, but also fungal, tuberculous or bacterial)
-	- Malignancy
+	- <span style="background:rgba(240, 200, 0, 0.2)">Malignancy (e.g. metastatic spread of noncardiac tumors)</span>
 	- Postpericardiotomy syndrome
 	- Uremia
 	- Autoimmune disorders

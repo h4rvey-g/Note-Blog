@@ -8,7 +8,7 @@ share: true
 ![[Pasted image 20230909221338.png|Pasted image 20230909221338.png]]
 ![[Pasted image 20230909164109.png|Pasted image 20230909164109.png]]
 # Mitotic inhibitors (M phase)
-![[Pasted image 20230909170149.png|Pasted image 20230909170149.png]]
+![[Pasted image 20230909170149.png|Pasted image 20230909170149.png]]![[highresdefault_L84121.jpg|highresdefault_L84121.jpg]]
 
 >[!Mnemonic] 
 >两颗长杉树，围成一个门。门里有个蛋，从此不合成：两颗长杉树-长春碱、长春新碱、紫杉醇，门-门冬酰胺酶氨，蛋&合成-干扰蛋白质合成。

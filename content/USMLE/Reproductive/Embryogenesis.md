@@ -10,6 +10,21 @@ share: true
 ---
 
 ![[highresdefault_L45047.jpg|highresdefault_L45047.jpg]]
+![[Pasted image 20241111161713.png|Pasted image 20241111161713.png]]
+>[!Mnemonic] 
+>- **Week 1**
+> 	 - hCG secretion begins around the time of <span style="background:rgba(240, 200, 0, 0.2)">blastocyst implantation</span>. 
+> 	 - Blasto<font color="#ffc000">cyst</font> "<font color="#ffc000">sticks</font>" on day <font color="#ffc000">six</font>.
+>- **Week <font color="#ffc000">2</font>**
+> 	 - Formation of <font color="#ffc000">bi</font>laminar embryonic disc; <font color="#ffc000">two</font> layers = epiblast, hypoblast.
+>- **Week <font color="#ffc000">3**</font>
+> 	 - Formation of <font color="#ffc000">tri</font>laminar embryonic disc via <span style="background:rgba(240, 200, 0, 0.2)">gastrulation</span> (epiblast cell invagination through primitive streak); <font color="#ffc000">three</font> layers = endoderm, mesoderm, ectoderm.
+> 	 - Notochord arises from midline mesoderm and induces overlying ectoderm (via SHH) to become neural plate, which gives rise to the neural tube via <span style="background:rgba(240, 200, 0, 0.2)">neurulation</span>.
+>- **Week <font color="#ffc000">4</font>**
+> 	 - Heart begins to beat (<font color="#ffc000">four</font> chambers). Cardiac activity visible by transvaginal ultrasound.
+> 	 - Upper and lower limb buds begin to form (<font color="#ffc000">four</font> limbs).
+>- **Week <font color="#ffc000">8</font>**
+>	- Genitalia have male/female characteristics (pronounce “gen<font color="#ffc000">eight</font>alia”).
 # Abnormalities of morphogenesis
 ---
 - Agenesis: Absent organ due to absent primordial tissue.
