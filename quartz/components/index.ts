@@ -20,6 +20,7 @@ import Search from "./Search";
 import Spacer from "./Spacer";
 import TableOfContents from "./TableOfContents";
 import TagList from "./TagList";
+import Comments from "./Comments";
 
 export {
 	ArticleTitle,
@@ -44,4 +45,5 @@ export {
 	TableOfContents,
 	TagContent,
 	TagList,
+	Comments,
 };
