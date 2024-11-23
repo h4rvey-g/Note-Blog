@@ -21,6 +21,9 @@ Inflammation and progressive destruction (<span style="background:rgba(240, 200,
 
 # Clinical features
 ---
+>[!tip] Clinical features of PBC
+>Similar to PSC + xanthomas and xanthelasma
+
 Patients with PBC are usually initially asymptomatic. 
 - <span style="background:rgba(240, 200, 0, 0.2)">Fatigue</span>: most common and often the first symptom
 - <span style="background:rgba(240, 200, 0, 0.2)">Marked pruritus: generalized</span>
@@ -38,6 +41,12 @@ Patients with PBC are usually initially asymptomatic.
 # Diagnostics
 ---
 ![[Pasted image 20231016163207.png|Pasted image 20231016163207.png]]
+
+>[!tip] Imaging (MRCP)
+>- <span style="background:rgba(240, 200, 0, 0.2)">PBC: normal</span>
+>- <span style="background:rgba(240, 200, 0, 0.2)">PSC: stricturing of intra- and extra-hepatic bile ducts resembling beads on a string</span>
+>	- P<font color="#ffc000">S</font>C = <font color="#ffc000">S</font>tricture
+
 - Liver chemistries: cholestatic pattern of injury
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ [[Alkaline phosphatase|ALP]], ↑ GGT, ↑ direct bilirubin</span>
 	- Mild transaminitis (or <span style="background:rgba(240, 200, 0, 0.2)">normal AST and ALT</span>)
