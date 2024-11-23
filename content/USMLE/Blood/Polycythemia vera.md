@@ -30,8 +30,16 @@ share: true
 >[!tip] 
 >Erythrocytosis associated with normal oxygen saturation and decreased serum EPO levels is strongly suggestive of polycythemia vera.
 
+# Differential diagnostics
 ---
-# Treatment
+![[Pasted image 20241118090122.png|Pasted image 20241118090122.png]]
 
+1. **Absolute versus relative erythrocytosis**:  <span style="background:rgba(240, 200, 0, 0.2)">Hemoglobin and hematocrit levels cannot accurately differentiate these conditions.  Direct measurement of the RBC mass is necessary.  An increased total RBC mass indicates an absolute erythrocytosis; a normal RBC mass indicates a relative erythrocytosis.</span>
+	- Estimated using ⁵¹Cr-tagged red blood cell, similar to _Mark_ and _recapture_ method
+2. **Primary versus secondary erythrocytosis**:  Serum erythropoietin levels can be used to differentiate primary from secondary erythrocytosis.  Primary erythrocytosis is associated with low erythropoietin levels and is caused by [[Myeloproliferative neoplasms|myeloproliferative disorders]] such as polycythemia vera.  Secondary erythrocytosis is characterized by increased erythropoietin levels due to chronic hypoxia from high altitudes, smoking, or [[chronic obstructive pulmonary disease|chronic obstructive pulmonary disease]]; or abnormal secretion by neoplastic or otherwise diseased tissues.
+3. **Hypoxic versus other causes of secondary erythrocytosis**:  Measurement of the arterial oxygen saturation (SaO2) is important to exclude hypoxemia as a cause of the erythrocytosis.  SaO2 < 92% (PaO2 < 65 mm Hg) can cause secondary polycythemia.  SaO2 (measured as a percentage) should not be confused with PaO2 (measured as a partial pressure in mm Hg).
+
+# Treatment
+---
 
 ---
