@@ -13,21 +13,27 @@ share: true
 ---
 ![[Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
 
-| Drug                           | Mechanism of Action                              |
-| ------------------------------ | ------------------------------------------------ |
-| Benzodiazepines, Phenobarbital | ↑ GABA A action                                  |
-| Levetiracetam                  | Inhibits vesicle fusion by binding SV2A proteins |
-| Valproic Acid                  | Blocks Na+ channels & blocks GABA transaminase   |
-| Ethosuximide                   | Blocks thalamic T-type Ca2+ channels             |
-| Phenytoin, Carbamazepine       | Blocks Na+ channels                              |
-| Gabapentin                     | Blocks Ca2+ channels                             |
+| Drug                                                        | Mechanism of Action                              |
+| ----------------------------------------------------------- | ------------------------------------------------ |
+| [[Sedative-hypnotic drugs\|Benzodiazepines]], Phenobarbital | ↑ GABA A action                                  |
+| Levetiracetam                                               | Inhibits vesicle fusion by binding SV2A proteins |
+| Valproic Acid                                               | Blocks Na+ channels & blocks GABA transaminase   |
+| Ethosuximide                                                | Blocks thalamic T-type Ca2+ channels             |
+| Phenytoin, Carbamazepine, Lamotrigine                       | Blocks Na+ channels                              |
+| Gabapentin                                                  | Blocks Ca2+ channels                             |
 
-
+>[!tip] There are generally 5 types of seizures
+>- Generalized onset
+>	- Generalized tonic-clonic seizure
+>	- [[Febrile seizures|Febrile seizure]]
+>	- Absence seizure
+>- [[Focal seizures|Focal seizure]]
+>- Psychogenic non-epileptic seizures (PNES)
 # First-generation anticonvulsants
 ---
 ## Carbamazepine
-- First-line treatment for focal seizures
-- First-line treatment of trigeminal neuralgia
+- First-line treatment for [[focal seizures|focal seizures]]
+- First-line treatment of [[trigeminal neuralgia|trigeminal neuralgia]]
 - Second-line treatment for generalized tonic-clonic seizures
 >[!Mnemonic] 
 >CBZ = <font color="#ffc000">C</font>ranial nerve pain, <font color="#ffc000">B</font>ipolar disorder, and sei<font color="#ffc000">Z</font>ures
@@ -60,7 +66,7 @@ share: true
 # Second-generation anticonvulsants
 ## Lamotrigine
 ### Indication
-- <span style="background:rgba(240, 200, 0, 0.2)">First-line treatment for long-term therapy of focal seizures</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">First-line treatment for long-term therapy of [[focal seizures|focal seizures]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Second-line treatment for generalized seizures and absence seizures</span>
 - Mood stabilizer for treatment of [[bipolar disorder|bipolar disorder]]
 >[!Mnemonic] 
@@ -73,11 +79,11 @@ share: true
 - Hemophagocytic lymphohistiocytosis
 ## Gabapentinoids
 - <span style="background:rgba(240, 200, 0, 0.2)">Pregabalin</span>
-	- Drug combination for long-term treatment of focal seizures
+	- Drug combination for long-term treatment of [[focal seizures|focal seizures]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropathic pain</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neuralgia after herpes infection</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Gabapentin</span>
-	- Second-line treatment for focal seizures
+	- Second-line treatment for [[focal seizures|focal seizures]]
 	- Postherpetic neuralgia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral (poly)neuropathy</span>
 ### Mechanism of action
@@ -85,10 +91,10 @@ share: true
 ## Topiramate
 ### Indications
 - Focal and generalized tonic-clonic epileptic seizures
-- Migraine prophylaxis
-- Idiopathic intracranial hypertension
+- [[Migraine|Migraine]] prophylaxis
+- Idiopathic intracranial [[hypertension|hypertension]]
 ### Mechanism of action
 - Blockage of voltage-gated Na+ channels
-- ↑ GABA
-# Pregnancy and [[Infant nutrition and breastfeeding|breastfeeding]]
+- ↑ [[Neurotransmitters|GABA]]
+# [[Pregnancy|Pregnancy]] and [[Infant nutrition and breastfeeding|breastfeeding]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Classic anticonvulsants (especially carbamazepine and sodium valproate!) should be avoided if possible → [[Teratogenesis|teratogenic]] effects</span>
