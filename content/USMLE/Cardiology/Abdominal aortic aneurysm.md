@@ -13,11 +13,11 @@ share: true
 ---
 - Risk factors 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Smoking (most important risk factor) </span>
-	- Advanced age
+	- <span style="background:rgba(240, 200, 0, 0.2)">Advanced age</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Male sex</span>
 	- [[Atherosclerosis|Atherosclerosis]] (ASCVD)
 	- Hypercholesterolemia and arterial hypertension
 	- Positive family history
-	- Male sex
 - Localization
 	- <span style="background:rgba(240, 200, 0, 0.2)">Infrarenal: below the renal arteries </span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Most common location</span>
@@ -36,4 +36,4 @@ share: true
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+
