@@ -28,7 +28,7 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 # Pathophysiology
 - Thiamine deficiency → impaired glucose breakdown → ATP depletion → <span style="background:rgba(240, 200, 0, 0.2)">tissue damage that primarily affects highly aerobic tissues (e.g., brain, heart)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">High-dose glucose infusions lead to increased ATP depletion, which can trigger [[Wernicke encephalopathy and Korsakoff syndrome|Wernicke encephalopathy]].</span>
-	- In malnourished individuals and chronic alcohol users/heavy drinkers, thiamine should be administered before glucose infusions.
+	- <span style="background:rgba(240, 200, 0, 0.2)">In malnourished individuals and chronic alcohol users/heavy drinkers, thiamine should be administered before glucose infusions.</span>
 
 ---
 # Clinical features
