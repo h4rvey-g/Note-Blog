@@ -23,6 +23,8 @@ share: true
 | FSH      | High   | Low    |
 | Estrogen | High   | Low    |
 
+>[!tip] 
+>Pulsatile GnRH won't cause this problem![[L24619.jpg|L24619.jpg]]
 ## Indications
 - Cancer (continuous administration)
 	- [[Breast cancer|Breast cancer]]
