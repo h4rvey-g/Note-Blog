@@ -18,6 +18,16 @@ share: true
 
 ---
 # Clinical features
+>[!tip] Clinical course
+>Need about 1 month to produce autoantibodies![[Pasted image 20241114160307.png|Pasted image 20241114160307.png]]
+- Heart
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pancarditis (endocarditis, [[myocarditis|myocarditis]], and [[pericarditis|pericarditis]])</span>
+	- Valvular lesions: most commonly on high-pressure valves
+		- Mitral valve (∼ 65% of cases)
+			- <span style="background:rgba(240, 200, 0, 0.2)">Early [[mitral regurgitation|mitral regurgitation]] or prolapse</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Late [[Mitral valve stenosis|mitral stenosis]]: Rheumatic fever is the most frequent cause of [[Mitral valve stenosis|mitral stenosis]].</span>
+			- Mixed [[Mitral valve stenosis|mitral stenosis]]/regurgitation
+	- Aortic valve (∼ 25% of cases)
 - CNS: <span style="background:rgba(240, 200, 0, 0.2)">Sydenham chorea (involuntary, irregular, nonrepetitive movements of the limbs, neck, head, and/or face)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Occurs 1–8 months after the inciting infection</span>
 		- In contrast to the other rheumatic manifestations, which usually occur within 3 weeks after initial infection.
@@ -59,16 +69,16 @@ share: true
 	- Complete heart block 
 	- Sinus tachycardia
 	- Accelerated junctional rhythm
-	- ECG features of pericarditis
+	- ECG features of [[pericarditis|pericarditis]]
 
 >[!tip] 
 >Whenever you see marked <span style="background:rgba(240, 200, 0, 0.2)">left atrial abnormality or [[atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs</span>, always think about rheumatic mitral valve disease. [[Mitral valve stenosis|Mitral stenosis]] is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
 ## Pathology
 - Myocardial findings
 	- Aschoff bodies 
-		- Granuloma of rheumatic inflammation
+		- [[Granulomatous inflammation|Granuloma]] of rheumatic inflammation
 		- <span style="background:rgba(240, 200, 0, 0.2)">Central area of fibrinoid necrosis</span>
-		- Surrounded by characteristic multinucleated giant cells (Aschoff cells) and other inflammatory cells (mononuclear cells, plasma cells, and T lymphocytes) due to a [[type IV hypersensitivity reaction|type IV hypersensitivity reaction]]. ![[Pasted image 20240120172139.png|Pasted image 20240120172139.png]]
+		- Surrounded by characteristic multinucleated giant cells (Aschoff cells) and other inflammatory cells (mononuclear cells, plasma cells, and T lymphocytes) due to a [[type IV hypersensitivity reaction|type IV hypersensitivity reaction]].![[Pasted image 20241114155018.png|Pasted image 20241114155018.png]]
 	- Anitschkow cells
 		- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac histiocytes (mononuclear cells) appearing in Aschoff bodies</span>
 		- Large and elongated cells

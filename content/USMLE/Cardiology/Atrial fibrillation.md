@@ -11,6 +11,16 @@ share: true
 
 ---
 # Pathophysiology
+- The new onset of Afib triggers a vicious circle that can <span style="background:rgba(240, 200, 0, 0.2)">ultimately lead to long-standing Afib with atrial remodeling:</span>
+	1. Afib is triggered by one or both of the following
+		- Bursts of electrical activity from automatic foci near the pulmonary vein ostia (left atrium) or in diseased, fibrotic atrial tissue 
+		- Pre-excitation of the atria as a result of aberrant pathways (e.g., WPW syndrome)
+	2. Afib is sustained by re-entry rhythms and/or rapid focal ectopic firing 
+		- Re-entry rhythms are more likely to occur with enlarged atria, diseased heart tissue, and/or aberrant pathways (e.g., WPW syndrome).
+	3. <span style="background:rgba(240, 200, 0, 0.2)">Atrial remodeling</span>
+		- Electrophysiological changes in the atria occur within a few hours of Afib onset (electrical modeling).
+		- If Afib persists, atrial fibrosis and dilatation (structural remodeling) occur within a few months.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Electrical and structural remodeling increase susceptibility to Afib, resulting in a vicious circle.</span>
 - Effects of Afib
 	- The atria contract rapidly but ineffectively and in an uncoordinated fashion → stasis of blood within the atria, <span style="background:rgba(240, 200, 0, 0.2)">especially in atrial appendage</span> → risk of thromboembolism and stroke![[L26184.jpg|L26184.jpg]]
 	- Irregular activation of the ventricles by conduction through the AV node → tachycardia

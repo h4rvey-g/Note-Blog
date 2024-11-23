@@ -32,7 +32,18 @@ The relatively low systolic pressure of the RV (eg, ≤25 mm Hg) allows for coro
 
 ---
 # Diagnostics
+## Pathology
 
+| Time After Myocardial Infarction | Predominant Light Microscopic Changes                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 0-4 hours                        | No visible change                                                                                        |
+| 4-12 hours                       | Wavy fibers with narrow, elongated myocytes                                                              |
+| 12-24 hours                      | Myocyte hypereosinophilia with pyknotic (shrunken) nuclei                                                |
+| 1-3 days                         | Coagulation necrosis (loss of nuclei & striations)<br>Prominent neutrophilic infiltrate                  |
+| 3-7 days                         | Disintegration of dead neutrophils & myofibers<br>Macrophage infiltration at border areas                |
+| 7-10 days                        | Robust phagocytosis of dead cells by macrophages<br>Beginning formation of granulation tissue at margins |
+| 10-14 days                       | Well-developed granulation tissue with neovascularization                                                |
+| 2-8 weeks                        | Progressive collagen deposition & scar formation                                                         |
 
 ---
 # Treatment

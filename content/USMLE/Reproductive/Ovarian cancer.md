@@ -4,6 +4,7 @@ created: 2024-02-16 15:48
 modified: 2024-02-16 15:48
 aliases:
   - Ovarian tumor
+  - ovarian tumors
 share: true
 ---
 # Epidemiology
@@ -35,6 +36,8 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 
 ---
 # Clinical features
+![[Pasted image 20241115221452.png|Pasted image 20241115221452.png]]
+
 >[!tip] 
 >- Surface epithelial-stroma: composed of cells that support the normal ovarian structure for ovulation (eg, serous, mucinous epithelial cells).
 >- Sex cord-stroma: composed of cells that support and surround the oocyte.  <span style="background:rgba(240, 200, 0, 0.2)">These cells secrete sex hormones including estrogen (granulosa cells) and testosterone (Sertoli-Leydig cells).</span>

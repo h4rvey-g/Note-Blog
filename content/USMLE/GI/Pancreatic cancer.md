@@ -17,21 +17,28 @@ share: true
 	- Considered to be one of the leading causes of pancreatic cancer and associated with an up to 6-fold increase in the risk of developing malignancy.  
 - [[Chronic pancreatitis|Chronic pancreatitis]] (especially when present for more than 20 years)
 - High alcohol consumption 
-- Type 2 diabetes mellitus
+- Type 2 [[diabetes mellitus|diabetes mellitus]]
 ## Endogenous risk factors
 - Age > 50 years
 - Inherited genetic syndromes (10% of pancreatic cancers)
-	- Familial atypical multiple mole melanoma (FAMMM) syndrome
+	- Familial atypical multiple mole [[melanoma|melanoma]] (FAMMM) syndrome
 	- Hereditary breast and [[ovarian cancer|ovarian cancer]] syndrome (BRCA1 and BRCA2 mutations)
 	- HNPCC
 	- Von-Hippel-Lindau syndrome
-	- Neurofibromatosis type 1
+	- [[Neurocutaneous disorders|Neurofibromatosis]] type 1
 	- [[Multiple endocrine neoplasias|Multiple endocrine neoplasia]] type 1
 	- Familial pancreatic carcinoma
 
 ---
 # Clinical features
 In most cases, there are no early symptoms suggestive of pancreatic cancer.
+## Gastrointestinal symptoms
+- <span style="background:rgba(240, 200, 0, 0.2)">Belt-shaped epigastric pain which may radiate to the back </span>
+- Nausea
+- Malabsorption, diarrhea (possibly steatorrhea secondary to exocrine pancreatic insufficiency)
+- <span style="background:rgba(240, 200, 0, 0.2)">Jaundice caused by obstruction of extrahepatic bile ducts (especially in tumors of the pancreatic head)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Courvoisier sign: enlarged, nontender gallbladder and painless jaundice</span> 
+	- Pale stools, dark urine, and pruritus
 ## Hypercoagulability
 - <span style="background:rgba(240, 200, 0, 0.2)">Trousseau syndrome: superficial thrombophlebitis (in 10% of cases)</span>
 	- Recurring thrombophlebitis in changing locations (migratory)

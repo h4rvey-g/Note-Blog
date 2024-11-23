@@ -30,7 +30,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Flat venous lactate curve with exaggerated elevations in blood ammonia during exercise</span>
 	- No glucose, can't produce lactate
 	- Increased protein and amino acid Metabolism
-
+# Anderson disease
+---
 ![[Pasted image 20231114172854.png|Pasted image 20231114172854.png]]
 >[!Mnemonic] 
 >Mr. Anderson's black coat is <span style="background:rgba(240, 200, 0, 0.2)">long and straight</span>.![[Pasted image 20231114172701.png|Pasted image 20231114172701.png]]

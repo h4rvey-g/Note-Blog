@@ -33,7 +33,7 @@ share: true
 	- Connective tissue, bone & cartilage
 	- Serosal linings (eg, peritoneum)
 	- Cardiovascular & lymphatic system
-	- Spleen & hemopoietic cells
+	- [[Spleen|Spleen]] & hemopoietic cells
 	- Kidney & ureters, internal genitalia
 	- Adrenal cortex
 - Endoderm

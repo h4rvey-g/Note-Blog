@@ -16,7 +16,7 @@ share: true
 ---
 # Pathophysiology
 - Symptoms manifest when a genetically predisposed individual develops an immunological response to gliadin, an alcohol-soluble fraction of gluten.
-- Consumption of food containing gluten → tissue transglutaminase is released  → modifies gliadin from gluten proteins → pathogenic T cells react to and are activated by modified gliadin → mediate chronic intestinal inflammation → epithelial damage resulting in villous atrophy, crypt hyperplasia, and loss of brush border → impaired resorption of nutrients in the small intestine (especially in the distal duodenum and proximal jejunum) → [[malabsorption|malabsorption]] symptoms![[Pasted image 20231028095408.png|Pasted image 20231028095408.png]]
+- Consumption of food containing gluten → tissue transglutaminase is released  → modifies gliadin from gluten proteins → <span style="background:rgba(240, 200, 0, 0.2)">pathogenic T cells</span> react to and are activated by modified gliadin → mediate chronic intestinal inflammation → epithelial damage resulting in villous atrophy, crypt hyperplasia, and loss of brush border → <span style="background:rgba(240, 200, 0, 0.2)">impaired resorption of nutrients in the small intestine (especially in the distal duodenum and proximal jejunum) → [[malabsorption|malabsorption]] symptoms</span>![[Pasted image 20231028095408.png|Pasted image 20231028095408.png]]
 
 ---
 # Clinical features
@@ -24,7 +24,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic or recurring [[diarrhea|diarrhea]]: [[steatorrhea|steatorrhea]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Flatulence, abdominal bloating, and pain</span>
 ## Extraintestinal symptoms and associations
-- **[[Malabsorption|Malabsorption]] symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[anemia|anemia]], [[osteoporosis|osteoporosis]], hypocalcemia
+- <span style="background:rgba(240, 200, 0, 0.2)">**[[Malabsorption|Malabsorption]] symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[anemia|anemia]], [[osteoporosis|osteoporosis]], hypocalcemia</span>
 - In children: failure to thrive, growth failure, delayed puberty, secondary [[hyperparathyroidism|hyperparathyroidism]]
 - Dermatologic associations: **[[dermatitis herpetiformis|dermatitis herpetiformis]]**
 	- Transglutaminases play a role in forming extensively cross-linked proteins (e.g., elastin, coagulation by factor XIII).

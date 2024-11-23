@@ -18,7 +18,10 @@ share: true
 >[!Mnemonic] 
 >Mar<font color="#ffc000">F</font>an syndrome is caused by a gene mutation in <font color="#ffc000">F</font>BN1 on chromosome 15 (<font color="#ffc000">F</font>ifteen), resulting in defective <font color="#ffc000">F</font>ibrillin protein.
 ## Ehlers-Danlos syndrome
-- <span style="background:rgba(240, 200, 0, 0.2)">Mutations in genes (e.g., COL5A1, COL3A1) that control the synthesis and processing of different types of [[collagen|collagen]]</span> → [[collagen|collagen]] defects (e.g., a defect in lysine-hydroxylysine cross-linking of tropocollagen leads to unstable [[collagen|collagen]] fibrils)![[Pasted image 20240120153115.png|Pasted image 20240120153115.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Mutations in genes (e.g., COL5A1, COL3A1) that control the synthesis and processing of different types of [[collagen|collagen]]</span> → [[collagen|collagen]] defects (e.g., a defect in lysine-hydroxylysine cross-linking of tropocollagen leads to unstable [[collagen|collagen]] fibrils)
+	- Caused by a <span style="background:rgba(240, 200, 0, 0.2)">deficiency in procollagen peptidase</span>, the enzyme that <span style="background:rgba(240, 200, 0, 0.2)">cleaves terminal propeptides from procollagen in the extracellular space.</span>  <span style="background:rgba(240, 200, 0, 0.2)">Impaired propeptide removal results in the formation of soluble collagen that does not properly crosslink.</span>![[L13176.jpg|L13176.jpg]]
+
+![[Pasted image 20240120153115.png|Pasted image 20240120153115.png]]
 
 ---
 # Pathophysiology

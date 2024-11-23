@@ -27,7 +27,7 @@ share: true
 ![[L19257.jpg|L19257.jpg]]
 - Physiology of GH and IGF-1 
 	- GH secretion induced by stress, sport, and [[hypoglycemia|hypoglycemia]]; inhibited especially by hyperglycemia or food intake
-	- [[Hypothalamus|Hypothalamus]] secretes GHRH → ↑ secretion of GH  → GH induces IGF-1 synthesis → ↑ serum IGF-1 via liver synthesis which leads to the following effects: 
+	- [[Hypothalamus|Hypothalamus]] secretes GHRH → ↑ secretion of GH  → GH induces IGF-1 synthesis → <span style="background:rgba(240, 200, 0, 0.2)">↑ serum IGF-1 via liver synthesis</span> which leads to the following effects: 
 		- Binding to IGF-1 and insulin receptors → stimulation of cell growth and proliferation, inhibiting programmed cell death
 			- Proliferative effects especially on bone, cartilage, skeletal muscle, skin, soft tissue, and organs
 			- Impaired glucose tolerance caused by binding to insulin receptors

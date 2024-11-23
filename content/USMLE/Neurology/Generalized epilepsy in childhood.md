@@ -13,4 +13,4 @@ share: true
 - 1st line: ethosuximide
 # Juvenile absence epilepsy
 ## Treatment
-- 1st-line: valproic acid
+- 1st-line: [[Anticonvulsant drugs|valproic acid]]

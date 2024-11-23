@@ -70,6 +70,8 @@ share: true
 		- Depression
 		- [[Parkinson disease|Parkinson disease]]
 - GABA
+	- GABA A receptor mediates a <span style="background:rgba(240, 200, 0, 0.2)">fast response</span> to GABA because it is an ion-gated chloride channel.  <span style="background:rgba(240, 200, 0, 0.2)">Activation of this receptor leads to rapid muscle relaxation and sedation.  Its activity is enhanced by benzodiazepines, which can be used to treat spasticity.</span>
+	- GABA B receptor mediates a <span style="background:rgba(240, 200, 0, 0.2)">slower response</span> to GABA because it is mediated by a G protein–coupled receptor that opens potassium channels.  It is agonized by baclofen, which can also be used to treat spasticity.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Inhibitory in the brain</span>
 	- Increased levels
 	- Decreased levels

@@ -117,6 +117,10 @@ share: true
 >Remember HbA1c as <font color="#ffc000">4</font>,5,<font color="#ffc000">6</font>,7
 ## Diagnostic criteria for diabetes mellitus
 ### Hyperglycemia tests
+
+>[!tip] 
+>In the initial stages, glucose is typically normal when fasting (ie, able to produce some insulin) but elevated after a glycemic load.
+
 - <span style="background:rgba(240, 200, 0, 0.2)">Hemoglobin A1C (HbA1c or A1C): glycated hemoglobin, which reflects the average blood glucose levels of the prior 8–12 weeks</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Can be measured at any time, not required to fast and the results are independent of time of day</span>
 	- Results may be altered by a variety of conditions or treatments, e.g., sickle cell trait, [[chronic kidney disease|chronic kidney disease]]. 

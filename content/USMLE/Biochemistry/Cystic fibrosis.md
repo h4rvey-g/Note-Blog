@@ -43,7 +43,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
 		- Hypoproteinemia
 		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of fat-soluble vitamins</span>
 			- Lack of [[Vitamin K|Vitamin K]] -> life-threatening <span style="background:rgba(240, 200, 0, 0.2)">bleeding</span>
-- CF-related [[diabetes mellitus|diabetes mellitus]] (CFRD)
+- <span style="background:rgba(240, 200, 0, 0.2)">CF-related [[diabetes mellitus|diabetes mellitus]] (CFRD)</span>
 - Liver and bile duct abnormalities
 	- Biliary [[cirrhosis|cirrhosis]] with portal hypertension, jaundice, and/or esophageal varices
 - Intestinal obstruction: abdominal distention, pain, and a palpable mass
@@ -52,16 +52,16 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
 >In almost all cases of meconium ileus, cystic fibrosis is the underlying disease.
 
 ## Respiratory
-- Chronic obstructive lung disease with [[bronchiectasis|bronchiectasis]]
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Chronic obstructive pulmonary disease|COPD]] with [[bronchiectasis|bronchiectasis]]</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[sinusitis|sinusitis]]: nasal polyps may eventually develop </span>
 - Recurrent or chronic productive cough and <span style="background:rgba(240, 200, 0, 0.2)">pulmonary infections</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">S. aureus</span> is the most common cause of recurrent pulmonary infection <span style="background:rgba(240, 200, 0, 0.2)">in infancy and childhood.</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">P. aeruginosa</span> is the most common cause of recurrent pulmonary infections in <span style="background:rgba(240, 200, 0, 0.2)">adulthood</span>.
+	- <span style="background:rgba(240, 200, 0, 0.2)">P. aeruginosa</span> is the most common cause of recurrent pulmonary infections in <span style="background:rgba(240, 200, 0, 0.2)">adulthood</span>.![[L16627.jpg|L16627.jpg]]
  - Hemoptysis (Recurrent infections lead to increased vulnerability of the lung tissue)
- - <span style="background:rgba(240, 200, 0, 0.2)">Signs of chronic respiratory insufficiency: digital clubbing</span>
+ - <span style="background:rgba(240, 200, 0, 0.2)">Signs of chronic respiratory insufficiency: [[Nail clubbing|digital clubbing]]</span>
  >[!warning] 
 >The main determinant of life expectancy is the severity of pulmonary disease: chronic respiratory infections and mucus plugging → [[bronchiectasis|bronchiectasis]] (irreversible) → progressive respiratory failure → death
-## Sweat glands
+## [[Sweat glands|Sweat glands]]
 - Particularly salty sweat
 - Possible electrolyte wasting
 ## Genital

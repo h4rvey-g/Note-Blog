@@ -48,6 +48,11 @@ share: true
 
 ---
 # Diagnostics
+## Pathology
+- Squamous cell carcinoma ![[Pasted image 20241115224714.png|Pasted image 20241115224714.png]]
+	- Breakdown of uniform tissue structure
+	- <span style="background:rgba(240, 200, 0, 0.2)">Squamous cell carcinoma clusters with circular keratinization</span>
+	- Lymphocytic infiltration between the carcinoma clusters
 
 
 ---

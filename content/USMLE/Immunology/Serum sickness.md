@@ -27,7 +27,7 @@ Serum sickness is a classic example of a <span style="background:rgba(240, 200, 
 # Clinical features
 - Fever
 - <span style="background:rgba(240, 200, 0, 0.2)">Rash (urticarial or purpuric)</span>
-- Arthralgias, myalgia
+- <span style="background:rgba(240, 200, 0, 0.2)">Arthralgias, myalgia</span>
 - Lymphadenopathy
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Symptoms appear 1–3 weeks following initial exposure</span> (because antibodies take several days to form) and typically resolve within a few weeks after discontinuation of the offending agent.

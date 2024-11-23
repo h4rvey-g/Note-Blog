@@ -19,8 +19,8 @@ share: true
 # Pathophysiology
 - Hypopituitarism refers to deficiency of one or more anterior pituitary hormones
 	- GH deficiency → growth retardation (during childhood), ↓ bone density, muscle atrophy, hypercholesterolemia
-	- Prolactin deficiency → lactation failure following delivery 
-	- FSH/LH deficiency → hypogonadotropic hypogonadism (secondary hypogonadism)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Prolactin deficiency → lactation failure following delivery </span>
+	- FSH/LH deficiency → [[Hypogonadism|hypogonadotropic hypogonadism]] (secondary [[hypogonadism|hypogonadism]])
 	- TSH deficiency → secondary [[hypothyroidism|hypothyroidism]]
 	- ACTH deficiency → secondary [[adrenal insufficiency|adrenal insufficiency]] 
 - In addition to the aforementioned hormone deficiencies, patients with severe pituitary damage (panhypopituitarism) also present with deficiencies of posterior pituitary hormones:
@@ -33,7 +33,7 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
