@@ -19,7 +19,7 @@ severe malnutrition (e.g., due to alcoholism, illicit drug use, and/or psychiatr
 ## Vitamin C functions
 - Hydrophilic antioxidant
 - Conversion of dopamine to norepinephrine: coenzyme in dopamine β-hydroxylase
-- <span style="background:rgba(240, 200, 0, 0.2)">[[Collagen|Collagen]] synthesis: coenzyme in hydroxylation reaction of proline and lysine</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Collagen|Collagen]] synthesis: coenzyme in hydroxylation reaction of proline and lysine</span>![[L13176.jpg|L13176.jpg]]
 - Facilitates iron [[absorption|absorption]] (keeps iron in Fe2+ reduced state)
 
 ---
