@@ -22,6 +22,7 @@ share: true
 	- Pupillary sphincter (Edinger-Westphal nucleus and muscarinic receptors)
 	- Efferent limb of the [[pupillary light reflex|pupillary light reflex]]
 - Accommodation: ciliary muscle
+
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[Vasculitides|vasculitis]], [[Diabetes mellitus|diabetes]], [[atherosclerosis|atherosclerosis]]).</span>
 
@@ -30,7 +31,7 @@ share: true
 ## Basilar segment
 The basilar segment is the only region where the oculomotor nerve is not accompanied by other cranial nerves.
 ### Cause
-- Aneurysm of the posterior communicating artery
+- <span style="background:rgba(240, 200, 0, 0.2)">Aneurysm of the posterior communicating artery</span>
 	- Clinical features
 		- Headache
 		- Paralytic squint
