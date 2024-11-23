@@ -34,11 +34,10 @@ share: true
 	- Enthesitis
 	- Dactylitis
 - Extra‑articular symptoms
-	- <span style="background:rgba(240, 200, 0, 0.2)">Conjunctivitis</span>, iritis, episcleritis, or keratitis 
-	- Dermatologic manifestations
-	- Balanitis circinata: skin lesions of the glans resembling [[psoriasis|psoriasis]] 
-	- Keratoderma blenorrhagicum: hyperkeratinization of the palms and soles 
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[Urethritis|Urethritis]]</span>
+	- Ocular: <span style="background:rgba(240, 200, 0, 0.2)">conjunctivitis</span>, anterior uveitis
+	- Genital: <span style="background:rgba(240, 200, 0, 0.2)">[[urethritis|urethritis]]</span>, cervicitis, prostatitis
+	- Dermal: <span style="background:rgba(240, 200, 0, 0.2)">keratoderma blennorrhagicum</span>, circinate balanitis![[Pasted image 20241116211612.png|Pasted image 20241116211612.png]]
+	- Oral ulcers
 - Symptoms from preceding infection 
 	- [[Diarrhea|Diarrhea]]
 	- Urogenital tract symptoms (dysuria, pelvic pain, prostatitis)
