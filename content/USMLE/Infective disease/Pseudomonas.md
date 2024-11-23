@@ -21,6 +21,7 @@ Water and humid conditions (e.g., hot tubs, contaminated contact lens solution)
 ## Virulence factors and resistances
 ---
 - Mucoid polysaccharide capsule → <span style="background:rgba(240, 200, 0, 0.2)">biofilm formation</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Conversion to a mucoid phenotype that produces an alginate polysaccharide</span>, which strengthens biofilm structure and aids in the inhibition of opsonization and phagocytosis
 - Endotoxin → fever, shock
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Exotoxin A|Exotoxin A]]: inactivates EF-2 → inhibition of protein synthesis → death of host cells</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Phospholipase C: degrades cell membranes</span>
