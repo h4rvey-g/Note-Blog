@@ -4,6 +4,8 @@ created: 2024-02-09 20:19
 modified: 2024-02-09 20:19
 aliases:
   - Eclampsia
+  - Preeclampsia
+  - HELLP syndrome
 share: true
 ---
 # Definition
@@ -32,7 +34,11 @@ share: true
 
 ---
 # Diagnostics
-
+## Urine studies
+In the kidneys, vasospasm causes decreased renal blood flow and glomerular filtration rate, leading to <span style="background:rgba(240, 200, 0, 0.2)">minimal, concentrated urine (ie, high specific gravity) and increased serum creatinine levels.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">24-hour urine collection (gold standard): proteinuria (urinary protein excretion ≥ 300 mg/day) </span>
+- Urine protein:creatinine ratio: ≥ 0.3 
+- Urine dipstick: > 2+ protein
 
 ---
 # Treatment
