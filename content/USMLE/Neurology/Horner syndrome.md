@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-03-08 11:33
 modified: 2024-03-08 11:33
-aliases: []
+aliases:
+  - Pancoast tumor
 share: true
 ---
 # Pathophysiology
