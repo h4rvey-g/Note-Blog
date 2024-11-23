@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-03-12 16:47
 modified: 2024-03-12 16:47
-aliases: []
+aliases:
+  - Placenta accreta
 share: true
 ---
 <span style="background:rgba(240, 200, 0, 0.2)">Defective decidual layer of the placenta leading to abnormal attachment and separation during postpartum period</span>![[Pasted image 20240312164749.png|Pasted image 20240312164749.png]]
@@ -23,8 +24,8 @@ share: true
 # Pathophysiology
 ---
 ## Risk factors
-- History of uterine surgery (e.g., endometrial ablation, hysteroscopic removal of intrauterine adhesions, dilatation, curettage)
-- Prior births by cesarean delivery
+- <span style="background:rgba(240, 200, 0, 0.2)">History of uterine surgery</span> (e.g., endometrial ablation, hysteroscopic removal of intrauterine adhesions, dilatation, curettage)
+- <span style="background:rgba(240, 200, 0, 0.2)">Prior births by cesarean delivery</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Placenta previa </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Placenta previa generally manifests with placenta accreta.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Multiparity</span>
@@ -33,7 +34,7 @@ share: true
 # Clinical features
 ---
 - [[Abnormal uterine bleeding|Abnormal uterine bleeding]]
-- [[Postpartum hemorrhage|Postpartum hemorrhage]] at the time of attempted manual separation of the placenta
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Postpartum hemorrhage|Postpartum hemorrhage]] at the time of attempted manual separation of the placenta</span>
 
 # Diagnostics
 ---
