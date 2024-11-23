@@ -36,6 +36,7 @@ share: true
 cSCC occurs as a result of <span style="background:rgba(240, 200, 0, 0.2)">malignant transformation of keratinocytes in the [[Skin layers|stratum spinosum]] (prickle cell layer) of the epidermis.</span> These atypical keratinocytes appear as enlarged, polygonal cells with nuclear pleomorphism and atypical mitoses.
 - Sheets or nests of <span style="background:rgba(240, 200, 0, 0.2)">malignant keratinocytes</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Keratinization (eg, keratin pearls) & intercellular bridges</span>![[L80129.png|L80129.png]]
+	- Keratin pearls: An abnormal structure formed by concentric layers of epithelial cells surrounding a <span style="background:rgba(240, 200, 0, 0.2)">keratin matrix secreted by the cells</span>. Associated with well-differentiated squamous cell carcinoma.
 
 # Differential diagnostics
 ---
