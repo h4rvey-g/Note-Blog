@@ -29,7 +29,7 @@ share: true
 - Genetic mutations
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antigenic shift</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Two subtypes of viruses</span> (e.g., human and swine influenza) infect the same cell and <span style="background:rgba(240, 200, 0, 0.2)">exchange genetic segments</span> (reassortment) to create new subtypes (e.g., H3N1 → H2N1).
-		- Causes pandemics
+		- <span style="background:rgba(240, 200, 0, 0.2)">Causes pandemics</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antigenic drift</span>
 		- Minor changes in antigenic structure (hemagglutinin and/or neuraminidase) <span style="background:rgba(240, 200, 0, 0.2)">via random point mutation</span>
 		- Causes epidemics (limited to a specific population or region)
