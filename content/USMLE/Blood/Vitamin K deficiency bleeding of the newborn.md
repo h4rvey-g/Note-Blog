@@ -12,9 +12,9 @@ share: true
 
 # Etiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Exclusive breastfeeding: low vitamin K levels in breast milk (most important in late-onset VKDB)</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Vitamin K deficiency in the mother (e.g., because of anticonvulsant therapy; most important in early-onset VKDB; maternal malnutrition)</span>
-- Underdeveloped intestinal flora (which produces vitamin K), e.g., due to premature birth
+- <span style="background:rgba(240, 200, 0, 0.2)">Exclusive [[Infant nutrition and breastfeeding|breastfeeding]]: low [[vitamin K|vitamin K]] levels in breast milk (most important in late-onset VKDB)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Vitamin K|Vitamin K]] deficiency in the mother (e.g., because of anticonvulsant therapy; most important in early-onset VKDB; maternal malnutrition)</span>
+- Underdeveloped intestinal flora (which produces [[vitamin K|vitamin K]]), e.g., due to premature birth
 - Long-term antibiotic treatment in newborns 
 ## Classification
 - Early onset: within 24 hours after birth; intracranial bleeding common
@@ -30,7 +30,7 @@ share: true
 - Classically presents on day 2-7 of life
 - Easy bruising
 - Umbilical, mucosal & gastrointestinal bleeding
-- <span style="background:rgba(240, 200, 0, 0.2)">Intracranial hemorrhage</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Intracranial hemorrhage|Intracranial hemorrhage]]</span>
 
 # Diagnostics
 ---
@@ -38,4 +38,4 @@ share: true
 
 # Treatment
 ---
-<span style="background:rgba(240, 200, 0, 0.2)">In the US, all newborns receive intramuscular vitamin K (0.5–1 mg) at birth.</span>
+<span style="background:rgba(240, 200, 0, 0.2)">In the US, all newborns receive intramuscular [[vitamin K|vitamin K]] (0.5–1 mg) at birth.</span>
