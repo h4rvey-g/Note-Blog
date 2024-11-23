@@ -20,13 +20,13 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme ornithine transcarbamylase → impaired conversion of carbamoyl phosphate and ornithine to citrulline (and phosphate) → ammonia cannot be eliminated and accumulates</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Conversion of excess carbamoyl phosphate to orotic acid</span> occurs as part of the pyrimidine synthesis pathway
 - Clinical features
-	- Symptoms commonly manifest in the first days of life but can develop at any age.
-	- Nausea, vomiting, irritability, poor feeding
+	- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms commonly manifest in the first days of life but can develop at any age.</span>
+	- Nausea, <span style="background:rgba(240, 200, 0, 0.2)">vomiting</span>, irritability, poor feeding
 	- Delayed growth and cognitive impairment
-	- In severe cases, metabolic encephalopathy with coma and death
+	- <span style="background:rgba(240, 200, 0, 0.2)">In severe cases, metabolic encephalopathy with coma and death</span>
 	- Does not cause megaloblastic anemia (as opposed to orotic aciduria)
 - Diagnostics
-	- [[Hyperammonemia|Hyperammonemia]] (usually > 100 μmol/L)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Hyperammonemia|Hyperammonemia]] (usually > 100 μmol/L)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Orotic acid in urine and blood</span>
 	- ↓ BUN
 	- ↑ Carbamoyl phosphate and ↓ citrulline in the serum
