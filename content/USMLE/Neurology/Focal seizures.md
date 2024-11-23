@@ -7,7 +7,7 @@ aliases:
   - Temporal lobe epilepsy
 share: true
 ---
-# Temporal lobe epilepsy
+# Temporal lobe [[Seizures and epilepsy|epilepsy]]
 ---
 - Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common form of epilepsy</span>
 	- ∼ 40% of all epilepsy cases
@@ -27,7 +27,7 @@ share: true
 			- <span style="background:rgba(240, 200, 0, 0.2)">Typically oral alimentary automatisms (e.g., lip-smacking)</span>
 		- Autonomic symptoms
 		- Altered mental status
-			- Children appear absent-minded (e.g., staring ahead, unresponsive when spoken to)
-			- No loss of consciousness
+			- <span style="background:rgba(240, 200, 0, 0.2)">Children appear absent-minded (e.g., staring ahead, unresponsive when spoken to)</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">No loss of consciousness</span>
 	3. Postictal phase
 		- Confusion and tiredness (common)
