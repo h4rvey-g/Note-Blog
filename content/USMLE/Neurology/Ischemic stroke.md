@@ -4,6 +4,7 @@ created: 2023-12-24 09:25
 modified: 2023-12-24 09:25
 aliases:
   - Wallenberg syndrome
+  - watershed infarct
 share: true
 ---
 # Epidemiology
@@ -13,12 +14,19 @@ share: true
 # Etiology
 ## Embolic strokes (∼ 20% of all strokes)
 - <span style="background:rgba(240, 200, 0, 0.2)">Most commonly affect the middle cerebral artery (MCA)</span>
-- Dislodged emboli can affect multiple cerebral vascular territories simultaneously.
+- Likely cause <span style="background:rgba(240, 200, 0, 0.2)">multiple scattered infarcts in an asymmetric pattern within different major vascular territories</span> (eg, middle and anterior cerebral artery)
 ## Thrombotic strokes (∼ 40%)
 - Large vessel [[atherosclerosis|atherosclerosis]] (∼ 20%) 
 	- Rupture of an atherosclerotic plaque and exposure of subendothelial [[collagen|collagen]] → formation of a thrombus
 	- <span style="background:rgba(240, 200, 0, 0.2)">Thrombus formation most commonly occurs at branch points in arteries (e.g., internal carotid artery bifurcation or where the MCA branches from the circle of Willis).</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Small vessel occlusion (e.g., lacunar infarct) (∼ 20%)</span>
+## Global cerebral ischemia
+- <span style="background:rgba(240, 200, 0, 0.2)">Systemic hypoperfusion</span>
+	- Shock or bilateral large artery [[atherosclerosis|atherosclerosis]] (e.g., of carotid arteries) → decreased effective oxygen delivery to the whole brain
+	- <span style="background:rgba(240, 200, 0, 0.2)">Common during cardiac surgeries</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Can result in watershed infarct</span>
+- [[Hypoglycemia|Hypoglycemia]]: Repeated episodes of [[hypoglycemia|hypoglycemia]] (e.g., due to insulinoma) increase the risk of cerebral ischemia.
+- Severe and/or chronic hypoxia: hypoxemia (e.g., due to respiratory arrest) → global tissue hypoxia in the brain
 
 ---
 # Classifications
@@ -66,7 +74,7 @@ Lateral pontine syndrome is similar to lateral medullary syndrome but also invol
 - Etiology 
 	- Most common: <span style="background:rgba(240, 200, 0, 0.2)">chronic hypertensive vasculopathy → lipohyalinosis of the small vessels → occlusion of small, penetrating arteries (e.g., lenticulostriate artery) </span> → lacunar stroke resulting in specific lacunar syndromes![[highresdefault_L29254.jpg|highresdefault_L29254.jpg]]
 - Risk factors
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension</span> 
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypertension|Hypertension]]</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Diabetes mellitus|Diabetes mellitus]]</span>
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pure motor stroke</span>
@@ -82,7 +90,18 @@ Lateral pontine syndrome is similar to lateral medullary syndrome but also invol
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">If an infarction causes abnormalities in multiple body parts (e.g., legs + arms + face), it is unlikely to be a cortical infarction, because the cortical areas corresponding to different parts are supplied by different vessels. A thalamic (sensory) or internal capsule (motor) infarction is more likely. </span>
 
+## Watershed infarct
+- <span style="background:rgba(240, 200, 0, 0.2)">Definition: border-zone infarct in the region between the territory of two major arteries that supply the brain (watershed area)</span>![[L47151.jpg|L47151.jpg]]
+- Etiology: sudden decrease in blood pressure or cessation of blood flow through both vessels → ischemia in the susceptible region between two vascular territories
+	- Cortical border zones: territories between the anterior and middle cerebral arteries and between the middle and posterior cerebral arteries
+	- Internal border zones: territories between the superficial and deep branches of the MCA
+- Clinical features
+	- <span style="background:rgba(240, 200, 0, 0.2)">Signs of systemic hypoperfusion (e.g., tachycardia, low blood pressure, pallor, sweating)</span>
+	- Diffuse neurological deterioration
+	- PCA-MCA watershed region: bilateral visual loss (cortical blindness) 
+	- ACA-MCA watershed region: proximal limb weakness with sparing of the face, hands, and feet (“man-in-the-barrel syndrome”)
 # Diagnostics
+---
 ## Pathology
 ![[Pasted image 20231224092618.png|Pasted image 20231224092618.png]]
 
