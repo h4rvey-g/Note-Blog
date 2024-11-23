@@ -11,7 +11,8 @@ share: true
 
 ---
 # Pathophysiology
-
+- When a <span style="background:rgba(240, 200, 0, 0.2)">multivalent antigen comes in contact with the cell, multiple IgE antibodies become cross-linked, resulting in aggregation of the FcεRI receptors on the mast cell surface.</span> ![[highresdefault_L23794.jpg|highresdefault_L23794.jpg]]
+- This clumping of receptors leads to the activation of non-receptor tyrosine kinases, triggering an intracellular cascade that ultimately results in mast cell and basophil degranulation.
 
 ---
 # Clinical features
@@ -26,6 +27,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
