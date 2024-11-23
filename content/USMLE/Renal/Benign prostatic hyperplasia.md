@@ -31,6 +31,8 @@ share: true
 - Free PSA levels and free PSA/total PSA ratio
 	- ↑ Free PSA levels and ↑ free PSA/total PSA ratio: usually seen in BPH
 	- ↓ Free PSA levels and ↓ free PSA/total PSA ratio: suggestive of [[prostate cancer|prostate cancer]]
+## MRI and CT pelvis
+![[Pasted image 20241122150113.png|Pasted image 20241122150113.png]]
 
 ---
 # Treatment
