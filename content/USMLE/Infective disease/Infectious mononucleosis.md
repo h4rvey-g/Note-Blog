@@ -31,7 +31,7 @@ share: true
 	- Symptoms typically occur in adolescents and young adults and last for 2–4 weeks.
 - Signs and symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Splenomegaly|Splenomegaly]]</span>, fever, fatigue, malaise 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pharyngitis and/or tonsillitis</span> (reddened, enlarged tonsils covered in pus), palatal petechiae 
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Acute tonsillitis and pharyngitis|Pharyngitis]] and/or tonsillitis</span> (reddened, enlarged tonsils covered in pus), palatal petechiae 
 	- Bilateral <span style="background:rgba(240, 200, 0, 0.2)">cervical lymphadenopathy</span> (especially posterior) that may become generalized and can, in severe cases, lead to airway obstruction
 	- Abdominal pain
 	- Possibly <span style="background:rgba(240, 200, 0, 0.2)">[[hepatomegaly|hepatomegaly]]</span> and jaundice 
