@@ -27,6 +27,9 @@ Class IA is 1+2, Class IC is only 1 (strongly). However, Class IB is different f
 ---
 ## Adenosine
 - Mechanism of action: activates Gi protein → inhibition of adenylate cyclase → ↓ cAMP → deactivation of L-type Ca<sup>2+</sup> channels and activation of K<sup>+</sup> channels → ↓ Ca<sup>2+</sup> and ↑ K<sup>+</sup> efflux → <span style="background:rgba(240, 200, 0, 0.2)">hyperpolarization → transient AV node block (short-acting, ∼ 15 seconds) → acute termination of [[supraventricular tachycardia|supraventricular tachycardia]]</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Vasodilator</span>
+	- Coronary autoregulation is a process that maintains myocardial blood flow in settings of decreased coronary perfusion pressure (eg, hemorrhage, [[sepsis|sepsis]]).  Within the region of autoregulation (eg, 60-140 mm Hg), changes in coronary blood flow are driven primarily by myocardial oxygen demand.  This is accomplished mostly by automated alterations in vascular resistance via the release of locally acting mediators, namely <span style="background:rgba(240, 200, 0, 0.2)">adenosine (released from cardiomyocytes as ATP is broken down for energy)</span> and nitric oxide (synthesized by endothelial cells in response to chemical mediators and mechanical stress).
+	- <span style="background:rgba(240, 200, 0, 0.2)">When myocardial perfusion pressure decreases, there is decreased oxygen delivery to the myocardium and less ATP is regenerated via oxidative metabolism, resulting in increased levels of adenosine.</span>  Myocardial hypoxia also triggers increased synthesis of nitric oxide. 
 - Indications
 	- Diagnosis and termination of certain forms of paroxysmal supraventricular tachycardias (e.g., [[Supraventricular tachycardia|AVNRT]] and orthodromic AVRT) 
 	- Diagnosis of underlying [[Atrial fibrillation|AFib]] in supraventricular tachyarrhythmias 
