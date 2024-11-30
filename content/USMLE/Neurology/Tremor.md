@@ -6,7 +6,7 @@ aliases: []
 share: true
 ---
 - Action Tremor: **Occurs During Voluntary Muscle Movement**
-    - Cerebellar Disease (e.g., spinocerebellar ataxia, [[Vitamin E|Vitamin E]] deficiency, stroke, [[multiple sclerosis|multiple sclerosis]])
+    - Cerebellar Disease (e.g., spinocerebellar ataxia, [[Vitamin E|Vitamin E]] deficiency, stroke, [[multiple sclerosis|multiple sclerosis]], [[Wilson disease|Wilson disease]])
 - Resting Tremor: **Occurs at Rest**
     - [[Parkinson Disease|Parkinson Disease]]
     - Midbrain Tremor
@@ -17,6 +17,6 @@ share: true
 - Postural Tremor: **Occurs While Held Motionless Against Gravity**
     - Enhanced Physiologic Change
     - [[Essential tremor|Essential tremor]]
-    - Dystonia
+    - [[Dystonia|Dystonia]]
     - Metabolic Etiology (Thyroid, Liver, Kidney)
     - Drugs (Lithium, Amiodarone, [[Anticonvulsant drugs|Valproate]])
