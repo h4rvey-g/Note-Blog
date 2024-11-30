@@ -54,13 +54,28 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 |                       | **Sertoli-Leydig cell tumor**   | <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgens (e.g., hirsutism, clitoromegaly)</span>                                  |
 
 ## Ovarian germ cell tumors
+
+
+# Epithelial ovarian tumors
+---
+## Cystadenoma
+- Ovarian serous cystadenoma	and Ovarian mucinous cystadenoma
+- <span style="background:rgba(240, 200, 0, 0.2)">Most (serous) and second most common (mucinous) benign ovarian tumor</span>
+- Histology
+	- Ovarian serous cystadenoma
+		- May contain small papillary projections
+		- <span style="background:rgba(240, 200, 0, 0.2)">Psammoma bodies </span>![[Pasted image 20241126113137.png|Pasted image 20241126113137.png]]
+		- Cyst is lined by serous epithelial cells (similar to the epithelium of fallopian tubes)
+	- Ovarian mucinous cystadenoma
+		- <span style="background:rgba(240, 200, 0, 0.2)">Cyst is lined by columnar epithelium that secretes thick mucus (similar to the epithelium of cervix) </span>
+
+# Ovarian germ cell tumors
+---
 - Subtypes are determined by structural differentiation
 	- Extraembryonic differentiation: yolk sac tumor
 	- Somatic differentiation: teratoma
 	- No differentiation: dysgerminoma
 
-
----
 # Diagnostics
 ## [[Tumor markers|Tumor markers]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Epithelial ovarian tumors: CA-125 is elevated in ∼ 80% of malignant tumors.</span>
