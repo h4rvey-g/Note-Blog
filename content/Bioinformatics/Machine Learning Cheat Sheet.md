@@ -21,6 +21,7 @@ In a nutshell, linear models create a best-fit line to predict unseen data. Line
 | **Ridge Regression**    | Part of the regression family — it penalizes features that have low predictive outcomes by shrinking their coefficients closer to zero. Can be used for classification or regression | 1. Predictive maintenance for automobiles<br>2. Sales revenue prediction                           | 1. Less prone to overfitting<br>2. Best suited where data suffer from multicollinearity<br>3. Explainable & interpretable               | 1. All the predictors are kept in the final model<br>2. Doesn't perform feature selection                                       |
 | **Lasso Regression**    | Part of the regression family — it penalizes features that have low predictive outcomes by shrinking their coefficients to zero. Can be used for classification or regression        | 1. Predicting housing prices<br>2. Predicting clinical outcomes based on health data               | 1. Less prone to overfitting<br>2. Can handle high-dimensional data<br>3. No need for feature selection                                 | 1. Can lead to poor interpretability as it can keep highly correlated variables                                                 |
 
+![[Pasted image 20241123174020.png|Pasted image 20241123174020.png]]
 ### Tree-based models
 In a nutshell, tree-based models use a series of "if-then" rules to predict from decision trees. In this section, we'll specify commonly used linear models in machine learning, their advantages, and disadvantages.
 
