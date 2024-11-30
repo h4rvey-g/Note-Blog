@@ -16,7 +16,7 @@ share: true
 
 # Pathophysiology
 ---
-![[L69494.jpg|L69494.jpg]]
+During fetal development, <span style="background:rgba(240, 200, 0, 0.2)">anterior and superior deviation of the infundibular septum</span> → misaligned VSD with overriding aortic root and subsequent RVOTO![[L69494.jpg|L69494.jpg]]
 
 # Clinical features
 ---
