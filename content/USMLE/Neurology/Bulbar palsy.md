@@ -6,6 +6,7 @@ aliases:
   - Pseudobulbar palsy
 share: true
 ---
+![[Pasted image 20241127100501.png|Pasted image 20241127100501.png]]
 - Bulbar palsy is a lower motor neuron palsy that affects the nuclei of the IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves. 
 - Pseudobulbar palsy is an upper motor neuron palsy that affects the corticobulbar tracts of the V<sup>th</sup>, VII<sup>th</sup>, IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves.
 # Bulbar palsy
@@ -13,14 +14,14 @@ share: true
 - Brainstem stroke or tumors
 - Neurodegenerative diseases: [[amyotrophic lateral sclerosis|amyotrophic lateral sclerosis]], syringobulbia 
 - Autoimmune neuropathies: Guillain-Barré syndrome, [[myasthenia gravis|myasthenia gravis]] 
-- Infectious neuropathies: [[poliomyelitis|poliomyelitis]], diphtheria, neurosyphilis
+- Infectious neuropathies: [[poliomyelitis|poliomyelitis]], [[diphtheria|diphtheria]], neurosyphilis
 ## Pathophysiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Bilateral damage or injury of the nerve nuclei of cranial nerves IX, X, XI, and XII </span>
 	- Since the cranial nerve nuclei in the brain stem are paired, <span style="background:rgba(240, 200, 0, 0.2)">unilateral lesions are often asymptomatic.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Lower motor neuron palsy of the respective muscles </span>
 ## Clinical features
 - Facial expression: normal 
-	- Sparing of the VIIth cranial nerve nucleus
+	- Sparing of the VII<sup>th</sup> cranial nerve nucleus
 - Speech: nasal 
 	- Due to paresis of the palate as well as of the tongue and lips
 - Dysphagia, drooling, nasal regurgitation 
@@ -51,7 +52,7 @@ share: true
 - Dysphagia, drooling, and nasal regurgitation 
 - Tongue
 	- <span style="background:rgba(240, 200, 0, 0.2)">Spastic, pointed</span>
-	- Difficulty in tongue protrusion due to spasticity
+	- Difficulty in tongue protrusion due to [[Spasticity (Clonus) vs Rigidity|spasticity]]
 	- No wasting/fasciculations
 - Palatal movement: absent
 - <span style="background:rgba(240, 200, 0, 0.2)">Gag reflex: brisk (exaggerated) </span>
