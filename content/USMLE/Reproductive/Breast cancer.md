@@ -6,14 +6,19 @@ aliases:
   - Paget disease of the breast
 share: true
 ---
+![[Pasted image 20241124144632.png|Pasted image 20241124144632.png]]
+- Terminal ductal lobular units (TDLU)
+	- Basic histopathological units of the mammary gland 
+	- Consist of:
+		- Lobule of the mammary gland: (functional unit of the breast) 
+			- Intralobular stroma: loose, cell-rich connective tissue
+			- <span style="background:rgba(240, 200, 0, 0.2)">Intralobular terminal (milk) duct with multiple outpouchings called acini or ductules (site of milk production)</span>
+				- Structure: tubulo-alveolar with two-layered glandular epithelium 
+					- <span style="background:rgba(240, 200, 0, 0.2)">Outer layer: myoepithelial cells (contractile</span>, route the milk to the ducts in lactating breasts)
+					- <span style="background:rgba(240, 200, 0, 0.2)">Inner layer</span>: cubic, apocrine glandular epithelial cells (<span style="background:rgba(240, 200, 0, 0.2)">can produce milk</span>)
+		- Extralobular terminal duct
+
 ![[Pasted image 20241018091605.png|Pasted image 20241018091605.png]]
-# Epidemiology
----
-
-
-# Etiology
----
-
 
 # Benign cancer
 ---
@@ -104,7 +109,7 @@ share: true
 - [[Fat necrosis of the breast|Fat necrosis of the breast]]
 ## Paget disease of the breast
 - Definition: a rare type of breast cancer that <span style="background:rgba(240, 200, 0, 0.2)">affects the lactiferous ducts and the skin of the nipple and areola</span>
-- Pathogenesis: migratory/epidermotropic theory: neoplastic ductal epithelial cells from an underlying DCIS or IDC  move through the lactiferous ducts and invade the surrounding epidermis of the nipple.
+- Pathogenesis: migratory/epidermotropic theory: <span style="background:rgba(240, 200, 0, 0.2)">neoplastic ductal epithelial cells from an underlying DCIS or IDC  move through the lactiferous ducts and invade the surrounding epidermis of the nipple.</span>
 - Clinical features![[Pasted image 20240412145835.png|Pasted image 20240412145835.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Erythematous, scaly, or vesicular rash affecting the nipple and areola</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pruritus; burning sensation</span>
@@ -126,7 +131,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mastitis</span>
 		- Fever
 		- No Peau d'orange
-		- Good response to antibiotics
+		- Good response to [[antibiotics|antibiotics]]
 	- Paget disease of the breast
 	- Breast abscess
 
@@ -153,6 +158,6 @@ share: true
 ERBB2-targeted therapy includes <span style="background:rgba(240, 200, 0, 0.2)">ERBB2 antibodies (e.g., trastuzumab, pertuzumab) and tyrosine kinase inhibitors (e.g., lapatinib, neratinib).</span>
 - Indication: all ERBB2+ tumors
 - First-line agent: trastuzumab
-	- A humanized monoclonal antibody against the ERBB2 tyrosine kinase receptor; used in the treatment of ERBB2+ breast and gastric cancer 
+	- A humanized monoclonal antibody against the ERBB2 tyrosine kinase receptor; used in the treatment of ERBB2+ breast and [[gastric cancer|gastric cancer]] 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: targets c-erbB2 tyrosine kinase receptor → ↓ of ERBB2-initiated cellular signaling and ↑ antibody-dependent cytotoxicity → ↓ tumor growth</span>
-	- Adverse effects: cardiotoxicity (e.g., dilated cardiomyopathy with systolic CHF)
+	- Adverse effects: cardiotoxicity (e.g., [[dilated cardiomyopathy|dilated cardiomyopathy]] with systolic CHF)
