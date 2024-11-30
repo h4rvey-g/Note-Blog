@@ -21,7 +21,7 @@ share: true
 - Sulindac
 - Aspirin
 ## Mechanism of action
-- Reversible inhibition of the enzymes COX-1 and COX-2 → decreased prostaglandin synthesis 
+- Reversible inhibition of the enzymes COX-1 and COX-2 → decreased [[Prostaglandin vs Prostacyclin|prostaglandin]] synthesis 
 - Aspirin is the exception, because it leads to irreversible COX-1 and COX-2 inhibition.
 ## Choice
 - <span style="background:rgba(240, 200, 0, 0.2)">Acetaminophen</span>
@@ -36,7 +36,7 @@ share: true
 	- May affect [[wound healing|wound healing]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Aspirin</span>
 	- Only salicylate among NSAIDs
-	- <span style="background:rgba(240, 200, 0, 0.2)">Commonly used as antiplatelet agents, instead of analgesics or anti-inflammatory agents</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Commonly used as [[antiplatelet agents|antiplatelet agents]], instead of [[analgesics|analgesics]] or anti-inflammatory agents</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">See [[Salicylate poisoning|Salicylate poisoning]] for overdose effects</span>
 - For mild to moderate pain accompanied by swelling and inflammation, non-steroidal anti-inflammatory drugs (such as ibuprofen, aspirin, and naproxen) are more effective.
 # Selective COX-2 inhibitors
@@ -47,13 +47,13 @@ Celecoxib
 >[!Mnemonic] 
 >Selecoxib
 ## Effects
-- Analgesic and anti-inflammatory
+- [[Analgesics|Analgesic]] and anti-inflammatory
 - Advantages in comparison to nonselective NSAIDs
-	- <span style="background:rgba(240, 200, 0, 0.2)">No antiplatelet effect</span>: platelets only possess COX-1 and are therefore not targeted by selective COX-2 inhibitors. This means that the activity of thromboxane A2 (TXA2) is not interrupted (TXA2 normally promotes platelet aggregation).
+	- <span style="background:rgba(240, 200, 0, 0.2)">No [[Antiplatelet agents|antiplatelet]] effect</span>: platelets only possess COX-1 and are therefore not targeted by selective COX-2 inhibitors. This means that the activity of thromboxane A2 (TXA2) is not interrupted (TXA2 normally promotes platelet aggregation).
 	- Gastric mucosal cells express mostly COX-1, which is involved in maintaining a healthy gastric mucosa, so there are <span style="background:rgba(240, 200, 0, 0.2)">minimal gastrointestinal side effects and a lower risk of gastric ulcers</span>.
 ## Indications
 - [[Rheumatoid arthritis|Rheumatoid arthritis]], [[osteoarthritis|osteoarthritis]]
-# Other non-opioid analgesics
+# Other non-opioid [[analgesics|analgesics]]
 ## Agent
 <span style="background:rgba(240, 200, 0, 0.2)">Acetaminophen</span>
 ## Mechanism of action
@@ -61,7 +61,7 @@ Celecoxib
 - <span style="background:rgba(240, 200, 0, 0.2)">Inactivated peripherally</span>
 ## Effects
 - Antipyretic
-- Analgesic
+- [[Analgesics|Analgesic]]
 - <span style="background:rgba(240, 200, 0, 0.2)">No anti-inflammatory effect</span>
 ## Side effects
 - Hepatotoxicity due to acetaminophen overdose (drug-induced hepatitis)
