@@ -9,7 +9,8 @@ share: true
 
 ---
 # Pathophysiology
-
+- Type I (common; typical or isthmus-dependent flutter): caused by a counterclockwise (more common) or clockwise (less common) macroreentrant activation of cardiac muscle fibers in the <span style="background:rgba(240, 200, 0, 0.2)">right atrium that travels along the tricuspid annulus</span> and passes through the cavotricuspid isthmus![[L47143.jpg|L47143.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Different from [[Atrial fibrillation|AFib]], which originates from pulmonary vein ostia</span>
 
 ---
 # Clinical features
@@ -30,7 +31,7 @@ share: true
 ### Rapid Recognition
 - Narrow complex tachycardia at 150 bpm (range 130-170)? Yes -> Suspect flutter!
 - Turn the ECG upside down and closely examine the inferior leads (II, III + aVF) for flutter waves
-### [[Vagal maneuver|Vagal Maneuvers]] +/- Adenosine
+### [[Vagal maneuver|Vagal Maneuvers]] +/- [[Antiarrhythmic drugs|Adenosine]]
 - Atrial flutter will not usually cardiovert with these techniques (unlike [[[Supraventricular tachycardia|AVNRT]]](https://litfl.com/supraventricular-tachycardia-svt-ecg-library/)), although typically there will be a transient period of increased AV block during which flutter waves may be unmasked
 ### RR intervals
 - In atrial flutter with variable block the R-R intervals will be multiples of the P-P interval — e.g. assuming an atrial rate of 300bpm (P-P interval of 200 ms), the R-R interval would be 400 ms with 2:1 block, 600 ms with 3:1 block, and 800 ms with 4:1 block
