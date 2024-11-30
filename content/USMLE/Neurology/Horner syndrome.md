@@ -10,19 +10,19 @@ share: true
 ---
 ![[highresdefault_L80539.jpg|highresdefault_L80539.jpg]]
 ## Central
-- **Anatomical trajectory:** Hypothalamus (first-order oculosympathetic neuron) → brainstem, cervical, and thoracic spinal cord → ciliospinal center (C8–T2)
+- **Anatomical trajectory:** [[Hypothalamus|Hypothalamus]] (first-order oculosympathetic neuron) → brainstem, cervical, and thoracic spinal cord → ciliospinal center (C8–T2)
 - **Typical lesions:**
-    - Brainstem stroke (e.g., Wallenberg syndrome)
-    - Cervical spinal cord injury (e.g., Brown-Séquard syndrome, syringomyelia)
-    - Brain tumors
+    - Brainstem stroke (e.g., [[Ischemic stroke|Wallenberg syndrome]])
+    - Cervical [[spinal cord|spinal cord]] injury (e.g., Brown-Séquard syndrome, [[syringomyelia|syringomyelia]])
+    - [[Brain tumors|Brain tumors]]
     - Brainstem (pontine) hemorrhage
-    - Demyelinating disease (e.g., multiple sclerosis)
+    - Demyelinating disease (e.g., [[multiple sclerosis|multiple sclerosis]])
     - Malformations (e.g., Arnold-Chiari)
-    - Meningitis
+    - [[Meningitis|Meningitis]]
 ## Preganglionic
 - **Anatomical trajectory:** Ciliospinal center (second-order oculosympathetic neuron) → pulmonary apex → stellate ganglion → superior cervical ganglion
 - **Typical lesions:**
-    - Tumors (e.g., breast or lung cancer compressing stellate ganglion, esp. Pancoast tumor)![[highresdefault_L15834.jpg|highresdefault_L15834.jpg]]
+    - Tumors (e.g., breast or [[lung cancer|lung cancer]] compressing stellate ganglion, esp. Pancoast tumor)![[highresdefault_L15834.jpg|highresdefault_L15834.jpg]]
     - Iatrogenic (e.g., birth trauma, central venous catheterization)
     - Lymphadenopathy
     - Arterial lesions/dissection: aorta, subclavian, common carotid
@@ -32,7 +32,7 @@ share: true
 - **Typical lesions:**
     - Dissection of the internal carotid artery
     - Cluster headache
-    - Cavernous sinus
+    - [[Cavernous sinus syndrome|Cavernous sinus syndrome]]
     - Tumor
     - Herpes zoster infection
 # Clinical features
