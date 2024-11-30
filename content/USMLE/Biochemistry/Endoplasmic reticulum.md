@@ -12,4 +12,5 @@ share: true
 	- Associated with conditions like virilization due to [[Androgen and estrogen synthesis|androgen]]-secreting tumors and [[paraneoplastic syndromes|paraneoplastic syndromes]]
 - **Rough Endoplasmic Reticulum (RER)**
 	- Characterized by numerous <span style="background:rgba(240, 200, 0, 0.2)">ribosomes</span> on its outer membrane
-	- <span style="background:rgba(240, 200, 0, 0.2)">Essential for synthesis and modification of targeted proteins, including secretable polypeptide hormones</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">They synthesize secretory proteins</span>, the integral membrane proteins of the nucleus and cell membrane, and proteins within the ER, Golgi network, and lysosomes.
+- **Free ribosomes** remain floating in the cytosol throughout protein synthesis.  They are responsible for translating <span style="background:rgba(240, 200, 0, 0.2)">proteins found within the cytosol</span>, nucleosol, peroxisome matrix, and nuclear-encoded mitochondrial proteins 
