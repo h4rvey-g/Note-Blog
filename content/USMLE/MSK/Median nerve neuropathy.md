@@ -7,6 +7,16 @@ aliases:
   - Carpal tunnel syndrome
 share: true
 ---
+# Common causes
+---
+- Proximal injury: supracondylar fracture of humerus
+- Distal injury
+	- Carpal tunnel compression
+	- Wrist laceration (suicide attempt)
+- <span style="background:rgba(240, 200, 0, 0.2)">Pronator teres syndrome: compression of the median nerve between the humeral and ulnar heads of the pronator teres</span>![[highresdefault_L25344.jpg|highresdefault_L25344.jpg]]
+# Motor deficits
+---
+
 ![[Pasted image 20230920144032.png|Pasted image 20230920144032.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">The key is whether flexor digitorum profundus is damaged.</span>
 - Nerves controlling flexor digitorum profundus branches out below the elbow. So it's spared in distal lesion, but included in proximal lesion. So the claw hand is more prominent in distal lesion.
