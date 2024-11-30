@@ -60,7 +60,9 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 ## Other extracutaneous
 - Gastrointestinal tract
 	- Esophageal dysmotility → dysphagia and reflux
-	- Small bowel dysmotility → bloating, gas, constipation, and cramping 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Small bowel dysmotility → bloating, gas, constipation, and cramping </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Dysmotility creates an ideal environment for bacterial overgrowth.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Small intestinal bacterial overgrowth|Small intestinal bacterial overgrowth]]</span>
 - Vascular disease
 	- Raynaud phenomenon 
 	- Thromboembolism
