@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-15 10:46
 modified: 2023-12-15 10:46
-aliases: []
+aliases:
+  - GAS
 share: true
 ---
 # Virulence factors and resistances
@@ -22,7 +23,7 @@ share: true
 - Hyaluronic acid capsule: inhibits phagocytosis
 # Associated conditions
 - Head and neck
-	- Pharyngitis
+	- [[Acute tonsillitis and pharyngitis|Pharyngitis]]
 	- Tonsillitis
 	- Peritonsillar abscess
 	- [[Acute otitis media|Otitis media]]
