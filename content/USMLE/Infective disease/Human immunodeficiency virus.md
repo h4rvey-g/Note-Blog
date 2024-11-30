@@ -44,7 +44,7 @@ share: true
 	- Headache
 	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized nontender lymphadenopathy </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized rash </span>
-	- Gastrointestinal symptoms (nausea, diarrhea, weight loss)
+	- Gastrointestinal symptoms (nausea, [[diarrhea|diarrhea]], weight loss)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Oropharyngeal symptoms (sore throat, ulcerations, painful swallowing)</span>
 
 >[!tip] 
