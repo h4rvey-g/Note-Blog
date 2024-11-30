@@ -13,7 +13,10 @@ share: true
 
 ---
 # Etiology
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Beta thalassemia: usually due to **point mutations** in promoter sequences or **splicing sites**</span>
+	- β-globin locus - short arm of chromosome 11
+- Alpha thalassemia: usually due to <span style="background:rgba(240, 200, 0, 0.2)">deletion</span> of at least one out of the four existing alleles
+	- The α-globin gene cluster is located on chromosome 16
 
 ---
 # Pathophysiology
