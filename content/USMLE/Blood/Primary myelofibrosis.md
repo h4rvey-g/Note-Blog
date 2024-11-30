@@ -27,6 +27,12 @@ Genetic mutations → <span style="background:rgba(240, 200, 0, 0.2)">hyperplasi
 - Petechial bleeding 
 - Increased infections 
 
+>[!tip] Myelofibrosis vs [[Aplastic anemia|Aplastic anemia]]
+>- Myelofibrosis: <span style="background:rgba(240, 200, 0, 0.2)">[[splenomegaly|splenomegaly]]</span>
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Evidence of extra medullary hematopoesis</span>
+>- [[Aplastic anemia|Aplastic anemia]]: no
+>- Explanation: In myeloproliferative disorders like myelofibrosis, niche in marrow is disturbed by slow fibrosis of marrow so <span style="background:rgba(240, 200, 0, 0.2)">stem cells migrate and extra medullary haematopoiesis occurs</span>. <span style="background:rgba(240, 200, 0, 0.2)">But in aplastic anemia</span> (whether primary or secondary to drugs etc) <span style="background:rgba(240, 200, 0, 0.2)">stem cells themselves are destroyed or affected so haematopoiesis not possible anywhere.</span> So we don't get hepatosplenomegaly and other evidences of extramedullary haematopoiesis.
+
 ---
 # Diagnostics
 - CBC
