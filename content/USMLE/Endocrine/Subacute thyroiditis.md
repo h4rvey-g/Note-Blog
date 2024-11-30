@@ -6,6 +6,7 @@ aliases:
   - De Quervain thyroiditis
   - Subacute granulomatous thyroiditis
   - Subacute lymphocytic thyroiditis
+  - Postpartum thyroiditis
 share: true
 ---
 # Epidemiology

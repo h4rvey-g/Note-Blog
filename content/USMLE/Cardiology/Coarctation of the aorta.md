@@ -32,6 +32,7 @@ share: true
 - Strong apical impulse displaced to the left
 - <span style="background:rgba(240, 200, 0, 0.2)">Headache, [[epistaxis|epistaxis]], tinnitus </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Caused by brachiocephalic hypertension</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Risk factor for cerebral aneurysm development</span>
 - In severe stenosis: shock and multiorgan failure when ductus arteriosus closes 
 - Auscultation
 	- <span style="background:rgba(240, 200, 0, 0.2)">Systolic ejection murmur over left posterior hemithorax</span>

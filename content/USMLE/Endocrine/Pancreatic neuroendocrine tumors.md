@@ -8,6 +8,7 @@ share: true
 ---
 ![[Pasted image 20231127143520.png|Pasted image 20231127143520.png]]
 # Glucagonoma
+---
 - <span style="background:rgba(240, 200, 0, 0.2)">Definition: rare neuroendocrine tumor of the pancreatic α-cells that secretes glucagon</span>
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Weight loss</span>
@@ -31,8 +32,8 @@ share: true
 >[!Mnemonic] 
 >6 <font color="#ffc000">D</font>’s: <font color="#ffc000">d</font>ermatitis (necrolytic migratory erythema), <font color="#ffc000">d</font>iabetes (hyperglycemia), <font color="#ffc000">D</font>VT, <font color="#ffc000">d</font>eclining weight, <font color="#ffc000">d</font>epression, <font color="#ffc000">d</font>iarrhea.
 
----
 # Somatostatinoma
+---
 - Definition: a rare neuroendocrine tumor of δ-cell (D-cell) origin that is usually located in the pancreas or gastrointestinal tract and secretes somatostatin.
 	- ↑ Somatostatin → ↓ secretion of the following hormones:
 		- Secretin
@@ -44,7 +45,7 @@ share: true
 - Clinical features
 	- Classic triad
 		- Glucose intolerance/[[Diabetes mellitus|diabetes]]
-		- [[Cholelithiasis|Cholelithiasis]]
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Cholelithiasis|Cholelithiasis]]</span>
 		- [[Steatorrhea|Steatorrhea]]
 	- Achlorhydria
 - Diagnostics
@@ -53,8 +54,8 @@ share: true
 	- Tumor resection
 	- Octreotide
 
----
 # VIPoma
+---
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">non-α, non-β islet cell pancreatic tumor</span> that secretes VIP (vasoactive intestinal polypeptide)
 - Pathophysiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excess VIP → ↑ relaxation of gastric and intestinal smooth muscles and cAMP activity (similar to [[Infectious gastroenteritis|cholera]] toxin) → secretory [[diarrhea|diarrhea]] and inhibition of gastric acid production</span>

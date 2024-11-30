@@ -30,8 +30,22 @@ share: true
 # Clinical features
 ![[Pasted image 20231015091950.png|Pasted image 20231015091950.png]]
 
->[!Mnemonic] Wilson disease has neurologic symptoms but hemochromatosis doesn't
->Think about <font color="#ffc000">Wilson</font> from Don't Starve, the <font color="#ffc000">mad</font> scientist![[Pasted image 20241030153040.png|Pasted image 20241030153040.png]]
+- Neurological
+	- Cerebellar symptoms, e.g.:
+		- Dysarthria (most common)
+	- Extrapyramidal symptoms, e.g.:
+		- Dystonia
+		- Parkinsonism
+		- [[Tremor|Tremor]] (usually asymmetric, affecting the hands), which may be any combination of:
+			- <span style="background:rgba(240, 200, 0, 0.2)">Resting tremor</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Intention tremor</span>
+			- Wing-beating tremor: a low frequency, high amplitude tremor that is most prominent when the arms are outstretched anteriorly or laterally 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Drooling (caused by oropharyngeal dysphagia)</span>
+	- Cognitive impairment
+
+>[!Mnemonic] Wilson disease vs hemochromatosis
+>- Wilson disease has neurologic symptoms but hemochromatosis doesn't have
+>- Think about <font color="#ffc000">Wilson</font> from Don't Starve, the <font color="#ffc000">mad</font> scientist![[Pasted image 20241030153040.png|Pasted image 20241030153040.png]]
 
 ---
 # Diagnostics

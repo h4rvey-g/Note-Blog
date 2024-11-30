@@ -14,11 +14,14 @@ share: true
 
 ---
 # Pathophysiology
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Neurogenic symptoms are mediated via norepinephrine/epinephrine and acetylcholine</span> release during sytimpathec stimulation. Symptoms due to norepinephrine/epinephrine include tremulousness, tachycardia, and anxiety/arousal, whereas acetylcholine causes sweating, hunger, and paresthesias.
+- <span style="background:rgba(240, 200, 0, 0.2)">Neuroglycopenic symptoms are due to inadequate availability of glucose in the CNS and include behavioral changes, confusion, visual disturbances, stupor, and seizures.</span>
 
 ---
 # Clinical features
-
+- Beta blockers can mask signs of hypoglycemia.
+	- Nonselective beta blockers attenuate the norepinephrine/epinephrine-mediated symptoms of hypoglycemia, <span style="background:rgba(240, 200, 0, 0.2)">but cholinergic symptoms (eg, hunger) are unaffected.</span>
+	- In addition, nonselective beta blockers can contribute to the severity of hypoglycemia; epinephrine stimulates hepatic gluconeogenesis and peripheral glycogenolysis, but this effect is diminished by nonselective beta blockers.
 
 ---
 # Diagnostics

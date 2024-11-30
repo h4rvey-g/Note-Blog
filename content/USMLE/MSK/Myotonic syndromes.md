@@ -5,10 +5,39 @@ modified: 2024-03-09 09:52
 aliases:
   - Myotonic dystrophy
   - Myotonic dystrophies
+  - Progressive muscular dystrophies
+  - Duchenne muscular dystrophy
+  - DMD
+  - Becker muscular dystrophy
+  - BMD
 share: true
 ---
 ![[Pasted image 20240309095259.png|Pasted image 20240309095259.png]]
+# Epidemiology
+---
+- Sex: only male individuals affected in DMD and BMD 
+- Age of onset
+	- DMD: 2–5 years
+	- BMD: adolescence or early adulthood, usually > 15 years
+
+# Etiology
+---
+- Inheritance pattern (DMD and BMD): <span style="background:rgba(240, 200, 0, 0.2)">X-linked recessive</span>
+- Chromosomal mutations affecting the <span style="background:rgba(240, 200, 0, 0.2)">dystrophin gene</span> on the short arm of the X chromosome (Xp21)
+	- DMD: <span style="background:rgba(240, 200, 0, 0.2)">frameshift deletion</span> or nonsense mutation → shortened or absent dystrophin protein
+	- BMD: <span style="background:rgba(240, 200, 0, 0.2)">in-frame deletion</span> → partially functional dystrophin protein
+	- In about two-thirds of DMD or BMD cases, deleted segments are as large as one or more exons.
+
+# Pathophysiology
+---
+- <span style="background:rgba(240, 200, 0, 0.2)">Dystrophin protein: anchors the [[cytoskeleton|cytoskeleton]] of skeletal and cardiac muscle cells to the extracellular matrix by connecting cytoskeletal actin filaments to membrane-bound α- and β-dystroglycan, which are connected to extracellular laminin</span>![[Pasted image 20241130100905.png|Pasted image 20241130100905.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Dystrophin gene: largest known protein-coding gene in the human DNA</span>
+	- Because of its size, the dystrophin gene is at increased risk for spontaneous mutations.
+	- Mutations affecting the dystrophin gene→ alterations of dystrophin protein structure → partial (BMD) or almost complete (DMD) impairment of protein function → disturbance of numerous cellular signaling pathways → <span style="background:rgba(240, 200, 0, 0.2)">necrosis of affected muscle cells → replacement with connective tissue and fatty tissue → affected muscles are weak even though they appear larger (“pseudohypertrophy”)</span>
+	- Errors in splicing in the DMD gene can also cause DMD.
+
 # Clinical features
+---
 - <span style="background:rgba(240, 200, 0, 0.2)">Myotonia: delayed muscle relaxation following normal muscle contraction</span>
 	- Classically manifests as <span style="background:rgba(240, 200, 0, 0.2)">difficulty releasing a handshake</span>
 - Skeletal muscle weakness (due to muscle atrophy)

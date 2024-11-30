@@ -52,10 +52,14 @@ Lateral pontine syndrome is similar to lateral medullary syndrome but also invol
 >[!Mnemonic] 
 >A stroke in the <font color="#ffc000">A</font>nterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery messes up the f<font color="#ffc000">AICA</font>l nerve.
 
-### Basilar artery
-- If RAS spared, consciousness is preserved.
-- Quadriplegia; loss of voluntary facial (except blinking), mouth, and tongue movements.
-- Loss of horizontal, but not vertical, eye movements.
+### Basilar artery (Locked-in syndrome)
+![[highresdefault_L84497.jpg|highresdefault_L84497.jpg]]
+- Caused by ischemic injury to the <span style="background:rgba(240, 200, 0, 0.2)">bilateral ventral pons</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Absent voluntary motor function of all limbs (quadriplegia) and oral structures (loss of speech)</span> due to destruction of the cortical spinal and cortical bulbar pathways, which prevents cranial nerves or the limbs from receiving cortical signals.
+- <span style="background:rgba(240, 200, 0, 0.2)">Absent horizontal eye movements</span>.  However, vertical eye movements and eyelid elevation are preserved because they are controlled in the rostral midbrain.
+- <span style="background:rgba(240, 200, 0, 0.2)">Preserved consciousness because the midbrain reticular formation is spared.</span> Behavioral arousal and sleep-wake cycles are also preserved because the diencephalon–upper brainstem arousal systems are unaffected.
+- <span style="background:rgba(240, 200, 0, 0.2)">Preserved sensation</span> because sensory pathways are not affected and preserved brainstem and spinal reflexes because they do not require cortical input.
+
 >[!Mnemonic] 
 ><font color="#ffc000">Locked-in</font> syndrome (<font color="#ffc000">locked in</font> the basement).
 

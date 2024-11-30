@@ -32,7 +32,7 @@ Patients typically present with <span style="background:rgba(240, 200, 0, 0.2)">
 - <span style="background:rgba(240, 200, 0, 0.2)">Progression: may disseminate to the organs, particularly the gastrointestinal tract, respiratory tract, and lymph nodes.</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gastrointestinal tract involvement</span>: abdominal pain and [[diarrhea|diarrhea]]; hemorrhage and bowel obstruction in severe cases 
 		- Often polypoid nodules![[Pasted image 20241016092915.png|Pasted image 20241016092915.png]]
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary involvement</span>: Lesions cause dyspnea, cough, and/or hemoptysis.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary involvement</span>: Lesions cause [[dyspnea|dyspnea]], cough, and/or hemoptysis.
 
 ---
 # Diagnostics

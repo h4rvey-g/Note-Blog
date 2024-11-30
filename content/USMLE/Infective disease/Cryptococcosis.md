@@ -32,7 +32,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">High specificity and sensitivity</span>
 	- Specimen: Blood or CSF
 - CSF analysis
-	- <span style="background:rgba(240, 200, 0, 0.2)">India ink stain: clear halo </span>![[Pasted image 20240106112607.png|Pasted image 20240106112607.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">India ink stain: clear halo; Round or oval budding yeast</span>![[Pasted image 20240106112607.png|Pasted image 20240106112607.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mucicarmine: stains the thick inner polysaccharide capsule bright red </span>![[Pasted image 20240106112644.png|Pasted image 20240106112644.png]]
 	- Fungal culture (Sabouraud agar) showing:
 		- 5–10 μm yeast

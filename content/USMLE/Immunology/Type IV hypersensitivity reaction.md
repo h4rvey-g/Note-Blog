@@ -28,6 +28,12 @@ Compared to type I-III hypersensitivity reactions, which are antibody-mediated, 
 		- A diagnostic test in which Candida albicans antigen is injected intradermally to the arm. The injection site is examined 48 hours later. <span style="background:rgba(240, 200, 0, 0.2)">Induration ≥5 mm in diameter is considered a positive reaction and indicates prior exposure to antigen and an intact immune response mediated by T cells.</span>
 		- This test requires patients to have encountered Candida before. Luckily, **nearly everyone** encounters Candida at some point in their lives.
 	- Mantoux tuberculin skin test for latent tuberculosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Exanthematous drug eruption: morbilliform rash on the trunk and proximal extremities</span> 
+	- Associated symptoms include <span style="background:rgba(240, 200, 0, 0.2)">pruritus and low-grade fever</span>![[Pasted image 20241126114848.png|Pasted image 20241126114848.png]]
+	- Typical onset 5-14 days after drug exposure
+	- Caused by anticonvulsants, antibiotics, antiretroviral therapy
+		- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly caused by antibiotics, e.g., “ampicillin rash” following ampicillin administration for infectious mononucleosis</span>
+	- Resolves after discontinuation of the offending drug
 
 ---
 # Diagnostics

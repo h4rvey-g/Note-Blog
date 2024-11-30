@@ -21,6 +21,15 @@ Easily affected cells:
 - Stomatitis, dysphagia
 - [[Cataract|Cataracts]]
 - Hair loss
+- Radiation dermatitis
+	- Acute (<90 days after radiotherapy):
+		- Apoptosis of basal keratinocytes and epidermal edema
+		- Dose-dependent effects ranging from erythema to desquamation (ie, skin peeling), superficial ulceration, and/or blistering
+		- Pigment changes and loss of skin appendages (eg, hair follicles, sebaceous glands)
+	- Late (months to years after radiotherapy):
+		- <span style="background:rgba(240, 200, 0, 0.2)">Fibrosis, characterized histologically by homogenization of dermal collagen, due to fibroblast activation by transforming growth factor-beta from damaged tissue and responding immune cells</span>
+		- Vascular damage, resulting in chronic hypoxia and ulceration
+		- Abnormal, dilated microvasculature (ie, telangiectasias)
 ### Respiratory![[L60758.jpg|L60758.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Early radiation-induced lung injury: radiation pneumonitis</span>
 	- Usually develops within<span style="background:rgba(240, 200, 0, 0.2)"> 3–12 weeks of radiation</span>

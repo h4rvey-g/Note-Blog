@@ -10,13 +10,13 @@ share: true
 
 ---
 # Etiology
-- Arnold-chiari malformation, especially type I (most common cause)
-- Posttraumatic spinal cord injury (3–4% of patients with SCI develop symptomatic syringomyelia)
+- [[Chiari malformations|Arnold-chiari malformation]], especially type I (most common cause)
+- Posttraumatic [[spinal cord|spinal cord]] injury (3–4% of patients with SCI develop symptomatic syringomyelia)
 	- Symptoms of syringomyelia may only develop months to years after the injury. The injury typically affects the cervical spine (e.g., following a motor vehicle accident).
 
 ---
 # Pathophysiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Obstructed central canal of spinal cord (usually in the cervical spine</span>, the thoracic or lumbar spine are less commonly affected)  → <span style="background:rgba(240, 200, 0, 0.2)">impaired CSF drainage → formation of a dilated fluid-filled cavity in central spinal cord (syrinx) → compression of the anterior white commissure and damage (with reactive gliosis) to crossing neural fibers (from the second-order neurons) of the lateral spinothalamic tract first (which affect pain and temperature) → bilateral dissociated sensory loss and dysesthetic pain</span>![[Pasted image 20240109084639.png|Pasted image 20240109084639.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Obstructed central canal of spinal cord (usually in the cervical spine</span>, the thoracic or lumbar spine are less commonly affected)  → <span style="background:rgba(240, 200, 0, 0.2)">impaired [[Cerebrospinal fluid analysis|CSF]] drainage → formation of a dilated fluid-filled cavity in central spinal cord (syrinx) → compression of the anterior white commissure and damage (with reactive gliosis) to crossing neural fibers (from the second-order neurons) of the lateral spinothalamic tract first (which affect pain and temperature) → bilateral dissociated sensory loss and dysesthetic pain</span>![[Pasted image 20240109084639.png|Pasted image 20240109084639.png]]
 - Expansion of the syrinx may damage:
 	- Lower motor neurons in the anterior horns at segment level → initially bilateral weakness → eventual bilateral flaccid paresis and muscle atrophy 
 		- Muscle atrophy typically begins in the hands and progresses to the arms and shoulders.
@@ -24,7 +24,7 @@ share: true
 	- Descending hypothalamic fibers in T1 to T4 cord segments → <span style="background:rgba(240, 200, 0, 0.2)">[[Horner syndrome|Horner syndrome]]</span>
 
 >[!tip] 
->Syringomyelia is an abnormal fluid-filled dilation of the central canal of the spinal cord occurring as a result of impaired CSF flow.
+>Syringomyelia is an abnormal fluid-filled dilation of the central canal of the spinal cord occurring as a result of impaired [[Cerebrospinal fluid analysis|CSF]] flow.
 
 ---
 # Clinical features
