@@ -34,6 +34,7 @@ share: true
 			- Examples of ligands: Acetylcholine
 ## Receptor tyrosine kinases (RTKs)
 - Examples of ligands:<span style="background:rgba(240, 200, 0, 0.2)"> insulin, growth factors</span> (e.g., EGF, IGF, FGF, TGF)![[Pasted image 20240730103015.png|Pasted image 20240730103015.png]]
+	- Activation of tyrosine kinase → ↓ cAMP → <span style="background:rgba(240, 200, 0, 0.2)">activation of protein phosphatase 1 (PP 1)</span> → PP 1-mediated dephosphorylation <span style="background:rgba(240, 200, 0, 0.2)">deactivates glycogen phosphorylase and activates glycogen synthase → ↓ glycogenolysis and ↑ glycogen synthesis</span>
 ## Non-receptor tyrosine kinases
 - Examples of ligands:<span style="background:rgba(240, 200, 0, 0.2)"> growth hormone</span>, prolactin, erythropoietin, thrombopoietin, cytokines (e.g., G-CSF, IFN, IL-2, IL-6)
 - Activation principle (similar to receptor tyrosine kinases) ![[Pasted image 20240730110153.png|Pasted image 20240730110153.png]]
