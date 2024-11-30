@@ -15,7 +15,7 @@ share: true
 > These processes result in the permanent dilation of airways.
 - Pulmonary infections (i.e., bacterial, viral, fungal), especially severe or chronic infections 
 - Disorders of secretion clearance or mucous plugging
-	- [[Cystic fibrosis|Cystic fibrosis]] (CF)  (Most common congenital cause of bronchiectasis)
+	- [[Cystic fibrosis|Cystic fibrosis]] ([[Cystic fibrosis|CF]])  (Most common congenital cause of bronchiectasis)
 	- [[Primary ciliary dyskinesia|Primary ciliary dyskinesia]] (PCD)
 	- Allergic bronchopulmonary [[aspergillosis|aspergillosis]] (ABPA)
 	- [[Primary ciliary dyskinesia|Kartagener syndrome]]
@@ -24,7 +24,7 @@ share: true
 	- [[Chronic obstructive pulmonary disease|COPD]]
 	- Aspiration
 	- Tumors
-- Immunodeficiency (e.g., common variable immunodeficiency, hypogammaglobulinemia, [[Human immunodeficiency virus|HIV]])
+- [[Congenital immunodeficiency disorders|Immunodeficiency]] (e.g., common variable [[Congenital immunodeficiency disorders|immunodeficiency]], hypogammaglobulinemia, [[Human immunodeficiency virus|HIV]])
 
 ---
 # Pathophysiology
@@ -37,11 +37,14 @@ share: true
 - Auscultation
 	- Crackles and rhonchi
 	- Wheezing
-- Dyspnea
-- Hemoptysis
+- [[Dyspnea|Dyspnea]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Hemoptysis: usually mild or self-limiting, but severe hemorrhage that requires embolization may occur</span>
+	- Results from the <span style="background:rgba(240, 200, 0, 0.2)">rupture of dilated bronchial wall vessels</span> (not pulmonary vessels)
+	- Chronic and recurrent airway inflammation and infection stimulates <span style="background:rgba(240, 200, 0, 0.2)">neovascularization and bronchial artery hypertrophy.</span>  <span style="background:rgba(240, 200, 0, 0.2)">The dilated, fragile, and tortuous vessels are in close proximity to the bronchioles and prone to rupture with increased airway pressure, such as during coughing</span> (eg, acute pulmonary exacerbation).
+	- <span style="background:rgba(240, 200, 0, 0.2)">Although bleeding from the low-pressure pulmonary circulation is more common, hemorrhage from the high-pressure, systemic bronchial circulation is usually responsible for massive, life-threatening hemoptysis.</span>
 - Exacerbations of bronchiectasis
     - Recurrent bouts of [[pneumonia|pneumonia]] and acute bacterial infection of sections of dilated bronchi
-    - Frequently due to Pseudomonas aeruginosa
+    - Frequently due to [[Pseudomonas|Pseudomonas aeruginosa]]
     - Features
         - Increased production of mucous above baseline
         - Low-grade fever
