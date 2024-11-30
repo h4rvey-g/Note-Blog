@@ -34,7 +34,7 @@ share: true
 
 | Histopathologic finding | Characteristics                                                                              | Examples of associated conditions                                             |
 | ----------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Acantholysis**        | Separation of epidermal cells due to dissolution of intercellular bridges (e.g., desmosomes) | Pemphigus vulgaris                                                            |
+| **Acantholysis**        | Separation of epidermal cells due to dissolution of intercellular bridges (e.g., desmosomes) | [[Autoimmune blistering diseases\|Pemphigus vulgaris]]                                                            |
 | **Acanthosis**          | Epidermal hyperplasia of the stratum spinosum                                                | [[Acanthosis nigricans|Acanthosis nigricans]], [[Psoriasis|Psoriasis]]                                       |
 | **Hypergranulosis**     | Thickening of the stratum granulosum                                                         | [[Lichen planus|Lichen planus]]                                                             |
 | **Hyperkeratosis**      | Thickening of the stratum corneum                                                            | [[Psoriasis|Psoriasis]], Calluses                                                       |
