@@ -11,6 +11,7 @@ share: true
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Radiocontrast media</span>
 	- Narcotics
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Opioids|Opioids]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Vancomycin, [[Non-opioid analgesics|NSAIDs]]</span>
 		- Red man syndrome (Vancomycin flushing reaction)![[L59269.jpg|L59269.jpg]]
 - Pathophysiology
