@@ -24,7 +24,7 @@ autosomal recessive
 - <span style="background:rgba(240, 200, 0, 0.2)">Vomiting, lethargy, poor feeding</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Sweet-smelling urine (maple syrup or burnt sugar odor)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Intellectual disability</span>
-- Dystonia
+- [[Dystonia|Dystonia]]
 - Damage to the CNS can be severe (elevated leucine level leads to brain injury)
 - Death may occur without appropriate treatment
 
