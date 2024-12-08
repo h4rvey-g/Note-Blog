@@ -13,7 +13,7 @@ share: true
 - Available vaccines
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hib (conjugate vaccine) </span>
 		- conjugated to an immunogenic protein, such as <span style="background:rgba(240, 200, 0, 0.2)">diphtheria toxoid</span>.
-	- Pneumococcal vaccine
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pneumococcal vaccine</span>
 		- PCV13 (conjugate vaccine)
 		- PPSV23 (unconjugated vaccine)
 	- Meningococcal vaccine (conjugate vaccine; various strains of Neisseria meningitidis)
