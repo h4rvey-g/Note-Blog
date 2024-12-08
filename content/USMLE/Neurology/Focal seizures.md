@@ -9,11 +9,12 @@ share: true
 ---
 # Temporal lobe [[Seizures and epilepsy|epilepsy]]
 ---
-- Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common form of epilepsy</span>
+- Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common form of [[Seizures and epilepsy|epilepsy]]</span>
 	- ∼ 40% of all epilepsy cases
 	- ∼ 70% of focal epilepsy cases
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hippocampal sclerosis: found in approx. 70% of patients suffering from temporal lobe epilepsy that is resistant to pharmacotherapy</span> 
+		- Histopathology: <span style="background:rgba(240, 200, 0, 0.2)">atrophy of the hippocampal neurons with marked reactive gliosis (astrocyte proliferation in response to injury).</span>![[L50110.jpg|L50110.jpg]]
 	- Encephalitis (e.g., [[herpes simplex encephalitis|herpes simplex encephalitis]])
 	- Developmental disorders
 	- Neurodegenerative disorders
