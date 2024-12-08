@@ -28,3 +28,16 @@ share: true
 
 > [!tip] 
 > Legionnaires' disease should always be considered in patients with signs of atypical pneumonia and diarrhea in combination with possible exposure (e.g., cruise ship travel, use of a whirlpool).
+
+# Diagnostics
+---
+- <span style="background:rgba(240, 200, 0, 0.2)">Legionella urinary antigen test</span> 
+	- Most important diagnostic tool
+	- High specificity, high sensitivity, fast (results available within 15 minutes)
+- Microbiological studies
+	- Legionella culture (gold standard) 
+		- Requires buffered charcoal yeast extract agar with iron and cysteine 
+		- Slow (results typically after 3–5 days)
+	- Sample stains
+		- Gram stain of respiratory secretions typically shows many neutrophils but no organisms. 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Visualization of Legionella requires [[silver stain|silver stain]].</span>

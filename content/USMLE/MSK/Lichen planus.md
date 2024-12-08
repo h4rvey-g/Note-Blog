@@ -43,6 +43,15 @@ share: true
 
 # Differential Diagnostics
 ---
+>[!tip] [[Psoriasis|Psoriasis]] vs Lichen planus
+>- Immune Mechanism:
+>	- Lichen Planus primarily involves <span style="background:rgba(240, 200, 0, 0.2)">CD8+ T cells targeting basal keratinocytes</span>, creating a band-like lymphocytic infiltrate at the <span style="background:rgba(240, 200, 0, 0.2)">dermo-epidermal junction</span> and interface dermatitis
+>	- [[Psoriasis|Psoriasis]] is driven by Th17/Th1 cells and <span style="background:rgba(240, 200, 0, 0.2)">involves complex cytokine cascades</span> (IL-17, IL-22, TNF-α), affecting the <span style="background:rgba(240, 200, 0, 0.2)">entire epidermis</span> and leading to neutrophil recruitment
+>- Keratinocyte Response:
+>	- Lichen Planus shows <span style="background:rgba(240, 200, 0, 0.2)">normal to slow keratinocyte turnover</span>, allowing time for proper differentiation, resulting in <span style="background:rgba(240, 200, 0, 0.2)">hypergranulosis (increased keratohyalin granules)</span>
+>		- Because of immune stress?
+>	- [[Psoriasis|Psoriasis]] exhibits <span style="background:rgba(240, 200, 0, 0.2)">extremely rapid keratinocyte turnover</span> (3-5 days vs normal 28-30 days), <span style="background:rgba(240, 200, 0, 0.2)">preventing proper differentiation, leading to loss of granular layer and parakeratosis</span>
+
 vs [[Psoriasis|Psoriasis]]![[Pasted image 20240228105319.png|Pasted image 20240228105319.png]]
 # Treatment
 ---

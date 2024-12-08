@@ -20,6 +20,7 @@ mutations in SERPINA1 gene
 
 ---
 # Pathophysiology
+![[highresdefault_L27478.jpg|highresdefault_L27478.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Alpha-1 antitrypsin: a protease inhibitor that is synthesized in the liver and protects cells from breakdown by neutrophil elastase</span>
 - Gene mutation induces a conformational change in the structure of AAT protein → dysfunctional (or absent) AAT
 	- Effect on the liver: accumulation of AAT in hepatocellular [[endoplasmic reticulum|endoplasmic reticulum]] → hepatocyte destruction → hepatitis and liver [[cirrhosis|cirrhosis]]
@@ -29,7 +30,7 @@ mutations in SERPINA1 gene
 # Clinical features
 - <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary manifestations </span>
 	- Cough, wheezing
-	- Dyspnea
+	- [[Dyspnea|Dyspnea]]
 	- Diminished breath sounds
 	- Barrel chest
  

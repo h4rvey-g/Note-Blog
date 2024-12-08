@@ -5,6 +5,7 @@ modified: 2023-11-08 21:38
 aliases:
   - Cori cycle
   - Cahill cycle
+  - Transamination
 share: true
 ---
 # Rate limiting enzyme
@@ -41,3 +42,14 @@ share: true
 
 >[!tip] Cori cycle & Cahill cycle
 ><span style="background:rgba(240, 200, 0, 0.2)">Lactate/alanine is transported to the liver, where it is converted into glucose. It is then transported back to the muscles for energy production.</span>
+
+# Catabolism of amino acids
+---
+- Transamination: transfer of an amino group from an AA to an α-ketoacid for breakdown, or to an α-ketoacid to form a nonessential AA
+- Decarboxylation: release of the α-carboxyl group of an AA via splitting of CO2
+
+![[Pasted image 20241205093643.png|Pasted image 20241205093643.png]]![[Pasted image 20241205095006.png|Pasted image 20241205095006.png]]
+- ALT: alanine + α-ketoglutarate ⇄ pyruvate + glutamate 
+- AST: aspartate + α-ketoglutarate ⇄ oxalacetate + glutamate 
+
+![[Pasted image 20241205095036.png|Pasted image 20241205095036.png]]![[Pasted image 20241205095104.png|Pasted image 20241205095104.png]]

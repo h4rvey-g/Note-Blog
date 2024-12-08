@@ -45,7 +45,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Coarctation of the aorta|Coarctation of the aorta]]</span> with brachial-femoral delay
 	- [[Aortic dissection|Aortic dissection]] and rupture 
 	- Hypertension (even in children) 
-- Other disorders 
+- Other disorders
 	- Gonadoblastoma (especially in patients with 45,XO/46,XY mosaicism)
 	- Malformations of the kidney and ureters (especially <span style="background:rgba(240, 200, 0, 0.2)">[[horseshoe kidney|horseshoe kidney]]</span>)
 	- [[Hashimoto thyroiditis|Hashimoto thyroiditis]]

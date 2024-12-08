@@ -65,7 +65,6 @@ share: true
 		- PAS negative
 ## Genetic studies
 - <span style="background:rgba(240, 200, 0, 0.2)">APL: t(15;17) translocation, producing PML-RARA</span>
-- 
 # Differential diagnostics
 ---
 ![[Pasted image 20241016204154.png|Pasted image 20241016204154.png]]

@@ -2,13 +2,20 @@
 author: Harvey Guo
 created: 2024-04-05 09:40
 modified: 2024-04-05 09:40
-aliases: []
+aliases:
+  - Rouleaux formation
 share: true
 ---
 ![[Pasted image 20240405095756.png|Pasted image 20240405095756.png]]
 # Margination
 - Definition: a process by which leukocytes are <span style="background:rgba(240, 200, 0, 0.2)">distributed peripherally along the endothelial surface</span>
 - Mechanism: The two main mechanisms that allow for margination are rouleaux formation and dilation of post-capillary venules.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rouleaux formation</span>
+		- The liver releases increased amounts of fibrinogen in response to cytokines released by macrophd fibrinogen → rouleaux formation → neutrophils are pushed against endothelium of the venules
+		- <span style="background:rgba(240, 200, 0, 0.2)">Increased fibrinogen</span> → rouleaux formation → neutrophils are pushed against endothelium of the venules
+		- For RBCs
+			- This occurs due to elevated levels of circulating proteins, which disrupts the repulsive electrostatic charge on the erythrocyte surface and causes stacked aggregation.
+			- <span style="background:rgba(240, 200, 0, 0.2)">Classically linked to lymphoproliferative/plasma cell disorders such as [[multiple myeloma|multiple myeloma]] and Waldenstrom macroglobulinemia, which generate high levels of monoclonal paraprotein ([[immunoglobulins|immunoglobulins]]).</span>![[L25615.jpg|L25615.jpg]]
 # Rolling
 - Definition: a transient weak interaction of leukocytes with endothelial cells that causes them to <span style="background:rgba(240, 200, 0, 0.2)">move slowly along the blood vessel periphery in areas of inflammation in preparation for adhesion</span>
 - Mechanism: mediated by adhesion molecules (selectins)

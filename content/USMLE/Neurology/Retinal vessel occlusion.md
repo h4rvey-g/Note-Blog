@@ -45,7 +45,7 @@ share: true
 - Ischemic CRVO
 	- Sudden, severe loss of vision in the affected eye
 	- Ophthalmoscopic findings
-		- Many dot-and-blot and/or flame-shaped hemorrhages in all four retinal quadrants and venous thickening (<span style="background:rgba(240, 200, 0, 0.2)">blood and thunder appearance</span>)![[Pasted image 20240108102233.png|Pasted image 20240108102233.png]]
+		- Many dot-and-blot and/or <span style="background:rgba(240, 200, 0, 0.2)">flame-shaped hemorrhages</span> in all four retinal quadrants and venous thickening (<span style="background:rgba(240, 200, 0, 0.2)">blood and thunder appearance</span>)![[Pasted image 20240108102233.png|Pasted image 20240108102233.png]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Cotton wool spots</span>
 			- Characterized by yellow-white deposits on the retina
 			- <span style="background:rgba(240, 200, 0, 0.2)">Caused by swelling of retinal nerve fibers due to ischemia</span>

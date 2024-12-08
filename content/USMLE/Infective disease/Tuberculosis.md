@@ -98,7 +98,8 @@ share: true
 	- [[Cytochrome P450|Cytochrome P450]] inhibition: leading to interactions with numerous drugs, including antiretroviral agents, cardiovascular agents, and [[antibiotics|antibiotics]]
 	- Less common
 		- [[Drug-induced lupus erythematosus|Drug-induced lupus]]
-		- [[Vitamin B6|Vitamin B6]] deficiency: [[sideroblastic anemia|sideroblastic anemia]], peripheral neuropathy 
+		- [[Vitamin B6|Vitamin B6 deficiency]]: [[sideroblastic anemia|sideroblastic anemia]], peripheral neuropathy
+			- <span style="background:rgba(240, 200, 0, 0.2)">Isoniazid is structurally similar to pyridoxine (vitamin B6)</span>, a cofactor for enzymes involved in synthesis of certain neurotransmitters. Because of this similarity, <span style="background:rgba(240, 200, 0, 0.2)">isoniazid acts as a competitive inhibitor of pyridoxine and can cause dose-related peripheral neuropathy (eg, numbness and tingling in the hands and feet).</span>
 		- CNS toxicity: precipitation of [[Sedative-hypnotic drugs|benzodiazepine]]-refractory [[Seizures and epilepsy|seizures]] with high doses of isoniazid, psychosis, ataxia 
 		- Others: anion gap metabolic acidosis, [[Vitamin B3|pellagra]], optic neuritis
 - Rifampin

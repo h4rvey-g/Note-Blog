@@ -12,7 +12,7 @@ share: true
 
 # Classification
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Classical trigeminal neuralgia (CTN): caused by neurovascular compression, most often by an aberrant loop of a neighboring artery (usually the superior cerebellar artery)</span>![[highresdefault_L89646.jpg|highresdefault_L89646.jpg]]![[Pasted image 20240219180217.png|Pasted image 20240219180217.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Classical trigeminal neuralgia (CTN): caused by neurovascular compression, most often by an aberrant loop of a neighboring artery (usually the superior cerebellar artery)</span>![[highresdefault_L89646.jpg|highresdefault_L89646.jpg]]![[highresdefault_L65028.jpg|highresdefault_L65028.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Secondary trigeminal neuralgia (STN): caused by a major underlying neurological disease, most frequently [[multiple sclerosis|multiple sclerosis]], a tumor at the cerebellopontine angle, or arteriovenous malformation.</span>
 - Idiopathic trigeminal neuralgia (ITN): no identifiable cause (unremarkable findings on MRI and electrophysiological tests)
 

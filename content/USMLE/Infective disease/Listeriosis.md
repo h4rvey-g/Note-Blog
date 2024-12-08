@@ -42,10 +42,10 @@ share: true
 	- Flu-like illness
 	- Chorioamnionitis
 	- [[Spontaneous abortion|Spontaneous abortion]]
-	- <span style="background:rgba(240, 200, 0, 0.2)">Sepsis</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Sepsis|Sepsis]]</span>
 - Infants
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal [[meningitis|meningitis]]</span>
-	- Sepsis
+	- [[Sepsis|Sepsis]]
 	- Granulomatosis infantiseptica
 
 # Diagnostics

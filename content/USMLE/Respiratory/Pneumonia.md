@@ -43,7 +43,8 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - [[Erythema multiforme|Erythema multiforme]] 
 - [[Pneumonia#Atypical pneumonia|Pneumonia > Atypical pneumonia]]
 ### Diagnostics
-- Subclinical hemolytic [[anemia|anemia]]: associated with elevated cold agglutinin titers (IgM)
+- <span style="background:rgba(240, 200, 0, 0.2)">Subclinical hemolytic [[anemia|anemia]]: associated with elevated cold agglutinin titers (IgM)</span>
+	- Mycoplasma pneumoniae infection is common in adolescents and usually presents with tracheobronchitis or walking pneumonia.  The pathogen attaches to the respiratory epithelium using <span style="background:rgba(240, 200, 0, 0.2)">surface antigens (I-antigen) that are also present on the plasma membrane of erythrocytes.</span>  Therefore, patients with M pneumoniae typically develop <span style="background:rgba(240, 200, 0, 0.2)">cross-reactive IgM antibodies that can attach to red blood cells</span>, activate the complement system, and cause erythrocyte lysis.  These cross-reacting antibodies are called cold agglutinins because they bind to erythrocytes most strongly at temperatures below core body temperature.  Testing for cold agglutinins can be done at the bedside by drawing blood into an edetate disodium–containing tube and placing it in a cup of ice.  Removing the tube after several seconds will reveal clumping/agglutination that resolves as the tube warms.
 - Interstitial pneumonia, often with a reticulonodular pattern on chest x-ray
 - Chest x-ray can show extensive pulmonary involvement in patients with mild pneumonia.
 # Aspiration pneumonia

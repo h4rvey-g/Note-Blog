@@ -26,7 +26,18 @@ share: true
 
 ---
 # Treatment
-
+- P. vivax, P. ovale (tertian malaria)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chloroquine OR hydroxychloroquine</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">PLUS antirelapse treatment: primaquine (伯胺奎) OR tafenoquine</span>
+- Uncomplicated falciparum malaria
+	- No chloroquine resistance 	
+		- Chloroquine OR hydroxychloroquine
+	- With chloroquine resistance	
+		- <span style="background:rgba(240, 200, 0, 0.2)">Artemether-lumefantrine</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">OR atovaquone‑proguanil</span> (阿托伐醌/氯胍)
+		- OR mefloquine
+- P. malariae (quartan malaria)
+	- Chloroquine or hydroxychloroquine
 
 ---
 # Prevention

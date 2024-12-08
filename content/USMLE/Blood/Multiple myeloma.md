@@ -37,6 +37,7 @@ share: true
 - Renal insufficiency: GFR < 40 mL/min or serum creatinine > 2 mg/dL 
 - [[Anemia|Anemia]]: Hb < 10 g/dL or more than 2 g/dL below the LLN
 	- Normocytic anemia
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Leukocyte extravasation|Rouleaux formation]]</span>![[L25615.jpg|L25615.jpg]]
 - Bone lesions: ≥ 1 osteolytic lesions on imaging
 ## Bone marrow biopsy
 - Cytology: clusters of plasma cells ![[L44127.jpg|L44127.jpg]]

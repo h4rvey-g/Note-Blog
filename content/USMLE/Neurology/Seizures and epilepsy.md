@@ -43,22 +43,22 @@ share: true
     - Lamotrigine
     - Levetiracetam
     - Phenytoin
-    - Carbamazepine
+    - [[Anticonvulsant drugs|Carbamazepine]]
     - Oxcarbazepine
     - Phenobarbital (children)
 - **Generalized**
     - **Tonic-clonic**
         - Lamotrigine
-        - Valproate
+        - [[Anticonvulsant drugs|Valproate]]
         - Phenobarbital (children)
     - **Typical absence**
         - Ethosuximide
-        - Valproate
+        - [[Anticonvulsant drugs|Valproate]]
     - **Atypical absence**
-        - Valproate
+        - [[Anticonvulsant drugs|Valproate]]
     - **Myoclonic**
-        - Valproate
+        - [[Anticonvulsant drugs|Valproate]]
         - Lamotrigine
         - Topiramate
     - **Atonic**
-        - Valproate
+        - [[Anticonvulsant drugs|Valproate]]

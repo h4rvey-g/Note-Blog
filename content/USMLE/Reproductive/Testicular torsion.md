@@ -6,14 +6,17 @@ aliases: []
 share: true
 ---
 # Epidemiology
+---
 Peak incidence: neonatal period (first 30 days of life) and during puberty (10–14 years)
 
----
 # Etiology
-
-
 ---
+- Idiopathic
+- <span style="background:rgba(240, 200, 0, 0.2)">Iatrogenic</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Following a testicular procedure with incorrect positioning of testis</span>
+
 # Pathophysiology
+---
 - Testicular torsion is a <span style="background:rgba(240, 200, 0, 0.2)">sudden twisting of the spermatic cord (and vascular pedicle) associated with a poorly secured testis.</span>
 	- Because of a congenital abnormality in which the tunica vaginalis attaches to the superior pole of the testis (bell-clapper deformity) → increased mobility of testis within tunica vaginalis, with possible abnormal transverse lie of testis → torsion of the testis (along the spermatic cord)![[Pasted image 20240216092916.png|Pasted image 20240216092916.png]]
 - Torsion results in venous engorgement with consequent arterial compromise, tissue ischemia, and possible infarction.

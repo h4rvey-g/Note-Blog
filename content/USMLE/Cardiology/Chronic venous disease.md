@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-11-15 10:17
 modified: 2024-11-15 10:17
-aliases: []
+aliases:
+  - Stasis dermatitis
 share: true
 ---
 # Epidemiology
@@ -39,6 +40,7 @@ share: true
 - Diagnostics
 	- Perform diagnostic studies for CVI, including duplex US.
 	- Consider skin biopsy if there is diagnostic uncertainty.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Extravasated erythrocytes, siderophages, and perivascular lymphocytes</span>
 - Treatment
 	- Initiate treatment of CVI, including compression therapy and referral for interventional treatment.
 	- Identify and treat superimposed infections.

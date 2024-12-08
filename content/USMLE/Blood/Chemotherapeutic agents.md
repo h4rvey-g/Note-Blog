@@ -69,19 +69,28 @@ share: true
 			- Pulmonary fibrosis, pneumonitis
 			- Nephrotoxicity
 			- <span style="background:rgba(240, 200, 0, 0.2)">Mucositis (e.g., oral ulcerations)</span>
-			- Birth defects (due to folate deficiency), e.g., neural tube defects
+			- Birth defects (due to folate deficiency), e.g., [[neural tube defects|neural tube defects]]
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png|Pasted image 20230909221400.png]]
 >[!Mnemonic] 
 >- Eight (<font color="#ffc000">Et</font>oposide) + II = Ten (<font color="#ffc000">Ten</font>iposide)
 >- I (<font color="#ffc000">I</font>rinotecan) + I = Two (<font color="#ffc000">To</font>potecan)
-# Antitumor antibiotics
+
+- Topoisomerase I
+	- Cleaves only one of both DNA strands
+	- Has nuclease activity to cut DNA strands
+	- And has ligase activity to reseal the ligated strand
+	- Does not require ATP
+- Topoisomerase II
+	- Cleaves both DNA strands for larger structural alterations of DNA 
+	- Requires ATP 
+# Antitumor [[antibiotics|antibiotics]]
 ![[Pasted image 20230909221658.png|Pasted image 20230909221658.png]]
 >[!Mnemonic] 
 >- <font color="#ffc000">多么温柔</font>，令人放心<font color="#ffc000">啊</font>：温柔-<font color="#ffc000">多柔比星</font>，放心-放线菌素D，啊-干扰<font color="#ffc000">RNA</font>合成。
 >- Mnemo I use for Doxorubicin /Daunorubicin:
 > 	- They both end in -rubicin -> ruby (= red) -> the heart is red -> cardiotoxicity
-> 	- Dilated cardiomyopathy because it starts with D like Doxorubicin
+> 	- [[Dilated cardiomyopathy|Dilated cardiomyopathy]] because it starts with D like Doxorubicin
 > 	- Dexrazoxane used to prevent it -> also starts with D and sounds like Roxane ('Roxane, you don't have to put on the red light', song by the police) -> again red for RUBYcin and heart.
 > - Bleomycin: **b**leo -> fi**b**ro
 # Protein kinase inhibitors

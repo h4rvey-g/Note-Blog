@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2024-11-02 11:10
 modified: 2024-11-02 11:10
-aliases: []
+aliases:
+  - Optic disc
+  - Macula
 share: true
 ---
 ## Innermost layer: the retina (nervous tunic)

@@ -51,7 +51,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Antidepressants|SSRIs]]</span>
 	- SNRIs
 - Alternative agents
-	- Buspirone
+	- [[Antidepressants|Buspirone]]
 	- [[Sedative-hypnotic drugs|Benzodiazepines]] for short-term use only
 	- TCAs, e.g., imipramine
 

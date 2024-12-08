@@ -15,7 +15,7 @@ share: true
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[Osteoarthritis|Osteoarthritis]]</span>
-	- Metabolic disorders: including [[hyperparathyroidism|hyperparathyroidism]], [[hemochromatosis|hemochromatosis]], hypomagnesemia, hypophosphatasia, and possibly [[gout|gout]]
+	- Metabolic disorders: including [[hyperparathyroidism|hyperparathyroidism]], [[hemochromatosis|hemochromatosis]], [[hypomagnesemia|hypomagnesemia]], hypophosphatasia, and possibly [[gout|gout]]
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
 ---

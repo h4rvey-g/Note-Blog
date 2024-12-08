@@ -32,9 +32,9 @@ share: true
 	- Glucagonoma
 - Bronchopulmonary system (10% of cases)
 	- Carcinoid lung tumor
-	- <span style="background:rgba(240, 200, 0, 0.2)">Small cell carcinoma</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Lung cancer|Small cell carcinoma]]</span>
 - Thyroid: medullary carcinoma
-- Adrenal glands: pheochromocytoma
+- <span style="background:rgba(240, 200, 0, 0.2)">Adrenal glands: pheochromocytoma</span>
 ## Secretory products
 - Carcinoid tumors can synthesize different hormones (most commonly [[Neurotransmitters|serotonin]]).
 - [[Neurotransmitters|Serotonin]] is degraded via the following mechanisms:
@@ -46,7 +46,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Serotonin in systemic circulation</span> can lead to:
 	- Carcinoid syndrome
 	- Carcinoid heart disease
-	- Pellagra due to increased serotonin metabolism
+	- [[Vitamin B3|Pellagra]] due to increased serotonin metabolism
 
 ---
 # Clinical features
@@ -77,7 +77,7 @@ share: true
 - Histology
 	- Can show a variety of architectural patterns (e.g., islands, nests, trabeculae)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Prominent rosettes composed of numerous small monomorphic cells with salt-and-pepper chromatin </span>![[L71504.jpg|L71504.jpg]]![[Pasted image 20240429202129.png|Pasted image 20240429202129.png]]
-- Immunohistochemistry: immunostaining with synaptophysin, chromogranin A, and neuron-specific enolase (NSE) to confirm neuroendocrine origin
+- <span style="background:rgba(240, 200, 0, 0.2)">Immunohistochemistry: immunostaining with synaptophysin, chromogranin A, and neuron-specific enolase (NSE) to confirm neuroendocrine origin</span>
 
 ---
 # Treatment

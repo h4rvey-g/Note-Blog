@@ -14,7 +14,7 @@ share: true
 | Fatty           | Lipid droplets                                           | [[Nephrotic syndrome|Nephrotic syndrome]]                         |
 | Waxy            | Degenerated hyaline cast                                 | [[Chronic kidney disease|Chronic kidney disease]]                     |
 | Granular        | (muddy brown) Sloughed tubular epithelial cells with pigmented granules | [[Acute kidney injury\|Acute tubular necrosis]]                     |
-| WBC             | White blood cells                                        | [[Pyelonephritis|Pyelonephritis]], interstitial nephritis     |
+| WBC             | White blood cells                                        | [[Pyelonephritis|Pyelonephritis]], [[Acute tubulointerstitial nephritis\|interstitial nephritis]]     |
 | RBC             | Red blood cells                                          | [[Nephritic syndrome\|Glomerulonephritis]]                         |
 
 Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.

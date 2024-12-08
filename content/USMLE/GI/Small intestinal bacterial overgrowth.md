@@ -15,10 +15,17 @@ SIBO is a pathologically excessive growth of bacteria in the small intestine.
 		- [[Malabsorption|Short bowel syndrome]]
 		- Blind loop syndrome: bacterial overgrowth in the bypassed intestinal segment (blind loop), e.g., due to gastrectomy
 		- Adhesions
-- Motility disorders  
+- <span style="background:rgba(240, 200, 0, 0.2)">Motility disorders </span> 
 	- [[Irritable bowel syndrome|Irritable bowel syndrome]] ([[Irritable bowel syndrome|IBS]])
 	- Paralytic ileus, e.g., due to opiate use
 	- <span style="background:rgba(240, 200, 0, 0.2)">Systemic disorders, e.g., diabetic autonomic neuropathy, [[systemic sclerosis|systemic sclerosis]], [[amyloidosis|amyloidosis]]</span>
+- Biochemical abnormalities 
+	- Achlorhydria, e.g., due to [[atrophic gastritis|atrophic gastritis]]
+	- [[Chronic pancreatitis|Chronic pancreatitis]]
+- Immune disorders 
+	- Common variable [[Congenital immunodeficiency disorders|immunodeficiency]]
+	- [[Selective IgA deficiency|Selective IgA deficiency]]
+	- [[Human immunodeficiency virus|HIV]]
 
 # Pathophysiology
 ---
@@ -31,11 +38,11 @@ SIBO is a pathologically excessive growth of bacteria in the small intestine.
 ---
 - Bloating, flatulence
 - Chronic watery diarrhea
-- Severe: steatorrhea, vitamin deficiencies
+- Severe: [[steatorrhea|steatorrhea]], vitamin deficiencies
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+
 
 # Treatment
 ---

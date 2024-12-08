@@ -48,7 +48,9 @@ share: true
 
 ---
 # Diagnostics
-![[07095126c92a07f8723a09833b4f643.jpg|07095126c92a07f8723a09833b4f643.jpg]]
+## Biopsy
+- Transmural inflammation with <span style="background:rgba(240, 200, 0, 0.2)">leukocytic infiltration and fibrinoid necrosis</span>
+- Inflammatory lesions in various stages of development and regeneration![[07095126c92a07f8723a09833b4f643.jpg|07095126c92a07f8723a09833b4f643.jpg]]![[L28167.jpg|L28167.jpg]]![[L28169.jpg|L28169.jpg]]
 ## Visceral angiography
 - Findings: most commonly seen in the renal, mesenteric, and hepatic artery branches (pulmonary arteries are usually not affected) 
 	- Numerous microaneurysms (1–5 mm in diameter)![[Pasted image 20231010162421.png|Pasted image 20231010162421.png]]

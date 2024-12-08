@@ -77,7 +77,10 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 
 ---
 # Diagnostics
-
+- Overnight <span style="background:rgba(240, 200, 0, 0.2)">metyrapone stimulation test</span>
+	- Physiological response: <span style="background:rgba(240, 200, 0, 0.2)">metyrapone inhibits 11β hydroxylase → impaired conversion of 11-deoxycortisol to cortisol (last step of cortisol synthesis) → ↓ serum cortisol → ↑ in CRH and plasma ACTH (negative feedback) → ↑ in adrenal steroidogenesis → ↑ in 11-deoxycortisol level</span>![[L20059.jpg|L20059.jpg]]
+	- In primary adrenal insufficiency: metyrapone → ↓ cortisol synthesis → ↑ in CRH/ACTH → <span style="background:rgba(240, 200, 0, 0.2)">no increase in adrenal steroid production → no increase in 11-deoxycortisol or cortisol levels</span>
+	- In secondary/tertiary adrenal insufficiency: metyrapone → ↓ cortisol → no increase in CRH/ACTH → no increase in adrenal steroid production → no increase in 11-deoxycortisol or cortisol levels
 
 ---
 # Treatment

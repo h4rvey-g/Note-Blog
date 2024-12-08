@@ -52,3 +52,8 @@ share: true
 
 
 ---
+# Complications
+---
+- Bowel obstruction (usually affects terminal ileum) due to
+	- Intussusception
+	- Volvulus 

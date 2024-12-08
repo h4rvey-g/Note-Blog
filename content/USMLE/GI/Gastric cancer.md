@@ -29,7 +29,9 @@ share: true
 
 # Clinical features
 ---
-
+- [[Paraneoplastic syndromes|Paraneoplastic syndromes]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Seborrheic keratosis|Leser-Trélat sign]]</span>![[Pasted image 20241205111726.png|Pasted image 20241205111726.png]]
+	- Malignant acanthosis nigricans 
 
 # Diagnostics
 ---

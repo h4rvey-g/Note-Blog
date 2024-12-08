@@ -28,7 +28,7 @@ Caused by defects in mitochondrial DNA, which are <span style="background:rgba(2
 - <span style="background:rgba(240, 200, 0, 0.2)">MELAS</span>: characterized by <span style="background:rgba(240, 200, 0, 0.2)">Mitochondrial Encephalomyopathy, Lactic Acidosis, recurring Stroke-like episodes </span>
 	- Other findings include
 		- Muscle weakness
-		- Tonic-clonic seizures
+		- Tonic-clonic [[Seizures and epilepsy|seizures]]
 
 ---
 # Diagnostics
@@ -37,7 +37,7 @@ Caused by defects in mitochondrial DNA, which are <span style="background:rgba(2
 - Laboratory studies
 	- <span style="background:rgba(240, 200, 0, 0.2)">Normal CK</span> 
 		- Mitochondrial myopathies often cause mitochondrial dysfunction, which can lead to muscle weakness without significant muscle fiber death.
-	- Elevated lactate and alanine in serum, urine and/or CSF -- <span style="background:rgba(240, 200, 0, 0.2)">lactic acidosis</span>
+	- Elevated lactate and alanine in serum, urine and/or [[Cerebrospinal fluid analysis|CSF]] -- <span style="background:rgba(240, 200, 0, 0.2)">lactic acidosis</span>
 
 ---
 # Treatment

@@ -11,7 +11,7 @@ share: true
 ---
 # Etiology
 - [[Chiari malformations|Arnold-chiari malformation]], especially type I (most common cause)
-- Posttraumatic [[spinal cord|spinal cord]] injury (3–4% of patients with SCI develop symptomatic syringomyelia)
+- Posttraumatic [[Neuroloy physioloy|Neuroloy physioloy]] injury (3–4% of patients with SCI develop symptomatic syringomyelia)
 	- Symptoms of syringomyelia may only develop months to years after the injury. The injury typically affects the cervical spine (e.g., following a motor vehicle accident).
 
 ---

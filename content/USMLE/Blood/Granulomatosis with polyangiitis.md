@@ -25,6 +25,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Treatment-resistant, [[pneumonia|pneumonia]]-like symptoms with cough, dyspnea, hemoptysis</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Renal involvement</span>: potentially life-threatening
 	- Pauci-immune <span style="background:rgba(240, 200, 0, 0.2)">glomerulonephritis</span> (Pauci‑immune indicates that there is little evidence of immune complex/antibody deposits.) → rapidly progressive (crescentic) glomerulonephritis ([[Rapidly progressive glomerulonephritis|RPGN]]) with possible pulmonary-renal syndrome
+- <span style="background:rgba(240, 200, 0, 0.2)">Usually spares GI</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike [[Polyarteritis nodosa|PAN]]</span>
 
 >[!tip] 
 >Classic <span style="background:rgba(240, 200, 0, 0.2)">GPA triad: necrotizing [[Vasculitides|vasculitis]] of small arteries, upper/lower respiratory tract manifestations, and glomerulonephritis</span>![[Pasted image 20231209150554.png|Pasted image 20231209150554.png]]

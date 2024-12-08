@@ -9,6 +9,7 @@ aliases:
   - Bupropion
   - TCA
   - Mirtazapine
+  - Buspirone
 share: true
 ---
 | Type of Antidepressant                                                | Neurotransmitter(s) Increased                                                                         |
@@ -57,6 +58,7 @@ share: true
 		- Activating effects (e.g., agitation, anxiety, [[Insomnia disorder|insomnia]]) 
 	- Late side effects 
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Sexual dysfunction|Sexual dysfunction]] (e.g., anorgasmia, ↓ libido, erectile or ejaculatory dysfunction)</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Most common</span>, can occur in more than 50% of patients.
 		- [[Syndrome of inappropriate antidiuretic hormone secretion|SIADH]]
 		- [[Serotonin syndrome|Serotonin syndrome]]
 			- Can be caused by any drug that increases serotonin levels
@@ -144,6 +146,7 @@ share: true
 	- Does not cause sexual side effects
 	- Dry mouth
 - Drug interactions: risk of [[serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
+
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Buproprion is not associated with [[sexual dysfunction|sexual dysfunction]] or weight gain.</span> It is contraindicated in patients with seizure and eating disorders.
 >- Because it does not affect serotonin.
@@ -153,6 +156,20 @@ share: true
 >- A butane lighter is hot, like bupropion’s lack of sexual side effects.
 >- A butane lighter can help you remember the association of bupropion with cigarettes.
 >- <font color="#ffc000">Bu</font>propion should be avoided in patients with <font color="#ffc000">bu</font>limia.
+## Buspirone
+- Mechanism of action
+	- <span style="background:rgba(240, 200, 0, 0.2)">5-HT1A receptor stimulation</span>
+	- Requires consistent daily intake for at least two weeks because of its delayed onset of action
+- <span style="background:rgba(240, 200, 0, 0.2)">Indication: anxiety disorders</span>
+- Side effects
+	- Headaches, dizziness
+	- Nausea
+	- Seizures resulting from chronic use
+- Additional information
+	- Is not sedative
+	- <span style="background:rgba(240, 200, 0, 0.2)">No risk of addiction or tolerance</span>
+	- No interaction with alcohol (as opposed to barbiturates and benzodiazepines)
+
 # Monoamine oxidase inhibitors
 <span style="background:rgba(240, 200, 0, 0.2)">Most powerful among these drugs, also has worst adverse effects</span>
 - Mechanism of action 
