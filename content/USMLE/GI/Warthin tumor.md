@@ -12,10 +12,7 @@ share: true
 - Diagnostics
 	- Histology
 		- Cystic structure
-		- Germinal centers
-![[Pasted image 20231010154356.png|Pasted image 20231010154356.png]]
-![[Pasted image 20231010154412.png|Pasted image 20231010154412.png]]
-![[Pasted image 20231010154424.png|Pasted image 20231010154424.png]]
+		- Germinal centers![[Pasted image 20231010154356.png|Pasted image 20231010154356.png]]![[Pasted image 20231010154412.png|Pasted image 20231010154412.png]]![[Pasted image 20231010154424.png|Pasted image 20231010154424.png]]
 
 >[!Mnemonic] 
 >Warriors from Germany love smoking.
