@@ -25,7 +25,7 @@ Coenzyme for various carboxylase enzyme complexes, which all add a 1-carbon grou
 ---
 # Etiology
 - Malnutrition
-- Prolonged use of antibiotics (destruction of intestinal flora)
+- Prolonged use of [[antibiotics|antibiotics]] (destruction of intestinal flora)
 - <span style="background:rgba(240, 200, 0, 0.2)">Excessive consumption of raw egg white: contains avidin → binds biotin in the intestinal lumen → inhibition of biotin resorption</span>
 	- Like most proteins, avidin is heat-sensitive and loses this characteristic when cooked.
 
