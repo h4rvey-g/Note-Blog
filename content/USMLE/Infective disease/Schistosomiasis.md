@@ -23,7 +23,7 @@ share: true
 	- [[Serum sickness|Serum sickness]]-like disease: immune complex formation of antigens released from eggs and/or adult worms with host antibodies
 	- Incubation period: 3–8 weeks
 	- Clinical features: fever, fatigue, cough
-3. Chronic schistosomiasis: Deposition of eggs leads to chronic inflammation and granuloma formation.
+3. Chronic schistosomiasis: Deposition of eggs leads to chronic inflammation and [[Granulomatous inflammation|granuloma]] formation.
 ## Subtypes
 - Genitourinary schistosomiasis
 	- S. haematobium
@@ -36,14 +36,20 @@ share: true
 	- Adults with chronic infection: <span style="background:rgba(240, 200, 0, 0.2)">periportal fibrosis and portal hypertension</span>
 - Pulmonary schistosomiasis
 	- All three pathogens
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary hypertension and cor pulmonale</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Pulmonary hypertension|Pulmonary hypertension]] and [[Pulmonary hypertension|cor pulmonale]]</span>
 
 ---
 # Diagnostics
-
+- Microscopic examination of stool or urine for eggs![[Pasted image 20241205105903.png|Pasted image 20241205105903.png]]
+	- S. mansoni: Eggs have a prominent lateral spine. 
+	- S. haematobium: Eggs have a prominent terminal spine. 
+	- S. japonicum: Eggs have a miniscule lateral spine.
 
 ---
 # Treatment
-
+- Acute schistosomiasis syndrome 
+	- Administer glucocorticoids to reduce inflammation.
+	- Administer praziquantel once inflammation improves. 
+- Chronic schistosomiasis: Administer <span style="background:rgba(240, 200, 0, 0.2)">praziquantel</span>.
 
 ---
