@@ -14,15 +14,16 @@ share: true
 ## Risk factors
 - Increased uric acid production
 	- Dietary sources
-	- Purine-rich foods (eg, seafood, red meat)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Fructose-containing & alcoholic beverages (particularly beer)</span>
+		- Purine-rich foods (eg, seafood, red meat)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Fructose-containing & alcoholic beverages (particularly beer)</span>
 	- ↑ Cell turnover (eg, [[tumor lysis syndrome|tumor lysis syndrome]])
 	- [[Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]] (deficiency of HGPRT)
 	- ↑ Phosphoribosyl pyrophosphate activity
 - Decreased uric acid clearance
 	- [[Chronic kidney disease|Chronic kidney disease]]
 	- Volume depletion
-	- [[Diuretics|Diuretics]] (eg, thiazide)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Diuretics|Diuretics]] (eg, thiazide)</span>
+	- [[Vitamin B3|Niacin]]
 	- Cyclosporine & [[Immunosuppressants|tacrolimus]]
 - Rapid decline in uric acid levels
 	- Xanthine oxidase inhibitors (eg, allopurinol)
