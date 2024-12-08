@@ -25,6 +25,9 @@ share: true
 			- Typically occur at vessel junctions in the circle of Willis, most commonly between the anterior communicating artery and anterior cerebral artery
 			- Account for ∼ 80% of cases of nontraumatic subarachnoid hemorrhage
 	- Ruptured arteriovenous malformations (AVM) 
+
+![[Charcot-Bouchard aneurysms vs Saccular (berry) aneurysms|Charcot-Bouchard aneurysms vs Saccular (berry) aneurysms]]
+
 ## Diagnosis
 ### CT head without contrast
 - Defining feature: blood in subarachnoid space (hyperdense) with variable extension and location![[Pasted image 20231011165433.png|Pasted image 20231011165433.png]]![[Pasted image 20231011165456.png|Pasted image 20231011165456.png]]
