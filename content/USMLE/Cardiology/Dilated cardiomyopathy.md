@@ -14,7 +14,8 @@ Left or biventricular dilatation with structural and/or functional systolic dysf
 ---
 ## Primary causes
 - <span style="background:rgba(240, 200, 0, 0.2)">Idiopathic</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Familial</span>, due to mutations in genes that encode components for sarcomeres and desmosomes
+- <span style="background:rgba(240, 200, 0, 0.2)">Familial, due to mutations in genes </span>that encode components for sarcomeres and desmosomes
+	- <span style="background:rgba(240, 200, 0, 0.2)">TTN gene: encodes the intrasarcomeric protein titin (connectin)</span>
 ## Secondary causes
 - Substance use
 	- Alcohol use disorder
