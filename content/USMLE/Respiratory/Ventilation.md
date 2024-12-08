@@ -4,6 +4,8 @@ created: 2024-03-21 21:14
 modified: 2024-03-21 21:14
 aliases:
   - Physiologic dead space
+  - Positive end-expiratory pressure
+  - PEEP
 share: true
 ---
 - Respiratory rate (RR): number of breaths per minute
@@ -20,3 +22,20 @@ share: true
 - Alveolar ventilation (VA)
 	- Volume of gas that reaches the alveoli each minute
 	- VA = (VT - VD) x RR
+
+![[Pasted image 20241201162458.png|Pasted image 20241201162458.png]]
+# Positive end-expiratory pressure (PEEP)
+---
+- Definition
+	- <span style="background:rgba(240, 200, 0, 0.2)">Positive pressure in the lung maintained over the entire inhalation and expiration phases</span>
+- Mechanism of action: keeps airway pressure above the atmospheric level <span style="background:rgba(240, 200, 0, 0.2)">at the end of exhalation</span> → increases alveolar pressure and volume → <span style="background:rgba(240, 200, 0, 0.2)">reopens collapsed or unstable alveoli</span> → improves ventilation/perfusion relation
+- Indications: PEEP is typically justified when a PaO2 of 60 mm Hg cannot be achieved with an FiO2 of 60%.
+	- Almost all patients need a minimum amount of PEEP (3–5 cm H2O).
+	- Higher PEEP is indicated in conditions involving a right-to-left pulmonary shunt pathology.
+- Advantages
+	- <span style="background:rgba(240, 200, 0, 0.2)">Prevent [[atelectasis|atelectasis]]</span>
+	- ↑ Oxygenation without increasing the risk of oxygen toxicity
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Gas exchange area</span>
+	- ↑ Functional residual capacity
+	- ↑ Pulmonary compliance
+
