@@ -37,7 +37,7 @@ share: true
 
 ---
 # Diagnostics
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory parameters: continuous increase in end-tidal CO<sub>2</sub></span>
 
 ---
 # Treatment
