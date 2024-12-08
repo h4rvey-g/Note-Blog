@@ -5,6 +5,7 @@ modified: 2023-08-18 15:32
 aliases:
   - ATIN
   - "Acute interstitial\rnephritis"
+  - Interstitial nephritis
 share: true
 ---
 # Definition
@@ -13,11 +14,11 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 ---
 # Etiology
 <span style="background:rgba(240, 200, 0, 0.2)">Medications (most common)</span>
-- Antibiotics: β-lactams, sulfonamides, rifampin, fluoroquinolones
-- [[Non-opioid analgesics|NSAIDs]]
+- [[Antibiotics|Antibiotics]]: β-lactams, sulfonamides, rifampin, fluoroquinolones
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Non-opioid analgesics|NSAIDs]]</span>
 - [[Proton pump inhibitors|Proton pump inhibitors]] and H2 blockers
-- Loop diuretics and [[thiazides|thiazides]]
-- [[Anticonvulsant drugs|Anticonvulsants]]: phenytoin, [[Anticonvulsant drugs|valproate]], carbamazepine, phenobarbital
+- Loop [[diuretics|diuretics]] and thiazides
+- [[Anticonvulsant drugs|Anticonvulsants]]: phenytoin, [[Anticonvulsant drugs|valproate]], [[Anticonvulsant drugs|carbamazepine]], phenobarbital
 - Other: allopurinol
 
 ---
@@ -30,10 +31,12 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 ---
 # Clinical features
 Clinical features of [[acute kidney injury|acute kidney injury]], with or without:
-- Morbilliform rash
+- <span style="background:rgba(240, 200, 0, 0.2)">Morbilliform rash</span>
+	- Caused by [[Type IV hypersensitivity reaction|Type IV hypersensitivity reaction]]
 - Fever
 - Arthralgias
-- Flank pain
+- New drug exposure
+
 >[!tip] 
 >The classic triad of fever, morbilliform rash, and eosinophilia is present in < 10% of patients with ATIN, but their presence can help to guide the diagnosis.
 
@@ -41,14 +44,14 @@ Clinical features of [[acute kidney injury|acute kidney injury]], with or withou
 # Diagnostics
 - Blood tests 
 	- BMP: ↑ BUN and creatinine
-	- CBC: ↑ eosinophils (more common in drug-induced ATIN) 
+	- CBC: ↑ [[eosinophils|eosinophils]] (more common in drug-induced ATIN) 
 - Urine studies
 	- Urinalysis
 		- Sterile pyuria
 		- Subnephrotic-range proteinuria
 	- Microscopic hematuria
 		- Urine microscopy
-		- WBC casts , RBC casts , waxy casts , granular casts , tubular epithelial casts
+		- WBC [[Urine sediment|casts]] , RBC casts , waxy casts , [[Urine sediment|granular casts]] , tubular epithelial casts
 		- Urine eosinophils (low sensitivity and specificity for ATIN)
 
 >[!tip] 
