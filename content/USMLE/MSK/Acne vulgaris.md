@@ -47,7 +47,33 @@ share: true
 
 # Treatment
 ---
+- Mild acne
+	- Topical treatment with any of the following:
+		- Benzoyl peroxide
+		- Retinoid
+- Moderate acne	
+	- Combination topical therapy for acne
+	- OR a combination of:
+		- Oral antibiotic for acne 
+		- AND topical:
+			- Retinoid
+			- Benzoyl peroxide
+			- PLUS antibiotic if needed
+- Severe acne	
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oral isotretinoin (preferred)</span>
 ## Topical retinoids  
 - Retinoids are [[vitamin A|vitamin A]] derivatives with an anti-inflammatory and comedolytic effect.
 - <span style="background:rgba(240, 200, 0, 0.2)">Increase epithelial mitosis and desquamation, and help extrude debris from comedones, limiting acne formation.</span>
 - Used as monotherapy for comedonal acne or adjunctive therapy for acne of any severity
+## Isotretinoin therapy
+### Mechanisms
+- Isotretinoin is a systemic [[vitamin A|vitamin A]] derivative.
+- Decreases the concentration of C. acnes and inflammation by decreasing sebum production and promoting comedolysis
+### Indications
+- <span style="background:rgba(240, 200, 0, 0.2)">Severe</span>, nodular, recalcitrant acne
+- Moderate acne requiring therapy escalation
+### Contraindications
+- Absolute contraindications include:
+	- [[Pregnancy|Pregnancy]]
+	- Female individuals of reproductive age not using [[contraception|contraception]]
+	- [[Infant nutrition and breastfeeding|Breastfeeding]]
