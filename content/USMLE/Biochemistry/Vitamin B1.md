@@ -4,6 +4,7 @@ created: 2023-11-17 16:35
 modified: 2023-11-17 16:35
 aliases:
   - Thiamine
+  - Beriberi
 share: true
 ---
 # Functions
