@@ -16,7 +16,7 @@ Serum sickness is a classic example of a <span style="background:rgba(240, 200, 
 	- Equine anti-spider venom
 	- Equine or bovine anti-[[rabies|rabies]] antitoxin
 	- Equine botulinum antitoxin
-- <span style="background:rgba(240, 200, 0, 0.2)">Medications: most frequently antibiotics (e.g., penicillin, amoxicillin, cefaclor, trimethoprim-sulfamethoxazole) </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Medications: most frequently [[antibiotics|antibiotics]] (e.g., penicillin, amoxicillin, cefaclor, trimethoprim-sulfamethoxazole) </span>
 - Infections: [[Hepatitis B|Hepatitis B]] virus
 
 ---
