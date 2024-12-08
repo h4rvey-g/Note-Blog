@@ -30,7 +30,8 @@ Patients with PBC are usually initially asymptomatic.
 - Symptoms of cholestasis
 	- Jaundice
 	- Pale stool, dark urine
-	- Maldigestion (more common in advanced disease) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Maldigestion (more common in advanced disease)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of fat-soluble vitamins (A, D, E, and K)</span>
 - Signs of cirrhosis and portal hypertension
 	- Hepatomegaly with dull lower margin, RUQ discomfort
 	- Splenomegaly
