@@ -25,6 +25,18 @@ share: true
 		- Can displace other opioids from opioid receptors due to high receptor affinity and precipitate withdrawal since it does not produce the same receptor activation as a full agonist
 		- High doses of naloxone or naltrexone are necessary to antagonize buprenorphine effects.
 
+>[!tip] Strategies for safe opioid prescribing
+>- Optimize non-opioid interventions
+>	- Use acetaminophen/NSAIDs, supportive care (eg, heat/ice) for mild/moderate pain
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Avoid routine opioid use for chronic pain</span>
+>- Optimize opioid dose and duration
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Limit therapy to &lt;5 days for acute pain</span>
+>	- Use <span style="background:rgba(240, 200, 0, 0.2)">lowest dose</span> resulting in adequate pain control
+>	- Avoid long-acting opioids
+>- Optimize monitoring
+>	- Counsel patients on safe use; arrange close follow-up
+>	- Educate patients on safe disposal of unused opioids
+
 
 ---
 # Clinical features
