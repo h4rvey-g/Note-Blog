@@ -15,7 +15,7 @@ share: true
 		- Insufficient folate supplementation
 		- Drugs that interfere with folate metabolism
 			- Methotrexate
-			- [[Anticonvulsant drugs|Anticonvulsants]]: [[Anticonvulsant drugs|valproate]], carbamazepine
+			- <span style="background:rgba(240, 200, 0, 0.2)">[[Anticonvulsant drugs|Anticonvulsants]]: [[Anticonvulsant drugs|valproate]], carbamazepine</span>
 			- Sulfonamides, trimethoprim
 - Pregestational [[diabetes mellitus|diabetes mellitus]]
 # Closed spinal dysraphism
