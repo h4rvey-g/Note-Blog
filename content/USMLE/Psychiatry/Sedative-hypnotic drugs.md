@@ -25,23 +25,42 @@ share: true
 - Treatment
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antidote: flumazenil</span>
 		- Mechanism of action: competitive antagonism at GABA receptor
+### Benzodiazepine dependence
+>[!warning] 
+>Benzodiazepine dependence can already develop after a few weeks of use. Therefore, <span style="background:rgba(240, 200, 0, 0.2)">benzodiazepines should only be prescribed when strongly indicated.</span>
+
+- Withdrawal symptoms 
+	- Autonomic nervous system
+		- Diaphoresis
+		- Nausea, vomiting, and anorexia
+		- Tachycardia
+		- [[Hypertension|Hypertension]]
+	- Neurological
+		- <span style="background:rgba(240, 200, 0, 0.2)">**[[Seizures and epilepsy|Seizures]]**</span>
+		- Tremors
+		- Memory impairment
+	- Psychiatric
+		- Anxiety 
+		- Depressive mood
+		- [[Insomnia disorder|Insomnia]]
 
 >[!Mnemonic] 
 >Flum-<font color="#ffc000">AZE</font>-<font color="#ffc000">NIL</font> = turns benzos into nothing
 # Barbiturates
 ---
-| Feature             | Barbiturates                                                     | Benzodiazepines                                                |
-|---------------------|------------------------------------------------------------------|----------------------------------------------------------------|
-| Mechanism of Action | Act on GABA<sub>A</sub> receptors, enhancing GABA activity       | Act on GABA<sub>A</sub> receptors, enhancing GABA activity     |
-| Potency             | Generally more potent                                            | Generally less potent                                          |
-| Safety Profile      | Higher risk of overdose and addiction                            | Lower risk of overdose and addiction                           |
-| Sedative Effect     | Strong sedative effects                                          | Moderate sedative effects                                      |
-| Duration of Action  | Short to long duration depending on the type                     | Short to intermediate duration                                 |
-| Metabolism          | Metabolized by liver enzymes                                     | Metabolized by liver enzymes                                   |
+
+| Feature             | Barbiturates                                                                                                                                                                    | Benzodiazepines                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Mechanism of Action | Act on GABA<sub>A</sub> receptors, enhancing GABA activity                                                                                                                      | Act on GABA<sub>A</sub> receptors, enhancing GABA activity     |
+| Potency             | Generally more potent                                                                                                                                                           | Generally less potent                                          |
+| Safety Profile      | Higher risk of overdose and addiction                                                                                                                                           | Lower risk of overdose and addiction                           |
+| Sedative Effect     | Strong sedative effects                                                                                                                                                         | Moderate sedative effects                                      |
+| Duration of Action  | Short to long duration depending on the type                                                                                                                                    | Short to intermediate duration                                 |
+| Metabolism          | Metabolized by liver enzymes                                                                                                                                                    | Metabolized by liver enzymes                                   |
 | Indications         | Historically used as sedatives, <span style="background:rgba(240, 200, 0, 0.2)">[[Inhalational anesthetics\|anesthetics]]</span>, and [[Anticonvulsant drugs\|anticonvulsants]] | Primarily used as anxiolytics, sedatives, and muscle relaxants |
-| Withdrawal          | Severe withdrawal symptoms, including seizures                   | Generally milder withdrawal symptoms                           |
-| Risk of Dependence  | High risk of physical and psychological dependence               | Lower risk of physical and psychological dependence            |
-| Examples            | Phenobarbital, Pentobarbital, Secobarbital, <span style="background:rgba(240, 200, 0, 0.2)">Primidone: [[essential tremor|essential tremor]]</span>                       | Diazepam, Alprazolam, Lorazepam, Clonazepam                    |
+| Withdrawal          | Severe withdrawal symptoms, including [[Seizures and epilepsy\|seizures]]                                                                                                                                  | Generally milder withdrawal symptoms                           |
+| Risk of Dependence  | High risk of physical and psychological dependence                                                                                                                              | Lower risk of physical and psychological dependence            |
+| Examples            | Phenobarbital, Pentobarbital, Secobarbital, <span style="background:rgba(240, 200, 0, 0.2)">Primidone: [[essential tremor|essential tremor]]</span>                                              | Diazepam, Alprazolam, Lorazepam, Clonazepam                    |
 
 # Nonbenzodiazepine hypnotics (Z-drugs)
 ---
