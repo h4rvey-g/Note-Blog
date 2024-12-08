@@ -26,7 +26,7 @@ share: true
 | Feeling is from someone else       | Displacement              |
 | Feeling is from self               | Projection                |
 |                                    | **Be good to others**     |
-| Not beneficial to society          | Reaction formation        |
+| Not beneficial to society          | [[Reaction formation|Reaction formation]]        |
 | Beneficial to society              | Sublimation               |
 |                                    | **Escaping from an idea** |
 | Not intentionally (subconsciously) | Repression                |
@@ -37,3 +37,9 @@ share: true
 # Mature
 - [[Reaction formation|Sublimation]]: Channeling impulses into socially acceptable behaviors
 - Suppression: Putting unwanted feelings aside to cope with reality
+# For doctors and patients
+---
+- Transference
+	- <span style="background:rgba(240, 200, 0, 0.2)">The patient projects unconscious feelings about significant persons in their childhood onto the therapist (e.g., the therapist is treated as a parental figure).</span>
+	- The therapist can gain insight into personal conflicts by interpreting these feelings.
+- <span style="background:rgba(240, 200, 0, 0.2)">Countertransference: a complication in which the therapist projects unconscious feelings onto the patient (e.g., the therapist sees the patient as a sibling)</span>
