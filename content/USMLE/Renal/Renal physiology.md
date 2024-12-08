@@ -48,7 +48,7 @@ share: true
 - Description: feedback system between the tubules and glomeruli that <span style="background:rgba(240, 200, 0, 0.2)">adjusts the GFR according to the resorption capacity of the tubules</span>
 - Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">macula densa (of the juxtaglomerular apparatus) senses alterations in the NaCl concentration in the DCT </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotonic urine (↓ intraluminal Cl<sup>-</sup> concentration) → vasodilation of afferent arterioles → ↑ GFR → ↑ Cl<sup>-</sup> intraluminal concentration → ↑ RBF</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertonic urine (↑ intraluminal Cl<sup>-</sup> concentration) → adenosine secretion  → vasoconstriction of afferent arterioles → ↓ capillary pressure → ↓ GFR → ↓ intraluminal Cl<sup>-</sup> concentration → ↓ RBF</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypertonic urine (↑ intraluminal Cl<sup>-</sup> concentration) → [[Antiarrhythmic drugs|adenosine]] secretion  → vasoconstriction of afferent arterioles → ↓ capillary pressure → ↓ GFR → ↓ intraluminal Cl<sup>-</sup> concentration → ↓ RBF</span>
 ## Juxtaglomerular complex
 ![[L4947.jpg|L4947.jpg]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Juxtaglomerular cells</span>
@@ -58,7 +58,7 @@ share: true
 	- Composed of tall cuboidal cells located at the distal end of the thick ascending loop of Henle
 	- <span style="background:rgba(240, 200, 0, 0.2)">Monitors the NaCl concentration</span> within the lumen of the DCT
 		- Hypoosmolar urine  triggers the release of renin → vasoconstriction of the efferent arteriole → increase in GFR
-		- Hyperosmolar urine  triggers the release of adenosine → vasoconstriction of the afferent arteriole → decrease in GFR 
+		- Hyperosmolar urine  triggers the release of [[Antiarrhythmic drugs|adenosine]] → vasoconstriction of the afferent arteriole → decrease in GFR 
 - Extraglomerular mesangial cells 
 	- Play a role in <span style="background:rgba(240, 200, 0, 0.2)">autoregulation of blood flow</span> to the kidney (exact functioning is not entirely understood)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Form a network of cells, connecting the sensory cells of the macula densa with juxtaglomerular effector cells</span> 
@@ -76,15 +76,35 @@ share: true
 	- Regulated via:
 		- Prostaglandins → dilation of afferent arterioles → ↑ GFR and ↑ RPF (FF unchanged)
 		- Angiotensin II → constriction of efferent arterioles → ↑ GFR and ↓ RPF → ↑ FF
+## Renal clearance
+### Relative solute concentrations along proximal convoluted tubules
+![[Pasted image 20241206171942.png|Pasted image 20241206171942.png]]
+- Mechanism
+	- Water is absorbed along the PCT along with other solutes (e.g., creatinine, electrolytes, glucose)
+	- At the beginning of the PCT, the concentration of all solutes within the glomerularly filtered tubular fluid (TF) is equivalent to the plasma concentration (P).
+	- <span style="background:rgba(240, 200, 0, 0.2)">Compared to water</span>, solutes can be reabsorbed along the PCT:
+		- At the same rate → no change in tubular fluid concentration compared to plasma concentration (TF/P = 1)
+		- At a lower rate → increased tubular fluid concentration compared to plasma concentration (TF/P > 1)
+		- At a higher rate → decreased tubular fluid concentration compared to plasma concentration (TF/P < 1)
+	- Specific solutes
+		- Sodium (Na+): reabsorbed at the same rate as water throughout the PCT → (TF/P)<sub>Sodium</sub> = 1
+		- Inulin
+			- Not reabsorbed, nor secreted along the PCT → (TF/P)<sub>Inulin</sub> > 1
+			- Inulin is unique in that its amount does not change along the PCT but its tubular concentration is determined solely by water reabsorption.
+		- PAH and creatinine: net tubular secretion along the PCT → (TF/P)<sub>PAH/Creat.</sub> /Creat. > (TF/P)<sub>Inulin</sub> > 1
+		- Chloride (Cl‑): (TF/P)<sub>Chloride</sub> > 1 throughout the PCT
+			- Initially reabsorbed at a slower rate than water and sodium → (TF/P)<sub>Chloride</sub> > 1 and rising 
+			- More distally in the PCT, reabsorbed at the same rate as water and sodium → still (TF/P)<sub>Chloride</sub> > 1 but no longer increasing (plateaued)
+		- Glucose: reabsorbed at a higher rate than water → (TF/P)<sub>Glucose</sub> < 1
 
 # Kidney embryology
 ---
 ![[highresdefault_L88965.jpg|highresdefault_L88965.jpg]]
 
 3. Metanephros: the third embryonic excretory organ, developing caudally to the mesonephros and persisting as the permanent kidney
-	- Arises during the 5th week of embryonic development
-	- Canalization is complete by the 10th week of embryonic development.
-	- Maturing of the kidneys continues until week 35–36 of embryonic development.
+	- Arises during the 5th week of [[Embryogenesis|embryonic development]]
+	- Canalization is complete by the 10th week of [[Embryogenesis|embryonic development]].
+	- Maturing of the kidneys continues until week 35–36 of [[Embryogenesis|embryonic development]].
 	- Components
 		- <span style="background:rgba(240, 200, 0, 0.2)">Ureteric bud (metanephric diverticulum)</span>
 			- Originates from the caudal end of the mesonephric duct
@@ -116,3 +136,10 @@ share: true
 	- The minor calyces draining from each renal papilla merge to form major calyces.
 	- The major calyces merge to form the renal pelvis, which represents the proximal portion of the ureter.
 - Renal hilum: The medial fissure on each kidney where the renal pelvis, vessels, and nerves enter and exit
+# Hormone synthesis
+- <span style="background:rgba(240, 200, 0, 0.2)">Erythropoietin (EPO)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Secreted by peritubular interstitial cells</span>![[L47272.jpg|L47272.jpg]]
+	- Function: stimulates erythropoiesis in the bone marrow
+	- Regulation
+		- Positive feedback: anemia/blood loss, hypoxia
+		- Induced by the transcription factor HIF (hypoxia-inducible factor)
