@@ -2,7 +2,11 @@
 author: Harvey Guo
 created: 2023-12-10 15:29
 modified: 2023-12-10 15:29
-aliases: []
+aliases:
+  - NRTIs
+  - NRTI
+  - NNRTIs
+  - NNRTI
 share: true
 ---
 
