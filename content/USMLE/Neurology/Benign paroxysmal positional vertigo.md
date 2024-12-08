@@ -30,8 +30,15 @@ Although incompletely understood, BPPV is thought to occur <span style="backgrou
 	- Associated with:
 		- [[Internuclear ophthalmoplegia|Nystagmus]] 
 - <span style="background:rgba(240, 200, 0, 0.2)">Triggers: Quick rotation of the head relative to gravity is the main trigger of BPPV</span>
->[!tip] 
-><span style="background:rgba(240, 200, 0, 0.2)">BPPV does not typically cause cochlear (e.g., [[hearing loss|hearing loss]] or tinnitus) or neurological symptoms.</span>
+
+>[!tip] BPPV vs [[Meniere disease|Ménière disease]]
+>- BPPV
+>	- Recurrent, brief episodes (seconds)
+>	- Positional, Dix-Hallpike (+)
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Only [[vertigo|vertigo]], without cochlear (e.g., [[hearing loss|hearing loss]] or tinnitus) or neurological symptoms.</span>
+>- [[Meniere disease|Ménière disease]]
+>	- Recurrent episodes (minutes–hours)
+>	- [[Vertigo|Vertigo]], ear fullness/pain, unilateral [[hearing loss|hearing loss]] & tinnitus
 
 ---
 # Diagnostics
