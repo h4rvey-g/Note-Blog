@@ -18,10 +18,10 @@ FAD and FMN are cofactors for enzymes that are involved in redox reactions (chem
 - Causes
 	- Malnutrition
 	- Restricted diet (e.g., vegan, lactose-free)
-	- ↑ Demand: pregnancy, lactation
+	- ↑ Demand: [[pregnancy|pregnancy]], lactation
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Corneal vascularization</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Cheilitis, glossitis, stomatitis</span>, pharyngitis 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cheilitis, glossitis, stomatitis</span>, [[Acute tonsillitis and pharyngitis|pharyngitis]] 
 	- Normocytic normochromic anemia
 	- Seborrheic dermatitis
 - Diagnosis
