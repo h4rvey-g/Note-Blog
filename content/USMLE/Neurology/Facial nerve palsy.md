@@ -23,7 +23,9 @@ share: true
 		- [[Herpesviruses|HSV]] reactivation
 		- [[Human immunodeficiency virus|HIV]]
 		- Malignant otitis externa
-	- Tumors (parotid gland tumors, [[acoustic neuroma|acoustic neuroma]])
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tumors (parotid gland tumors, [[acoustic neuroma|acoustic neuroma]])</span>
+		- This nerve exits the skull through the stylomastoid foramen and courses within the substance of the parotid gland.![[L29078.jpg|L29078.jpg]]
+		- Facial sensation won't be affected, since CNV follows a deep course and is unlikely to be damaged by a tumor of the parotid gland.
 	- [[Diabetes mellitus|Diabetes mellitus]]
 	- [[Sarcoidosis|Sarcoidosis]] (Heerfordt syndrome) 
 
