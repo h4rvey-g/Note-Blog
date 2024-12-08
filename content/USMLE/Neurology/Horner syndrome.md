@@ -13,7 +13,7 @@ share: true
 - **Anatomical trajectory:** [[Hypothalamus|Hypothalamus]] (first-order oculosympathetic neuron) → brainstem, cervical, and thoracic spinal cord → ciliospinal center (C8–T2)
 - **Typical lesions:**
     - Brainstem stroke (e.g., [[Ischemic stroke|Wallenberg syndrome]])
-    - Cervical [[spinal cord|spinal cord]] injury (e.g., Brown-Séquard syndrome, [[syringomyelia|syringomyelia]])
+    - Cervical [[Neuroloy physioloy|Neuroloy physioloy]] injury (e.g., Brown-Séquard syndrome, [[syringomyelia|syringomyelia]])
     - [[Brain tumors|Brain tumors]]
     - Brainstem (pontine) hemorrhage
     - Demyelinating disease (e.g., [[multiple sclerosis|multiple sclerosis]])
