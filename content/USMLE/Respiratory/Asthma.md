@@ -47,7 +47,19 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 
 ---
 # Diagnostics
-
+## Spirometry
+- <span style="background:rgba(240, 200, 0, 0.2)">Supportive findings: Expiratory airway limitation: i.e., ↓ FEV1 and ↓ FEV1/FVC ratio</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Bronchodilator Responsiveness Testing</span>:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Used when the patient has abnormal baseline spirometry showing obstruction (FEV1/FVC ≤70%)</span>
+	- Tests if the obstruction is reversible (suggesting asthma) or fixed (suggesting conditions like [[Chronic obstructive pulmonary disease|COPD]])
+	- <span style="background:rgba(240, 200, 0, 0.2)">Not useful if current spirometry is normal</span>, even if the patient has asthma symptoms
+	- Quick test: perform spirometry → give bronchodilator → repeat spirometry
+- <span style="background:rgba(240, 200, 0, 0.2)">Bronchial Challenge Testing</span>:
+	- Identify airway hyperresponsiveness and bronchoconstriction <span style="background:rgba(240, 200, 0, 0.2)">in response to direct, nonallergic stimuli (e.g., methacholine, histamine) or indirect stimuli (e.g., exercise, hyperventilation).</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Used when patient has symptoms suggestive of asthma but normal baseline spirometry</span>
+	- Tests for airway hyperresponsiveness by attempting to provoke bronchospasm
+	- Particularly useful for patients with intermittent symptoms who are <span style="background:rgba(240, 200, 0, 0.2)">asymptomatic during office visits</span>
+	- More time-intensive: involves giving increasing doses of the provocative agent and measuring response
 
 ---
 # Treatment
