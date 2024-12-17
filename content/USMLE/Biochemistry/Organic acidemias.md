@@ -11,7 +11,7 @@ share: true
 	- Methylmalonic acidemia: methylmalonyl-CoA mutase deficiency or [[Vitamin B12|vitamin B12 deficiency]] → accumulation of methylmalonic acid
 		- Methylmalonyl-CoA is transformed into succinyl-CoA by the enzyme methylmalonyl-CoA mutase, which requires adenosylcobalamin, the active form of [[vitamin B12|vitamin B12]], as a cofactor.
 	- Accumulation of organic acids leads to
-		- [[Urea cycle|Urea cycle]] inhibition → [[hyperammonemia|hyperammonemia]]
+		- [[Catabolism of amino acids|Catabolism of amino acids]] inhibition → [[hyperammonemia|hyperammonemia]]
 		- [[Gluconeogenesis|Gluconeogenesis]] inhibition → [[hypoglycemia|hypoglycemia]] during [[Metabolic fuel use|fasting]] periods and increased risk of ketoacidosis (high anion gap metabolic acidosis)
 - Clinical features
 	- Most commonly present in infancy with poor feeding, vomiting, hypotonia, high anion gap metabolic acidosis, [[hepatomegaly|hepatomegaly]], [[Seizures and epilepsy|seizures]].
