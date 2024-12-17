@@ -56,6 +56,8 @@ Patients with PBC are usually initially asymptomatic.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antimitochondrial antibodies (AMA) (present in > 95% of patients)</span>
 - Immunoglobulins (nonspecific)
 	- ↑ IgM
+- Biopsy
+	- Because intrahepatic bile ducts are concentrated in the periportal regions, histopathology demonstrates <span style="background:rgba(240, 200, 0, 0.2)">periductal fibrosis</span> predominantly in those regions.![[L31737.jpg|L31737.jpg]]
 # Treatment
 ---
 ## General principles
