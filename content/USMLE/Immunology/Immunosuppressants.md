@@ -6,6 +6,7 @@ aliases:
   - Mycophenolate mofetil
   - Tacrolimus
   - Calcineurin inhibitors
+  - Etanercept
 share: true
 ---
 ![[Pasted image 20240208101326.png|Pasted image 20240208101326.png]]![[L26057.jpg|L26057.jpg]]
@@ -35,3 +36,21 @@ calcineurin = calcium- and calmodulin-dependent serine-threonine phosphatase
 # Immune checkpoint inhibitors
 ---
 A medication that inhibits the action of regulatory proteins, known as checkpoint proteins, on the immune response. <span style="background:rgba(240, 200, 0, 0.2)">Checkpoint inhibitors are used in the treatment of cancers which produce checkpoint proteins that reduce a patient's intrinsic antineoplastic T-cell activity.</span>
+
+# Biological agents used in immunotherapy
+---
+## Etanercept
+- Target: TNF-α inhibition
+- Indication: <span style="background:rgba(240, 200, 0, 0.2)">Refractory-therapy for chronic inflammatory systemic diseases</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rheumatoid arthritis</span>
+	- Ankylosing spondylitis
+	- Psoriasis, psoriatic arthritis
+	- Crohn disease, ulcerative colitis (except for etanercept, which is not effective in the treatment of inflammatory bowel disease)
+- Adverse effects
+	- Severe infections
+	- <span style="background:rgba(240, 200, 0, 0.2)">Reactivation of prior infections (e.g., latent TB): Patients should be screened for HBV, HCV, EBV, CMV, VZV, and M. tuberculosis prior to treatment.</span>
+		- Inhibition of TNF-α leads to impaired cell-mediated immunity.
+	- Drug-induced lupus
+
+>[!Mnemonic] 
+>E<font color="#ffc000">t</font>a<font color="#ffc000">n</font>er<font color="#ffc000">cept</font> <font color="#ffc000">intercepts TN</font>F.
