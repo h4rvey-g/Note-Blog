@@ -66,7 +66,7 @@ share: true
 	- Anemia
 	- Leukocyte dysfunction → ↑ risk of infection
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Bleeding tendency caused by abnormal platelet adhesion and aggregation</span>![[highresdefault_L82381.png|highresdefault_L82381.png]]
-		- See [[Urea cycle|Urea cycle]]
+		- See [[Catabolism of amino acids|Catabolism of amino acids]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Normal platelet count, PT, aPTT; ↑ bleeding time</span>
 
 # Diagnostics
