@@ -86,7 +86,9 @@ share: true
 - Indication: persistent moderate or severe disease activity after 3 months of conventional DMARD therapy 
 - Agents
 	- <span style="background:rgba(240, 200, 0, 0.2)">TNF-α inhibitors</span>: e.g., adalimumab, infliximab, <span style="background:rgba(240, 200, 0, 0.2)">etanercept</span>
-		- a receptor molecule (cept)
+		- See [[Immunosuppressants#Etanercept|Immunosuppressants > Etanercept]]
+
+
 
 # Complications
 ---

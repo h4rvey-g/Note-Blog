@@ -10,7 +10,9 @@ share: true
 
 ---
 # Etiology
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac cirrhosis</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">A complication of right-sided heart failure characterized by cirrhosis due to chronic hepatic vein congestion.</span>
+	- Associated with "<span style="background:rgba(240, 200, 0, 0.2)">nutmeg liver</span>" (diffuse mottling on imaging due to ischemia and fatty degeneration).![[Pasted image 20241217102311.png|Pasted image 20241217102311.png]]![[L46840.jpg|L46840.jpg]]
 
 ---
 # Pathophysiology

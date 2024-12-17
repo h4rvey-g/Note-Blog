@@ -59,7 +59,7 @@ share: true
 	- ↓ Total lung capacity and ↓ vital capacity
 	- Normal or ↓ FEV1
 	- ↓ FVC
-	- Normal or ↑ FEV1:FVC ratio
+	- <span style="background:rgba(240, 200, 0, 0.2)">Normal or ↑ FEV1:FVC ratio</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">The increased elastic recoil results in increased radial traction (outward pulling) on the airways, leading to increased expiratory flow rates when corrected for the low lung volume.</span>
 - Decreased diffusing capacity for CO ([[DLCO|DLCO]]): highly sensitive parameter
 # Treatment

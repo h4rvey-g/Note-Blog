@@ -53,5 +53,12 @@ share: true
 ![[Pasted image 20231223114629.png|Pasted image 20231223114629.png]]
 
 ![[Pasted image 20231223114306.png|Pasted image 20231223114306.png]]
-*Can't do those ↑
+*Can't do those ↑*
+# Superior gluteal nerve injury
+- Causes
+	- <span style="background:rgba(240, 200, 0, 0.2)">Iatrogenic injury</span> from intramuscular injection in the <span style="background:rgba(240, 200, 0, 0.2)">upper medial gluteal region</span>![[L17418.jpg|L17418.jpg]]
+- Motor deficits
+	- Paralysis of gluteus medius and minimus, tensor fascia lata → impaired hip abduction
+	- <span style="background:rgba(240, 200, 0, 0.2)">Positive [[Trendelenburg sign|Trendelenburg sign]]: lateral pelvic drop towards the opposite (healthy) side</span>
+
 ![[Pasted image 20231223114331.png|Pasted image 20231223114331.png]]

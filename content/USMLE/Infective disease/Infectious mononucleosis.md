@@ -43,6 +43,7 @@ share: true
 ---
 - Monospot test
 	- <span style="background:rgba(240, 200, 0, 0.2)">Detects heterophile antibodies produced in response to EBV infection using RBCs from sheep or horses</span>
+		- The mechanism remains unclear; <span style="background:rgba(240, 200, 0, 0.2)">EBV either induces a humoral response to heterophile antigens or stimulates nonspecific polyclonal activation of B cells.</span>
 	- Patient's serum is mixed with a solution of sheep/horse RBC in vitro
 		- Positive test: cross-reaction between heterophile antibodies and sheep/horse RBCs → agglutination
 		- Negative test
@@ -50,6 +51,7 @@ share: true
 			- In some cases, the test can show negative results if it is performed too soon (i.e. within the first 1–2 weeks after symptom onset) and antibodies have not developed yet.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Specificity of ∼ 100%, sensitivity of 85%</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Peripheral smear: lymphocytosis with > 10% atypical lymphocytes (in some cases, up to 90%) </span>![[highresdefault_L8246.jpg|highresdefault_L8246.jpg]]
+- Since EBV typically causes a latent infection of B cells, only minimal amounts of EBV-specific antigens circulate in an immunocompetent host; therefore, blood tests for such antigens are insensitive to latent EBV infection.
 
 # Treatment
 ---

@@ -4,6 +4,7 @@ created: 2024-02-26 16:30
 modified: 2024-02-26 16:30
 aliases:
   - Aortic stenosis
+  - Bicuspid aortic valve
 share: true
 ---
 # Epidemiology
@@ -15,6 +16,10 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause</span> of aortic stenosis
 	- Occurs at an increasing rate as patients age (prevalence is 35% in those aged 75–85 years) 
 	- Similar pathophysiology to [[atherosclerosis|atherosclerosis]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Bicuspid aortic valve (BAV): fusion of two of the three aortic-valve leaflets in utero</span>
+	- Most common congenital heart valve malformation, predominantly affects males (3:1)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Predisposes the valve to dystrophic calcification and degeneration</span>
+	- Patients present with symptoms of aortic stenosis <span style="background:rgba(240, 200, 0, 0.2)">earlier</span> than in regular aortic valve calcification.![[paste-31830002630657.jpg|paste-31830002630657.jpg]]
 
 ---
 # Pathophysiology
@@ -23,8 +28,8 @@ share: true
 ---
 # Clinical features
 - Signs and symptoms
-	- Dyspnea (typically exertional)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Angina pectoris</span>
+	- [[Dyspnea|Dyspnea]] (typically exertional)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Coronary artery disease|Angina]] pectoris</span>
 		- Due to increased LV oxygen demand and reduced coronary flow reserve
 			- Impaired ventricular filling during diastole results in a reduced stroke volume. Compensatory tachycardia maintains cardiac output but tachycardia is associated with a shortened diastole, thereby reducing the coronary filling time. The hypertrophic LV also compresses the coronary arteries, further reducing the coronary reserve.
 	- Dizziness and syncope

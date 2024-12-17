@@ -5,14 +5,14 @@ modified: 2024-03-11 15:59
 aliases: []
 share: true
 ---
-| Marker                         | Tumor Associations                  |
-| ------------------------------ | ----------------------------------- |
-| [[Alpha fetoprotein\|AFP]]                            | [[Hepatocellular carcinoma|Hepatocellular carcinoma]], Germ cell |
-| CA 19-9                        | Pancreatic                          |
-| CA 125                         | Ovarian                             |
-| Carcinoembryonic antigen (CEA) | Gastrointestinal (e.g., colorectal) |
-| [[Human chorionic gonadotropin|Human chorionic gonadotropin]]   | [[Choriocarcinoma|Choriocarcinoma]], Germ cell          |
-| [[Prostate-specific antigen|Prostate-specific antigen]]      | Prostate                            |
+| Marker                           | Tumor Associations                      |
+| -------------------------------- | --------------------------------------- |
+| [[Alpha fetoprotein\|AFP]]       | [[Hepatocellular carcinoma|Hepatocellular carcinoma]], Germ cell |
+| CA 19-9                          | Pancreatic                              |
+| CA 125                           | Ovarian                                 |
+| Carcinoembryonic antigen (CEA)   | Gastrointestinal (e.g., colorectal)     |
+| [[Human chorionic gonadotropin|Human chorionic gonadotropin]] | [[Choriocarcinoma|Choriocarcinoma]], Germ cell          |
+| [[Prostate-specific antigen|Prostate-specific antigen]]    | Prostate                                |
 
 # Overview
 - Clinical use

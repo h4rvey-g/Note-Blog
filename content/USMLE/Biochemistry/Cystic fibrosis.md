@@ -13,7 +13,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
 ---
 # Pathophysiology
 ![[Pasted image 20240405113532.png|Pasted image 20240405113532.png]]
-- Mutated CFTR gene → <span style="background:rgba(240, 200, 0, 0.2)">misfolded protein (impaired post-translational) → degradation of the defective protein in the rough endoplasmic reticulum (rER)</span> → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, [[sweat glands|sweat glands]], exocrine pancreas, exocrine glands of reproductive organs)
+- Mutated CFTR gene → <span style="background:rgba(240, 200, 0, 0.2)">misfolded protein (impaired post-translational) → degradation of the defective protein in the rough [[endoplasmic reticulum|endoplasmic reticulum]] (rER)</span> → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, [[sweat glands|sweat glands]], exocrine pancreas, exocrine glands of reproductive organs)
 - In [[sweat glands|sweat glands]]
 	- Defective ATP-gated chloride channel →<span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl<sup>-</sup> from the lumen of the sweat glands → reduced reabsorption of Na<sup>+</sup> and H<sub>2</sub>O → excessive loss of salt and elevated levels of NaCl in sweat</span>
 	- Because Cl<sup>-</sup> attracts Na+

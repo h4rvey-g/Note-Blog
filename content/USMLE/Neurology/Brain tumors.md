@@ -14,7 +14,7 @@ share: true
 >Most tumors are glial origin, except for [[medulloblastoma|medulloblastoma]] (neural origin).
 # Adult tumors
 ## Glioblastoma multiforme
-- A highly malignant tumor derived from [[glial cells|glial cells]] (e.g., astrocytes)
+- A highly malignant tumor derived from [[glial cells|glial cells]] (e.g., [[Glial cells|astrocytes]])
 - Most common malignant brain tumor![[Pasted image 20240114153607.png|Pasted image 20240114153607.png]]![[L63123.png|L63123.png]]
 - MRI would likely reveal a mass with central hemorrhagic necrosis, vasogenic edema, and possible extension to the contralateral hemisphere.![[L28216.jpg|L28216.jpg]]
 ## Oligodendroglioma
@@ -43,10 +43,12 @@ Eosinophilic fibers with corkscrew appearance (<font color="#ffc000">Rosenthal f
 >- Also remember the "Homer Wright" as <font color="#ffc000">"home right"</font>, because the tumor is so malignant that there is nothing doctors can do except for sending patients right to home without hesitation.
 
 ## Ependymoma
-![[L90411.png|L90411.png]]
+- Description: a tumor that arises from [[Glial cells|ependymal cells]] of the <span style="background:rgba(240, 200, 0, 0.2)">ventricular system</span>
+- Associated conditions: [[Neurocutaneous disorders|NF2]]
+- Clinical features: <span style="background:rgba(240, 200, 0, 0.2)">the 4th ventricle is the most common location in children → noncommunicating hydrocephalus → features of increased intracranial pressure (e.g., papilledema, headache)</span>![[Pasted image 20241209105009.png|Pasted image 20241209105009.png]]
 - Biopsy
 	- Perivascular pseudorosettes 
-	- Rod-shaped bodies (blepharoplasts) near the nucleus
+	- Rod-shaped bodies (blepharoplasts) near the nucleus![[L90411.png|L90411.png]]
 
 >[!Mnemonic] 
 >"Momma's pending gift is pseudo roses" (to make up for being a crap kid)...

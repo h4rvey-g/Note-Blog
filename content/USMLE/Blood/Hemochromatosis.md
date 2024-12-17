@@ -55,7 +55,7 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 ---
 # Diagnostics
 - Liver biopsy
-	- Hemosiderin (normally golden yellow on microscopy) appears <span style="background:rgba(240, 200, 0, 0.2)">blue with the Prussian blue stain. </span>
+	- Hemosiderin (normally golden yellow on microscopy) appears <span style="background:rgba(240, 200, 0, 0.2)">blue with the Prussian blue stain. </span>![[L28361.jpg|L28361.jpg]]
 	- Pattern of hereditary hemochromatosis: pronounced parenchymal siderosis (accumulation of hemosiderin within the tissue) in hepatocytes and bile duct epithelium
 	- Pattern of secondary iron overload: Kupffer cells (specialized macrophages) containing hemosiderin
 

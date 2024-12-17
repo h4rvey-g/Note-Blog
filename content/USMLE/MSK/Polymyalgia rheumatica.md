@@ -35,7 +35,22 @@ Association with [[giant cell arteritis|giant cell arteritis]] (GCA): Approx. 10
 - ↑ CRP
 - Normochromic anemia
 - Normal creatine kinase, <span style="background:rgba(240, 200, 0, 0.2)">negative rheumatoid factors, and no autoantibodies </span>
-	- vs [[Rheumatoid arthritis|Rheumatoid arthritis]]![[Pasted image 20240415112104.png|Pasted image 20240415112104.png]]
+
+vs [[Rheumatoid arthritis|Rheumatoid arthritis]]
+
+| Feature                                                                      | PMR                                                                    | RA                          |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------- |
+| Age                                                                          | 60 to 80 years                                                         | 30 to 50 years              |
+| Female predominance                                                          | 2 to 3 times as likely                                                 | 2 times as likely           |
+| Morning stiffness                                                            | always                                                                 | always                      |
+| Onset of symptoms                                                            | days to few weeks                                                      | weeks to months             |
+| <span style="background:rgba(240, 200, 0, 0.2)">Predominant joints</span>    | <span style="background:rgba(240, 200, 0, 0.2)">shoulders, hips</span> | small joints of hands, feet |
+| Extra-articular feature                                                      | giant-cell arteritis                                                   | subcutaneous nodules        |
+| <span style="background:rgba(240, 200, 0, 0.2)">Joint swelling</span>        | <span style="background:rgba(240, 200, 0, 0.2)">unusual</span>         | always                      |
+| Elevated ESR, CRP                                                            | 80% to 90%                                                             | 70% to 80%                  |
+| <span style="background:rgba(240, 200, 0, 0.2)">Positive RF, anti-CCP</span> | <span style="background:rgba(240, 200, 0, 0.2)">not present</span>     | 50% to 70%                  |
+| Response to low-dose steroid                                                 | rapid, very good                                                       | equivocal after a few weeks |
+
 
 ---
 # Treatment

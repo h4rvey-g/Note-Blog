@@ -10,4 +10,4 @@ share: true
 - Cytoplasm <span style="background:rgba(240, 200, 0, 0.2)">(processes that build larger molecules)</span>
 	- [[Glycolysis|Glycolysis]], [[HMP shunt|HMP shunt]], and synthesis of cholesterol (SER), proteins (ribosomes, RER), fatty acids, and nucleotides.
 - Both
-	- [[Heme synthesis|Heme synthesis]], [[urea cycle|urea cycle]], [[gluconeogenesis|gluconeogenesis]]. <font color="#ffc000">Hug</font>s take two (both).
+	- [[Heme synthesis|Heme synthesis]], [[Catabolism of amino acids|Catabolism of amino acids]], [[gluconeogenesis|gluconeogenesis]]. <font color="#ffc000">Hug</font>s take two (both).

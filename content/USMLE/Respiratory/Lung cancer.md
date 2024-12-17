@@ -114,7 +114,7 @@ composed of columnar cells that proliferate along the framework of alveolar sept
 - Undifferentiated
 - Large tumor cells
 ### Small cell carcinoma
-![[Pasted image 20231230144704.png|Pasted image 20231230144704.png]]
+![[Pasted image 20231230144704.png|Pasted image 20231230144704.png]]![[L66016.jpg|L66016.jpg]]
 This is the microscopic pattern of a small cell anaplastic (oat cell) carcinoma in which small dark blue cells with minimal cytoplasm are packed together in sheets.
 ### Hamartoma
 ![[Pasted image 20230723155339.png|Pasted image 20230723155339.png]]
