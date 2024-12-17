@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-08-24 16:39
 modified: 2023-08-24 16:39
-aliases: Untitled
+aliases: []
 share: true
 ---
 ![[highresdefault_L43523.jpg|highresdefault_L43523.jpg]]
