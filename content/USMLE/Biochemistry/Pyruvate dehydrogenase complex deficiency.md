@@ -11,7 +11,7 @@ share: true
 - Pathophysiology
 	- Why is it called pyruvate dehydrogenase? Because it takes the hydrogen from carbon and thus oxidizing it.![[Pasted image 20240223102745.png|Pasted image 20240223102745.png]]
 	- Absent pyruvate dehydrogenase complex (PDC) → <span style="background:rgba(240, 200, 0, 0.2)">impaired conversion of pyruvate to acetyl-CoA</span> → reduced production of citrate → impaired citric acid cycle → <span style="background:rgba(240, 200, 0, 0.2)">energy deficit (especially in the CNS) → neurological dysfunction</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Excess pyruvate is further metabolized in the [[Urea cycle|Cahill cycle]] to the following</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Excess pyruvate is further metabolized in the [[Catabolism of amino acids|Cahill cycle]] to the following</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Lactate via lactate dehydrogenase</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Alanine via alanine aminotransferase</span>
 - Clinical features
