@@ -65,6 +65,9 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 	- Can progress to <span style="background:rgba(240, 200, 0, 0.2)">abscess</span>
 ## Diagnostics
 Imaging: The lung region in which the infiltrates are seen depends on the patient's position on aspiration.
-- Supine position: superior segment of the right lower lobe (most common site of aspiration)
-- Standing/sitting: posterior basal segment of the right lower lobe
-- Right lateral decubitus position: posterior segment of the right upper lobe or right middle lobe![[Pasted image 20230804160535.png|Pasted image 20230804160535.png]]
+- Supine position: <span style="background:rgba(240, 200, 0, 0.2)">posterior segments of the upper lobes and the superior segments of the lower lobes</span> (most common site of aspiration)
+- <span style="background:rgba(240, 200, 0, 0.2)">Standing/sitting: posterior basal segment of the right lower lobe</span>
+- Right lateral decubitus position: posterior segment of the right upper lobe or right middle lobe![[Pasted image 20230804160535.png|Pasted image 20230804160535.png]]![[L18500.jpg|L18500.jpg]]
+
+>[!Mnemonic] 
+>Inhale a bite, goes down the right
