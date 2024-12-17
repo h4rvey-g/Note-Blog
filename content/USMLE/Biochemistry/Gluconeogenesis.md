@@ -8,7 +8,7 @@ share: true
 ![[Pasted image 20231107160524.png|Pasted image 20231107160524.png]]
 # Primary substrates
 - <span style="background:rgba(240, 200, 0, 0.2)">Glucogenic amino acids</span>: Generated from the hydrolysis of protein tissue (typically during [[Metabolic fuel use|fasting]] > 1 week), these amino acids are capable of being converted to α-keto acids (e.g., oxaloacetate, α-ketoglutarate) and then to glucose. 
-- <span style="background:rgba(240, 200, 0, 0.2)">Lactate</span>: Via the [[Urea cycle|Cori cycle]], lactate produced from anaerobic [[glycolysis|glycolysis]] (mostly in skeletal muscle) is shuttled to the liver, where it is converted to pyruvate, which serves as the first true substrate in gluconeogenesis.
+- <span style="background:rgba(240, 200, 0, 0.2)">Lactate</span>: Via the [[Catabolism of amino acids|Cori cycle]], lactate produced from anaerobic [[glycolysis|glycolysis]] (mostly in skeletal muscle) is shuttled to the liver, where it is converted to pyruvate, which serves as the first true substrate in gluconeogenesis.
 - Propionyl-CoA
 	- <span style="background:rgba(240, 200, 0, 0.2)">Formed from odd-chain fatty acid [[Fatty acid oxidation|β-oxidation]]</span>, this molecule can be carboxylated to form succinyl-CoA. Succinyl-CoA can enter the gluconeogenesis pathway after being converted to oxaloacetate via the [[TCA cycle|TCA cycle]].
 	- <span style="background:rgba(240, 200, 0, 0.2)">Even-chain fatty acids can only be oxidized to acetyl-CoA, so they cannot be used for gluconeogenesis. </span>
