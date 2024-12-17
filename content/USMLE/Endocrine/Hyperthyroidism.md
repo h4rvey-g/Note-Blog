@@ -64,7 +64,7 @@ share: true
 	- Carbimazole
 	- Propylthiouracil (PTU)
 - Mechanism of action
-	- Inhibits thyroid hormone production via inhibition of thyroid peroxidase → blockade of iodide oxidation, organification, coupling
+	- Inhibits thyroid hormone production via <span style="background:rgba(240, 200, 0, 0.2)">inhibition of thyroid peroxidase → blockade of iodide oxidation, organification, coupling</span>
 	- Propylthiouracil also lowers peripheral conversion of T4 to T3 by inhibiting 5'-deiodinase.
 - Adverse effects
 	- Allergy/hypersensitivity
