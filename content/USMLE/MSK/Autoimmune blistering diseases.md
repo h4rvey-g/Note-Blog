@@ -15,6 +15,7 @@ share: true
 | **Immunofluorescence** | Net-like intercellular IgG against desmosomes                      | Linear IgG against hemidesmosomes along basement membrane | Granular IgA deposits in dermal papillae                                   |
 
 ![[Pasted image 20241124111658.png|Pasted image 20241124111658.png]]
+
 # Bullous pemphigoid
 ---
 ## Etiology
@@ -43,7 +44,7 @@ share: true
 ## Clinical findings
 - Progression in stages
 	- Spontaneous onset of <span style="background:rgba(240, 200, 0, 0.2)">painful flaccid, intraepidermal blisters</span>
-	- Lesions rupture and become confluent → <span style="background:rgba(240, 200, 0, 0.2)">erosions and crusts</span> → re-epithelialization with hyperpigmentation but without scarring 
+	- Lesions rupture and become confluent → <span style="background:rgba(240, 200, 0, 0.2)">erosions and crusts</span> → re-epithelialization with hyperpigmentation but without scarring![[Pasted image 20241209100554.png|Pasted image 20241209100554.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Pruritus is typically absent.</span>
 - Lesions typically <span style="background:rgba(240, 200, 0, 0.2)">first present on the oral mucosa (> 50% of cases), then on body parts exposed to pressure (e.g., intertriginous areas)</span>
 ## Diagnostics
