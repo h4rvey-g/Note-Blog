@@ -19,6 +19,8 @@ share: true
 
 # Clinical features
 ---
+- <span style="background:rgba(240, 200, 0, 0.2)">Fever ≥ 5 days; Usually > 39°C</span>
+
 ![[Pasted image 20240406092400.png|Pasted image 20240406092400.png]]
 (A) Bilateral, nonpurulent conjunctivitis
 (B) Stomatitis with bright red lips
