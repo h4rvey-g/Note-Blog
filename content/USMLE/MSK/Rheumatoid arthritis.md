@@ -68,11 +68,27 @@ share: true
 	- Tissue inflammation causes arginine residues in proteins such as vimentin to be enzymatically converted into citrulline through a process called citrullination.  This alters the shape of the proteins, which can then serve as neoantigens that generate an immune response.
 - <span style="background:rgba(240, 200, 0, 0.2)">Rheumatoid factor (RF): IgM autoantibodies against the Fc region of IgG antibodies</span>
 # Differential diagnostics
+---
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Parvovirus B19|Parvovirus B19]] will presents with similar symptoms, except for rash, normal ESR, and acute onset</span>
 - See [[Osteoarthritis#Differential diagnosis|Osteoarthritis > Differential diagnosis]]
 
----
+| Characteristic          | Osteoarthritis (OA)                                                                                           | Rheumatoid Arthritis (RA)                                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Age of onset            | >50 years                                                                                                     | 30-50 years                                                                                                                  |
+| Cause                   | "Wear and tear" or trauma causing cartilage deterioration                                                     | Autoimmune inflammatory reaction against synovium                                                                            |
+| Primary joints affected | <span style="background:rgba(240, 200, 0, 0.2)">Weight-bearing joints (hips, knees)</span>, DIP, CMC of thumb | PIP, MCP, ankle, elbow, wrist; spares DIP<br><span style="background:rgba(240, 200, 0, 0.2)">Atlantoaxial subluxation</span> |
+| Joint characteristics   | Hard and bony                                                                                                 | Soft, warm, and tender                                                                                                       |
+| Pain pattern            | Worse during or after activity                                                                                | Worse in the morning or with inactivity                                                                                      |
+| Stiffness               | <30 minutes in morning, worse with activity                                                                   | >30 minutes in morning, worse with inactivity                                                                                |
+| Joint symmetry          | Often asymmetric, reflecting use patterns                                                                     | Typically symmetric, diffuse involvement                                                                                     |
+| Lab findings            | Normal rheumatoid factor, normal anti-CCP antibody, normal ESR and CRP                                        | Positive rheumatoid factor, positive anti-CCP antibody, elevated ESR and CRP                                                 |
+| Associated signs        | Heberden's nodes (DIP), Bouchard's nodes (PIP)                                                                | Ulnar deviation, boutonniere deformity, swan-neck deformity                                                                  |
+| Systemic involvement    | None                                                                                                          | Potential pulmonary and cardiac disease                                                                                      |
+| Gender predilection     | None                                                                                                          | 2x more common in females                                                                                                    |
+| X-ray findings          | Osteophytes, subchondral sclerosis, asymmetric joint space narrowing                                          | Symmetric joint space loss, osteopenia, "apple coring" bone erosion                                                          |
+| Exam findings           | Effusion, tenderness                                                                                          | Effusion, tenderness, redness, warmth, synovitis                                                                             |
 # Treatment
+---
 ## Acute anti-inflammatory treatment
 - <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids</span>
 	- Systemic prednisone
