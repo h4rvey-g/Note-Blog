@@ -230,7 +230,7 @@ share: true
 	- [[Tremor|Tremor]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anticholinergic symptoms due to blockage of muscarinic cholinergic receptors (more common with tertiary amines)</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">TCAs have structural similarities to acetylcholine, enabling them to bind to and block muscarinic receptors.</span>
-		- Cardiovascular: tachycardia, arrhythmia (including ventricular fibrillation), hypotension
+		- Cardiovascular: <span style="background:rgba(240, 200, 0, 0.2)">tachycardia</span>, arrhythmia (including ventricular fibrillation), <span style="background:rgba(240, 200, 0, 0.2)">hypotension</span>
 		- CNS: confusion, hallucinations, sedation, seizures (confusion and hallucinations are most commonly seen in older patients)
 		- Gastrointestinal: constipation
 		- <span style="background:rgba(240, 200, 0, 0.2)">Genitourinary: urinary retention</span>
