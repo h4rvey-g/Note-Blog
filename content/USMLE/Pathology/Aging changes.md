@@ -6,7 +6,16 @@ aliases:
   - Aging
 share: true
 ---
+# Bones, muscles, and joints
+---
+- Increased bone resorption and osteoporosis, increased risk of fracture (♀ > ♂)
+	- Postmenopausal osteoporosis: decreased estrogen levels → increased bone resorption 
+	- Senile osteoporosis (especially in individuals > 70 years): decreased osteoblast activity → decreased osteoid production
+- Decreased lean body mass due to atrophy and loss of muscle cells (sarcopenia) 
+- Degenerative changes in joints: stiffer and less flexible joints, decreased synovial fluid and cartilage, calcification (e.g., in the shoulder), height loss
+- <span style="background:rgba(240, 200, 0, 0.2)">Bone marrow: decreased mass, increased percentage of fat, weaker response to stimuli (e.g., ↓ hematopoiesis following blood loss)</span>
 # Respiratory system
+---
 ![[L71610.png|L71610.png]]![[Pasted image 20240321212050.png|Pasted image 20240321212050.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Lung compliance increases ("loose, baggy lungs") due to loss of elastin content.  This process resembles mild emphysema and leads to dynamic expiratory airflow obstruction, premature airway closure, and progressive hyperinflation.</span>
 - Chest wall compliance decreases ("stiff rib cage") due to degenerative changes (ossification, arthritis) of the sternocostal and costovertebral joints and kyphosis of the thoracic spine.

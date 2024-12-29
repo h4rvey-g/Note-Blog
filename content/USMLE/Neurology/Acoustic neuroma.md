@@ -27,7 +27,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Dizziness</span>
 - Late symptoms: caused by pressure of adjacent structures within the cerebellopontine angle
 	- Trigeminal nerve (CN V) involvement: paresthesia (numbness), hypoesthesia (decreased sensation), and/or unilateral facial pain
-	- Facial nerve (CN VII) involvement: peripheral, unilateral facial weakness that can progress to paralysis 
+	- [[Facial nerve palsy|Facial nerve]] (CN VII) involvement: peripheral, unilateral facial weakness that can progress to paralysis 
 	- Compression of structures in posterior fossa
 
 ---

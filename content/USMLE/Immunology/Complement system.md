@@ -10,6 +10,9 @@ aliases:
 share: true
 ---
 ![[Pasted image 20240318194037.png|Pasted image 20240318194037.png]]
+- Activation pathways
+	- Classical pathway
+		- <span style="background:rgba(240, 200, 0, 0.2)">Activated by IgM or IgG complexes binding to the pathogen</span>![[Pasted image 20241228221355.png|Pasted image 20241228221355.png]]
 - Effect
 	- Membrane attack complex (MAC)
 		- Formed by C5b–C9

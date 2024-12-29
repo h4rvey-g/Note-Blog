@@ -10,6 +10,7 @@ share: true
 - Bulbar palsy is a lower motor neuron palsy that affects the nuclei of the IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves. 
 - Pseudobulbar palsy is an upper motor neuron palsy that affects the corticobulbar tracts of the V<sup>th</sup>, VII<sup>th</sup>, IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves.
 # Bulbar palsy
+---
 ## Etiology
 - Brainstem stroke or tumors
 - Neurodegenerative diseases: [[amyotrophic lateral sclerosis|amyotrophic lateral sclerosis]], syringobulbia 
@@ -33,9 +34,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Gag reflex: absent </span>
 - Jaw jerk: normal 
 - Emotions not affected
-
----
 # Pseudobulbar palsy
+---
 ## Etiology
 - Stroke (multiple, recurrent strokes)
 - Neurodegenerative disease: [[amyotrophic lateral sclerosis|amyotrophic lateral sclerosis]], progressive supranuclear palsy, [[multiple sclerosis|multiple sclerosis]]

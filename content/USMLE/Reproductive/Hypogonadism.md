@@ -15,14 +15,14 @@ share: true
 ---
 ## Hypergonadotropic hypogonadism (primary hypogonadism)
 Hypergonadotropic hypogonadism is caused by <span style="background:rgba(240, 200, 0, 0.2)">insufficient sex steroid production in the gonads.</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Primary gonadal insufficiency: [[Turner syndrome|Turner syndrome]] (females), [[Klinefelter syndrome|Klinefelter syndrome]] (males)</span>, anorchia
+- <span style="background:rgba(240, 200, 0, 0.2)">Primary gonadal insufficiency: [[Differences (disorders) of sex development|Turner syndrome]] (females), [[Differences (disorders) of sex development|Klinefelter syndrome]] (males)</span>, anorchia
 - <span style="background:rgba(240, 200, 0, 0.2)">Secondary gonadal insufficiency (damage to [[Androgen and estrogen synthesis|Leydig cells]] or ovarian tissue)</span>: chemotherapy, pelvic irradiation, trauma/surgery, autoimmune disease (e.g, autoimmune polyglandular syndrome), infections (e.g., [[mumps|mumps]], [[tuberculosis|tuberculosis]])
 ## Hypogonadotropic hypogonadism (secondary hypogonadism)
 Hypogonadotropic hypogonadism is caused by an <span style="background:rgba(240, 200, 0, 0.2)">insufficient gonadotropin-releasing hormone (GnRH) and/or gonadotropin release at the hypothalamic-pituitary axis.</span>
 - Genetic disorders
-	- [[Kallmann syndrome|Kallmann syndrome]]
+	- [[Differences (disorders) of sex development|Kallmann syndrome]]
 	- Idiopathic hypogonadotropic hypogonadism (IHH): a genetic disorder characterized by a defect in GnRH production/action in the absence of anosmia
-	- Prader-Willi syndrome
+	- [[Prader-Willi syndrome|Prader-Willi syndrome]]
 	- [[Lysosomal Storage Diseases|Gaucher disease]]
 - Hypothalamic and/or pituitary lesions
 	- Neoplasm (e.g. [[Pituitary adenoma|prolactinoma]], craniopharyngioma, astrocytoma)
@@ -32,7 +32,7 @@ Hypogonadotropic hypogonadism is caused by an <span style="background:rgba(240, 
 Diminished functional activity of the gonads → reduced biosynthesis of sex hormones → impaired secondary sexual characteristics and infertility
 - Hypergonadotropic hypogonadism: gonadal insufficiency → insufficient sex steroid production (↓ testosterone, ↓ estrogen) → increased gonadotropin secretion (↑ FSH and ↑ LH) from the anterior pituitary → lack of negative feedback from the impaired gonads → further ↑ FSH and ↑ LH levels
 - Hypogonadotropic hypogonadism
-	- In [[Kallmann syndrome|Kallmann syndrome]]: impaired migration of GnRH cells and defective olfactory bulb → ↓ GnRH in [[hypothalamus|hypothalamus]] → ↓ FSH and ↓ LH → ↓ testosterone and ↓ estrogen
+	- In [[Differences (disorders) of sex development|Kallmann syndrome]]: impaired migration of GnRH cells and defective olfactory bulb → ↓ GnRH in [[hypothalamus|hypothalamus]] → ↓ FSH and ↓ LH → ↓ testosterone and ↓ estrogen
 	- In hypothalamic and/or pituitary lesions: ↓ pituitary gonadotropins (↓ FSH and ↓ LH) → ↓ testosterone and ↓ estrogen
 
 # Clinical features

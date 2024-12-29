@@ -43,22 +43,30 @@ A <span style="background:rgba(240, 200, 0, 0.2)">left posterior cerebral artery
 Medial medullary syndrome involves contralateral hemiplegia, contralateral epicritic numbness, and ipsilateral tongue weakness.
 >[!Mnemonic] 
 >“<font color="#ffc000">MM</font>! These <font color="#ffc000">açaí (ASA-i)</font> berries are so tasty I want to <font color="#ffc000">lick</font> them!”
-### Posterior inferior cerebellar artery (Wallenberg syndrome)
+### Posterior inferior cerebellar artery (Wallenberg syndrome, lateral medullary syndrome)
 Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.![[L57143.jpg|L57143.jpg]]
+
 >[!Mnemonic] 
 ><font color="#ffc000">PICA-chew</font>: A <font color="#ffc000">P</font>osterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery stroke makes it so you can’t <font color="#ffc000">chew</font>.![[Pasted image 20240120150237.png|Pasted image 20240120150237.png]]
 ### Anterior inferior cerebellar artery (<span style="background:rgba(240, 200, 0, 0.2)">Lateral pontine syndrome</span>)
-Lateral pontine syndrome is similar to lateral medullary syndrome but also involves facial paralysis and [[hearing loss|hearing loss]]. 
+Lateral pontine syndrome is <span style="background:rgba(240, 200, 0, 0.2)">similar to lateral medullary syndrome but also involves facial paralysis and [[hearing loss|hearing loss]]. </span>
 >[!Mnemonic] 
 >A stroke in the <font color="#ffc000">A</font>nterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery messes up the f<font color="#ffc000">AICA</font>l nerve.
 
 ### Basilar artery (Locked-in syndrome)
 ![[highresdefault_L84497.jpg|highresdefault_L84497.jpg]]
-- Caused by ischemic injury to the <span style="background:rgba(240, 200, 0, 0.2)">bilateral ventral pons</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Absent voluntary motor function of all limbs (quadriplegia) and oral structures (loss of speech)</span> due to destruction of the cortical spinal and cortical bulbar pathways, which prevents cranial nerves or the limbs from receiving cortical signals.
-- <span style="background:rgba(240, 200, 0, 0.2)">Absent horizontal eye movements</span>.  However, vertical eye movements and eyelid elevation are preserved because they are controlled in the rostral midbrain.
-- <span style="background:rgba(240, 200, 0, 0.2)">Preserved consciousness because the midbrain reticular formation is spared.</span> Behavioral arousal and sleep-wake cycles are also preserved because the diencephalon–upper brainstem arousal systems are unaffected.
-- <span style="background:rgba(240, 200, 0, 0.2)">Preserved sensation</span> because sensory pathways are not affected and preserved brainstem and spinal reflexes because they do not require cortical input.
+- Etiology
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral ventral pontine stroke (most common)</span>
+		- Ischemic stroke (thrombotic/embolic occlusion of the basilar artery)
+		- Hemorrhagic stroke 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pontine demyelination (e.g., [[multiple sclerosis|multiple sclerosis]] affecting the ventral pons, [[Hyponatremia|central pontine myelinolysis]])</span>
+	- Brain tumor or brain abscess affecting the ventral pons
+- Clinical features
+	- Caused by ischemic injury to the <span style="background:rgba(240, 200, 0, 0.2)">bilateral ventral pons</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Absent voluntary motor function of all limbs (quadriplegia) and oral structures (loss of speech)</span> due to destruction of the cortical spinal and cortical bulbar pathways, which prevents cranial nerves or the limbs from receiving cortical signals.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Absent horizontal eye movements</span>.  However, vertical eye movements and eyelid elevation are preserved because they are controlled in the rostral midbrain.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Preserved consciousness because the midbrain reticular formation is spared.</span> Behavioral arousal and sleep-wake cycles are also preserved because the diencephalon–upper brainstem arousal systems are unaffected.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Preserved sensation</span> because sensory pathways are not affected and preserved brainstem and spinal reflexes because they do not require cortical input.
 
 >[!Mnemonic] 
 ><font color="#ffc000">Locked-in</font> syndrome (<font color="#ffc000">locked in</font> the basement).

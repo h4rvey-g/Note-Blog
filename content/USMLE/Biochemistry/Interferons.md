@@ -12,7 +12,8 @@ share: true
 
 # Overview of Interferons
 
-## Type I Interferons![[L13801.jpg|L13801.jpg]]
+## Type I Interferons
+![[L13801.jpg|L13801.jpg]]
 ### Interferon Alpha (IFN-α)
 - **Mainly Secreted By:**
 	- <span style="background:rgba(240, 200, 0, 0.2)">Virus-infected cells and malignant cells</span>

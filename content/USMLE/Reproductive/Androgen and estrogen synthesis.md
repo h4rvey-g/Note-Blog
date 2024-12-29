@@ -76,7 +76,7 @@ There are <span style="background:rgba(240, 200, 0, 0.2)">three types of estroge
 	- A growth spurt occurs during early puberty primarily due to positive feedback by estrogen on growth hormone (GH) production.  GH stimulates insulin-like growth factor 1 (IGF-1) synthesis, which leads to the differentiation and proliferation of chondrocytes in the epiphyseal plate and therefore increased linear growth
 	- <span style="background:rgba(240, 200, 0, 0.2)">At high doses, estradiol, a potent estrogen-derived steroid hormone, promotes senescence of chondrocytes and therefore closure of the epiphyseal plate (ie, growth plate). This relates to short stature in idiopathic precocious puberty</span>![[highresdefault_L88275.jpg|highresdefault_L88275.jpg]]
 - Blood vessels: protective effect against [[atherosclerosis|atherosclerosis]]
-- Blood clotting: ↑ risk of thrombosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Blood clotting: ↑ risk of thrombosis</span>
 - Kidneys: ↑ water and sodium retention (may contribute to edema)
 - Protein synthesis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Slightly ↑ (anabolic effect)</span>

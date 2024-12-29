@@ -4,6 +4,7 @@ created: 2024-02-28 10:14
 modified: 2024-02-28 10:14
 aliases:
   - Congestive heart failure
+  - heart failure cells
 share: true
 ---
 # Epidemiology
@@ -25,7 +26,7 @@ share: true
 # Diagnostics
 ---
 ## Pathology
-- Sputum analysis in patients with [[pulmonary edema|pulmonary edema]] may show <span style="background:rgba(240, 200, 0, 0.2)">heart failure cells (hemosiderin-containing cells).</span>![[Pasted image 20240228101505.png|Pasted image 20240228101505.png]]
+- Sputum analysis in patients with [[pulmonary edema|pulmonary edema]] may show <span style="background:rgba(240, 200, 0, 0.2)">heart failure cells (hemosiderin-containing cells).</span>![[Pasted image 20241218090244.png|Pasted image 20241218090244.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary venous congestion may result in intra-alveolar bleeding. Macrophages that subsequently phagocytose the erythrocytes are called “heart failure cells.”</span> These cells may also be detected in the sputum of patients with pulmonary infarction, [[Vasculitides|vasculitis]], or aspiration of blood.
 	- Their color is most likely due to <span style="background:rgba(240, 200, 0, 0.2)">hemosiderin from ingested erythrocytes.</span>
 ## ECG

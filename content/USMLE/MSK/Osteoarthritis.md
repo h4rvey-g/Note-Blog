@@ -14,8 +14,25 @@ share: true
 - Family history
 - History of joint injury (especially anterior cruciate ligament injury), trauma, and/or surgery
 # Differential diagnosis
-![[Pasted image 20230928155850.png|Pasted image 20230928155850.png]]
-![[Pasted image 20230928155924.png|Pasted image 20230928155924.png]]
+---
+
+| Characteristic          | Osteoarthritis (OA)                                                                                           | Rheumatoid Arthritis (RA)                                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Age of onset            | >50 years                                                                                                     | 30-50 years                                                                                                                  |
+| Cause                   | "Wear and tear" or trauma causing cartilage deterioration                                                     | Autoimmune inflammatory reaction against synovium                                                                            |
+| Primary joints affected | <span style="background:rgba(240, 200, 0, 0.2)">Weight-bearing joints (hips, knees)</span>, DIP, CMC of thumb | PIP, MCP, ankle, elbow, wrist; spares DIP<br><span style="background:rgba(240, 200, 0, 0.2)">Atlantoaxial subluxation</span> |
+| Joint characteristics   | Hard and bony                                                                                                 | Soft, warm, and tender                                                                                                       |
+| Pain pattern            | Worse during or after activity                                                                                | Worse in the morning or with inactivity                                                                                      |
+| Stiffness               | <30 minutes in morning, worse with activity                                                                   | >30 minutes in morning, worse with inactivity                                                                                |
+| Joint symmetry          | Often asymmetric, reflecting use patterns                                                                     | Typically symmetric, diffuse involvement                                                                                     |
+| Lab findings            | Normal rheumatoid factor, normal anti-CCP antibody, normal ESR and CRP                                        | Positive rheumatoid factor, positive anti-CCP antibody, elevated ESR and CRP                                                 |
+| Associated signs        | Heberden's nodes (DIP), Bouchard's nodes (PIP)                                                                | Ulnar deviation, boutonniere deformity, swan-neck deformity                                                                  |
+| Systemic involvement    | None                                                                                                          | Potential pulmonary and cardiac disease                                                                                      |
+| Gender predilection     | None                                                                                                          | 2x more common in females                                                                                                    |
+| X-ray findings          | Osteophytes, subchondral sclerosis, asymmetric joint space narrowing                                          | Symmetric joint space loss, osteopenia, "apple coring" bone erosion                                                          |
+| Exam findings           | Effusion, tenderness                                                                                          | Effusion, tenderness, redness, warmth, synovitis                                                                             |
+
+
 ![[Pasted image 20230928160542.png|Pasted image 20230928160542.png]]
 ![[Pasted image 20230928160644.png|Pasted image 20230928160644.png]]
 ![[Pasted image 20230928161015.png|Pasted image 20230928161015.png]]

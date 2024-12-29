@@ -37,7 +37,7 @@ share: true
 ---
 # Diagnostics
 ## Pathology
-- Detection of different types of <span style="background:rgba(240, 200, 0, 0.2)">intracellular inclusions</span> in surviving neurons (tau or TDP-43 in approx. 90% of cases)
+- Detection of different types of <span style="background:rgba(240, 200, 0, 0.2)">intracellular inclusions</span> in surviving neurons (tau or <span style="background:rgba(240, 200, 0, 0.2)">TDP-43</span> in approx. 90% of cases)
 	- Pick bodies (FTLD-tau): round cytoplasmic inclusions of aggregated hyperphosphorylated <span style="background:rgba(240, 200, 0, 0.2)">tau proteins </span>
 	- FTLD‑TDP: inclusions with ubiquitinated TDP‑43
 

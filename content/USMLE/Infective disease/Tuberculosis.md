@@ -94,7 +94,9 @@ share: true
 - Mechanism of action: inhibits arabinosyltransferase → ↓ carbohydrate polymerization → <span style="background:rgba(240, 200, 0, 0.2)">prevention of mycobacterial cell wall synthesis (bacteriostatic effect)</span> 
 ## Side effects of antituberculosis agents
 - Isoniazid
-	- Asymptomatic elevation of transaminases 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Asymptomatic elevation of transaminases </span>
+		- In 10%-20% of patients, INH causes acute, mild hepatic dysfunction
+		- In rare instances (<1%), INH induces a <span style="background:rgba(240, 200, 0, 0.2)">frank hepatitis that causes a syndrome similar to viral hepatitis (eg, fever, anorexia, nausea, jaundice)</span>
 	- [[Cytochrome P450|Cytochrome P450]] inhibition: leading to interactions with numerous drugs, including antiretroviral agents, cardiovascular agents, and [[antibiotics|antibiotics]]
 	- Less common
 		- [[Drug-induced lupus erythematosus|Drug-induced lupus]]
@@ -106,7 +108,7 @@ share: true
 	- [[Cytochrome P450|Cytochrome P450]] induction: leading to important interactions with ART in patients with [[Human immunodeficiency virus|HIV]] (therefore, rifabutin is preferred) 
 	- Orange discoloration of body fluids
 - Pyrazinamide	
-	- Greatest hepatotoxicity potential
+	- <span style="background:rgba(240, 200, 0, 0.2)">Greatest hepatotoxicity potential</span>
 	- [[Gout|Hyperuricemia]]
 - Ethambutol	
 	- <span style="background:rgba(240, 200, 0, 0.2)">Optic neuritis (reversible red-green color blindness)</span>

@@ -10,7 +10,7 @@ aliases:
 share: true
 ---
 
-| **Aspect**                    | **[[Progressive Muscular Dystrophies|Progressive Muscular Dystrophies]]**                                               | **Myotonic Syndromes**                                                                                          |
+| **Aspect**                    | **[[Progressive Muscular Dystrophies|Progressive Muscular Dystrophies]]**                                               | <span style="background:rgba(240, 200, 0, 0.2)">**Myotonic Syndromes**</span>                                   |
 | ----------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Definition**                | A group of genetic disorders characterized by progressive muscle weakness and wasting. | Disorders characterized by muscle weakness along with myotonia (difficulty relaxing muscles after contraction). |
 | **Main Types**                | Duchenne, Becker, Limb-Girdle, Facioscapulohumeral, etc.                               | Myotonic Dystrophy Type 1 (DM1) and Type 2 (DM2)                                                                |

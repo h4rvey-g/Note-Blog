@@ -30,7 +30,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Extracellular</span>
 	- Located in the grey matter of the brain
 	- Aβ protein is the main component of the plaques.
-	- <span style="background:rgba(240, 200, 0, 0.2)">Enzymatic cleavage</span> of transmembranous APP by β-secretase and γ-secretase → <span style="background:rgba(240, 200, 0, 0.2)">Aβ peptide aggregation → formation of insoluble plaques → neurotoxic effect </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Enzymatic cleavage</span> of transmembranous APP by β-secretase and γ-secretase → <span style="background:rgba(240, 200, 0, 0.2)">Amyloid beta (Aβ) peptide aggregation → formation of insoluble plaques → neurotoxic effect </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Neurofibrillary tangles</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Intracellular</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tangles are composed of hyperphosphorylated tau protein</span> (an insoluble microtubule-associated protein). 

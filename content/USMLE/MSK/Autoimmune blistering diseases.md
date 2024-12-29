@@ -60,3 +60,15 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Often fatal without treatment!</span>
 	- Caused primarily by infections, fluid loss, and electrolyte disturbances
 		- Fragile blisters rupture easily
+
+# Epidermolysis bullosa
+---
+- <span style="background:rgba(240, 200, 0, 0.2)">Definition: a genetic condition that causes the skin to become very fragile and blister easily in response to minor injury or friction</span>
+- Epidemiology: EBS is the most common type of EB. 
+- Etiology
+	- Autosomal dominant inheritance
+	- Mutations in keratin genes (e.g., KRT5, KRT14)
+- Pathophysiology: <span style="background:rgba(240, 200, 0, 0.2)">mutations in keratin proteins → defective assembly of keratin filaments → disruption of the basal layer of keratinocytes → ↑ fragility of epithelial tissue</span>
+- Clinical features
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mainly limited to the palms and soles</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Generally heal without scarring</span>![[Pasted image 20241222161112.png|Pasted image 20241222161112.png]]
