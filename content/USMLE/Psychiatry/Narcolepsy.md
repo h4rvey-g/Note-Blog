@@ -18,7 +18,7 @@ share: true
 	- Idiopathic
 ## Secondary narcolepsy
 - Cerebral damage (e.g., tumor, stroke, inflammation, vascular malformation)
-- Genetic syndromes (e.g., [[Lysosomal Storage Diseases|Niemann-Pick disease]] type C and Prader-Willi syndrome)
+- Genetic syndromes (e.g., [[Lysosomal Storage Diseases|Niemann-Pick disease]] type C and [[Prader-Willi syndrome|Prader-Willi syndrome]])
 
 # Pathophysiology
 ---
