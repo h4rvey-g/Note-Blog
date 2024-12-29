@@ -37,13 +37,22 @@ share: true
 	- Central effect: CNS sympathetic stimulation and hallucinogenic effects
 ## Cocaine
 - Famously was the "Coca" in Coca-Cola
+- Clinical features
+	- Clinical features of stimulant intoxication, e.g., sympathomimetic toxidrome, euphoria
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chest pain and/or angina due to cocaine-induced coronary vasospasm</span>
+- Complications
+	- Nasal pathology
+		- <span style="background:rgba(240, 200, 0, 0.2)">Nasal inhalation can damage nasal blood vessels and result in epistaxis.</span>
+		- Chronic local vasoconstriction may cause <span style="background:rgba(240, 200, 0, 0.2)">ischemic necrosis and perforation of the nasal septum.</span>
+
 >[!tip] 
 >Withdrawal from stimulants will not cause morbidity or morality. However, withdrawal from depressants like [[Sedative-hypnotic drugs|benzodiazepines]] or alcohol will. 
 >Common withdrawal symptoms:
 >- <span style="background:rgba(240, 200, 0, 0.2)">Increased appetite, hypersomnia, fatigue</span>, intense psychomotor retardation, severe depression ("crash")
 # Depressants
 ---
-## [[Alcohol Metabolism|Alcohol]]
+## Alcohol
+[[Alcohol use disorder|Alcohol use disorder]]
 [[Alcohol withdrawal|Alcohol withdrawal]]
 ## [[Opioids|Opioids]]
 ### [[Opioid withdrawal|Opioid withdrawal]]
