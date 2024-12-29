@@ -16,7 +16,7 @@ share: true
 # Pathophysiology
 ---
 - Initiation of innate immune response
-- Release of cytokines (TGF-beta and TNF-α) and interleukins (IL-17 and IL-23)
+- <span style="background:rgba(240, 200, 0, 0.2)">Release of cytokines (TGF-beta and TNF-α) and interleukins (IL-17 and IL-23)</span>
 - Infiltration of paravertebral and sacroiliac entheses with macrophages, CD4 T cells, and CD8 T cells
 - <span style="background:rgba(240, 200, 0, 0.2)">Enthesitis</span>: an inflammation of the enthesis (<span style="background:rgba(240, 200, 0, 0.2)">the point at which a tendon attaches to bone</span>). Typically seen in patients with ankylosing spondylitis, psoriatic arthritis, enthesitis-associated juvenile idiopathic arthritis, or [[reactive arthritis|reactive arthritis]]. Commonly affected sites include the spine, Achilles tendon, plantar fascia, and supraspinatus tendon.![[Pasted image 20240528110203.png|Pasted image 20240528110203.png]]
 - Chronic enthesitis leads to: 
