@@ -29,7 +29,7 @@ share: true
 - Definition: a congenital lymphatic cyst (macrocystic lymphangioma) in the posterior triangle of the neck caused by malformation and obstruction of the fetal lymphatic system
 - Epidemiology
 	- ∼ 1:6,000 live births 
-	- Strongly associated with fetal aneuploidy (e.g., [[Turner syndrome|Turner syndrome]], [[Down syndrome|trisomy 21]]) and congenital malformations (e.g., congenital heart defects)
+	- Strongly associated with fetal aneuploidy (e.g., [[Differences (disorders) of sex development|Turner syndrome]], [[Down syndrome|trisomy 21]]) and congenital malformations (e.g., congenital heart defects)
 - Clinical features
 	- Present at birth as a soft, compressible, painless, <span style="background:rgba(240, 200, 0, 0.2)">posterior triangle</span> neck mass ![[Pasted image 20231015143315.png|Pasted image 20231015143315.png]]
 	- Can cause dysphagia or airway compromise
