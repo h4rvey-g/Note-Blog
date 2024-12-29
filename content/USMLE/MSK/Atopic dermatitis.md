@@ -45,7 +45,7 @@ The pathogenesis of atopic dermatitis involves immune dysregulation and genetica
 	- Adult AD may also present as nummular eczema.
 - Associated skin findings in AD
 	- Atopic triad: a triad of [[asthma|asthma]], allergic rhinitis, and atopic dermatitis that is linked to allergen-triggered IgE-mast cell activation
-	- Food allergies
+	- [[Food allergies|Food allergies]]
 	- Keratosis pilaris: keratinized hair follicles (rough bumps) typically distributed over extensor arms and thighs
 	- Hertoghe sign: thinning or loss of the outer third of the eyebrows
  
@@ -54,11 +54,11 @@ The pathogenesis of atopic dermatitis involves immune dysregulation and genetica
 - [[Atopy|Atopy]]
 	- Personal and/or family history
 	- Immunoglobulin E reactivity (↑ serum IgE) 
-	- Comorbid atopic diseases (i.e., [[asthma|asthma]], allergic rhinitis, allergic conjunctivitis, and food allergies)
+	- Comorbid atopic diseases (i.e., [[asthma|asthma]], allergic rhinitis, allergic conjunctivitis, and [[food allergies|food allergies]])
 
 ---
 # Treatment
-- Topical steroids (preferred)
+- Topical [[Corticosteroids|steroids]] (preferred)
 - Topical [[Immunosuppressants|calcineurin inhibitors]]
 
 ---
