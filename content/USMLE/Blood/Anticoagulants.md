@@ -24,6 +24,9 @@ share: true
 - Direct thrombin inhibitors: <span style="background:rgba(240, 200, 0, 0.2)">prolonged thrombin time (TT), no change to PTT or PT (not routinely monitored)</span>
 - Direct factor Xa inhibitors: <span style="background:rgba(240, 200, 0, 0.2)">prolonged PT and PTT, unchanged thrombin time (not routinely monitored)
  </span>
+## Direct oral factor Xa inhibitors
+- <span style="background:rgba(240, 200, 0, 0.2)">Drugs: Apixaban</span>, Rivaroxaban, Edoxaban
+- Selective and direct inhibition of factor Xa
 ## Adverse effects
 ### Warfarin
 - Warfarin-induced skin necrosis
@@ -42,7 +45,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Administer IV [[vitamin K|vitamin K]] PLUS 4-factor prothrombin complex concentrate (PCC)</span>
 	- If PCC is unavailable, give fresh frozen plasma (FFP)
 - Monitor INR every 6 hours until warfarin has been fully reversed (INR ≤ 1.1)
-# Warfarin interactions
+## Warfarin interactions
 ---
 Warfarin is metabolized by [[cytochrome P450|cytochrome P450]] (CYP) enzymes.
 - <span style="background:rgba(240, 200, 0, 0.2)">Decrease of anticoagulant effect</span>
@@ -55,7 +58,7 @@ Warfarin is metabolized by [[cytochrome P450|cytochrome P450]] (CYP) enzymes.
 	- Sulfonamides, sulfonylureas: competitively block or displace warfarin at plasma protein binding sites
 	- <span style="background:rgba(240, 200, 0, 0.2)">Damage to gut flora (e.g., antibiotic therapy): impaired bacterial [[vitamin K|vitamin K]] synthesis</span>
 
-## Bridging anticoagulation
+### Bridging anticoagulation
 - Bridging anticoagulation: the administration of heparin for the duration of the transient hypercoagulable state caused by warfarin therapy. Heparin prevents coagulation by activating antithrombin.
 	- Reduces risk of venous thromboembolism and skin necrosis
 	- May also be used during interruptions of warfarin therapy (e.g., surgery)
@@ -65,3 +68,18 @@ Warfarin is metabolized by [[cytochrome P450|cytochrome P450]] (CYP) enzymes.
 	2. <span style="background:rgba(240, 200, 0, 0.2)">Initiate bridging anticoagulation once the INR is in the subtherapeutic range,</span>
 	3. Administer the last dose of LMWH 24 hours before the procedure (4–6 hours before the procedure for UFH).
 	4. Resume VKA after surgery ; consider postprocedural bridging anticoagulation as needed (e.g., patients with high periprocedural thrombotic risk.
+# Parenteral anticoagulation
+---
+## Direct thrombin inhibitors
+- Drugs: <span style="background:rgba(240, 200, 0, 0.2)">argatroban, bivalirudin, desirudin, dabigatran</span>
+- Mechanism
+	- Directly inhibit thrombin (freely circulating and in association with clots)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Act independently from antithrombin</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">The effect of most parenteral anticoagulants (except for direct thrombin inhibitors) works by enhancing native antithrombin III.</span>
+- Administration
+	- Intravenous: argatroban, bivalirudin, desirudin
+	- Oral: dabigatran (see direct oral thrombin inhibitors)
+- Monitoring during therapy: not generally recommended 
+- Antidote
+	- Possibly aPCC and/or antifibrinolytics (e.g., tranexamic acid)
+	- Dabigatran: idarucizumab (monoclonal antibody)
