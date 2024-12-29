@@ -22,14 +22,14 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">ENT involvement</span>: often the first clinical manifestation
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic rhinitis/[[sinusitis|sinusitis]]: nasopharyngeal ulcerations → nasal septum perforation → saddle nose deformity</span>![[Pasted image 20231209150114.png|Pasted image 20231209150114.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Lower respiratory tract</span>: potentially life-threatening
-	- <span style="background:rgba(240, 200, 0, 0.2)">Treatment-resistant, [[pneumonia|pneumonia]]-like symptoms with cough, dyspnea, hemoptysis</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Treatment-resistant, [[pneumonia|pneumonia]]-like symptoms with cough, [[dyspnea|dyspnea]], hemoptysis</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Renal involvement</span>: potentially life-threatening
-	- Pauci-immune <span style="background:rgba(240, 200, 0, 0.2)">glomerulonephritis</span> (Pauci‑immune indicates that there is little evidence of immune complex/antibody deposits.) → rapidly progressive (crescentic) glomerulonephritis ([[Rapidly progressive glomerulonephritis|RPGN]]) with possible pulmonary-renal syndrome
+	- Pauci-immune <span style="background:rgba(240, 200, 0, 0.2)">[[Nephritic syndrome|glomerulonephritis]]</span> (Pauci‑immune indicates that there is little evidence of immune complex/antibody deposits.) → rapidly progressive (crescentic) [[Nephritic syndrome|glomerulonephritis]] ([[Rapidly progressive glomerulonephritis|RPGN]]) with possible pulmonary-renal syndrome
 - <span style="background:rgba(240, 200, 0, 0.2)">Usually spares GI</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike [[Polyarteritis nodosa|PAN]]</span>
 
 >[!tip] 
->Classic <span style="background:rgba(240, 200, 0, 0.2)">GPA triad: necrotizing [[Vasculitides|vasculitis]] of small arteries, upper/lower respiratory tract manifestations, and glomerulonephritis</span>![[Pasted image 20231209150554.png|Pasted image 20231209150554.png]]
+>Classic <span style="background:rgba(240, 200, 0, 0.2)">GPA triad: necrotizing [[Vasculitides|vasculitis]] of small arteries, upper/lower respiratory tract manifestations, and [[Nephritic syndrome|glomerulonephritis]]</span>![[Pasted image 20231209150554.png|Pasted image 20231209150554.png]]
 
 
 >[!Mnemonic] Granulomatosis with polyangiitis (Wegener granulomatosis)
