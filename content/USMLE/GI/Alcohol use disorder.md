@@ -46,6 +46,8 @@ share: true
 		- Depletion would take place over <span style="background:rgba(240, 200, 0, 0.2)">weeks</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Vitamin B12|Vitamin B12]] deficiency: [[Vitamin B12|subacute combined degeneration]] of spinal cord (funicular myelosis), megaloblastic anemia</span>
 		- Depletion would take place over <span style="background:rgba(240, 200, 0, 0.2)">years</span>
+- Electrolyte abnormalities: [[Hyponatremia|Hyponatremia]], [[Hypokalemia|Hypokalemia]], [[Hypocalcemia|Hypocalcemia]]
+	- Often caused by complications such as malnutrition, vomiting, or diarrhea
 
 # Alcohol intoxication
 ---
