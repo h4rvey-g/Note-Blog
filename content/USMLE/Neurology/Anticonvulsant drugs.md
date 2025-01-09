@@ -60,7 +60,7 @@ share: true
 ### Adverse effects
 1. Phenytoin toxicity is mainly characterized by CNS manifestations.  Its effect on the cerebellum and vestibular system can cause ataxia and [[Internuclear ophthalmoplegia|nystagmus]].
 2. Long-term therapy with phenytoin may cause <span style="background:rgba(240, 200, 0, 0.2)">gingival hyperplasia</span>, coarsening of the facial features, and hirsutism.![[Pasted image 20240522204841.png|Pasted image 20240522204841.png]]
-3. Phenytoin interferes with the metabolism of folic acid and may cause megaloblastic anemia.
+3. Phenytoin interferes with the <span style="background:rgba(240, 200, 0, 0.2)">metabolism of folic acid and may cause megaloblastic anemia.</span>
 4. Phenytoin induces the [[Cytochrome P450|P450]] cytochrome oxidase system.  It increases the metabolism—and therefore decreases the blood level—of many medications.
 5. If taken during pregnancy, phenytoin may cause fetal hydantoin syndrome.
 # Second-generation anticonvulsants
