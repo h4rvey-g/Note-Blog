@@ -12,7 +12,7 @@ share: true
 	- Streptolysin O
 	- Streptococcal pyrogenic exotoxins
 		- Bridges MHC class II molecules on antigen-presenting cells and T-cell receptors on T cells outside of the normal binding sites
-		- Results in a large release of IL-1, IL-2, [[Interferons|IFN-γ]], and TNF-α
+		- Results in a large release of IL-1, IL-2, [[Interferons and Tumor necrosis factor|IFN-γ]], and TNF-α
 - Enzymes
 	- DNase: destroys neutrophils → potentiates infection and transmission
 	- Streptokinase
