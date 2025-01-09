@@ -72,7 +72,7 @@ Butterfly rash as seen in [[systemic lupus erythematosus|systemic lupus erythema
 - Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, [[tuberculosis|tuberculosis]], [[Crohn disease|Crohn disease]], berylliosis)![[Pasted image 20231103144254.png|Pasted image 20231103144254.png]]
 ## Additional studies
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchoalveolar lavage (BAL):↑ CD4:CD8 ratio</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">CD4+ lymphocytes release [[Interferons|interferon]]-gamma and TNF-alpha to drive macrophage activation and [[Granulomatous inflammation|granuloma]] formation.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">CD4+ lymphocytes release [[Interferons and Tumor necrosis factor|interferon]]-gamma and TNF-alpha to drive macrophage activation and [[Granulomatous inflammation|granuloma]] formation.</span>
 
 ---
 # Treatment
