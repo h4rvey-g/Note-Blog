@@ -36,12 +36,16 @@ share: true
 
 # Clinical features
 ---
-<% tp.file.cursor() %>
+## Week 1
+- Body temperature rises gradually. 
+- <span style="background:rgba(240, 200, 0, 0.2)">Relative bradycardia (not seen in children)</span> 
+	- Physiologically, the heart rate increases in proportion to body temperature (for every degree Fahrenheit, the heart rate should increase ∼ 10 beats/min). In typhoid fever, this physiological response is typically reduced. Thus, <span style="background:rgba(240, 200, 0, 0.2)">the heart rate is only moderately increased despite a high fever</span>, which is known as relative bradycardia.
+- Constipation or diarrhea
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+
