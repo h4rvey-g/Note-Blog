@@ -11,12 +11,12 @@ share: true
 
 ---
 # Etiology
-- Possible autoimmune and infectious triggers (e.g., precipitating HSV or parvovirus infection)
-- Strong HLA-B51 association
+- Possible autoimmune and infectious triggers (e.g., precipitating [[Herpesviruses|HSV]] or [[Parvovirus B19|parvovirus]] infection)
+- Strong [[HLA system|HLA]]-B51 association
 
 ---
 # Pathophysiology
-- Autoimmune systemic <span style="background:rgba(240, 200, 0, 0.2)">vasculitis that can involve arteries and veins of all sizes</span>
+- Autoimmune systemic <span style="background:rgba(240, 200, 0, 0.2)">[[Vasculitides|vasculitis]] that can involve arteries and veins of all sizes</span>
 - Characterized by the deposition of immune complexes, proliferation of CD4+ T cells, and increased cytokines
 
 ---
@@ -26,15 +26,15 @@ share: true
 	- Usually last about 1–4 weeks
 - <span style="background:rgba(240, 200, 0, 0.2)">Recurrent genital ulcerations (60–90%)</span>
 - Ocular disease (50–80%) 
-	- Uveitis (iridocyclitis, chorioretinitis), keratitis, and/or retinal vasculitis
+	- Uveitis (iridocyclitis, chorioretinitis), [[keratitis|keratitis]], and/or retinal [[Vasculitides|vasculitis]]
 - Skin lesions (35–85%)
 	- [[Erythema nodosum|Erythema nodosum]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Positive pathergy skin test</span>: the appearance of an erythematous papule or pustule 48 hours after a 5 mm skin prick with a 20-gauge needle (usually on the forearm)
-		- The main reason is subcutaneous vasculitis and high sensitivity reaction of the skin.
+		- The main reason is subcutaneous [[Vasculitides|vasculitis]] and high sensitivity reaction of the skin.
 - Arthritis (30–70%)
 
 >[!Mnemonic] 
->PATHERGY: Positive pathergy test, Aphthous oral ulcers, Thrombosis (arterial and venous), Hemoptysis (pulmonary artery aneurysm), Eye lesions (uveitis, retinal vasculitis), Recurrent [[Genital ulcers|Genital ulcers]], Young at presentation (3rd decade)
+>PATHERGY: Positive pathergy test, Aphthous oral ulcers, Thrombosis (arterial and venous), Hemoptysis (pulmonary artery aneurysm), Eye lesions (uveitis, retinal [[Vasculitides|vasculitis]]), Recurrent [[Genital ulcers|Genital ulcers]], Young at presentation (3rd decade)
 
 
 ---
