@@ -16,7 +16,7 @@ share: true
 # Pathophysiology
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Tuberculoid leprosy</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Strong TH1-mediated response (interleukin IL-2, [[Interferons|IFN-γ]], and IL-12) in affected tissues, leading to the activation of macrophages that kill M leprae organisms, thereby limiting disease extent.  </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Strong TH1-mediated response (interleukin IL-2, [[Interferons and Tumor necrosis factor|IFN-γ]], and IL-12) in affected tissues, leading to the activation of macrophages that kill M leprae organisms, thereby limiting disease extent.  </span>
 	- However, this localized inflammation damages the skin and cutaneous nerves, leading to the development of a small number of hypopigmented, well-demarcated plaques with decreased sensation.
 - <span style="background:rgba(240, 200, 0, 0.2)">Lepromatous leprosy</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">More disseminated form of the disease</span> characterized by an innate inability to recognize and mount a cellular immune response against M leprae antigens.  
