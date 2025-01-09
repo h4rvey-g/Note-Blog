@@ -22,7 +22,7 @@ Hypogonadotropic hypogonadism is caused by an <span style="background:rgba(240, 
 - Genetic disorders
 	- [[Differences (disorders) of sex development|Kallmann syndrome]]
 	- Idiopathic hypogonadotropic hypogonadism (IHH): a genetic disorder characterized by a defect in GnRH production/action in the absence of anosmia
-	- [[Prader-Willi syndrome|Prader-Willi syndrome]]
+	- [[Prader-Willi syndrome and Angelman syndrome|Prader-Willi syndrome and Angelman syndrome]]
 	- [[Lysosomal Storage Diseases|Gaucher disease]]
 - Hypothalamic and/or pituitary lesions
 	- Neoplasm (e.g. [[Pituitary adenoma|prolactinoma]], craniopharyngioma, astrocytoma)
