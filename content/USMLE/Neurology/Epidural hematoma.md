@@ -17,9 +17,9 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Head injury (most common</span>; e.g., due to motor vehicle accidents, falls, assault)
 ## Source of hemorrhage
 - Arterial EDH
-	- Source: <span style="background:rgba(240, 200, 0, 0.2)">middle meningeal artery rupture or tear</span> (a branch of the maxillary artery and the most common source of hemorrhage in EDH)
+	- Source: <span style="background:rgba(240, 200, 0, 0.2)">middle meningeal artery rupture or tear</span> (a <span style="background:rgba(240, 200, 0, 0.2)">branch of the maxillary artery</span> and the most common source of hemorrhage in EDH)
 	- Sites of rupture 
-		- Pterion (most common): the thinnest part of the skull and a site at which the middle meningeal artery lies in close proximity to the skull
+		- <span style="background:rgba(240, 200, 0, 0.2)">Pterion (most common): the thinnest part of the skull and a site at which the middle meningeal artery lies in close proximity to the skull</span>
 
 # Pathophysiology
 ---
