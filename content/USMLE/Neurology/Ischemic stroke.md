@@ -114,10 +114,23 @@ Lateral pontine syndrome is <span style="background:rgba(240, 200, 0, 0.2)">simi
 	- ACA-MCA watershed region: proximal limb weakness with sparing of the face, hands, and feet (“man-in-the-barrel syndrome”)
 # Diagnostics
 ---
-## Pathology
-![[Pasted image 20231224092618.png|Pasted image 20231224092618.png]]
 
----
+## Pathology
+- **12-24 hours**
+    - _Microscopic_: Red neurons (eosinophilic cytoplasm, pyknotic nuclei, loss of Nissl substance)
+    - _Macroscopic_: No significant changes
+- **24-72 hours**
+    - _Microscopic_: Neutrophilic infiltration
+    - _Macroscopic_: No significant changes
+- **3-7 days**
+    - _Microscopic_: <span style="background:rgba(240, 200, 0, 0.2)">Macrophage/microglia infiltration & phagocytosis begins</span>![[L9439.jpg|L9439.jpg]]
+    - _Macroscopic_: No significant changes
+- **1-2 weeks**
+    - _Microscopic_: Reactive gliosis & vascular proliferation around the necrotic area
+    - _Macroscopic_: Liquefactive necrosis (continues 1 week-1 month)
+- **>2 weeks**
+    - _Microscopic_: Glial scar formation
+    - _Macroscopic_: Cystic area surrounded by dense glial fibers (develops after >1 month)
 # Treatment
 
 
