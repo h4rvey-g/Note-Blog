@@ -55,7 +55,7 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 - Cell count: WBC > 2000/μL with > 50% neutrophils
 ## Imaging
 - X-ray of the affected joint(s)
-	- Chondrocalcinosis: calcification of cartilage in the affected joints
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chondrocalcinosis: calcification of cartilage in the affected joints</span>![[paste-265768281309526.jpg|paste-265768281309526.jpg]]
 
 ---
 # Treatment
