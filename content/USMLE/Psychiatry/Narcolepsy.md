@@ -18,7 +18,7 @@ share: true
 	- Idiopathic
 ## Secondary narcolepsy
 - Cerebral damage (e.g., tumor, stroke, inflammation, vascular malformation)
-- Genetic syndromes (e.g., [[Lysosomal Storage Diseases|Niemann-Pick disease]] type C and [[Prader-Willi syndrome|Prader-Willi syndrome]])
+- Genetic syndromes (e.g., [[Lysosomal Storage Diseases|Niemann-Pick disease]] type C and [[Prader-Willi syndrome and Angelman syndrome|Prader-Willi syndrome and Angelman syndrome]])
 
 # Pathophysiology
 ---
@@ -32,7 +32,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cataplexy: sudden muscle weakness in a fully conscious person, triggered by strong emotions (e.g., laughing, crying)</span> 
 	- Sleep paralysis: Complete paralysis occurs for 1–2 minutes after waking or before falling asleep (either during a nocturnal or narcoleptic sleep episode, i.e., begins or ends with [[Sleep physiology|REM]] sleep)
 - Sleep hallucinations
-	- Hypnagogic hallucinations: vivid, often frightening visual or auditory hallucinations that occur as the patient falls asleep
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypnagogic hallucinations: vivid, often frightening visual or auditory hallucinations that occur as the patient falls asleep</span>
 	- Hypnopompic hallucinations: experienced while waking up (less common than hypnagogic hallucinations)
 
 # Diagnostics
