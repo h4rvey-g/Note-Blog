@@ -54,4 +54,5 @@ share: true
 
 # Treatment
 ---
-
+## Prevention
+Inactivated versions of the influenza vaccine stimulate the formation of neutralizing antibodies <span style="background:rgba(240, 200, 0, 0.2)">against the hemagglutinin antigen</span> of included strains.  Subsequent exposure to a strain of influenza included in the vaccine will not result in infection because the antibodies bind to hemagglutinin, thereby <span style="background:rgba(240, 200, 0, 0.2)">preventing hemagglutinin from attaching to the sialic acid receptor on host respiratory epithelial cells (preventing viral entry).</span>
