@@ -58,7 +58,7 @@ share: true
 | Duration of Action  | Short to long duration depending on the type                                                                                                                                    | Short to intermediate duration                                 |
 | Metabolism          | Metabolized by liver enzymes                                                                                                                                                    | Metabolized by liver enzymes                                   |
 | Indications         | Historically used as sedatives, <span style="background:rgba(240, 200, 0, 0.2)">[[Inhalational anesthetics\|anesthetics]]</span>, and [[Anticonvulsant drugs\|anticonvulsants]] | Primarily used as anxiolytics, sedatives, and muscle relaxants |
-| Withdrawal          | Severe withdrawal symptoms, including [[Seizures and epilepsy\|seizures]]                                                                                                                                  | Generally milder withdrawal symptoms                           |
+| Withdrawal          | Severe withdrawal symptoms, including [[Seizures and epilepsy\|seizures]]                                                                                                       | Generally milder withdrawal symptoms                           |
 | Risk of Dependence  | High risk of physical and psychological dependence                                                                                                                              | Lower risk of physical and psychological dependence            |
 | Examples            | Phenobarbital, Pentobarbital, Secobarbital, <span style="background:rgba(240, 200, 0, 0.2)">Primidone: [[essential tremor|essential tremor]]</span>                                              | Diazepam, Alprazolam, Lorazepam, Clonazepam                    |
 
@@ -73,3 +73,24 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Similar to benzodiazepines</span>
 - Selectivity for GABA<sub>A</sub> receptors with α1 subunits (corresponding to the BZ1 subtype)
 - Short-acting due to fast metabolization by liver enzymes
+
+# Melatonin agonists
+---
+## Agents
+- <span style="background:rgba(240, 200, 0, 0.2)">Ramelteon</span>
+- Tasimelteon
+- Agomelatine
+
+>[!Mnemonic] 
+>Ra<font color="#ffc000">mel</font>teon, tasi<font color="#ffc000">mel</font>teon, and ago<font color="#ffc000">mel</font>atine are <font color="#ffc000">melatonin</font> receptor agonists.
+## Mechanism of action
+- Activation of MT1 and MT2 receptors in <span style="background:rgba(240, 200, 0, 0.2)">suprachiasmatic nuclei of the hypothalamus</span> → quicker sleep onset
+- <span style="background:rgba(240, 200, 0, 0.2)">Do not cause dependence</span>
+## Indications
+- <span style="background:rgba(240, 200, 0, 0.2)">Insomnia, especially in older adults</span>
+	- Because of its <span style="background:rgba(240, 200, 0, 0.2)">low risk of adverse effects</span>, rameleton is a preferred option in older patients, who are particularly sensitive to the adverse reactions of sedative pharmacotherapy.
+## Adverse effects
+- Headache
+- Dizziness
+- Fatigue
+- Nausea
