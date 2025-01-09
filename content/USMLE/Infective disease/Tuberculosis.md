@@ -69,9 +69,9 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">False negatives</span> are possible in patients with any of the following:
 		- [[Sarcoidosis|Sarcoidosis]] 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Immunosuppressed state (anergy)</span>
-- [[Interferons|Interferon]]-γ release assay (IGRA)
+- [[Interferons and Tumor necrosis factor|Interferon]]-γ release assay (IGRA)
 	- Mechanism
-		- Tests cell-mediated immunity against <span style="background:rgba(240, 200, 0, 0.2)">M. tuberculosis-specific antigens by measuring the amount of [[Interferons|IFN-γ]] released by T cells</span> using ELISA![[Pasted image 20241106173104.png|Pasted image 20241106173104.png]]
+		- Tests cell-mediated immunity against <span style="background:rgba(240, 200, 0, 0.2)">M. tuberculosis-specific antigens by measuring the amount of [[Interferons and Tumor necrosis factor|IFN-γ]] released by T cells</span> using ELISA![[Pasted image 20241106173104.png|Pasted image 20241106173104.png]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Preferred test in individuals with prior BCG vaccination</span>
 		- Uses antigens that are found only in _Mycobacterium tuberculosis_, but not in BCG
 

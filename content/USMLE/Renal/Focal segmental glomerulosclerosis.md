@@ -16,7 +16,7 @@ share: true
 - [[Human immunodeficiency virus|HIV]] infection
 - [[Sickle cell disease|Sickle cell disease]]
 - Massive obesity
-- [[Interferons|Interferon]] treatment
+- [[Interferons and Tumor necrosis factor|Interferon]] treatment
 - Congenital malformations (e.g., Charcot-Marie-Tooth syndrome)
 
 ---

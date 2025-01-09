@@ -27,3 +27,5 @@ share: true
 	- Truncus arteriosus
 	- Interrupted aortic arch
 	- Ventricular septal defects
+- [[Friedreich ataxia|Friedreich ataxia]]
+	- Concentric <span style="background:rgba(240, 200, 0, 0.2)">[[hypertrophic cardiomyopathy|hypertrophic cardiomyopathy]]</span>

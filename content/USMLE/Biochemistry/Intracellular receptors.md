@@ -5,7 +5,7 @@ modified: 2024-04-04 21:29
 aliases: []
 share: true
 ---
-- Examples of ligands (lipid-soluble)
+- Examples of ligands (<span style="background:rgba(240, 200, 0, 0.2)">lipid-soluble, therefore can bypass cell membrane</span>)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hormones related to cortisol</span>
 		- Cortisol
 		- Aldosterone

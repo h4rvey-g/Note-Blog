@@ -41,7 +41,9 @@ share: true
 - Epidemiology: causes ∼ 85% of intrinsic AKIs
 - Location![[L43195.jpg|L43195.jpg]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">The straight segment of the proximal tubule and the straight segment of the distal tubule (i.e., the thick ascending limb) are particularly susceptible to ischemic damage.</span> 
-		- They are in medulla and they have high metabolic activity.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Blood flow in the renal medulla is relatively low</span> compared to that in the renal cortex.
+			- Facilitates the development of an osmolality gradient that allows for effective urine concentration
+			- Causes medullary <span style="background:rgba(240, 200, 0, 0.2)">vulnerability to hypoxia</span> when renal blood flow is decreased (renal ischemia)
 	- The convoluted segment of the proximal tubule is particularly susceptible to damage from toxins.
 		- First encounters toxins
 - Etiology

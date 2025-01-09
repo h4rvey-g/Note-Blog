@@ -13,7 +13,16 @@ share: true
 
 # Etiology
 ---
-
+- Traumatic
+	- Crush injury
+	- Direct injury
+- Nontraumatic
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Seizures and epilepsy|Seizures]]</span>
+	- Overexertion (e.g., strenuous exercise)
+	- Intoxication (e.g., cocaine, heroin, amphetamines, [[MDMA|MDMA]], alcohol, carbon monoxide, phencyclidine)
+	- Skeletal muscle ischemia
+	- Infection
+	- [[Adverse drug reactions|Adverse drug reactions]] (e.g., neuroleptics, [[Lipid-lowering agents|statins]])
 
 # Pathophysiology
 ---

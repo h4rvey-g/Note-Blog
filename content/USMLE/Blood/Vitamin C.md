@@ -5,6 +5,7 @@ modified: 2023-09-01 21:58
 aliases:
   - Scurvy
   - Ascorbic acid
+  - Ascorbate
 share: true
 ---
 # Epidemiology

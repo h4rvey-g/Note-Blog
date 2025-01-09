@@ -82,7 +82,7 @@ share: true
 		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
 		- Sofosbuvir PLUS velpatasvir (all 6 genotypes)
 		- Ledipasvir PLUS sofosbuvir (genotypes 1, 4, 5, and 6)
-- [[Interferons|Interferon]] PLUS ribavirin
+- [[Interferons and Tumor necrosis factor|Interferon]] PLUS ribavirin
 	- Was the preferred treatment before the development of DAAs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with severe adverse effects</span> (e.g., arthralgias, thrombocytopenia, leukopenia, depression, anemia) and teratogenicity
 	- Contraindicated in patients with decompensated [[cirrhosis|cirrhosis]] (high risk of worsening [[cirrhosis|cirrhosis]] decompensation)
@@ -95,6 +95,6 @@ share: true
 			- Highly [[Teratogenesis|teratogenic]]
 
 >[!tip] 
->DAAs have superior efficacy and safety profiles compared with [[Interferons|interferon]] or ribavirin-based regimens and are thus preferred.
+>DAAs have superior efficacy and safety profiles compared with [[Interferons and Tumor necrosis factor|interferon]] or ribavirin-based regimens and are thus preferred.
 
 ---

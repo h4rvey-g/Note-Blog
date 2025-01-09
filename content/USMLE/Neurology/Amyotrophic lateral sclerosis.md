@@ -18,7 +18,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 # Pathophysiology
 - Classically affects the entire motor neuron system at two or more levels (both upper and lower motor neuron degeneration).
 	- Upper motor neurons in the precentral gyrus and, frequently, prefrontal cortex
-	- Lower motor neurons in the anterior horn of the spinal cord and brainstem
+	- Lower motor neurons in the anterior horn of the [[Neuroloy physioloy|spinal cord]] and brainstem
 - Pathology
 	- <span style="background:rgba(240, 200, 0, 0.2)">UMN: degeneration & atrophy of lateral corticospinal tracts, precentral gyrus</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">LMN: degeneration of anterior horn (thin anterior roots) & cranial nerve motor nuclei</span>
@@ -36,12 +36,12 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - [[Bulbar palsy|Pseudobulbar palsy]] with pseudobulbar affect may develop.
 - Fasciculations, cramps, and muscle stiffness
 - Weight loss
-- Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the spinal cord
+- Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the [[Neuroloy physioloy|spinal cord]]
 ## Late symptoms
 - Cognitive impairment (approx. 15% of ALS patients meet the criteria for [[frontotemporal dementia|frontotemporal dementia]])
 - Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. 
 - Life-threatening symptoms
-	- Respiratory failure due to paralysis of respiratory muscles
+	- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory failure due to paralysis of respiratory muscles</span>
 	- Dysphagia due to bulbar weakness or [[Bulbar palsy|pseudobulbar palsy]]
 
 ---
