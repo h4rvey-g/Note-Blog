@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-10-12 11:34
 modified: 2023-10-12 11:34
-aliases: []
+aliases:
+  - Statins
 share: true
 ---
 See also [[Lipid transport|Lipid transport]]
