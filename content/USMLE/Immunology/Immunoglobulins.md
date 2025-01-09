@@ -34,3 +34,5 @@ share: true
 	- Activation of signaling pathways in the effector cell (e.g., NK cell), leading to cytotoxic granule release
 	- Destruction of the target cell (e.g., via the perforin/granzyme cell death pathway)
 - <span style="background:rgba(240, 200, 0, 0.2)">Clinical significance: monoclonal antibody therapy</span>
+
+
